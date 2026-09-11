@@ -1,0 +1,4 @@
+/* Default stack is h+base only (one face per digraph). Pin edenia yi t/q/qv/qh for those modes. */
+:root {
+  --font-edenia-yi: 'edenia yi h', 'edenia yi';
+}

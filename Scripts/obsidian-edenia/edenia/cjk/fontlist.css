@@ -1,0 +1,12 @@
+/* src/scss/index.scss — Edenia CJK pigeonhole font stack */
+/* Base family only. Digraphs: 'edenia cjk h'. */
+body {
+  --font-editor-theme: '';
+  --font-editor: var(--font-editor-theme), var(--font-text);
+  --font-text-theme:
+    Caesium, Cascadia, Cascadia Code, Nexsevka, JuliaMono, 'edenia cjk', "edenia hanguls", "edenia hangul", "edenia kana q", "edenia kana qv", "edenia kana qh", "edenia kana t", "edenia kana h", "edenia kana", "edenia yi q", "edenia yi qv", "edenia yi qh", "edenia yi t", "edenia yi h", "edenia yi", "FlopDesignFont", "MKanaPlus", "Plangothic P1", "Plangothic P2", monospace;
+  --font-interface-theme:
+    Caesium, Cascadia, Cascadia Code, Nexsevka, JuliaMono, 'edenia cjk', "edenia hanguls", "edenia hangul", "edenia kana q", "edenia kana qv", "edenia kana qh", "edenia kana t", "edenia kana h", "edenia kana", "edenia yi q", "edenia yi qv", "edenia yi qh", "edenia yi t", "edenia yi h", "edenia yi", "FlopDesignFont", "MKanaPlus", "Plangothic P1", "Plangothic P2", monospace;
+  --font-monospace-theme:
+    Caesium, Cascadia, Cascadia Code, Nexsevka, JuliaMono, 'edenia cjk', "edenia hanguls", "edenia hangul", "edenia kana q", "edenia kana qv", "edenia kana qh", "edenia kana t", "edenia kana h", "edenia kana", "edenia yi q", "edenia yi qv", "edenia yi qh", "edenia yi t", "edenia yi h", "edenia yi", "FlopDesignFont", "MKanaPlus", "Plangothic P1", "Plangothic P2", monospace;
+}
