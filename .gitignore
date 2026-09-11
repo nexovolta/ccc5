@@ -220,9 +220,11 @@ __marimo__/
 # Leaf directories whose contents exceed 100MB
 Scripts/data/
 Scripts/dump/
+# Built fonts + Obsidian plugin sync tree (too large for git)
 Scripts/dist/
+Scripts/obsidian-edenia/
+Scripts/edenia_web/
 
-# Python cache files
 *.pyc
 **/__pycache__/
 **/private/
