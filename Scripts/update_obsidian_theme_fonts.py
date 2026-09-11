@@ -24,10 +24,10 @@ Usage:
 
 Markers (inserted on first run if missing):
 
-    /* === BEGIN auto pan fonts (update_obsidian_theme_fonts.py) === */
-    /* === END auto pan fonts === */
-    /* === BEGIN auto pan font stack (update_obsidian_theme_fonts.py) === */
-    /* === END auto pan font stack === */
+    /* === BEGIN auto edenia fonts (update_obsidian_theme_fonts.py) === */
+    /* === END auto edenia fonts === */
+    /* === BEGIN auto edenia font stack (update_obsidian_theme_fonts.py) === */
+    /* === END auto edenia font stack === */
 """
 
 from __future__ import annotations
@@ -41,7 +41,7 @@ import urllib.error
 import urllib.request
 from pathlib import Path
 
-from cdn_fonts import dist_rel, format_src_line, remote_urls
+from cdn_fonts import REF, dist_rel, format_src_line, remote_urls
 from edenia_names import (
     CSS_CJK,
     CSS_HANGUL,
@@ -88,21 +88,21 @@ LOCAL_CSS = {
 
 _ANY_NEXOVOLTA_DIST = re.compile(
     r"https://(?:"
-    r"raw\.githubusercontent\.com/nexovolta/fonts/[^/]+|"
-    r"cdn\.statically\.io/gh/nexovolta/fonts(?:@main|/main)|"
-    r"(?:cdn|fastly|gcore)\.jsdelivr\.net/gh/nexovolta/fonts@[^/]+"
+    r"raw\.githubusercontent\.com/nexovolta/ccc5/[^/]+|"
+    r"cdn\.statically\.io/gh/nexovolta/ccc5(?:@[^/]+|/[^/]+)|"
+    r"(?:cdn|fastly|gcore)\.jsdelivr\.net/gh/nexovolta/ccc5@[^/]+"
     r")/"
     r"Scripts/dist/",
     re.I,
 )
 _EDENIA_CJK_FAMILY = re.compile(r"font-family:\s*['\"](edenia cjk(?:\s+h)?)['\"]")
 
-MARK_FACES_BEGIN = "/* === BEGIN auto pan fonts (update_obsidian_theme_fonts.py) === */"
-MARK_FACES_END = "/* === END auto pan fonts === */"
+MARK_FACES_BEGIN = "/* === BEGIN auto edenia fonts (update_obsidian_theme_fonts.py) === */"
+MARK_FACES_END = "/* === END auto edenia fonts === */"
 MARK_STACK_BEGIN = (
-    "/* === BEGIN auto pan font stack (update_obsidian_theme_fonts.py) === */"
+    "/* === BEGIN auto edenia font stack (update_obsidian_theme_fonts.py) === */"
 )
-MARK_STACK_END = "/* === END auto pan font stack === */"
+MARK_STACK_END = "/* === END auto edenia font stack === */"
 
 STACK_LATIN = "Caesium, Cascadia, Nexsevka, Cascadia Code, JuliaMono"
 STACK_TAIL = "monospace"
@@ -119,7 +119,7 @@ def fetch_text(url: str, timeout: float = 60.0) -> str:
 def to_cdn_url(url: str) -> str:
     """Normalize any known mirror URL to GitHub raw (primary)."""
     return _ANY_NEXOVOLTA_DIST.sub(
-        "https://raw.githubusercontent.com/nexovolta/fonts/main/Scripts/dist/",
+        f"https://raw.githubusercontent.com/nexovolta/ccc5/{REF}/Scripts/dist/",
         url,
     )
 
@@ -201,9 +201,7 @@ def edenia_cjk_families_from_css(css: str) -> list[str]:
 
 
 def css_family_token(name: str) -> str:
-    """Quote family names that contain spaces."""
-    if re.search(r"[\s,]", name):
-        return f'"{name}"'
+    """Family name as written in a CSS font stack (unquoted)."""
     return name
 
 
@@ -412,9 +410,9 @@ def collect_faces(css: str, *, folder: str) -> list[dict]:
 def build_stack_block(*, edenia_cjk_families: list[str]) -> str:
     if not edenia_cjk_families:
         raise ValueError("no edenia cjk families found in CSS")
-    kana = ", ".join(f'"{family_kana_variant(v)}"' for v in SEGMENT_FACE_STACK_ORDER)
-    yi = ", ".join(f'"{family_yi_variant(v)}"' for v in SEGMENT_FACE_STACK_ORDER)
-    scripts = f'"{FAMILY_HANGULS}", "{FAMILY_HANGUL}", {kana}, {yi}'
+    kana = ", ".join(family_kana_variant(v) for v in SEGMENT_FACE_STACK_ORDER)
+    yi = ", ".join(family_yi_variant(v) for v in SEGMENT_FACE_STACK_ORDER)
+    scripts = f"{FAMILY_HANGULS}, {FAMILY_HANGUL}, {kana}, {yi}"
     cjk = ", ".join(css_family_token(n) for n in edenia_cjk_families)
     fallbacks = "FlopDesignFont, MKanaPlus, Plangothic P1, Plangothic P2"
     stack = f"{STACK_LATIN}, {scripts}, {cjk}, {fallbacks}, {STACK_TAIL}"
@@ -1123,7 +1121,7 @@ def _replace_legacy_stack(text: str, new_block: str) -> str:
     collapsed = re.sub(r",\s*,", ", ", collapsed)
     if collapsed != text:
         return collapsed
-    raise RuntimeError("could not find pan font stack body block in theme")
+    raise RuntimeError("could not find edenia font stack body block in theme")
 
 
 def patch_theme(theme_path: Path, faces: str, stack: str) -> None:
@@ -1139,7 +1137,9 @@ def patch_theme(theme_path: Path, faces: str, stack: str) -> None:
         text = _replace_legacy_stack(text, stack)
 
     theme_path.write_text(text, encoding="utf-8")
-    n_unique = len(set(re.findall(r'["\']edenia cjk(?:\s+h)?["\']', text)))
+    n_unique = len(
+        set(re.findall(r"""["']?edenia cjk(?:\s+h)?["']?""", text))
+    )
     size_mb = theme_path.stat().st_size / (1024 * 1024)
     print(f"Wrote {theme_path} (edenia cjk families~{n_unique}, {size_mb:.1f} MiB)")
 
@@ -1189,7 +1189,7 @@ def main(argv: list[str] | None = None) -> int:
     if args.also_private:
         themes.append(SCRIPT_DIR / "private" / "theme.css")
     # With --vault, also patch installed Obsidian themes that already carry
-    # the auto pan markers (Sanctum / Origami / …).
+    # the auto edenia markers (Sanctum / Origami / …).
     if args.vault:
         themes_dir = Path(args.vault) / ".obsidian" / "themes"
         if themes_dir.is_dir():

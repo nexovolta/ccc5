@@ -65,15 +65,15 @@ SOFTWARE.
 @font-face {
   font-family: Nexsevka;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/Nexsevka/TTF/Nexsevka-Regular.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/Nexsevka/TTF/Nexsevka-Regular.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/Nexsevka/TTF/Nexsevka-Regular.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/Nexsevka/TTF/Nexsevka-Regular.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/Nexsevka/TTF/Nexsevka-Regular.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/Nexsevka/TTF/Nexsevka-Regular.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/Nexsevka/TTF/Nexsevka-Regular.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/Nexsevka/TTF/Nexsevka-Regular.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/Nexsevka/TTF/Nexsevka-Regular.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/Nexsevka/TTF/Nexsevka-Regular.ttf")
       format("truetype");
   font-weight: normal;
   font-style: normal;
@@ -82,15 +82,15 @@ SOFTWARE.
 @font-face {
   font-family: Nexsevka;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/Nexsevka/TTF/Nexsevka-Italic.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/Nexsevka/TTF/Nexsevka-Italic.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/Nexsevka/TTF/Nexsevka-Italic.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/Nexsevka/TTF/Nexsevka-Italic.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/Nexsevka/TTF/Nexsevka-Italic.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/Nexsevka/TTF/Nexsevka-Italic.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/Nexsevka/TTF/Nexsevka-Italic.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/Nexsevka/TTF/Nexsevka-Italic.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/Nexsevka/TTF/Nexsevka-Italic.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/Nexsevka/TTF/Nexsevka-Italic.ttf")
       format("truetype");
   font-weight: normal;
   font-style: italic;
@@ -100,15 +100,15 @@ SOFTWARE.
 @font-face {
   font-family: Nexsevka;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/Nexsevka/TTF/Nexsevka-Bold.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/Nexsevka/TTF/Nexsevka-Bold.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/Nexsevka/TTF/Nexsevka-Bold.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/Nexsevka/TTF/Nexsevka-Bold.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/Nexsevka/TTF/Nexsevka-Bold.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/Nexsevka/TTF/Nexsevka-Bold.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/Nexsevka/TTF/Nexsevka-Bold.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/Nexsevka/TTF/Nexsevka-Bold.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/Nexsevka/TTF/Nexsevka-Bold.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/Nexsevka/TTF/Nexsevka-Bold.ttf")
       format("truetype");
   font-weight: bold;
   font-style: normal;
@@ -117,15 +117,15 @@ SOFTWARE.
 @font-face {
   font-family: Nexsevka;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/Nexsevka/TTF/Nexsevka-BoldItalic.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/Nexsevka/TTF/Nexsevka-BoldItalic.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/Nexsevka/TTF/Nexsevka-BoldItalic.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/Nexsevka/TTF/Nexsevka-BoldItalic.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/Nexsevka/TTF/Nexsevka-BoldItalic.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/Nexsevka/TTF/Nexsevka-BoldItalic.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/Nexsevka/TTF/Nexsevka-BoldItalic.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/Nexsevka/TTF/Nexsevka-BoldItalic.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/Nexsevka/TTF/Nexsevka-BoldItalic.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/Nexsevka/TTF/Nexsevka-BoldItalic.ttf")
       format("truetype");
   font-weight: bold;
   font-style: italic;
@@ -137,15 +137,15 @@ SOFTWARE.
 @font-face {
   font-family: NexsevkaPropo;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/NexsevkaPropo/TTF/NexsevkaPropo-Regular.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/NexsevkaPropo/TTF/NexsevkaPropo-Regular.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/NexsevkaPropo/TTF/NexsevkaPropo-Regular.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/NexsevkaPropo/TTF/NexsevkaPropo-Regular.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/NexsevkaPropo/TTF/NexsevkaPropo-Regular.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/NexsevkaPropo/TTF/NexsevkaPropo-Regular.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/NexsevkaPropo/TTF/NexsevkaPropo-Regular.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/NexsevkaPropo/TTF/NexsevkaPropo-Regular.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/NexsevkaPropo/TTF/NexsevkaPropo-Regular.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/NexsevkaPropo/TTF/NexsevkaPropo-Regular.ttf")
       format("truetype");
   font-weight: normal;
   font-style: normal;
@@ -154,15 +154,15 @@ SOFTWARE.
 @font-face {
   font-family: NexsevkaPropo;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/NexsevkaPropo/TTF/NexsevkaPropo-Italic.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/NexsevkaPropo/TTF/NexsevkaPropo-Italic.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/NexsevkaPropo/TTF/NexsevkaPropo-Italic.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/NexsevkaPropo/TTF/NexsevkaPropo-Italic.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/NexsevkaPropo/TTF/NexsevkaPropo-Italic.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/NexsevkaPropo/TTF/NexsevkaPropo-Italic.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/NexsevkaPropo/TTF/NexsevkaPropo-Italic.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/NexsevkaPropo/TTF/NexsevkaPropo-Italic.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/NexsevkaPropo/TTF/NexsevkaPropo-Italic.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/NexsevkaPropo/TTF/NexsevkaPropo-Italic.ttf")
       format("truetype");
   font-weight: normal;
   font-style: italic;
@@ -171,15 +171,15 @@ SOFTWARE.
 @font-face {
   font-family: NexsevkaPropo;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/NexsevkaPropo/TTF/NexsevkaPropo-Bold.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/NexsevkaPropo/TTF/NexsevkaPropo-Bold.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/NexsevkaPropo/TTF/NexsevkaPropo-Bold.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/NexsevkaPropo/TTF/NexsevkaPropo-Bold.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/NexsevkaPropo/TTF/NexsevkaPropo-Bold.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/NexsevkaPropo/TTF/NexsevkaPropo-Bold.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/NexsevkaPropo/TTF/NexsevkaPropo-Bold.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/NexsevkaPropo/TTF/NexsevkaPropo-Bold.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/NexsevkaPropo/TTF/NexsevkaPropo-Bold.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/NexsevkaPropo/TTF/NexsevkaPropo-Bold.ttf")
       format("truetype");
   font-weight: bold;
   font-style: normal;
@@ -188,15 +188,15 @@ SOFTWARE.
 @font-face {
   font-family: NexsevkaPropo;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/NexsevkaPropo/TTF/NexsevkaPropo-BoldItalic.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/NexsevkaPropo/TTF/NexsevkaPropo-BoldItalic.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/NexsevkaPropo/TTF/NexsevkaPropo-BoldItalic.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/NexsevkaPropo/TTF/NexsevkaPropo-BoldItalic.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/NexsevkaPropo/TTF/NexsevkaPropo-BoldItalic.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/NexsevkaPropo/TTF/NexsevkaPropo-BoldItalic.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/NexsevkaPropo/TTF/NexsevkaPropo-BoldItalic.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/NexsevkaPropo/TTF/NexsevkaPropo-BoldItalic.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/NexsevkaPropo/TTF/NexsevkaPropo-BoldItalic.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/NexsevkaPropo/TTF/NexsevkaPropo-BoldItalic.ttf")
       format("truetype");
   font-weight: bold;
   font-style: italic;
@@ -462,15 +462,15 @@ SOFTWARE.
 @font-face {
   font-family: Cascadia;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/Cascadia/static/CascadiaCode-Bold.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/Cascadia/static/CascadiaCode-Bold.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/Cascadia/static/CascadiaCode-Bold.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/Cascadia/static/CascadiaCode-Bold.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/Cascadia/static/CascadiaCode-Bold.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/Cascadia/static/CascadiaCode-Bold.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/Cascadia/static/CascadiaCode-Bold.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/Cascadia/static/CascadiaCode-Bold.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/Cascadia/static/CascadiaCode-Bold.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/Cascadia/static/CascadiaCode-Bold.ttf")
       format("truetype");
   font-weight: bold;
   font-style: normal;
@@ -511,15 +511,15 @@ SOFTWARE.
 @font-face {
   font-family: Cascadia;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/Cascadia/old/static/CascadiaCodeItalic-BoldItalic.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/Cascadia/old/static/CascadiaCodeItalic-BoldItalic.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/Cascadia/old/static/CascadiaCodeItalic-BoldItalic.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/Cascadia/old/static/CascadiaCodeItalic-BoldItalic.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/Cascadia/old/static/CascadiaCodeItalic-BoldItalic.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/Cascadia/old/static/CascadiaCodeItalic-BoldItalic.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/Cascadia/old/static/CascadiaCodeItalic-BoldItalic.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/Cascadia/old/static/CascadiaCodeItalic-BoldItalic.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/Cascadia/old/static/CascadiaCodeItalic-BoldItalic.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/Cascadia/old/static/CascadiaCodeItalic-BoldItalic.ttf")
       format("truetype");
   font-weight: bold;
   font-style: italic;
@@ -560,15 +560,15 @@ SOFTWARE.
 @font-face {
   font-family: Cascadia;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/Cascadia/Cascadia.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/Cascadia/Cascadia.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/Cascadia/Cascadia.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/Cascadia/Cascadia.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/Cascadia/Cascadia.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/Cascadia/Cascadia.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/Cascadia/Cascadia.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/Cascadia/Cascadia.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/Cascadia/Cascadia.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/Cascadia/Cascadia.ttf")
       format("truetype");
   font-style: normal;
   font-weight: normal;
@@ -609,15 +609,15 @@ SOFTWARE.
 @font-face {
   font-family: Cascadia;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/Cascadia/old/static/CascadiaCodeItalic-Italic.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/Cascadia/old/static/CascadiaCodeItalic-Italic.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/Cascadia/old/static/CascadiaCodeItalic-Italic.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/Cascadia/old/static/CascadiaCodeItalic-Italic.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/Cascadia/old/static/CascadiaCodeItalic-Italic.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/Cascadia/old/static/CascadiaCodeItalic-Italic.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/Cascadia/old/static/CascadiaCodeItalic-Italic.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/Cascadia/old/static/CascadiaCodeItalic-Italic.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/Cascadia/old/static/CascadiaCodeItalic-Italic.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/Cascadia/old/static/CascadiaCodeItalic-Italic.ttf")
       format("truetype");
   font-weight: normal;
   font-style: italic;
@@ -658,15 +658,15 @@ SOFTWARE.
 @font-face {
   font-family: Cascadia Code;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/Cascadia/static/CascadiaCodePL-Bold.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/Cascadia/static/CascadiaCodePL-Bold.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/Cascadia/static/CascadiaCodePL-Bold.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/Cascadia/static/CascadiaCodePL-Bold.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/Cascadia/static/CascadiaCodePL-Bold.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/Cascadia/static/CascadiaCodePL-Bold.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/Cascadia/static/CascadiaCodePL-Bold.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/Cascadia/static/CascadiaCodePL-Bold.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/Cascadia/static/CascadiaCodePL-Bold.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/Cascadia/static/CascadiaCodePL-Bold.ttf")
       format("truetype");
   font-weight: bold;
   font-style: normal;
@@ -676,15 +676,15 @@ SOFTWARE.
 @font-face {
   font-family: Cascadia Code;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/Cascadia/static/CascadiaCodePL-BoldItalic.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/Cascadia/static/CascadiaCodePL-BoldItalic.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/Cascadia/static/CascadiaCodePL-BoldItalic.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/Cascadia/static/CascadiaCodePL-BoldItalic.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/Cascadia/static/CascadiaCodePL-BoldItalic.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/Cascadia/static/CascadiaCodePL-BoldItalic.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/Cascadia/static/CascadiaCodePL-BoldItalic.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/Cascadia/static/CascadiaCodePL-BoldItalic.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/Cascadia/static/CascadiaCodePL-BoldItalic.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/Cascadia/static/CascadiaCodePL-BoldItalic.ttf")
       format("truetype");
   font-weight: bold;
   font-style: italic;
@@ -694,15 +694,15 @@ SOFTWARE.
 @font-face {
   font-family: Cascadia Code;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/Cascadia/static/CascadiaCodePL-Regular.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/Cascadia/static/CascadiaCodePL-Regular.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/Cascadia/static/CascadiaCodePL-Regular.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/Cascadia/static/CascadiaCodePL-Regular.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/Cascadia/static/CascadiaCodePL-Regular.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/Cascadia/static/CascadiaCodePL-Regular.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/Cascadia/static/CascadiaCodePL-Regular.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/Cascadia/static/CascadiaCodePL-Regular.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/Cascadia/static/CascadiaCodePL-Regular.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/Cascadia/static/CascadiaCodePL-Regular.ttf")
       format("truetype");
   font-style: normal;
   font-weight: normal;
@@ -712,15 +712,15 @@ SOFTWARE.
 @font-face {
   font-family: Cascadia Code;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/Cascadia/static/CascadiaCodePL-Italic.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/Cascadia/static/CascadiaCodePL-Italic.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/Cascadia/static/CascadiaCodePL-Italic.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/Cascadia/static/CascadiaCodePL-Italic.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/Cascadia/static/CascadiaCodePL-Italic.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/Cascadia/static/CascadiaCodePL-Italic.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/Cascadia/static/CascadiaCodePL-Italic.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/Cascadia/static/CascadiaCodePL-Italic.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/Cascadia/static/CascadiaCodePL-Italic.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/Cascadia/static/CascadiaCodePL-Italic.ttf")
       format("truetype");
   font-weight: normal;
   font-style: italic;
@@ -920,15 +920,15 @@ SOFTWARE.
 @font-face {
   font-family: BabelStone Roman;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/BabelStoneRoman.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/BabelStoneRoman.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/BabelStoneRoman.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/BabelStoneRoman.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/BabelStoneRoman.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/BabelStoneRoman.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/BabelStoneRoman.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/BabelStoneRoman.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/BabelStoneRoman.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/BabelStoneRoman.ttf")
       format("truetype");
   font-weight: normal;
 }
@@ -936,15 +936,15 @@ SOFTWARE.
 @font-face {
   font-family: Droid Sans Fallback;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/DroidSansFallbackFull.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/DroidSansFallbackFull.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/DroidSansFallbackFull.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/DroidSansFallbackFull.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/DroidSansFallbackFull.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/DroidSansFallbackFull.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/DroidSansFallbackFull.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/DroidSansFallbackFull.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/DroidSansFallbackFull.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/DroidSansFallbackFull.ttf")
       format("truetype");
   font-weight: normal;
   unicode-range: U+3400-4DBF, U+4E00-9FFF, U+F900-FAFF;
@@ -953,15 +953,15 @@ SOFTWARE.
 @font-face {
   font-family: Droid Sans Japanese;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/DroidSansJP.otf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/DroidSansJP.otf")
       format("opentype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/DroidSansJP.otf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/DroidSansJP.otf")
       format("opentype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/DroidSansJP.otf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/DroidSansJP.otf")
       format("opentype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/DroidSansJP.otf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/DroidSansJP.otf")
       format("opentype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/DroidSansJP.otf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/DroidSansJP.otf")
       format("opentype");
   font-weight: normal;
   unicode-range: U+3400-4DBF, U+4E00-9FFF, U+F900-FAFF;
@@ -970,15 +970,15 @@ SOFTWARE.
 @font-face {
   font-family: Arial Unicode MS;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/arial unicode ms.otf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/arial unicode ms.otf")
       format("opentype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/arial unicode ms.otf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/arial unicode ms.otf")
       format("opentype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/arial unicode ms.otf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/arial unicode ms.otf")
       format("opentype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/arial unicode ms.otf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/arial unicode ms.otf")
       format("opentype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/arial unicode ms.otf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/arial unicode ms.otf")
       format("opentype");
   font-weight: normal;
   unicode-range: U+4E00-9FFF, U+AC00-D7AF;
@@ -987,15 +987,15 @@ SOFTWARE.
 @font-face {
   font-family: MKanaPlus;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/mkanaplus.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/mkanaplus.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/mkanaplus.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/mkanaplus.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/mkanaplus.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/mkanaplus.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/mkanaplus.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/mkanaplus.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/mkanaplus.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/mkanaplus.ttf")
       format("truetype");
   font-weight: normal;
   unicode-range: U+0-2189, U+2190-309F, U+30A1-31FF, U+F900-3FFFF;
@@ -1004,15 +1004,15 @@ SOFTWARE.
 @font-face {
   font-family: MgenKanaPlus;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/mgenkanaplus.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/mgenkanaplus.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/mgenkanaplus.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/mgenkanaplus.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/mgenkanaplus.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/mgenkanaplus.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/mgenkanaplus.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/mgenkanaplus.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/mgenkanaplus.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/mgenkanaplus.ttf")
       format("truetype");
   font-weight: normal;
   unicode-range: U+0-2189, U+2190-309F, U+30A1-31FF, U+F900-3FFFF;
@@ -1021,15 +1021,15 @@ SOFTWARE.
 @font-face {
   font-family: RictyShinKana;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/RictyShinKana.woff2")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/RictyShinKana.woff2")
       format("woff2"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/RictyShinKana.woff2")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/RictyShinKana.woff2")
       format("woff2"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/RictyShinKana.woff2")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/RictyShinKana.woff2")
       format("woff2"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/RictyShinKana.woff2")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/RictyShinKana.woff2")
       format("woff2"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/RictyShinKana.woff2")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/RictyShinKana.woff2")
       format("woff2");
   font-weight: normal;
   unicode-range: U+0-2189, U+2190-309F, U+30A1-31FF, U+F900-3FFFF;
@@ -1038,15 +1038,15 @@ SOFTWARE.
 @font-face {
   font-family: RictyKana;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/RictyKana.woff2")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/RictyKana.woff2")
       format("woff2"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/RictyKana.woff2")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/RictyKana.woff2")
       format("woff2"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/RictyKana.woff2")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/RictyKana.woff2")
       format("woff2"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/RictyKana.woff2")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/RictyKana.woff2")
       format("woff2"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/RictyKana.woff2")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/RictyKana.woff2")
       format("woff2");
   font-weight: normal;
   unicode-range: U+0-2189, U+2190-309F, U+30A1-31FF, U+F900-3FFFF;
@@ -1058,15 +1058,15 @@ SOFTWARE.
 @font-face {
   font-family: Junicode VF;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/JunicodeVF-Roman.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/JunicodeVF-Roman.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/JunicodeVF-Roman.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Roman.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/JunicodeVF-Roman.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Roman.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/JunicodeVF-Roman.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Roman.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/JunicodeVF-Roman.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Roman.ttf")
       format("truetype");
   font-weight: normal;
   font-style: normal;
@@ -1076,15 +1076,15 @@ SOFTWARE.
 @font-face {
   font-family: Junicode VF;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/JunicodeVF-Italic.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/JunicodeVF-Italic.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/JunicodeVF-Italic.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Italic.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/JunicodeVF-Italic.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Italic.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/JunicodeVF-Italic.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Italic.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/JunicodeVF-Italic.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Italic.ttf")
       format("truetype");
   font-weight: normal;
   font-style: italic;
@@ -1094,15 +1094,15 @@ SOFTWARE.
 @font-face {
   font-family: Junicode VF;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/JunicodeVF-Roman.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/JunicodeVF-Roman.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/JunicodeVF-Roman.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Roman.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/JunicodeVF-Roman.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Roman.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/JunicodeVF-Roman.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Roman.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/JunicodeVF-Roman.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Roman.ttf")
       format("truetype");
   font-weight: 500;
   font-style: normal;
@@ -1112,15 +1112,15 @@ SOFTWARE.
 @font-face {
   font-family: Junicode VF;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/JunicodeVF-Italic.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/JunicodeVF-Italic.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/JunicodeVF-Italic.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Italic.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/JunicodeVF-Italic.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Italic.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/JunicodeVF-Italic.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Italic.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/JunicodeVF-Italic.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Italic.ttf")
       format("truetype");
   font-weight: 500;
   font-style: italic;
@@ -1130,15 +1130,15 @@ SOFTWARE.
 @font-face {
   font-family: Junicode VF;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/JunicodeVF-Roman.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/JunicodeVF-Roman.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/JunicodeVF-Roman.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Roman.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/JunicodeVF-Roman.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Roman.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/JunicodeVF-Roman.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Roman.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/JunicodeVF-Roman.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Roman.ttf")
       format("truetype");
   font-weight: 600;
   font-style: normal;
@@ -1148,15 +1148,15 @@ SOFTWARE.
 @font-face {
   font-family: Junicode VF;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/JunicodeVF-Italic.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/JunicodeVF-Italic.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/JunicodeVF-Italic.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Italic.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/JunicodeVF-Italic.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Italic.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/JunicodeVF-Italic.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Italic.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/JunicodeVF-Italic.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Italic.ttf")
       format("truetype");
   font-weight: 600;
   font-style: italic;
@@ -1166,15 +1166,15 @@ SOFTWARE.
 @font-face {
   font-family: Junicode VF;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/JunicodeVF-Roman.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/JunicodeVF-Roman.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/JunicodeVF-Roman.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Roman.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/JunicodeVF-Roman.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Roman.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/JunicodeVF-Roman.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Roman.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/JunicodeVF-Roman.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Roman.ttf")
       format("truetype");
   font-weight: bold;
   font-style: normal;
@@ -1184,15 +1184,15 @@ SOFTWARE.
 @font-face {
   font-family: Junicode VF;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/JunicodeVF-Italic.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/JunicodeVF-Italic.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/JunicodeVF-Italic.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Italic.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/JunicodeVF-Italic.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Italic.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/JunicodeVF-Italic.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Italic.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/JunicodeVF-Italic.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Italic.ttf")
       format("truetype");
   font-weight: bold;
   font-style: italic;
@@ -1202,15 +1202,15 @@ SOFTWARE.
 @font-face {
   font-family: Junicode VF;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/JunicodeVF-Roman.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/JunicodeVF-Roman.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/JunicodeVF-Roman.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Roman.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/JunicodeVF-Roman.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Roman.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/JunicodeVF-Roman.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Roman.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/JunicodeVF-Roman.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Roman.ttf")
       format("truetype");
   font-weight: 800;
   font-style: normal;
@@ -1220,15 +1220,15 @@ SOFTWARE.
 @font-face {
   font-family: Junicode VF;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/JunicodeVF-Italic.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/JunicodeVF-Italic.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/JunicodeVF-Italic.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Italic.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/JunicodeVF-Italic.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Italic.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/JunicodeVF-Italic.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Italic.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/JunicodeVF-Italic.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/JunicodeVF-Italic.ttf")
       format("truetype");
   font-weight: 800;
   font-style: italic;
@@ -1240,15 +1240,15 @@ SOFTWARE.
 @font-face {
   font-family: Charis;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/Charis/Charis-Regular.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/Charis/Charis-Regular.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/Charis/Charis-Regular.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/Charis/Charis-Regular.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/Charis/Charis-Regular.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/Charis/Charis-Regular.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/Charis/Charis-Regular.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/Charis/Charis-Regular.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/Charis/Charis-Regular.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/Charis/Charis-Regular.ttf")
       format("truetype");
   font-weight: normal;
   font-style: normal;
@@ -1258,15 +1258,15 @@ SOFTWARE.
 @font-face {
   font-family: Charis;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/Charis/Charis-Italic.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/Charis/Charis-Italic.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/Charis/Charis-Italic.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/Charis/Charis-Italic.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/Charis/Charis-Italic.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/Charis/Charis-Italic.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/Charis/Charis-Italic.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/Charis/Charis-Italic.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/Charis/Charis-Italic.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/Charis/Charis-Italic.ttf")
       format("truetype");
   font-weight: normal;
   font-style: italic;
@@ -1276,15 +1276,15 @@ SOFTWARE.
 @font-face {
   font-family: Charis;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/Charis/Charis-Medium.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/Charis/Charis-Medium.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/Charis/Charis-Medium.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/Charis/Charis-Medium.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/Charis/Charis-Medium.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/Charis/Charis-Medium.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/Charis/Charis-Medium.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/Charis/Charis-Medium.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/Charis/Charis-Medium.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/Charis/Charis-Medium.ttf")
       format("truetype");
   font-weight: medium;
   font-style: normal;
@@ -1294,15 +1294,15 @@ SOFTWARE.
 @font-face {
   font-family: Charis;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/Charis/Charis-MediumItalic.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/Charis/Charis-MediumItalic.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/Charis/Charis-MediumItalic.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/Charis/Charis-MediumItalic.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/Charis/Charis-MediumItalic.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/Charis/Charis-MediumItalic.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/Charis/Charis-MediumItalic.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/Charis/Charis-MediumItalic.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/Charis/Charis-MediumItalic.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/Charis/Charis-MediumItalic.ttf")
       format("truetype");
   font-weight: 500;
   font-style: italic;
@@ -1312,15 +1312,15 @@ SOFTWARE.
 @font-face {
   font-family: Charis;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/Charis/Charis-SemiBold.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/Charis/Charis-SemiBold.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/Charis/Charis-SemiBold.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/Charis/Charis-SemiBold.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/Charis/Charis-SemiBold.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/Charis/Charis-SemiBold.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/Charis/Charis-SemiBold.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/Charis/Charis-SemiBold.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/Charis/Charis-SemiBold.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/Charis/Charis-SemiBold.ttf")
       format("truetype");
   font-weight: 600;
   font-style: normal;
@@ -1330,15 +1330,15 @@ SOFTWARE.
 @font-face {
   font-family: Charis;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/Charis/Charis-SemiBoldItalic.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/Charis/Charis-SemiBoldItalic.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/Charis/Charis-SemiBoldItalic.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/Charis/Charis-SemiBoldItalic.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/Charis/Charis-SemiBoldItalic.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/Charis/Charis-SemiBoldItalic.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/Charis/Charis-SemiBoldItalic.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/Charis/Charis-SemiBoldItalic.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/Charis/Charis-SemiBoldItalic.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/Charis/Charis-SemiBoldItalic.ttf")
       format("truetype");
   font-weight: 600;
   font-style: italic;
@@ -1348,15 +1348,15 @@ SOFTWARE.
 @font-face {
   font-family: Charis;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/Charis/Charis-Bold.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/Charis/Charis-Bold.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/Charis/Charis-Bold.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/Charis/Charis-Bold.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/Charis/Charis-Bold.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/Charis/Charis-Bold.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/Charis/Charis-Bold.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/Charis/Charis-Bold.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/Charis/Charis-Bold.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/Charis/Charis-Bold.ttf")
       format("truetype");
   font-weight: bold;
   font-style: normal;
@@ -1366,15 +1366,15 @@ SOFTWARE.
 @font-face {
   font-family: Charis;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/Charis/Charis-BoldItalic.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/Charis/Charis-BoldItalic.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/Charis/Charis-BoldItalic.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/Charis/Charis-BoldItalic.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/Charis/Charis-BoldItalic.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/Charis/Charis-BoldItalic.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/Charis/Charis-BoldItalic.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/Charis/Charis-BoldItalic.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/Charis/Charis-BoldItalic.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/Charis/Charis-BoldItalic.ttf")
       format("truetype");
   font-weight: bold;
   font-style: italic;
@@ -1386,15 +1386,15 @@ SOFTWARE.
 @font-face {
   font-family: Gentium;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/Gentium/Gentium-Regular.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/Gentium/Gentium-Regular.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/Gentium/Gentium-Regular.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/Gentium/Gentium-Regular.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/Gentium/Gentium-Regular.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/Gentium/Gentium-Regular.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/Gentium/Gentium-Regular.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/Gentium/Gentium-Regular.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/Gentium/Gentium-Regular.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/Gentium/Gentium-Regular.ttf")
       format("truetype");
   font-weight: normal;
   font-style: normal;
@@ -1404,15 +1404,15 @@ SOFTWARE.
 @font-face {
   font-family: Gentium;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/Gentium/Gentium-Italic.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/Gentium/Gentium-Italic.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/Gentium/Gentium-Italic.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/Gentium/Gentium-Italic.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/Gentium/Gentium-Italic.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/Gentium/Gentium-Italic.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/Gentium/Gentium-Italic.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/Gentium/Gentium-Italic.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/Gentium/Gentium-Italic.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/Gentium/Gentium-Italic.ttf")
       format("truetype");
   font-weight: normal;
   font-style: italic;
@@ -1422,15 +1422,15 @@ SOFTWARE.
 @font-face {
   font-family: Gentium;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/Gentium/Gentium-Medium.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/Gentium/Gentium-Medium.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/Gentium/Gentium-Medium.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/Gentium/Gentium-Medium.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/Gentium/Gentium-Medium.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/Gentium/Gentium-Medium.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/Gentium/Gentium-Medium.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/Gentium/Gentium-Medium.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/Gentium/Gentium-Medium.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/Gentium/Gentium-Medium.ttf")
       format("truetype");
   font-weight: 500;
   font-style: normal;
@@ -1440,15 +1440,15 @@ SOFTWARE.
 @font-face {
   font-family: Gentium;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/Gentium/Gentium-MediumItalic.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/Gentium/Gentium-MediumItalic.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/Gentium/Gentium-MediumItalic.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/Gentium/Gentium-MediumItalic.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/Gentium/Gentium-MediumItalic.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/Gentium/Gentium-MediumItalic.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/Gentium/Gentium-MediumItalic.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/Gentium/Gentium-MediumItalic.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/Gentium/Gentium-MediumItalic.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/Gentium/Gentium-MediumItalic.ttf")
       format("truetype");
   font-weight: 500;
   font-style: italic;
@@ -1458,15 +1458,15 @@ SOFTWARE.
 @font-face {
   font-family: Gentium;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/Gentium/Gentium-SemiBold.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/Gentium/Gentium-SemiBold.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/Gentium/Gentium-SemiBold.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/Gentium/Gentium-SemiBold.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/Gentium/Gentium-SemiBold.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/Gentium/Gentium-SemiBold.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/Gentium/Gentium-SemiBold.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/Gentium/Gentium-SemiBold.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/Gentium/Gentium-SemiBold.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/Gentium/Gentium-SemiBold.ttf")
       format("truetype");
   font-weight: 600;
   font-style: normal;
@@ -1476,15 +1476,15 @@ SOFTWARE.
 @font-face {
   font-family: Gentium;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/Gentium/Gentium-SemiBoldItalic.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/Gentium/Gentium-SemiBoldItalic.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/Gentium/Gentium-SemiBoldItalic.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/Gentium/Gentium-SemiBoldItalic.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/Gentium/Gentium-SemiBoldItalic.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/Gentium/Gentium-SemiBoldItalic.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/Gentium/Gentium-SemiBoldItalic.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/Gentium/Gentium-SemiBoldItalic.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/Gentium/Gentium-SemiBoldItalic.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/Gentium/Gentium-SemiBoldItalic.ttf")
       format("truetype");
   font-weight: 600;
   font-style: italic;
@@ -1494,15 +1494,15 @@ SOFTWARE.
 @font-face {
   font-family: Gentium;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/Gentium/Gentium-Bold.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/Gentium/Gentium-Bold.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/Gentium/Gentium-Bold.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/Gentium/Gentium-Bold.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/Gentium/Gentium-Bold.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/Gentium/Gentium-Bold.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/Gentium/Gentium-Bold.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/Gentium/Gentium-Bold.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/Gentium/Gentium-Bold.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/Gentium/Gentium-Bold.ttf")
       format("truetype");
   font-weight: bold;
   font-style: normal;
@@ -1512,15 +1512,15 @@ SOFTWARE.
 @font-face {
   font-family: Gentium;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/Gentium/Gentium-BoldItalic.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/Gentium/Gentium-BoldItalic.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/Gentium/Gentium-BoldItalic.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/Gentium/Gentium-BoldItalic.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/Gentium/Gentium-BoldItalic.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/Gentium/Gentium-BoldItalic.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/Gentium/Gentium-BoldItalic.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/Gentium/Gentium-BoldItalic.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/Gentium/Gentium-BoldItalic.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/Gentium/Gentium-BoldItalic.ttf")
       format("truetype");
   font-weight: bold;
   font-style: italic;
@@ -1530,15 +1530,15 @@ SOFTWARE.
 @font-face {
   font-family: Gentium;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/Gentium/Gentium-ExtraBold.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/Gentium/Gentium-ExtraBold.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/Gentium/Gentium-ExtraBold.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/Gentium/Gentium-ExtraBold.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/Gentium/Gentium-ExtraBold.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/Gentium/Gentium-ExtraBold.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/Gentium/Gentium-ExtraBold.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/Gentium/Gentium-ExtraBold.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/Gentium/Gentium-ExtraBold.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/Gentium/Gentium-ExtraBold.ttf")
       format("truetype");
   font-weight: 700;
   font-style: normal;
@@ -1548,15 +1548,15 @@ SOFTWARE.
 @font-face {
   font-family: Gentium;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/Gentium/Gentium-ExtraBoldItalic.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/Gentium/Gentium-ExtraBoldItalic.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/Gentium/Gentium-ExtraBoldItalic.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/Gentium/Gentium-ExtraBoldItalic.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/Gentium/Gentium-ExtraBoldItalic.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/Gentium/Gentium-ExtraBoldItalic.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/Gentium/Gentium-ExtraBoldItalic.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/Gentium/Gentium-ExtraBoldItalic.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/Gentium/Gentium-ExtraBoldItalic.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/Gentium/Gentium-ExtraBoldItalic.ttf")
       format("truetype");
   font-weight: 700;
   font-style: italic;
@@ -1567,15 +1567,15 @@ SOFTWARE.
 @font-face {
   font-family: FGZeroRabaul;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/fgzerorabaulfont.otf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/fgzerorabaulfont.otf")
       format("opentype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/fgzerorabaulfont.otf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/fgzerorabaulfont.otf")
       format("opentype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/fgzerorabaulfont.otf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/fgzerorabaulfont.otf")
       format("opentype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/fgzerorabaulfont.otf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/fgzerorabaulfont.otf")
       format("opentype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/fgzerorabaulfont.otf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/fgzerorabaulfont.otf")
       format("opentype");
   font-weight: normal;
   unicode-range:
@@ -2131,15 +2131,15 @@ SOFTWARE.
 @font-face {
   font-family: FlopDesignFONT;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/FlopDesignFONT.otf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/FlopDesignFONT.otf")
       format("opentype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/FlopDesignFONT.otf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/FlopDesignFONT.otf")
       format("opentype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/FlopDesignFONT.otf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/FlopDesignFONT.otf")
       format("opentype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/FlopDesignFONT.otf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/FlopDesignFONT.otf")
       format("opentype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/FlopDesignFONT.otf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/FlopDesignFONT.otf")
       format("opentype");
   font-weight: normal;
   unicode-range:
@@ -2150,15 +2150,15 @@ SOFTWARE.
 @font-face {
   font-family: IPAExGothic;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/ipaexg.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/ipaexg.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/ipaexg.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/ipaexg.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/ipaexg.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/ipaexg.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/ipaexg.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/ipaexg.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/ipaexg.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/ipaexg.ttf")
       format("truetype");
   font-weight: normal;
   unicode-range: U+3400-4DBF, U+4E00-9FFF, U+F900-FAFF;
@@ -2167,15 +2167,15 @@ SOFTWARE.
 @font-face {
   font-family: Ryakuji;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/ryakusisugiFont.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/ryakusisugiFont.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/ryakusisugiFont.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/ryakusisugiFont.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/ryakusisugiFont.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/ryakusisugiFont.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/ryakusisugiFont.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/ryakusisugiFont.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/ryakusisugiFont.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/ryakusisugiFont.ttf")
       format("truetype");
   font-weight: normal;
   unicode-range: U+4E00-9FFF, U+F900-FAFF;
@@ -2184,15 +2184,15 @@ SOFTWARE.
 @font-face {
   font-family: Ume Gothic C;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/ume-tgc4.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/ume-tgc4.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/ume-tgc4.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/ume-tgc4.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/ume-tgc4.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/ume-tgc4.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/ume-tgc4.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/ume-tgc4.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/ume-tgc4.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/ume-tgc4.ttf")
       format("truetype");
   font-weight: normal;
   unicode-range: U+4E00-9FFF, U+F900-FAFF;
@@ -2201,15 +2201,15 @@ SOFTWARE.
 @font-face {
   font-family: Ume Gothic O;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/ume-tgo4.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/ume-tgo4.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/ume-tgo4.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/ume-tgo4.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/ume-tgo4.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/ume-tgo4.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/ume-tgo4.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/ume-tgo4.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/ume-tgo4.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/ume-tgo4.ttf")
       format("truetype");
   font-weight: normal;
   unicode-range: U+4E00-9FFF, U+F900-FAFF;
@@ -2218,15 +2218,15 @@ SOFTWARE.
 @font-face {
   font-family: Ume Gothic S;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/ume-tgs4.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/ume-tgs4.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/ume-tgs4.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/ume-tgs4.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/ume-tgs4.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/ume-tgs4.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/ume-tgs4.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/ume-tgs4.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/ume-tgs4.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/ume-tgs4.ttf")
       format("truetype");
   font-weight: normal;
   unicode-range: U+4E00-9FFF, U+F900-FAFF;
@@ -2235,15 +2235,15 @@ SOFTWARE.
 @font-face {
   font-family: Ryakuji;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/ryakusisugiFont.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/ryakusisugiFont.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/ryakusisugiFont.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/ryakusisugiFont.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/ryakusisugiFont.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/ryakusisugiFont.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/ryakusisugiFont.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/ryakusisugiFont.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/ryakusisugiFont.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/ryakusisugiFont.ttf")
       format("truetype");
   font-weight: normal;
   unicode-range: U+4E00-9FFF, U+F900-FAFF;
@@ -2252,15 +2252,15 @@ SOFTWARE.
 @font-face {
   font-family: Code2000;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/CODE2000.TTF")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/CODE2000.TTF")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/CODE2000.TTF")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/CODE2000.TTF")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/CODE2000.TTF")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/CODE2000.TTF")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/CODE2000.TTF")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/CODE2000.TTF")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/CODE2000.TTF")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/CODE2000.TTF")
       format("truetype");
   font-weight: normal;
   unicode-range: U+3400-4DBF, U+4E00-9FFF, U+F900-FAFF;
@@ -2269,15 +2269,15 @@ SOFTWARE.
 @font-face {
   font-family: Code2002;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/CODE2002.TTF")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/CODE2002.TTF")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/CODE2002.TTF")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/CODE2002.TTF")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/CODE2002.TTF")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/CODE2002.TTF")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/CODE2002.TTF")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/CODE2002.TTF")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/CODE2002.TTF")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/CODE2002.TTF")
       format("truetype");
   font-weight: normal;
 }
@@ -2285,15 +2285,15 @@ SOFTWARE.
 @font-face {
   font-family: LXGW XiHei CL;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/LXGW/LXGWXiHeiCL.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/LXGW/LXGWXiHeiCL.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/LXGW/LXGWXiHeiCL.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/LXGW/LXGWXiHeiCL.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/LXGW/LXGWXiHeiCL.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/LXGW/LXGWXiHeiCL.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/LXGW/LXGWXiHeiCL.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/LXGW/LXGWXiHeiCL.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/LXGW/LXGWXiHeiCL.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/LXGW/LXGWXiHeiCL.ttf")
       format("truetype");
   font-weight: normal;
 }
@@ -2301,15 +2301,15 @@ SOFTWARE.
 @font-face {
   font-family: LXGW XiHei MN;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/LXGW/LXGWXiHeiMN.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/LXGW/LXGWXiHeiMN.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/LXGW/LXGWXiHeiMN.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/LXGW/LXGWXiHeiMN.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/LXGW/LXGWXiHeiMN.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/LXGW/LXGWXiHeiMN.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/LXGW/LXGWXiHeiMN.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/LXGW/LXGWXiHeiMN.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/LXGW/LXGWXiHeiMN.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/LXGW/LXGWXiHeiMN.ttf")
       format("truetype");
   font-weight: normal;
 }
@@ -2333,15 +2333,15 @@ SOFTWARE.
 @font-face {
   font-family: LXGW Neo XiHei;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/LXGW/LXGWNeoXiHei.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/LXGW/LXGWNeoXiHei.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/LXGW/LXGWNeoXiHei.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/LXGW/LXGWNeoXiHei.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/LXGW/LXGWNeoXiHei.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/LXGW/LXGWNeoXiHei.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/LXGW/LXGWNeoXiHei.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/LXGW/LXGWNeoXiHei.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/LXGW/LXGWNeoXiHei.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/LXGW/LXGWNeoXiHei.ttf")
       format("truetype");
   font-weight: normal;
 }
@@ -2349,15 +2349,15 @@ SOFTWARE.
 @font-face {
   font-family: LXGW Neo XiHei Plus;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/LXGW/LXGWNeoXiHeiPlus.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/LXGW/LXGWNeoXiHeiPlus.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/LXGW/LXGWNeoXiHeiPlus.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/LXGW/LXGWNeoXiHeiPlus.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/LXGW/LXGWNeoXiHeiPlus.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/LXGW/LXGWNeoXiHeiPlus.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/LXGW/LXGWNeoXiHeiPlus.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/LXGW/LXGWNeoXiHeiPlus.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/LXGW/LXGWNeoXiHeiPlus.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/LXGW/LXGWNeoXiHeiPlus.ttf")
       format("truetype");
   font-weight: normal;
 }
@@ -2452,15 +2452,15 @@ SOFTWARE.
 @font-face {
   font-family: GenSeki Hentaigana Gothic;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/GenSekiHentaiganaGothic.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/GenSekiHentaiganaGothic.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/GenSekiHentaiganaGothic.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/GenSekiHentaiganaGothic.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/GenSekiHentaiganaGothic.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/GenSekiHentaiganaGothic.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/GenSekiHentaiganaGothic.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/GenSekiHentaiganaGothic.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/GenSekiHentaiganaGothic.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/GenSekiHentaiganaGothic.ttf")
       format("truetype");
   font-weight: normal;
 }
@@ -2468,15 +2468,15 @@ SOFTWARE.
 @font-face {
   font-family: YshiYuan Gothic;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/YshiYuanGothicCleaned.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/YshiYuanGothicCleaned.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/YshiYuanGothicCleaned.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/YshiYuanGothicCleaned.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/YshiYuanGothicCleaned.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/YshiYuanGothicCleaned.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/YshiYuanGothicCleaned.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/YshiYuanGothicCleaned.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/YshiYuanGothicCleaned.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/YshiYuanGothicCleaned.ttf")
       format("truetype");
   font-weight: normal;
 }
@@ -2517,15 +2517,15 @@ SOFTWARE.
 @font-face {
   font-family: Malgun Gothic;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/malgun.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/malgun.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/malgun.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/malgun.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/malgun.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/malgun.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/malgun.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/malgun.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/malgun.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/malgun.ttf")
       format("truetype");
   font-weight: normal;
   unicode-range:
@@ -2535,15 +2535,15 @@ SOFTWARE.
 @font-face {
   font-family: New Gulim;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/NewGulim.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/NewGulim.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/NewGulim.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/NewGulim.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/NewGulim.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/NewGulim.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/NewGulim.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/NewGulim.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/NewGulim.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/NewGulim.ttf")
       format("truetype");
   font-weight: normal;
   unicode-range: U+3400-4DBF, U+4E00-9FFF, U+20000-3FFFF;
@@ -2569,15 +2569,15 @@ SOFTWARE.
 @font-face {
   font-family: SimSun-ExtB;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/simsunb.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/simsunb.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/simsunb.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/simsunb.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/simsunb.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/simsunb.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/simsunb.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/simsunb.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/simsunb.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/simsunb.ttf")
       format("truetype");
   font-weight: normal;
   unicode-range: U+3400-4DBF, U+4E00-9FFF, U+20000-3FFFF;
@@ -2586,15 +2586,15 @@ SOFTWARE.
 @font-face {
   font-family: SimSun-ExtG;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/SimSun-ExtG.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/SimSun-ExtG.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/SimSun-ExtG.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/SimSun-ExtG.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/SimSun-ExtG.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/SimSun-ExtG.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/SimSun-ExtG.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/SimSun-ExtG.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/SimSun-ExtG.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/SimSun-ExtG.ttf")
       format("truetype");
   font-weight: normal;
   unicode-range: U+3400-4DBF, U+4E00-9FFF, U+20000-3FFFF;
@@ -2620,15 +2620,15 @@ SOFTWARE.
 @font-face {
   font-family: Shanggu Mono;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/ShangguMonoRegular.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/ShangguMonoRegular.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/ShangguMonoRegular.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/ShangguMonoRegular.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/ShangguMonoRegular.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/ShangguMonoRegular.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/ShangguMonoRegular.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/ShangguMonoRegular.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/ShangguMonoRegular.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/ShangguMonoRegular.ttf")
       format("truetype");
   font-weight: normal;
   unicode-range:
@@ -2656,15 +2656,15 @@ SOFTWARE.
 @font-face {
   font-family: Han-Nom Gothic;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/Han-Nom%20Gothic%201.32.otf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/Han-Nom%20Gothic%201.32.otf")
       format("opentype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/Han-Nom%20Gothic%201.32.otf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/Han-Nom%20Gothic%201.32.otf")
       format("opentype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/Han-Nom%20Gothic%201.32.otf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/Han-Nom%20Gothic%201.32.otf")
       format("opentype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/Han-Nom%20Gothic%201.32.otf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/Han-Nom%20Gothic%201.32.otf")
       format("opentype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/Han-Nom%20Gothic%201.32.otf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/Han-Nom%20Gothic%201.32.otf")
       format("opentype");
   font-weight: normal;
   unicode-range: U+3400-4DBF, U+4E00-9FFF, U+F900-FAFF, U+20000-3FFFF;
@@ -2673,15 +2673,15 @@ SOFTWARE.
 @font-face {
   font-family: Sukima Gothic;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/SukimaGothic.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/SukimaGothic.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/SukimaGothic.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/SukimaGothic.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/SukimaGothic.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/SukimaGothic.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/SukimaGothic.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/SukimaGothic.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/SukimaGothic.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/SukimaGothic.ttf")
       format("truetype");
   font-weight: normal;
   unicode-range: U+3400-4DBF, U+20000-3FFFF;
@@ -2690,15 +2690,15 @@ SOFTWARE.
 @font-face {
   font-family: BabelStone Han;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/BabelStoneHan.woff")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/BabelStoneHan.woff")
       format("woff"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/BabelStoneHan.woff")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/BabelStoneHan.woff")
       format("woff"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/BabelStoneHan.woff")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/BabelStoneHan.woff")
       format("woff"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/BabelStoneHan.woff")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/BabelStoneHan.woff")
       format("woff"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/BabelStoneHan.woff")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/BabelStoneHan.woff")
       format("woff");
   font-weight: normal;
 }
@@ -2738,15 +2738,15 @@ SOFTWARE.
 @font-face {
   font-family: Nom Na Tong;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/NomNaTong-Regular.otf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/NomNaTong-Regular.otf")
       format("opentype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/NomNaTong-Regular.otf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/NomNaTong-Regular.otf")
       format("opentype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/NomNaTong-Regular.otf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/NomNaTong-Regular.otf")
       format("opentype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/NomNaTong-Regular.otf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/NomNaTong-Regular.otf")
       format("opentype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/NomNaTong-Regular.otf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/NomNaTong-Regular.otf")
       format("opentype");
   font-weight: normal;
 }
@@ -2818,15 +2818,15 @@ SOFTWARE.
 @font-face {
   font-family: Lorchin Sans P0;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/LorchinSansP0.woff2")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/LorchinSansP0.woff2")
       format("woff2"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/LorchinSansP0.woff2")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/LorchinSansP0.woff2")
       format("woff2"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/LorchinSansP0.woff2")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/LorchinSansP0.woff2")
       format("woff2"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/LorchinSansP0.woff2")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/LorchinSansP0.woff2")
       format("woff2"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/LorchinSansP0.woff2")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/LorchinSansP0.woff2")
       format("woff2");
   font-weight: normal;
   unicode-range:
@@ -2836,15 +2836,15 @@ SOFTWARE.
 @font-face {
   font-family: Lorchin Sans P2;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/LorchinSansP2.woff2")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/LorchinSansP2.woff2")
       format("woff2"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/LorchinSansP2.woff2")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/LorchinSansP2.woff2")
       format("woff2"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/LorchinSansP2.woff2")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/LorchinSansP2.woff2")
       format("woff2"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/LorchinSansP2.woff2")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/LorchinSansP2.woff2")
       format("woff2"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/LorchinSansP2.woff2")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/LorchinSansP2.woff2")
       format("woff2");
   font-weight: normal;
   unicode-range:
@@ -2854,15 +2854,15 @@ SOFTWARE.
 @font-face {
   font-family: Han-Nom Ming;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/Han-Nom%20Ming%201.20.otf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/Han-Nom%20Ming%201.20.otf")
       format("opentype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/Han-Nom%20Ming%201.20.otf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/Han-Nom%20Ming%201.20.otf")
       format("opentype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/Han-Nom%20Ming%201.20.otf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/Han-Nom%20Ming%201.20.otf")
       format("opentype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/Han-Nom%20Ming%201.20.otf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/Han-Nom%20Ming%201.20.otf")
       format("opentype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/Han-Nom%20Ming%201.20.otf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/Han-Nom%20Ming%201.20.otf")
       format("opentype");
   font-weight: normal;
   unicode-range:
@@ -2872,41 +2872,41 @@ SOFTWARE.
 @font-face {
   font-family: Han-Nom Minh;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/fonts/main/CJK/Han-Nom%20Minh%201.42.otf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/CJK/Han-Nom%20Minh%201.42.otf")
       format("opentype"),
-    url("https://cdn.statically.io/gh/nexovolta/fonts@main/CJK/Han-Nom%20Minh%201.42.otf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/CJK/Han-Nom%20Minh%201.42.otf")
       format("opentype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/fonts@main/CJK/Han-Nom%20Minh%201.42.otf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/Han-Nom%20Minh%201.42.otf")
       format("opentype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/fonts@main/CJK/Han-Nom%20Minh%201.42.otf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/Han-Nom%20Minh%201.42.otf")
       format("opentype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/fonts@main/CJK/Han-Nom%20Minh%201.42.otf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/CJK/Han-Nom%20Minh%201.42.otf")
       format("opentype");
   font-weight: normal;
   unicode-range:
     U+3400-4DBF, U+4E00-9FFF, U+F900-FAFF, U+17000-18D7F, U+20000-3FFFF;
 }
 
-/* === BEGIN auto pan fonts (update_obsidian_theme_fonts.py) === */
+/* === BEGIN auto edenia fonts (update_obsidian_theme_fonts.py) === */
 /* Hangul + Yi + Kana + Edenia CJK: loaded by the edenia Obsidian plugin
    (Scripts/obsidian-edenia). Relative/data URLs do not work. */
-/* === END auto pan fonts === */
+/* === END auto edenia fonts === */
 
-/* === BEGIN auto pan font stack (update_obsidian_theme_fonts.py) === */
+/* === BEGIN auto edenia font stack (update_obsidian_theme_fonts.py) === */
 /* Hangul/Kana/Yi before CJK. Kana/yi stack: q/qv/qh/t/h/base.
    Digraphs need one face (Obsidian post-processor / HTML pin).
    CJK lists FE00-FE0F. */
 body {
-  --font-text-theme: Caesium, Cascadia, Nexsevka, Cascadia Code, JuliaMono, "edenia hanguls", "edenia hangul", "edenia kana q", "edenia kana qv", "edenia kana qh", "edenia kana t", "edenia kana h", "edenia kana", "edenia yi q", "edenia yi qv", "edenia yi qh", "edenia yi t", "edenia yi h", "edenia yi", "edenia cjk h", "edenia cjk", FlopDesignFont, MKanaPlus, Plangothic P1, Plangothic P2, monospace;
-  --font-interface-theme: Caesium, Cascadia, Nexsevka, Cascadia Code, JuliaMono, "edenia hanguls", "edenia hangul", "edenia kana q", "edenia kana qv", "edenia kana qh", "edenia kana t", "edenia kana h", "edenia kana", "edenia yi q", "edenia yi qv", "edenia yi qh", "edenia yi t", "edenia yi h", "edenia yi", "edenia cjk h", "edenia cjk", FlopDesignFont, MKanaPlus, Plangothic P1, Plangothic P2, monospace;
-  --font-monospace-theme: Caesium, Cascadia, Nexsevka, Cascadia Code, JuliaMono, "edenia hanguls", "edenia hangul", "edenia kana q", "edenia kana qv", "edenia kana qh", "edenia kana t", "edenia kana h", "edenia kana", "edenia yi q", "edenia yi qv", "edenia yi qh", "edenia yi t", "edenia yi h", "edenia yi", "edenia cjk h", "edenia cjk", FlopDesignFont, MKanaPlus, Plangothic P1, Plangothic P2, monospace;
-  --font-text: Caesium, Cascadia, Nexsevka, Cascadia Code, JuliaMono, "edenia hanguls", "edenia hangul", "edenia kana q", "edenia kana qv", "edenia kana qh", "edenia kana t", "edenia kana h", "edenia kana", "edenia yi q", "edenia yi qv", "edenia yi qh", "edenia yi t", "edenia yi h", "edenia yi", "edenia cjk h", "edenia cjk", FlopDesignFont, MKanaPlus, Plangothic P1, Plangothic P2, monospace !important;
-  --font-interface: Caesium, Cascadia, Nexsevka, Cascadia Code, JuliaMono, "edenia hanguls", "edenia hangul", "edenia kana q", "edenia kana qv", "edenia kana qh", "edenia kana t", "edenia kana h", "edenia kana", "edenia yi q", "edenia yi qv", "edenia yi qh", "edenia yi t", "edenia yi h", "edenia yi", "edenia cjk h", "edenia cjk", FlopDesignFont, MKanaPlus, Plangothic P1, Plangothic P2, monospace !important;
-  --font-monospace: Caesium, Cascadia, Nexsevka, Cascadia Code, JuliaMono, "edenia hanguls", "edenia hangul", "edenia kana q", "edenia kana qv", "edenia kana qh", "edenia kana t", "edenia kana h", "edenia kana", "edenia yi q", "edenia yi qv", "edenia yi qh", "edenia yi t", "edenia yi h", "edenia yi", "edenia cjk h", "edenia cjk", FlopDesignFont, MKanaPlus, Plangothic P1, Plangothic P2, monospace !important;
+  --font-text-theme: Caesium, Cascadia, Nexsevka, Cascadia Code, JuliaMono, edenia hanguls, edenia hangul, edenia kana q, edenia kana qv, edenia kana qh, edenia kana t, edenia kana h, edenia kana, edenia yi q, edenia yi qv, edenia yi qh, edenia yi t, edenia yi h, edenia yi, edenia cjk h, edenia cjk, FlopDesignFont, MKanaPlus, Plangothic P1, Plangothic P2, monospace;
+  --font-interface-theme: Caesium, Cascadia, Nexsevka, Cascadia Code, JuliaMono, edenia hanguls, edenia hangul, edenia kana q, edenia kana qv, edenia kana qh, edenia kana t, edenia kana h, edenia kana, edenia yi q, edenia yi qv, edenia yi qh, edenia yi t, edenia yi h, edenia yi, edenia cjk h, edenia cjk, FlopDesignFont, MKanaPlus, Plangothic P1, Plangothic P2, monospace;
+  --font-monospace-theme: Caesium, Cascadia, Nexsevka, Cascadia Code, JuliaMono, edenia hanguls, edenia hangul, edenia kana q, edenia kana qv, edenia kana qh, edenia kana t, edenia kana h, edenia kana, edenia yi q, edenia yi qv, edenia yi qh, edenia yi t, edenia yi h, edenia yi, edenia cjk h, edenia cjk, FlopDesignFont, MKanaPlus, Plangothic P1, Plangothic P2, monospace;
+  --font-text: Caesium, Cascadia, Nexsevka, Cascadia Code, JuliaMono, edenia hanguls, edenia hangul, edenia kana q, edenia kana qv, edenia kana qh, edenia kana t, edenia kana h, edenia kana, edenia yi q, edenia yi qv, edenia yi qh, edenia yi t, edenia yi h, edenia yi, edenia cjk h, edenia cjk, FlopDesignFont, MKanaPlus, Plangothic P1, Plangothic P2, monospace !important;
+  --font-interface: Caesium, Cascadia, Nexsevka, Cascadia Code, JuliaMono, edenia hanguls, edenia hangul, edenia kana q, edenia kana qv, edenia kana qh, edenia kana t, edenia kana h, edenia kana, edenia yi q, edenia yi qv, edenia yi qh, edenia yi t, edenia yi h, edenia yi, edenia cjk h, edenia cjk, FlopDesignFont, MKanaPlus, Plangothic P1, Plangothic P2, monospace !important;
+  --font-monospace: Caesium, Cascadia, Nexsevka, Cascadia Code, JuliaMono, edenia hanguls, edenia hangul, edenia kana q, edenia kana qv, edenia kana qh, edenia kana t, edenia kana h, edenia kana, edenia yi q, edenia yi qv, edenia yi qh, edenia yi t, edenia yi h, edenia yi, edenia cjk h, edenia cjk, FlopDesignFont, MKanaPlus, Plangothic P1, Plangothic P2, monospace !important;
   --font-editor-theme: "";
   --font-editor: var(--font-editor-theme), var(--font-text);
 }
-/* === END auto pan font stack === */
+/* === END auto edenia font stack === */
 :root {
   --leading-0: 1em;
   --leading-1: 1.125em;

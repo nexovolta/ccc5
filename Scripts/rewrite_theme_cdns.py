@@ -1,6 +1,6 @@
 """Rewrite GitHub-hosted font urls in theme.css to multi-CDN fallback chains.
 
-Covers nexovolta/fonts and any other `raw.githubusercontent.com` /
+Covers nexovolta/ccc5 and any other `raw.githubusercontent.com` /
 `cdn.jsdelivr.net/gh/…` / `cdn.statically.io/gh/…` font `src:` lines.
 Leaves googleapis / donation / forum links alone.
 """
@@ -86,7 +86,7 @@ def rewrite_src(match: re.Match[str]) -> str:
         return chunk
     owner_repo, ref, path = parsed
     locals_ = _locals_from_chunk(chunk)
-    if owner_repo == "nexovolta/fonts":
+    if owner_repo == "nexovolta/ccc5":
         return format_src_line(path, fmt=_fmt_for(path), local=tuple(locals_) or None)
     return format_github_src(
         owner_repo,
@@ -116,10 +116,10 @@ def main() -> int:
             leftover.append(chunk[:120])
 
     print(f"rewrote theme.css src blocks~{n}")
-    print("nexovolta raw refs:", new.count("raw.githubusercontent.com/nexovolta/fonts"))
+    print("nexovolta raw refs:", new.count("raw.githubusercontent.com/nexovolta/ccc5"))
     print(
         "other raw refs:",
-        len(re.findall(r"raw\.githubusercontent\.com/(?!nexovolta/fonts)", new)),
+        len(re.findall(r"raw\.githubusercontent\.com/(?!nexovolta/ccc5)", new)),
     )
     print("leftover single-host samples:", len(leftover))
     for s in leftover[:8]:

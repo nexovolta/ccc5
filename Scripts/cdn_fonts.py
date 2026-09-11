@@ -7,9 +7,9 @@ from __future__ import annotations
 
 from typing import List, Optional, Sequence, Tuple
 
-# Default repo used by build scripts (nexovolta/fonts @ main).
-REPO = "nexovolta/fonts"
-REF = "main"
+# Default repo used by build scripts (nexovolta/ccc5 @ master).
+REPO = "nexovolta/ccc5"
+REF = "master"
 
 
 def github_mirror_urls(owner_repo: str, ref: str, path: str) -> List[str]:
@@ -27,7 +27,7 @@ def github_mirror_urls(owner_repo: str, ref: str, path: str) -> List[str]:
 
 
 def remote_urls(repo_relpath: str) -> List[str]:
-    """Absolute CDN URLs for a path inside nexovolta/fonts (no leading slash)."""
+    """Absolute CDN URLs for a path inside nexovolta/ccc5 (no leading slash)."""
     return github_mirror_urls(REPO, REF, repo_relpath)
 
 
@@ -61,7 +61,7 @@ def format_src_line(
     local: Optional[Sequence[Tuple[str, str]]] = None,
     indent: str = "",
 ) -> str:
-    """Build a CSS `src:` for a path inside nexovolta/fonts."""
+    """Build a CSS `src:` for a path inside nexovolta/ccc5."""
     return format_src_urls(
         remote_urls(repo_relpath), fmt=fmt, local=local, indent=indent
     )
@@ -86,5 +86,5 @@ def format_github_src(
 
 
 def dist_rel(*parts: str) -> str:
-    """`Scripts/dist/...` path under nexovolta/fonts."""
+    """`Scripts/dist/...` path under nexovolta/ccc5."""
     return "/".join(("Scripts", "dist", *parts))
