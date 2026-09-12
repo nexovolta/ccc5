@@ -362,7 +362,7 @@ css = "italic"
 
 [buildPlans.Nexsevka.metricOverride]
 xHeight = 525
-cap = 695
+cap = 700
 ascender = 730
 sb = "default_sb-14"
 
@@ -743,7 +743,7 @@ css = "italic"
 
 [buildPlans.NexsevkaPropo.metricOverride]
 xHeight = 520
-cap = 695
+cap = 700
 ascender = 735
 sb = "default_sb-14"
 
