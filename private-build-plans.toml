@@ -349,7 +349,7 @@ menu = 5
 css = "normal"
 
 [buildPlans.Nexsevka.slopes.Upright]
-angle = 0
+angle = 1
 shape = "upright"
 menu = "upright"
 css = "normal"
@@ -362,9 +362,9 @@ css = "italic"
 
 [buildPlans.Nexsevka.metricOverride]
 xHeight = 520
-cap = 700
+cap = 690
 ascender = 730
-sb = 70
+sb = "default_sb - 14"
 
 accentWidth = 200
 accentClearance = 100
@@ -730,7 +730,7 @@ menu = 5
 css = "normal"
 
 [buildPlans.NexsevkaPropo.slopes.Upright]
-angle = 0
+angle = 1
 shape = "upright"
 menu = "upright"
 css = "normal"
@@ -745,7 +745,7 @@ css = "italic"
 xHeight = 520
 cap = 690
 ascender = 730
-sb = 70
+sb = "default_sb - 14"
 
 accentWidth = 200
 accentClearance = 100
