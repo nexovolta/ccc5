@@ -355,7 +355,7 @@ xHeight = 518
 cap = 693
 ascender = 732
 symbolMid = 305
-sb = "default_sb-32"
+sb = "blend(weight, [245, 85], [288, 83], [374, 81], [522, 78], [599, 75], [765, 70], [900, 64])"
 
 accentWidth = 200
 accentClearance = 100
@@ -730,7 +730,7 @@ xHeight = 518
 cap = 693
 ascender = 732
 symbolMid = 305
-sb = "default_sb-32"
+sb = "blend(weight, [245, 85], [288, 83], [374, 81], [522, 78], [599, 75], [765, 70], [900, 64])"
 
 accentWidth = 200
 accentClearance = 100
