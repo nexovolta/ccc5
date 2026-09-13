@@ -65,15 +65,15 @@ SOFTWARE.
 @font-face {
   font-family: Nexsevka;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/Nexsevka/TTF/Nexsevka-Regular.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/Nexsevka/TTF/Nexsevka-Medium.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/Nexsevka/TTF/Nexsevka-Regular.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/Nexsevka/TTF/Nexsevka-Medium.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/Nexsevka/TTF/Nexsevka-Regular.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/Nexsevka/TTF/Nexsevka-Medium.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/Nexsevka/TTF/Nexsevka-Regular.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/Nexsevka/TTF/Nexsevka-Medium.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/Nexsevka/TTF/Nexsevka-Regular.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/Nexsevka/TTF/Nexsevka-Medium.ttf")
       format("truetype");
   font-weight: normal;
   font-style: normal;
@@ -82,15 +82,15 @@ SOFTWARE.
 @font-face {
   font-family: Nexsevka;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/Nexsevka/TTF/Nexsevka-Italic.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/Nexsevka/TTF/Nexsevka-MediumItalic.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/Nexsevka/TTF/Nexsevka-Italic.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/Nexsevka/TTF/Nexsevka-MediumItalic.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/Nexsevka/TTF/Nexsevka-Italic.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/Nexsevka/TTF/Nexsevka-MediumItalic.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/Nexsevka/TTF/Nexsevka-Italic.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/Nexsevka/TTF/Nexsevka-MediumItalic.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/Nexsevka/TTF/Nexsevka-Italic.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/Nexsevka/TTF/Nexsevka-MediumItalic.ttf")
       format("truetype");
   font-weight: normal;
   font-style: italic;
@@ -137,15 +137,15 @@ SOFTWARE.
 @font-face {
   font-family: NexsevkaPropo;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/NexsevkaPropo/TTF/NexsevkaPropo-Regular.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/NexsevkaPropo/TTF/NexsevkaPropo-Medium.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/NexsevkaPropo/TTF/NexsevkaPropo-Regular.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/NexsevkaPropo/TTF/NexsevkaPropo-Medium.ttf")
+      format("truetype"), 
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/NexsevkaPropo/TTF/NexsevkaPropo-Medium.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/NexsevkaPropo/TTF/NexsevkaPropo-Regular.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/NexsevkaPropo/TTF/NexsevkaPropo-Medium.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/NexsevkaPropo/TTF/NexsevkaPropo-Regular.ttf")
-      format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/NexsevkaPropo/TTF/NexsevkaPropo-Regular.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/NexsevkaPropo/TTF/NexsevkaPropo-Medium.ttf")
       format("truetype");
   font-weight: normal;
   font-style: normal;
@@ -154,15 +154,15 @@ SOFTWARE.
 @font-face {
   font-family: NexsevkaPropo;
   src:
-    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/NexsevkaPropo/TTF/NexsevkaPropo-Italic.ttf")
+    url("https://raw.githubusercontent.com/nexovolta/ccc5/master/NexsevkaPropo/TTF/NexsevkaPropo-MediumItalic.ttf")
       format("truetype"),
-    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/NexsevkaPropo/TTF/NexsevkaPropo-Italic.ttf")
+    url("https://cdn.statically.io/gh/nexovolta/ccc5@master/NexsevkaPropo/TTF/NexsevkaPropo-MediumItalic.ttf")
       format("truetype"),
-    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/NexsevkaPropo/TTF/NexsevkaPropo-Italic.ttf")
+    url("https://cdn.jsdelivr.net/gh/nexovolta/ccc5@master/NexsevkaPropo/TTF/NexsevkaPropo-MediumItalic.ttf")
       format("truetype"),
-    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/NexsevkaPropo/TTF/NexsevkaPropo-Italic.ttf")
+    url("https://fastly.jsdelivr.net/gh/nexovolta/ccc5@master/NexsevkaPropo/TTF/NexsevkaPropo-MediumItalic.ttf")
       format("truetype"),
-    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/NexsevkaPropo/TTF/NexsevkaPropo-Italic.ttf")
+    url("https://gcore.jsdelivr.net/gh/nexovolta/ccc5@master/NexsevkaPropo/TTF/NexsevkaPropo-MediumItalic.ttf")
       format("truetype");
   font-weight: normal;
   font-style: italic;
