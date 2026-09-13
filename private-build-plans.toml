@@ -298,9 +298,6 @@ lig-single-arrow-bar = "with-notch"
 [buildPlans.Nexsevka.ligations]
 inherits = "dlig"
 
-# Weights matched to Caesium instances: menu/css = Caesium usWeightClass,
-# shape = Iosevka stroke grade that matches Caesium | stem (scaled to UPM 1000).
-# Caesium axis stops at Bold (650); Heavy/Black omitted (Iosevka shape max 900).
 [buildPlans.Nexsevka.weights.Thin]
 shape = 245
 menu = 150
@@ -336,7 +333,6 @@ shape = 900
 menu = 650
 css = 650
 
-# Caesium cell width 600 @ UPM 1024 → 586 @ UPM 1000
 [buildPlans.Nexsevka.widths.Normal]
 shape = 586
 menu = 5
@@ -354,14 +350,11 @@ shape = "italic"
 menu = "italic"
 css = "italic"
 
-# Vertical metrics matched to Caesium (UPM 1024) scaled into Iosevka's UPM 1000
-# (× 1000/1024). Source: Caesium Regular OS/2 + master metrics via fontTools.
 [buildPlans.Nexsevka.metricOverride]
 xHeight = 518
 cap = 693
 ascender = 732
 symbolMid = 305
-# Caesium Regular avg sidebearing ≈ 54 @ 1024 → ≈ 53 @ 1000
 sb = "default_sb-32"
 
 accentWidth = 200
@@ -380,7 +373,6 @@ essRatio = 1
 archDepth = 200
 smallArchDepth = 200
 
-# Match Caesium's larger Win clip box (scaled)
 winMetricAscenderPad = 144
 winMetricDescenderPad = 16
 
@@ -681,7 +673,6 @@ lig-plus-chain = "with-notch"
 lig-double-arrow-bar = "with-notch"
 lig-single-arrow-bar = "with-notch"
 
-# Weights matched to Caesium instances (same mapping as Nexsevka).
 [buildPlans.NexsevkaPropo.weights.Thin]
 shape = 245
 menu = 150
@@ -734,8 +725,6 @@ shape = "italic"
 menu = "italic"
 css = "italic"
 
-# Vertical metrics matched to Caesium (UPM 1024) scaled into Iosevka's UPM 1000
-# (× 1000/1024). Source: Caesium Regular OS/2 + master metrics via fontTools.
 [buildPlans.NexsevkaPropo.metricOverride]
 xHeight = 518
 cap = 693
@@ -759,6 +748,5 @@ essRatio = 1
 archDepth = 200
 smallArchDepth = 200
 
-# Match Caesium's larger Win clip box (scaled)
 winMetricAscenderPad = 144
 winMetricDescenderPad = 16
