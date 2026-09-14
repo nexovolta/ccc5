@@ -41,7 +41,7 @@ capital-w = "straight-vertical-sides-almost-flat-top-serifless"
 capital-x = "straight-serifless"
 capital-y = "straight-base-serifed"
 capital-z = "straight-serifed-with-crossbar"
-a = "double-storey-flat-bottom-serifless"
+a = "double-storey-flat-bottom-serifed"
 b = "toothless-corner-serifed"
 c = "serifless"
 d = "flat-bottom-top-serifed"
@@ -94,7 +94,7 @@ lower-phi = "straight-short-neck2"
 lower-chi = "straight-unilateral-motion-serifed"
 lower-psi = "short-neck2-serifed"
 partial-derivative = "closed-contour"
-cyrl-a = "double-storey-flat-bottom-serifless"
+cyrl-a = "double-storey-flat-bottom-serifed"
 cyrl-ve = "cursive-tall"
 cyrl-capital-zhe = "symmetric-connected"
 cyrl-zhe = "symmetric-connected"
@@ -300,8 +300,8 @@ inherits = "dlig"
 
 [buildPlans.Nexsevka.weights.Thin]
 shape = 245
-menu = 150
-css = 150
+menu = 100
+css = 100
 
 [buildPlans.Nexsevka.weights.Light]
 shape = 288
@@ -320,18 +320,18 @@ css = 400
 
 [buildPlans.Nexsevka.weights.Medium]
 shape = 599
-menu = 447
-css = 447
+menu = 500
+css = 500
 
 [buildPlans.Nexsevka.weights.SemiBold]
 shape = 765
-menu = 550
+menu = 600
 css = 550
 
 [buildPlans.Nexsevka.weights.Bold]
 shape = 900
-menu = 650
-css = 650
+menu = 700
+css = 700
 
 [buildPlans.Nexsevka.widths.Normal]
 shape = 586
@@ -419,7 +419,7 @@ capital-w = "straight-vertical-sides-almost-flat-top-serifless"
 capital-x = "straight-serifless"
 capital-y = "straight-base-serifed"
 capital-z = "straight-serifed-with-crossbar"
-a = "double-storey-flat-bottom-serifless"
+a = "double-storey-flat-bottom-serifed"
 b = "toothless-corner-serifed"
 c = "serifless"
 d = "flat-bottom-top-serifed"
@@ -472,7 +472,7 @@ lower-phi = "straight-short-neck2"
 lower-chi = "straight-unilateral-motion-serifed"
 lower-psi = "short-neck2-serifed"
 partial-derivative = "closed-contour"
-cyrl-a = "double-storey-flat-bottom-serifless"
+cyrl-a = "double-storey-flat-bottom-serifed"
 cyrl-ve = "cursive-tall"
 cyrl-capital-zhe = "symmetric-connected"
 cyrl-zhe = "symmetric-connected"
@@ -675,8 +675,8 @@ lig-single-arrow-bar = "with-notch"
 
 [buildPlans.NexsevkaPropo.weights.Thin]
 shape = 245
-menu = 150
-css = 150
+menu = 100
+css = 100
 
 [buildPlans.NexsevkaPropo.weights.Light]
 shape = 288
@@ -695,18 +695,18 @@ css = 400
 
 [buildPlans.NexsevkaPropo.weights.Medium]
 shape = 599
-menu = 447
-css = 447
+menu = 500
+css = 500
 
 [buildPlans.NexsevkaPropo.weights.SemiBold]
 shape = 765
-menu = 550
+menu = 600
 css = 550
 
 [buildPlans.NexsevkaPropo.weights.Bold]
 shape = 900
-menu = 650
-css = 650
+menu = 700
+css = 700
 
 [buildPlans.NexsevkaPropo.widths.Normal]
 shape = 586
