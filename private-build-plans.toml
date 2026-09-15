@@ -339,7 +339,7 @@ menu = 5
 css = "normal"
 
 [buildPlans.Nexsevka.slopes.Upright]
-angle = 1.5
+angle = 1
 shape = "upright"
 menu = "upright"
 css = "normal"
@@ -714,7 +714,7 @@ menu = 5
 css = "normal"
 
 [buildPlans.NexsevkaPropo.slopes.Upright]
-angle = 1.5
+angle = 1
 shape = "upright"
 menu = "upright"
 css = "normal"
