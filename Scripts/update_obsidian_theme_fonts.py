@@ -70,6 +70,14 @@ DIST_DIR = SCRIPT_DIR / "dist"
 BAKE_FOLDERS = ("hangul", "yi", "kana", "cjk")
 PLUGIN_DIR = SCRIPT_DIR / PLUGIN_DIR_NAME
 
+# Obsidian plugin `data.json` (Plugin.loadData / saveData). Matches main.js defaults.
+DEFAULT_PLUGIN_SETTINGS = {
+    "kana": {"enabled": True, "base": True, "h": True},
+    "yi": {"enabled": True, "base": True, "h": True},
+    "cjk": {"enabled": True, "base": True, "h": True},
+    "hangul": {"enabled": True},
+}
+
 # CSS fetch order: GitHub raw → statically → jsDelivr (avoid overloading one host).
 _CSS_REL = {
     "hangul": f"Scripts/dist/hangul/{CSS_HANGUL}",
@@ -456,6 +464,9 @@ def write_plugin(faces: list[dict]) -> None:
     }
     (PLUGIN_DIR / "manifest.json").write_text(
         json.dumps(manifest, indent=2) + "\n", encoding="utf-8"
+    )
+    (PLUGIN_DIR / "data.json").write_text(
+        json.dumps(DEFAULT_PLUGIN_SETTINGS, indent=2) + "\n", encoding="utf-8"
     )
     faces_json = json.dumps(faces, ensure_ascii=True)
     # Fonts under .obsidian/plugins/<id>/edenia/. Never top-level require("fs")
@@ -932,6 +943,17 @@ def install_to_vault(vault: Path) -> None:
     plug.mkdir(parents=True, exist_ok=True)
     shutil.copy2(PLUGIN_DIR / "main.js", plug / "main.js")
     shutil.copy2(PLUGIN_DIR / "manifest.json", plug / "manifest.json")
+    # Seed defaults only; never clobber an existing vault data.json.
+    dst_data = plug / "data.json"
+    src_data = PLUGIN_DIR / "data.json"
+    if not dst_data.is_file():
+        if src_data.is_file():
+            shutil.copy2(src_data, dst_data)
+        else:
+            dst_data.write_text(
+                json.dumps(DEFAULT_PLUGIN_SETTINGS, indent=2) + "\n",
+                encoding="utf-8",
+            )
     sync_woff2(plug / PLUGIN_ASSET)
     for stale in (
         vault / PLUGIN_ASSET,  # never keep fonts at Dropbox/vault root
