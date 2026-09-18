@@ -105,14 +105,16 @@ _ANY_NEXOVOLTA_DIST = re.compile(
 )
 _EDENIA_CJK_FAMILY = re.compile(r"font-family:\s*['\"](edenia cjk(?:\s+h)?)['\"]")
 
-MARK_FACES_BEGIN = "/* === BEGIN auto edenia fonts (update_obsidian_theme_fonts.py) === */"
+MARK_FACES_BEGIN = (
+    "/* === BEGIN auto edenia fonts (update_obsidian_theme_fonts.py) === */"
+)
 MARK_FACES_END = "/* === END auto edenia fonts === */"
 MARK_STACK_BEGIN = (
     "/* === BEGIN auto edenia font stack (update_obsidian_theme_fonts.py) === */"
 )
 MARK_STACK_END = "/* === END auto edenia font stack === */"
 
-STACK_LATIN = "Caesium, Cascadia, Nexsevka, Cascadia Code, JuliaMono"
+STACK_LATIN = "Caesium, Cascadia, Cascadia Code, Nexsevka, JuliaMono"
 STACK_TAIL = "monospace"
 
 
@@ -1159,9 +1161,7 @@ def patch_theme(theme_path: Path, faces: str, stack: str) -> None:
         text = _replace_legacy_stack(text, stack)
 
     theme_path.write_text(text, encoding="utf-8")
-    n_unique = len(
-        set(re.findall(r"""["']?edenia cjk(?:\s+h)?["']?""", text))
-    )
+    n_unique = len(set(re.findall(r"""["']?edenia cjk(?:\s+h)?["']?""", text)))
     size_mb = theme_path.stat().st_size / (1024 * 1024)
     print(f"Wrote {theme_path} (edenia cjk families~{n_unique}, {size_mb:.1f} MiB)")
 

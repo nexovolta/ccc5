@@ -364,7 +364,7 @@ accentStackOffset = 200
 
 leading = 1250
 parenSize = 902
-dotSize = "blend(weight, [100, 100], [400, 125], [900, 175])"
+dotSize = "blend(weight, [100, 100], [500, 125], [900, 175])"
 periodSize = 150
 
 onumZeroHeightRatio = 1
@@ -739,7 +739,7 @@ accentStackOffset = 200
 
 leading = 1250
 parenSize = 902
-dotSize = "blend(weight, [100, 100], [400, 125], [900, 175])"
+dotSize = "blend(weight, [100, 100], [500, 125], [900, 175])"
 periodSize = 150
 
 onumZeroHeightRatio = 1
