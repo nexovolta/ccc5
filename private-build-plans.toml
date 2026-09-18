@@ -357,15 +357,15 @@ ascender = 732
 symbolMid = 305
 sb = "blend(weight, [245, 81], [288, 79], [374, 77], [522, 74], [599, 71], [765, 66], [900, 60])"
 
-accentWidth = 200
-accentClearance = 100
-accentHeight = 150
-accentStackOffset = 200
+accentWidth = 215
+accentClearance = 68
+accentHeight = 186
+accentStackOffset = 234
 
 leading = 1250
 parenSize = 902
-dotSize = "blend(weight, [100, 100], [500, 125], [900, 175])"
-periodSize = 150
+dotSize = "blend(weight, [245, 98], [288, 104], [374, 113], [522, 125], [599, 133], [765, 150], [900, 166])"
+periodSize = "blend(weight, [245, 123], [288, 133], [374, 152], [522, 172], [599, 181], [765, 201], [900, 221])"
 
 onumZeroHeightRatio = 1
 
@@ -732,15 +732,15 @@ ascender = 732
 symbolMid = 305
 sb = "blend(weight, [245, 81], [288, 79], [374, 77], [522, 74], [599, 71], [765, 66], [900, 60])"
 
-accentWidth = 200
-accentClearance = 100
-accentHeight = 150
-accentStackOffset = 200
+accentWidth = 215
+accentClearance = 68
+accentHeight = 186
+accentStackOffset = 234
 
 leading = 1250
 parenSize = 902
-dotSize = "blend(weight, [100, 100], [500, 125], [900, 175])"
-periodSize = 150
+dotSize = "blend(weight, [245, 98], [288, 104], [374, 113], [522, 125], [599, 133], [765, 150], [900, 166])"
+periodSize = "blend(weight, [245, 123], [288, 133], [374, 152], [522, 172], [599, 181], [765, 201], [900, 221])"
 
 onumZeroHeightRatio = 1
 
