@@ -15,7 +15,7 @@ six = "closed-contour"
 seven = "straight-serifed-crossbar"
 eight = "crossing-asymmetric"
 nine = "straight-bar"
-zero = "diamond-top-right-cutout"
+zero = "diamond-broken-reverse-slash"
 capital-a = "straight-top-serifed"
 capital-b = "more-asymmetric-unilateral-serifed"
 capital-c = "bilateral-inward-serifed"
@@ -160,7 +160,7 @@ six = "closed-contour"
 seven = "bend-serifed-crossbar"
 eight = "crossing-asymmetric"
 nine = "straight-bar"
-zero = "diamond-top-right-cutout"
+zero = "diamond-broken-reverse-slash"
 capital-a = "curly-top-serifed"
 capital-b = "more-asymmetric-unilateral-serifed"
 capital-c = "bilateral-inward-serifed"
@@ -393,7 +393,7 @@ six = "closed-contour"
 seven = "straight-serifed-crossbar"
 eight = "crossing-asymmetric"
 nine = "straight-bar"
-zero = "diamond-top-right-cutout"
+zero = "diamond-broken-reverse-slash"
 capital-a = "straight-top-serifed"
 capital-b = "more-asymmetric-unilateral-serifed"
 capital-c = "bilateral-inward-serifed"
@@ -538,7 +538,7 @@ six = "closed-contour"
 seven = "bend-serifed-crossbar"
 eight = "crossing-asymmetric"
 nine = "straight-bar"
-zero = "diamond-top-right-cutout"
+zero = "diamond-broken-reverse-slash"
 capital-a = "curly-top-serifed"
 capital-b = "more-asymmetric-unilateral-serifed"
 capital-c = "bilateral-inward-serifed"
@@ -750,3 +750,185 @@ smallArchDepth = 200
 
 winMetricAscenderPad = 144
 winMetricDescenderPad = 16
+
+[buildPlans.IosevkaTestSans]
+family = "Iosevka Test Sans"
+serifs = "sans"
+noCvSs = true
+exportGlyphNames = true
+
+[buildPlans.IosevkaTestSans.weights.Regular]
+shape = 400
+menu = 400
+css = 400
+
+[buildPlans.IosevkaTestSans.widths.Normal]
+shape = 500
+menu = 5
+css = "normal"
+
+[buildPlans.IosevkaTestSans.slopes.Upright]
+angle = 0
+shape = "upright"
+menu = "upright"
+css = "normal"
+
+[buildPlans.IosevkaTestSans.slopes.Italic]
+angle = 9.4
+shape = "italic"
+menu = "italic"
+css = "italic"
+
+[buildPlans.IosevkaTestSlab]
+family = "Iosevka Test Slab"
+serifs = "slab"
+noCvSs = true
+exportGlyphNames = true
+
+[buildPlans.IosevkaTestSlab.weights.Regular]
+shape = 400
+menu = 400
+css = 400
+
+[buildPlans.IosevkaTestSlab.widths.Normal]
+shape = 500
+menu = 5
+css = "normal"
+
+[buildPlans.IosevkaTestSlab.slopes.Upright]
+angle = 0
+shape = "upright"
+menu = "upright"
+css = "normal"
+
+[buildPlans.IosevkaTestSlab.slopes.Italic]
+angle = 9.4
+shape = "italic"
+menu = "italic"
+css = "italic"
+
+[buildPlans.IosevkaTestAile]
+family = "Iosevka Test Aile"
+spacing = "quasi-proportional"
+serifs = "sans"
+noCvSs = true
+exportGlyphNames = true
+
+[buildPlans.IosevkaTestAile.variants.design]
+capital-i = "serifless"
+capital-j = "serifless"
+capital-m = "flat-bottom-serifless"
+capital-w = "straight-flat-top-serifless"
+a = "double-storey-serifless"
+d = "toothed-serifless"
+e = "flat-crossbar"
+f = "flat-hook-serifless"
+i = "serifless"
+j = "flat-hook-serifless"
+k = "straight-serifless"
+l = "serifless"
+r = "compact-serifless"
+t = "flat-hook"
+u = "toothed-serifless"
+w = "straight-flat-top-serifless"
+y = "straight-serifless"
+long-s = "flat-hook-serifless"
+eszet = "longs-s-lig-serifless"
+lower-iota = "flat-tailed"
+lower-lambda = "straight-turn"
+lower-tau = "short-tailed"
+cyrl-a = "double-storey-serifless"
+cyrl-u = "straight-serifless"
+cyrl-ef = "serifless"
+four = "closed-serifless"
+six = "closed-contour"
+nine = "closed-contour"
+brace = "straight"
+guillemet = "straight"
+at = "fourfold"
+percent = "rings-continuous-slash"
+micro-sign = "toothed-serifless"
+
+[buildPlans.IosevkaTestAile.weights.Regular]
+shape = 400
+menu = 400
+css = 400
+
+[buildPlans.IosevkaTestAile.widths.Normal]
+shape = 600
+menu = 5
+css = "normal"
+
+[buildPlans.IosevkaTestAile.slopes.Upright]
+angle = 0
+shape = "upright"
+menu = "upright"
+css = "normal"
+
+[buildPlans.IosevkaTestAile.slopes.Italic]
+angle = 9.4
+shape = "italic"
+menu = "italic"
+css = "italic"
+
+[buildPlans.IosevkaTestEtoile]
+family = "Iosevka Test Etoile"
+spacing = "quasi-proportional"
+serifs = "slab"
+noCvSs = true
+exportGlyphNames = true
+
+[buildPlans.IosevkaTestEtoile.variants.design]
+capital-m = "flat-bottom-serifed"
+capital-w = "straight-almost-flat-top-serifed"
+f = "flat-hook-serifed"
+i = "serifed"
+j = "flat-hook-serifed"
+l = "serifed"
+t = "flat-hook"
+w = "straight-almost-flat-top-serifed"
+long-s = "flat-hook-bottom-serifed"
+eszet = "longs-s-lig-bottom-serifed"
+lower-iota = "serifed-flat-tailed"
+lower-lambda = "straight-turn"
+lower-tau = "short-tailed"
+cyrl-ef = "serifed"
+four = "closed-serifed"
+six = "closed-contour"
+nine = "closed-contour"
+brace = "straight"
+guillemet = "straight"
+at = "fourfold"
+percent = "rings-continuous-slash"
+
+[buildPlans.IosevkaTestEtoile.variants.italic]
+f = "flat-hook-tailed"
+i = "serifed-flat-tailed"
+l = "serifed-flat-tailed"
+w = "straight-almost-flat-top-motion-serifed"
+long-s = "flat-hook-tailed"
+eszet = "longs-s-lig-tailed-serifless"
+cyrl-ef = "split-cursive"
+
+[buildPlans.IosevkaTestEtoile.weights.Regular]
+shape = 400
+menu = 400
+css = 400
+
+[buildPlans.IosevkaTestEtoile.widths.Normal]
+shape = 600
+menu = 5
+css = "normal"
+
+[buildPlans.IosevkaTestEtoile.slopes.Upright]
+angle = 0
+shape = "upright"
+menu = "upright"
+css = "normal"
+
+[buildPlans.IosevkaTestEtoile.slopes.Italic]
+angle = 9.4
+shape = "italic"
+menu = "italic"
+css = "italic"
+
