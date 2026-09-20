@@ -86,7 +86,10 @@ capital-lambda = "straight-top-serifed"
 lower-lambda = "straight-turn"
 lower-mu = "flat-bottom-motion-serifed"
 lower-nu = "straight-serifed"
-lower-xi = "flat-top"
+lower-xi = "flat-top-diagonal-tail"
+lower-zeta = "straight-tail"
+lower-sigma-final = "straight-tail-rounded-bend"
+lower-stigma = "diagonal-tail-rounded-bend"
 lower-pi = "tailless"
 lower-tau = "short-tailed"
 lower-upsilon = "straight-serifed"
@@ -231,7 +234,10 @@ capital-lambda = "curly-top-serifed"
 lower-lambda = "curly-tailed-turn"
 lower-mu = "flat-bottom-motion-serifed"
 lower-nu = "casual-serifed"
-lower-xi = "rounded"
+lower-xi = "rounded-diagonal-tail"
+lower-zeta = "straight-tail"
+lower-sigma-final = "straight-tail-rounded-bend"
+lower-stigma = "diagonal-tail-rounded-bend"
 lower-pi = "tailed"
 lower-tau = "flat-tailed"
 lower-upsilon = "casual-serifed"
@@ -464,7 +470,10 @@ capital-lambda = "straight-top-serifed"
 lower-lambda = "straight-turn"
 lower-mu = "flat-bottom-motion-serifed"
 lower-nu = "straight-serifed"
-lower-xi = "flat-top"
+lower-xi = "flat-top-diagonal-tail"
+lower-zeta = "straight-tail"
+lower-sigma-final = "straight-tail-rounded-bend"
+lower-stigma = "diagonal-tail-rounded-bend"
 lower-pi = "tailless"
 lower-tau = "short-tailed"
 lower-upsilon = "straight-serifed"
@@ -609,7 +618,10 @@ capital-lambda = "curly-top-serifed"
 lower-lambda = "curly-tailed-turn"
 lower-mu = "flat-bottom-motion-serifed"
 lower-nu = "casual-serifed"
-lower-xi = "rounded"
+lower-xi = "rounded-diagonal-tail"
+lower-zeta = "straight-tail"
+lower-sigma-final = "straight-tail-rounded-bend"
+lower-stigma = "diagonal-tail-rounded-bend"
 lower-pi = "tailed"
 lower-tau = "flat-tailed"
 lower-upsilon = "casual-serifed"
@@ -754,7 +766,7 @@ winMetricDescenderPad = 16
 [buildPlans.IosevkaTestSans]
 family = "Iosevka Test Sans"
 serifs = "sans"
-noCvSs = true
+noCvSs = false
 exportGlyphNames = true
 
 [buildPlans.IosevkaTestSans.weights.Regular]
@@ -782,7 +794,7 @@ css = "italic"
 [buildPlans.IosevkaTestSlab]
 family = "Iosevka Test Slab"
 serifs = "slab"
-noCvSs = true
+noCvSs = false
 exportGlyphNames = true
 
 [buildPlans.IosevkaTestSlab.weights.Regular]
@@ -811,7 +823,7 @@ css = "italic"
 family = "Iosevka Test Aile"
 spacing = "quasi-proportional"
 serifs = "sans"
-noCvSs = true
+noCvSs = false
 exportGlyphNames = true
 
 [buildPlans.IosevkaTestAile.variants.design]
@@ -875,7 +887,7 @@ css = "italic"
 family = "Iosevka Test Etoile"
 spacing = "quasi-proportional"
 serifs = "slab"
-noCvSs = true
+noCvSs = false
 exportGlyphNames = true
 
 [buildPlans.IosevkaTestEtoile.variants.design]
