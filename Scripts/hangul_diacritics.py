@@ -7,7 +7,7 @@ marks (macron, overline) are box-fitted, not dropped. Spacing marks
 
 Stack (priority order):
 
-    LXGWNeoXiHeiScreenFull → mkanaplus → Nexsevka-Regular → Arial
+    LXGWNeoXiHeiScreenFull → mkanaplus → Iosevka-Regular → Arial
     → JuliaMono-Regular → Segoe UI → Segoe UI Historic → Sans Serif Collection
     → Droid Sans
 
@@ -79,7 +79,7 @@ _REPO_ROOT = os.path.dirname(_SCRIPTS_DIR)
 
 LXGW_NEO_XIHEI_SCREEN_FULL_FILENAMES: Tuple[str, ...] = ("LXGWNeoXiHeiScreenFull.ttf",)
 MKANAPLUS_FILENAMES: Tuple[str, ...] = ("mkanaplus.ttf", "mkanaplus-regular.ttf")
-NEXSEVKA_FILENAME = "Nexsevka-Regular.ttf"
+IOSEVKA_FILENAME = "IosevkaTestSans-Regular.ttf"
 ARIAL_FILENAMES: Tuple[str, ...] = ("arial.ttf", "Arial.ttf", "ARIAL.TTF")
 JULIAMONO_FILENAME = "JuliaMono-Regular.ttf"
 SEGOE_UI_FILENAMES: Tuple[str, ...] = ("segoeui.ttf", "SegoeUI.ttf", "SEGOEUI.TTF")
@@ -192,7 +192,7 @@ def _paths_for_names(in_dir: str, names: Sequence[str], *extra: str) -> Tuple[st
 def resolve_dakuten_mark_font_stack(in_dir: str) -> List[str]:
     """Return existing mark-source paths in priority order.
 
-    Priority: LXGWNeoXiHeiScreenFull → mkanaplus → Nexsevka → Arial →
+    Priority: LXGWNeoXiHeiScreenFull → mkanaplus → Iosevka → Arial →
     JuliaMono → Segoe UI → Segoe UI Historic → Sans Serif Collection →
     Droid Sans.
     Looks under `in_dir` first, then well-known repo locations.
@@ -200,8 +200,8 @@ def resolve_dakuten_mark_font_stack(in_dir: str) -> List[str]:
     groups: Tuple[Tuple[str, ...], ...] = (
         _paths_for_names(
             in_dir,
-            (NEXSEVKA_FILENAME,),
-            os.path.join(_REPO_ROOT, "Nexsevka", "TTF", NEXSEVKA_FILENAME),
+            (IOSEVKA_FILENAME,),
+            os.path.join(_REPO_ROOT, "Iosevka", "TTF", IOSEVKA_FILENAME),
         ),
         _paths_for_names(in_dir, LXGW_NEO_XIHEI_SCREEN_FULL_FILENAMES),
         _paths_for_names(
@@ -231,7 +231,7 @@ def resolve_dakuten_mark_font_stack(in_dir: str) -> List[str]:
     if not out:
         raise FileNotFoundError(
             "No shared-diacritic mark source fonts found "
-            "(LXGWNeoXiHeiScreenFull / mkanaplus / Nexsevka / Arial / "
+            "(LXGWNeoXiHeiScreenFull / mkanaplus / Iosevka / Arial / "
             "JuliaMono / Segoe UI / Segoe UI Historic / Sans Serif Collection / "
             f"Droid Sans; in_dir={in_dir!r})"
         )

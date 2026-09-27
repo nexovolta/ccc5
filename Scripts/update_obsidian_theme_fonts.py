@@ -113,6 +113,15 @@ MARK_STACK_BEGIN = (
     "/* === BEGIN auto edenia font stack (update_obsidian_theme_fonts.py) === */"
 )
 MARK_STACK_END = "/* === END auto edenia font stack === */"
+# Older themes used "auto pan" before the edenia rename.
+MARK_FACES_BEGIN_LEGACY = (
+    "/* === BEGIN auto pan fonts (update_obsidian_theme_fonts.py) === */"
+)
+MARK_FACES_END_LEGACY = "/* === END auto pan fonts === */"
+MARK_STACK_BEGIN_LEGACY = (
+    "/* === BEGIN auto pan font stack (update_obsidian_theme_fonts.py) === */"
+)
+MARK_STACK_END_LEGACY = "/* === END auto pan font stack === */"
 
 STACK_LATIN = "Caesium, Cascadia, Cascadia Code, Nexsevka, JuliaMono"
 STACK_TAIL = "monospace"
@@ -1108,6 +1117,26 @@ def _replace_marked(text: str, begin: str, end: str, new_block: str) -> str:
     return text
 
 
+def _replace_marked_block(text: str, new_block: str, *marker_pairs: tuple[str, str]) -> str:
+    for begin, end in marker_pairs:
+        updated = _replace_marked(text, begin, end, new_block)
+        if updated != text:
+            return updated
+    return text
+
+
+def _theme_has_edenia_markers(text: str) -> bool:
+    return any(
+        mark in text
+        for mark in (
+            MARK_FACES_BEGIN,
+            MARK_STACK_BEGIN,
+            MARK_FACES_BEGIN_LEGACY,
+            MARK_STACK_BEGIN_LEGACY,
+        )
+    )
+
+
 def _replace_legacy_faces(text: str, new_block: str) -> str:
     pattern = re.compile(
         r"/\* Auto-generated Hangul fonts from Malgun Gothic \*/.*?"
@@ -1150,13 +1179,21 @@ def _replace_legacy_stack(text: str, new_block: str) -> str:
 
 def patch_theme(theme_path: Path, faces: str, stack: str) -> None:
     text = theme_path.read_text(encoding="utf-8")
-    if MARK_FACES_BEGIN in text:
-        text = _replace_marked(text, MARK_FACES_BEGIN, MARK_FACES_END, faces)
+    face_markers = (
+        (MARK_FACES_BEGIN, MARK_FACES_END),
+        (MARK_FACES_BEGIN_LEGACY, MARK_FACES_END_LEGACY),
+    )
+    if any(begin in text for begin, _ in face_markers):
+        text = _replace_marked_block(text, faces, *face_markers)
     else:
         text = _replace_legacy_faces(text, faces)
 
-    if MARK_STACK_BEGIN in text:
-        text = _replace_marked(text, MARK_STACK_BEGIN, MARK_STACK_END, stack)
+    stack_markers = (
+        (MARK_STACK_BEGIN, MARK_STACK_END),
+        (MARK_STACK_BEGIN_LEGACY, MARK_STACK_END_LEGACY),
+    )
+    if any(begin in text for begin, _ in stack_markers):
+        text = _replace_marked_block(text, stack, *stack_markers)
     else:
         text = _replace_legacy_stack(text, stack)
 
@@ -1220,7 +1257,7 @@ def main(argv: list[str] | None = None) -> int:
                     text = theme_css.read_text(encoding="utf-8")
                 except OSError:
                     continue
-                if MARK_STACK_BEGIN in text or MARK_FACES_BEGIN in text:
+                if _theme_has_edenia_markers(text):
                     themes.append(theme_css)
 
     print("Loading Edenia font CSS…")
