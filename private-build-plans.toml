@@ -112,7 +112,7 @@ cyrl-capital-en = "top-left-serifed"
 cyrl-en = "top-left-bottom-right-serifed"
 cyrl-capital-er = "closed-motion-serifed"
 cyrl-er = "flat-top-motion-serifed"
-cyrl-capital-u = "square-top-turn-motion-serifed"
+cyrl-capital-u = "square-top-motion-serifed"
 cyrl-u = "straight-motion-serifed"
 cyrl-ef = "top-serifed"
 cyrl-che = "standard"
@@ -261,7 +261,7 @@ cyrl-capital-en = "top-left-serifed"
 cyrl-en = "tailed-top-left-serifed"
 cyrl-capital-er = "closed-motion-serifed"
 cyrl-er = "flat-top-motion-serifed"
-cyrl-capital-u = "square-top-turn-motion-serifed"
+cyrl-capital-u = "square-top-motion-serifed"
 cyrl-u = "cursive-flat-hooked-motion-serifed"
 cyrl-ef = "diagonal-tailed-cursive"
 cyrl-che = "tailed"
@@ -498,7 +498,7 @@ cyrl-capital-en = "top-left-serifed"
 cyrl-en = "top-left-bottom-right-serifed"
 cyrl-capital-er = "closed-motion-serifed"
 cyrl-er = "flat-top-motion-serifed"
-cyrl-capital-u = "square-top-turn-motion-serifed"
+cyrl-capital-u = "square-top-motion-serifed"
 cyrl-u = "straight-motion-serifed"
 cyrl-ef = "top-serifed"
 cyrl-che = "standard"
@@ -647,7 +647,7 @@ cyrl-capital-en = "top-left-serifed"
 cyrl-en = "tailed-top-left-serifed"
 cyrl-capital-er = "closed-motion-serifed"
 cyrl-er = "flat-top-motion-serifed"
-cyrl-capital-u = "square-top-turn-motion-serifed"
+cyrl-capital-u = "square-top-motion-serifed"
 cyrl-u = "cursive-flat-hooked-motion-serifed"
 cyrl-ef = "diagonal-tailed-cursive"
 cyrl-che = "tailed"
@@ -773,10 +773,20 @@ serifs = "sans"
 noCvSs = false
 exportGlyphNames = true
 
+[buildPlans.IosevkaTestSans.weights.Thin]
+shape = 100
+menu = 100
+css = 100
+
 [buildPlans.IosevkaTestSans.weights.Regular]
 shape = 400
 menu = 400
 css = 400
+
+[buildPlans.IosevkaTestSans.weights.Heavy]
+shape = 900
+menu = 900
+css = 900
 
 [buildPlans.IosevkaTestSans.widths.Normal]
 shape = 500
@@ -801,10 +811,20 @@ serifs = "slab"
 noCvSs = false
 exportGlyphNames = true
 
+[buildPlans.IosevkaTestSlab.weights.Thin]
+shape = 100
+menu = 100
+css = 100
+
 [buildPlans.IosevkaTestSlab.weights.Regular]
 shape = 400
 menu = 400
 css = 400
+
+[buildPlans.IosevkaTestSlab.weights.Heavy]
+shape = 900
+menu = 900
+css = 900
 
 [buildPlans.IosevkaTestSlab.widths.Normal]
 shape = 500
@@ -865,10 +885,20 @@ at = "fourfold"
 percent = "rings-continuous-slash"
 micro-sign = "toothed-serifless"
 
+[buildPlans.IosevkaTestAile.weights.Thin]
+shape = 100
+menu = 100
+css = 100
+
 [buildPlans.IosevkaTestAile.weights.Regular]
 shape = 400
 menu = 400
 css = 400
+
+[buildPlans.IosevkaTestAile.weights.Heavy]
+shape = 900
+menu = 900
+css = 900
 
 [buildPlans.IosevkaTestAile.widths.Normal]
 shape = 600
@@ -926,10 +956,20 @@ long-s = "flat-hooked-tailed"
 eszet = "longs-s-lig-tailed-serifless"
 cyrl-ef = "split-cursive"
 
+[buildPlans.IosevkaTestEtoile.weights.Thin]
+shape = 100
+menu = 100
+css = 100
+
 [buildPlans.IosevkaTestEtoile.weights.Regular]
 shape = 400
 menu = 400
 css = 400
+
+[buildPlans.IosevkaTestEtoile.weights.Heavy]
+shape = 900
+menu = 900
+css = 900
 
 [buildPlans.IosevkaTestEtoile.widths.Normal]
 shape = 600
