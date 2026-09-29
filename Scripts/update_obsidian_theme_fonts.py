@@ -1117,7 +1117,9 @@ def _replace_marked(text: str, begin: str, end: str, new_block: str) -> str:
     return text
 
 
-def _replace_marked_block(text: str, new_block: str, *marker_pairs: tuple[str, str]) -> str:
+def _replace_marked_block(
+    text: str, new_block: str, *marker_pairs: tuple[str, str]
+) -> str:
     for begin, end in marker_pairs:
         updated = _replace_marked(text, begin, end, new_block)
         if updated != text:
