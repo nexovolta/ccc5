@@ -583,9 +583,7 @@ def build_marker_font(
         for n, (adv, _) in metrics.items()
         if adv > 0 and n in glyphs and not n.endswith(".ov")
     ]
-    install_overlay_gsub(
-        fb.font, full_forms, glyphs=glyphs, glyph_order=glyph_order
-    )
+    install_overlay_gsub(fb.font, full_forms, glyphs=glyphs, glyph_order=glyph_order)
 
     if not write_ttf and not write_woff2:
         raise ValueError("at least one of write_ttf / write_woff2 must be True")
