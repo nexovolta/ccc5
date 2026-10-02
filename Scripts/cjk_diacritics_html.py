@@ -426,7 +426,8 @@ def write_html(
 
     os.makedirs(os.path.dirname(path) or ".", exist_ok=True)
     with open(path, "w", encoding="utf-8", newline="\n") as f:
-        f.write(f"""<!doctype html>
+        f.write(
+            f"""<!doctype html>
 <html lang="zh-Hant">
 <head>
 <meta charset="utf-8"/>
@@ -919,7 +920,8 @@ renderMarks(sliceIndices(), markList());
 </script>
 </body>
 </html>
-""")
+"""
+        )
 
     print(f"CJK: N={n:,}  range={range_note}  gallery~{total:,}  -> {path}")
 
