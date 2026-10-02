@@ -390,7 +390,7 @@ xHeight = 518
 cap = 693
 ascender = 732
 symbolMid = 305
-sb = "blend(weight, [245, 81], [288, 79], [374, 77], [522, 74], [599, 71], [765, 66], [900, 60])"
+sb = "blend(weight, [245, 77], [288, 75], [374, 73], [522, 70], [599, 67], [765, 62], [900, 56])"
 
 accentWidth = 215
 accentClearance = 68
@@ -800,7 +800,7 @@ xHeight = 518
 cap = 693
 ascender = 732
 symbolMid = 305
-sb = "blend(weight, [245, 81], [288, 79], [374, 77], [522, 74], [599, 71], [765, 66], [900, 60])"
+sb = "blend(weight, [245, 77], [288, 75], [374, 73], [522, 70], [599, 67], [765, 62], [900, 56])"
 
 accentWidth = 215
 accentClearance = 68
