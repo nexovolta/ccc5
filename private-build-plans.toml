@@ -62,7 +62,7 @@ s = "serifless"
 t = "hookless-asymmetric-shorter-neck"
 u = "flat-bottom-serifed"
 v = "straight-bilateral-motion-serifed"
-w = "straight-reverse-asymmetric-bilateral-motion-serifed"
+w = "straight-reverse-asymmetric-motion-serifed"
 x = "straight-bilateral-top-motion-serifed"
 y = "straight-bilateral-motion-serifed"
 z = "straight-top-serifed"
@@ -133,8 +133,8 @@ cyrl-capital-che = "motion-serifed"
 cyrl-che = "standard-motion-serifed"
 cyrl-yeri = "corner"
 cyrl-yery = "round"
-cyrl-capital-e = "unilateral-inward-serifed"
-cyrl-e = "unilateral-inward-serifed"
+cyrl-capital-e = "bilateral-inward-mid-serifed"
+cyrl-e = "serifless"
 cyrl-capital-ya = "straight-open-motion-serifed"
 cyrl-ya = "straight-open-serifless"
 tittle = "diamond"
@@ -168,6 +168,7 @@ lig-hyphen-chain = "with-notch"
 lig-plus-chain = "with-notch"
 lig-double-arrow-bar = "with-notch"
 lig-single-arrow-bar = "with-notch"
+less-greater = "vertical-terminal"
 
 [buildPlans.Nexsevka.variants.italic]
 one = "base-flat-top-serif"
@@ -298,8 +299,8 @@ cyrl-capital-che = "motion-serifed"
 cyrl-che = "tailed-motion-serifed"
 cyrl-yeri = "round"
 cyrl-yery = "corner-tailed"
-cyrl-capital-e = "unilateral-inward-serifed"
-cyrl-e = "unilateral-inward-serifed"
+cyrl-capital-e = "bilateral-inward-mid-serifed"
+cyrl-e = "serifless"
 cyrl-capital-ya = "straight-open-motion-serifed"
 cyrl-ya = "standing-open-tailed-serifless"
 tittle = "diamond"
@@ -333,6 +334,7 @@ lig-hyphen-chain = "with-notch"
 lig-plus-chain = "with-notch"
 lig-double-arrow-bar = "with-notch"
 lig-single-arrow-bar = "with-notch"
+less-greater = "vertical-terminal"
 
 [buildPlans.Nexsevka.ligations]
 inherits = "dlig"
@@ -479,7 +481,7 @@ s = "serifless"
 t = "hookless-asymmetric-shorter-neck"
 u = "flat-bottom-serifed"
 v = "straight-bilateral-motion-serifed"
-w = "straight-reverse-asymmetric-bilateral-motion-serifed"
+w = "straight-reverse-asymmetric-motion-serifed"
 x = "straight-bilateral-top-motion-serifed"
 y = "straight-bilateral-motion-serifed"
 z = "straight-top-serifed"
@@ -550,8 +552,8 @@ cyrl-capital-che = "motion-serifed"
 cyrl-che = "standard-motion-serifed"
 cyrl-yeri = "corner"
 cyrl-yery = "round"
-cyrl-capital-e = "unilateral-inward-serifed"
-cyrl-e = "unilateral-inward-serifed"
+cyrl-capital-e = "bilateral-inward-mid-serifed"
+cyrl-e = "serifless"
 cyrl-capital-ya = "straight-open-motion-serifed"
 cyrl-ya = "straight-open-serifless"
 tittle = "diamond"
@@ -585,6 +587,7 @@ lig-hyphen-chain = "with-notch"
 lig-plus-chain = "with-notch"
 lig-double-arrow-bar = "with-notch"
 lig-single-arrow-bar = "with-notch"
+less-greater = "vertical-terminal"
 
 [buildPlans.NexsevkaPropo.variants.italic]
 one = "base-flat-top-serif"
@@ -715,8 +718,8 @@ cyrl-capital-che = "motion-serifed"
 cyrl-che = "tailed-motion-serifed"
 cyrl-yeri = "round"
 cyrl-yery = "corner-tailed"
-cyrl-capital-e = "unilateral-inward-serifed"
-cyrl-e = "unilateral-inward-serifed"
+cyrl-capital-e = "bilateral-inward-mid-serifed"
+cyrl-e = "serifless"
 cyrl-capital-ya = "straight-open-motion-serifed"
 cyrl-ya = "standing-open-tailed-serifless"
 tittle = "diamond"
@@ -750,6 +753,7 @@ lig-hyphen-chain = "with-notch"
 lig-plus-chain = "with-notch"
 lig-double-arrow-bar = "with-notch"
 lig-single-arrow-bar = "with-notch"
+less-greater = "vertical-terminal"
 
 [buildPlans.NexsevkaPropo.weights.Thin]
 shape = 245
@@ -835,6 +839,9 @@ serifs = "sans"
 noCvSs = false
 exportGlyphNames = true
 
+[buildPlans.IosevkaTestSans.variants.design]
+less-greater = "vertical-terminal"
+
 [buildPlans.IosevkaTestSans.weights.Thin]
 shape = 100
 menu = 100
@@ -872,6 +879,9 @@ family = "Iosevka Test Slab"
 serifs = "slab"
 noCvSs = false
 exportGlyphNames = true
+
+[buildPlans.IosevkaTestSlab.variants.design]
+less-greater = "vertical-terminal"
 
 [buildPlans.IosevkaTestSlab.weights.Thin]
 shape = 100
@@ -946,6 +956,7 @@ guillemet = "straight"
 at = "fourfold"
 percent = "rings-continuous-slash"
 micro-sign = "toothed-serifless"
+less-greater = "vertical-terminal"
 
 [buildPlans.IosevkaTestAile.weights.Thin]
 shape = 100
@@ -1008,6 +1019,7 @@ brace = "straight"
 guillemet = "straight"
 at = "fourfold"
 percent = "rings-continuous-slash"
+less-greater = "vertical-terminal"
 
 [buildPlans.IosevkaTestEtoile.variants.italic]
 f = "flat-hooked-tailed"
