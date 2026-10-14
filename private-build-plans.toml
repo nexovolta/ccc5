@@ -395,8 +395,10 @@ css = "italic"
 xHeight = 518
 cap = 693
 ascender = 732
+descender = -186
 symbolMid = 305
 sb = "blend(weight, [245, 77], [288, 75], [374, 73], [522, 70], [599, 67], [765, 62], [900, 56])"
+contrast = "blend(weight, [245, 1.044], [522, 1.093], [900, 1.102])"
 
 accentWidth = 215
 accentClearance = 68
@@ -811,8 +813,10 @@ css = "italic"
 xHeight = 518
 cap = 693
 ascender = 732
+descender = -186
 symbolMid = 305
 sb = "blend(weight, [245, 77], [288, 75], [374, 73], [522, 70], [599, 67], [765, 62], [900, 56])"
+contrast = "blend(weight, [245, 1.044], [522, 1.093], [900, 1.102])"
 
 accentWidth = 215
 accentClearance = 68
