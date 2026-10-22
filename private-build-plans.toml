@@ -373,39 +373,39 @@ lig-double-arrow-bar = 'with-notch'
 lig-single-arrow-bar = 'with-notch'
 
 [buildPlans.Nexsevka.weights.Thin]
-shape = 245
-menu = 100
-css = 100
+shape = 255
+menu = 110
+css = 110
 
 [buildPlans.Nexsevka.weights.Light]
-shape = 288
-menu = 200
-css = 200
+shape = 298
+menu = 210
+css = 210
 
 [buildPlans.Nexsevka.weights.SemiLight]
-shape = 374
-menu = 300
-css = 300
+shape = 384
+menu = 310
+css = 310
 
 [buildPlans.Nexsevka.weights.Regular]
-shape = 522
-menu = 400
-css = 400
+shape = 532
+menu = 410
+css = 410
 
 [buildPlans.Nexsevka.weights.Medium]
-shape = 599
-menu = 500
-css = 500
+shape = 609
+menu = 510
+css = 510
 
 [buildPlans.Nexsevka.weights.SemiBold]
-shape = 765
-menu = 600
-css = 550
+shape = 775
+menu = 610
+css = 560
 
 [buildPlans.Nexsevka.weights.Bold]
-shape = 900
-menu = 700
-css = 700
+shape = 910
+menu = 710
+css = 710
 
 [buildPlans.Nexsevka.widths.Normal]
 shape = 586
@@ -430,8 +430,8 @@ cap = 693
 ascender = 732
 descender = -186
 symbolMid = 305
-sb = 'blend(weight, [245, 82], [288, 80], [374, 77], [522, 72], [599, 70], [765, 64], [900, 60])'
-contrast = 'blend(weight, [245, 1.044], [522, 1.093], [900, 1.102])'
+sb = 'blend(weight, [255, 82], [298, 80], [384, 77], [532, 72], [609, 70], [775, 64], [910, 60])'
+contrast = 'blend(weight, [255, 1.044], [532, 1.093], [910, 1.102])'
 
 accentWidth = 215
 accentClearance = 68
@@ -440,14 +440,14 @@ accentStackOffset = 234
 
 leading = 1250
 parenSize = 902
-dotSize = 'blend(weight, [245, 98], [288, 104], [374, 113], [522, 125], [599, 133], [765, 150], [900, 166])'
-periodSize = 'blend(weight, [245, 123], [288, 133], [374, 152], [522, 172], [599, 181], [765, 201], [900, 221])'
+dotSize = 'blend(weight, [255, 98], [298, 104], [384, 113], [532, 125], [609, 133], [775, 150], [910, 166])'
+periodSize = 'blend(weight, [255, 123], [298, 133], [384, 152], [532, 172], [609, 181], [775, 201], [910, 221])'
 
 onumZeroHeightRatio = 1
 
 essRatio = 1
-archDepth = 256
-smallArchDepth = 128
+archDepth = 192
+smallArchDepth = 256
 
 winMetricAscenderPad = 144
 winMetricDescenderPad = 16
@@ -827,39 +827,39 @@ lig-double-arrow-bar = 'with-notch'
 lig-single-arrow-bar = 'with-notch'
 
 [buildPlans.NexsevkaPropo.weights.Thin]
-shape = 245
-menu = 100
-css = 100
+shape = 255
+menu = 110
+css = 110
 
 [buildPlans.NexsevkaPropo.weights.Light]
-shape = 288
-menu = 200
-css = 200
+shape = 298
+menu = 210
+css = 210
 
 [buildPlans.NexsevkaPropo.weights.SemiLight]
-shape = 374
-menu = 300
-css = 300
+shape = 384
+menu = 310
+css = 310
 
 [buildPlans.NexsevkaPropo.weights.Regular]
-shape = 522
-menu = 400
-css = 400
+shape = 532
+menu = 410
+css = 410
 
 [buildPlans.NexsevkaPropo.weights.Medium]
-shape = 599
-menu = 500
-css = 500
+shape = 609
+menu = 510
+css = 510
 
 [buildPlans.NexsevkaPropo.weights.SemiBold]
-shape = 765
-menu = 600
-css = 550
+shape = 775
+menu = 610
+css = 560
 
 [buildPlans.NexsevkaPropo.weights.Bold]
-shape = 900
-menu = 700
-css = 700
+shape = 910
+menu = 710
+css = 710
 
 [buildPlans.NexsevkaPropo.widths.Normal]
 shape = 586
@@ -884,8 +884,8 @@ cap = 693
 ascender = 732
 descender = -186
 symbolMid = 305
-sb = 'blend(weight, [245, 82], [288, 80], [374, 77], [522, 72], [599, 70], [765, 64], [900, 60])'
-contrast = 'blend(weight, [245, 1.044], [522, 1.093], [900, 1.102])'
+sb = 'blend(weight, [255, 82], [298, 80], [384, 77], [532, 72], [609, 70], [775, 64], [910, 60])'
+contrast = 'blend(weight, [255, 1.044], [532, 1.093], [910, 1.102])'
 
 accentWidth = 215
 accentClearance = 68
@@ -894,14 +894,14 @@ accentStackOffset = 234
 
 leading = 1250
 parenSize = 902
-dotSize = 'blend(weight, [245, 98], [288, 104], [374, 113], [522, 125], [599, 133], [765, 150], [900, 166])'
-periodSize = 'blend(weight, [245, 123], [288, 133], [374, 152], [522, 172], [599, 181], [765, 201], [900, 221])'
+dotSize = 'blend(weight, [255, 98], [298, 104], [384, 113], [532, 125], [609, 133], [775, 150], [910, 166])'
+periodSize = 'blend(weight, [255, 123], [298, 133], [384, 152], [532, 172], [609, 181], [775, 201], [910, 221])'
 
 onumZeroHeightRatio = 1
 
 essRatio = 1
-archDepth = 256
-smallArchDepth = 128
+archDepth = 192
+smallArchDepth = 256
 
 winMetricAscenderPad = 144
 winMetricDescenderPad = 16
@@ -913,19 +913,19 @@ noCvSs = false
 exportGlyphNames = true
 
 [buildPlans.IosevkaTestSans.weights.Thin]
-shape = 100
-menu = 100
-css = 100
+shape = 110
+menu = 110
+css = 110
 
 [buildPlans.IosevkaTestSans.weights.Regular]
-shape = 400
-menu = 400
-css = 400
+shape = 410
+menu = 410
+css = 410
 
 [buildPlans.IosevkaTestSans.weights.Heavy]
-shape = 900
-menu = 900
-css = 900
+shape = 910
+menu = 910
+css = 910
 
 [buildPlans.IosevkaTestSans.widths.Normal]
 shape = 500
@@ -951,19 +951,19 @@ noCvSs = false
 exportGlyphNames = true
 
 [buildPlans.IosevkaTestSlab.weights.Thin]
-shape = 100
-menu = 100
-css = 100
+shape = 110
+menu = 110
+css = 110
 
 [buildPlans.IosevkaTestSlab.weights.Regular]
-shape = 400
-menu = 400
-css = 400
+shape = 410
+menu = 410
+css = 410
 
 [buildPlans.IosevkaTestSlab.weights.Heavy]
-shape = 900
-menu = 900
-css = 900
+shape = 910
+menu = 910
+css = 910
 
 [buildPlans.IosevkaTestSlab.widths.Normal]
 shape = 500
@@ -1025,19 +1025,19 @@ percent = 'rings-continuous-slash'
 micro-sign = 'toothed-serifless'
 
 [buildPlans.IosevkaTestAile.weights.Thin]
-shape = 100
-menu = 100
-css = 100
+shape = 110
+menu = 110
+css = 110
 
 [buildPlans.IosevkaTestAile.weights.Regular]
-shape = 400
-menu = 400
-css = 400
+shape = 410
+menu = 410
+css = 410
 
 [buildPlans.IosevkaTestAile.weights.Heavy]
-shape = 900
-menu = 900
-css = 900
+shape = 910
+menu = 910
+css = 910
 
 [buildPlans.IosevkaTestAile.widths.Normal]
 shape = 600
@@ -1096,19 +1096,19 @@ eszet = 'longs-s-lig-tailed-serifless'
 cyrl-ef = 'split-cursive'
 
 [buildPlans.IosevkaTestEtoile.weights.Thin]
-shape = 100
-menu = 100
-css = 100
+shape = 110
+menu = 110
+css = 110
 
 [buildPlans.IosevkaTestEtoile.weights.Regular]
-shape = 400
-menu = 400
-css = 400
+shape = 410
+menu = 410
+css = 410
 
 [buildPlans.IosevkaTestEtoile.weights.Heavy]
-shape = 900
-menu = 900
-css = 900
+shape = 910
+menu = 910
+css = 910
 
 [buildPlans.IosevkaTestEtoile.widths.Normal]
 shape = 600
