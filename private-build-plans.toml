@@ -176,6 +176,7 @@ underscore = 'above-baseline'
 tilde = 'low'
 ampersand = 'upper-open-flat-hooked'
 micro-sign = 'flat-bottom-motion-serifed'
+sterling = 'motion-serifed'
 
 glottal-stop = 'smooth-flat-hooked'
 partial-derivative = 'closed-contour'
@@ -189,7 +190,7 @@ lig-single-arrow-bar = 'with-notch'
 
 [buildPlans.Nexsevka.variants.italic]
 zero = 'diamond-broken-reverse-slash'
-one = 'base-top-cut'
+one = 'base-long-top-serif'
 two = 'curly-neck-serifless'
 three = 'flat-top-broken-flat-hooked'
 four = 'open-serifless'
@@ -359,6 +360,7 @@ underscore = 'above-baseline'
 tilde = 'low'
 ampersand = 'flat-top-serifed'
 micro-sign = 'flat-bottom-motion-serifed'
+sterling = 'motion-serifed'
 
 glottal-stop = 'smooth-flat-hooked'
 partial-derivative = 'straight-bar'
@@ -444,8 +446,8 @@ periodSize = 'blend(weight, [245, 123], [288, 133], [374, 152], [522, 172], [599
 onumZeroHeightRatio = 1
 
 essRatio = 1
-archDepth = 250
-smallArchDepth = 150
+archDepth = 256
+smallArchDepth = 128
 
 winMetricAscenderPad = 144
 winMetricDescenderPad = 16
@@ -628,6 +630,7 @@ underscore = 'above-baseline'
 tilde = 'low'
 ampersand = 'upper-open-flat-hooked'
 micro-sign = 'flat-bottom-motion-serifed'
+sterling = 'motion-serifed'
 
 glottal-stop = 'smooth-flat-hooked'
 partial-derivative = 'closed-contour'
@@ -641,7 +644,7 @@ lig-single-arrow-bar = 'with-notch'
 
 [buildPlans.NexsevkaPropo.variants.italic]
 zero = 'diamond-broken-reverse-slash'
-one = 'base-top-cut'
+one = 'base-long-top-serif'
 two = 'curly-neck-serifless'
 three = 'flat-top-broken-flat-hooked'
 four = 'open-serifless'
@@ -811,6 +814,7 @@ underscore = 'above-baseline'
 tilde = 'low'
 ampersand = 'flat-top-serifed'
 micro-sign = 'flat-bottom-motion-serifed'
+sterling = 'motion-serifed'
 
 glottal-stop = 'smooth-flat-hooked'
 partial-derivative = 'straight-bar'
@@ -896,8 +900,8 @@ periodSize = 'blend(weight, [245, 123], [288, 133], [374, 152], [522, 172], [599
 onumZeroHeightRatio = 1
 
 essRatio = 1
-archDepth = 250
-smallArchDepth = 150
+archDepth = 256
+smallArchDepth = 128
 
 winMetricAscenderPad = 144
 winMetricDescenderPad = 16
