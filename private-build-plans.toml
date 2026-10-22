@@ -373,39 +373,39 @@ lig-double-arrow-bar = 'with-notch'
 lig-single-arrow-bar = 'with-notch'
 
 [buildPlans.Nexsevka.weights.Thin]
-shape = 255
-menu = 110
-css = 110
+shape = 265
+menu = 100
+css = 100
 
 [buildPlans.Nexsevka.weights.Light]
-shape = 298
-menu = 210
-css = 210
+shape = 308
+menu = 200
+css = 200
 
 [buildPlans.Nexsevka.weights.SemiLight]
-shape = 384
-menu = 310
-css = 310
+shape = 394
+menu = 300
+css = 300
 
 [buildPlans.Nexsevka.weights.Regular]
-shape = 532
-menu = 410
-css = 410
+shape = 542
+menu = 400
+css = 400
 
 [buildPlans.Nexsevka.weights.Medium]
-shape = 609
-menu = 510
-css = 510
+shape = 619
+menu = 500
+css = 500
 
 [buildPlans.Nexsevka.weights.SemiBold]
-shape = 775
-menu = 610
-css = 560
+shape = 785
+menu = 600
+css = 600
 
 [buildPlans.Nexsevka.weights.Bold]
-shape = 910
-menu = 710
-css = 710
+shape = 920
+menu = 700
+css = 700
 
 [buildPlans.Nexsevka.widths.Normal]
 shape = 586
@@ -430,8 +430,8 @@ cap = 693
 ascender = 732
 descender = -186
 symbolMid = 305
-sb = 'blend(weight, [255, 82], [298, 80], [384, 77], [532, 72], [609, 70], [775, 64], [910, 60])'
-contrast = 'blend(weight, [255, 1.044], [532, 1.093], [910, 1.102])'
+sb = 'blend(weight, [265, 82], [298, 80], [384, 77], [532, 72], [609, 70], [775, 64], [910, 60])'
+contrast = 'blend(weight, [265, 1.044], [532, 1.093], [910, 1.102])'
 
 accentWidth = 215
 accentClearance = 68
@@ -440,8 +440,8 @@ accentStackOffset = 234
 
 leading = 1250
 parenSize = 902
-dotSize = 'blend(weight, [255, 98], [298, 104], [384, 113], [532, 125], [609, 133], [775, 150], [910, 166])'
-periodSize = 'blend(weight, [255, 123], [298, 133], [384, 152], [532, 172], [609, 181], [775, 201], [910, 221])'
+dotSize = 'blend(weight, [265, 98], [298, 104], [384, 113], [532, 125], [609, 133], [775, 150], [910, 166])'
+periodSize = 'blend(weight, [265, 123], [298, 133], [384, 152], [532, 172], [609, 181], [775, 201], [910, 221])'
 
 onumZeroHeightRatio = 1
 
@@ -827,39 +827,39 @@ lig-double-arrow-bar = 'with-notch'
 lig-single-arrow-bar = 'with-notch'
 
 [buildPlans.NexsevkaPropo.weights.Thin]
-shape = 255
-menu = 110
-css = 110
+shape = 265
+menu = 100
+css = 100
 
 [buildPlans.NexsevkaPropo.weights.Light]
-shape = 298
-menu = 210
-css = 210
+shape = 308
+menu = 200
+css = 200
 
 [buildPlans.NexsevkaPropo.weights.SemiLight]
-shape = 384
-menu = 310
-css = 310
+shape = 394
+menu = 300
+css = 300
 
 [buildPlans.NexsevkaPropo.weights.Regular]
-shape = 532
-menu = 410
-css = 410
+shape = 542
+menu = 400
+css = 400
 
 [buildPlans.NexsevkaPropo.weights.Medium]
-shape = 609
-menu = 510
-css = 510
+shape = 619
+menu = 500
+css = 500
 
 [buildPlans.NexsevkaPropo.weights.SemiBold]
-shape = 775
-menu = 610
-css = 560
+shape = 785
+menu = 600
+css = 600
 
 [buildPlans.NexsevkaPropo.weights.Bold]
-shape = 910
-menu = 710
-css = 710
+shape = 920
+menu = 700
+css = 700
 
 [buildPlans.NexsevkaPropo.widths.Normal]
 shape = 586
@@ -884,8 +884,8 @@ cap = 693
 ascender = 732
 descender = -186
 symbolMid = 305
-sb = 'blend(weight, [255, 82], [298, 80], [384, 77], [532, 72], [609, 70], [775, 64], [910, 60])'
-contrast = 'blend(weight, [255, 1.044], [532, 1.093], [910, 1.102])'
+sb = 'blend(weight, [265, 82], [298, 80], [384, 77], [532, 72], [609, 70], [775, 64], [910, 60])'
+contrast = 'blend(weight, [265, 1.044], [532, 1.093], [910, 1.102])'
 
 accentWidth = 215
 accentClearance = 68
@@ -894,8 +894,8 @@ accentStackOffset = 234
 
 leading = 1250
 parenSize = 902
-dotSize = 'blend(weight, [255, 98], [298, 104], [384, 113], [532, 125], [609, 133], [775, 150], [910, 166])'
-periodSize = 'blend(weight, [255, 123], [298, 133], [384, 152], [532, 172], [609, 181], [775, 201], [910, 221])'
+dotSize = 'blend(weight, [265, 98], [298, 104], [384, 113], [532, 125], [609, 133], [775, 150], [910, 166])'
+periodSize = 'blend(weight, [265, 123], [298, 133], [384, 152], [532, 172], [609, 181], [775, 201], [910, 221])'
 
 onumZeroHeightRatio = 1
 
@@ -913,19 +913,19 @@ noCvSs = false
 exportGlyphNames = true
 
 [buildPlans.IosevkaTestSans.weights.Thin]
-shape = 110
-menu = 110
-css = 110
+shape = 120
+menu = 100
+css = 100
 
 [buildPlans.IosevkaTestSans.weights.Regular]
-shape = 410
-menu = 410
-css = 410
+shape = 420
+menu = 400
+css = 400
 
 [buildPlans.IosevkaTestSans.weights.Heavy]
-shape = 910
-menu = 910
-css = 910
+shape = 920
+menu = 900
+css = 900
 
 [buildPlans.IosevkaTestSans.widths.Normal]
 shape = 500
@@ -951,19 +951,19 @@ noCvSs = false
 exportGlyphNames = true
 
 [buildPlans.IosevkaTestSlab.weights.Thin]
-shape = 110
-menu = 110
-css = 110
+shape = 120
+menu = 100
+css = 100
 
 [buildPlans.IosevkaTestSlab.weights.Regular]
-shape = 410
-menu = 410
-css = 410
+shape = 420
+menu = 400
+css = 400
 
 [buildPlans.IosevkaTestSlab.weights.Heavy]
-shape = 910
-menu = 910
-css = 910
+shape = 920
+menu = 900
+css = 900
 
 [buildPlans.IosevkaTestSlab.widths.Normal]
 shape = 500
@@ -1025,19 +1025,19 @@ percent = 'rings-continuous-slash'
 micro-sign = 'toothed-serifless'
 
 [buildPlans.IosevkaTestAile.weights.Thin]
-shape = 110
-menu = 110
-css = 110
+shape = 120
+menu = 100
+css = 100
 
 [buildPlans.IosevkaTestAile.weights.Regular]
-shape = 410
-menu = 410
-css = 410
+shape = 420
+menu = 400
+css = 400
 
 [buildPlans.IosevkaTestAile.weights.Heavy]
-shape = 910
-menu = 910
-css = 910
+shape = 920
+menu = 900
+css = 900
 
 [buildPlans.IosevkaTestAile.widths.Normal]
 shape = 600
@@ -1096,19 +1096,19 @@ eszet = 'longs-s-lig-tailed-serifless'
 cyrl-ef = 'split-cursive'
 
 [buildPlans.IosevkaTestEtoile.weights.Thin]
-shape = 110
-menu = 110
-css = 110
+shape = 120
+menu = 100
+css = 100
 
 [buildPlans.IosevkaTestEtoile.weights.Regular]
-shape = 410
-menu = 410
-css = 410
+shape = 420
+menu = 400
+css = 400
 
 [buildPlans.IosevkaTestEtoile.weights.Heavy]
-shape = 910
-menu = 910
-css = 910
+shape = 920
+menu = 900
+css = 900
 
 [buildPlans.IosevkaTestEtoile.widths.Normal]
 shape = 600
