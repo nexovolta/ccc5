@@ -98,6 +98,7 @@ lower-mu = 'flat-bottom-motion-serifed'
 lower-nu = 'straight-serifed'
 lower-xi = 'flat-top-straight-tail-sharp-corner'
 lower-zeta = 'straight-tail-sharp-corner'
+lower-sigma = 'vertical-bowl'
 lower-final-sigma = 'straight-tail-sharp-corner'
 lower-pi = 'tailless'
 lower-rho = 'flat'
@@ -282,6 +283,7 @@ lower-mu = 'flat-bottom-motion-serifed'
 lower-nu = 'casual-serifed'
 lower-xi = 'flat-hooked-straight-tail-sharp-corner'
 lower-zeta = 'straight-tail-sharp-corner'
+lower-sigma = 'vertical-bowl'
 lower-final-sigma = 'straight-tail-sharp-corner'
 lower-pi = 'diagonal-tailed'
 lower-rho = 'flat'
@@ -554,6 +556,7 @@ lower-mu = 'flat-bottom-motion-serifed'
 lower-nu = 'straight-serifed'
 lower-xi = 'flat-top-straight-tail-sharp-corner'
 lower-zeta = 'straight-tail-sharp-corner'
+lower-sigma = 'vertical-bowl'
 lower-final-sigma = 'straight-tail-sharp-corner'
 lower-pi = 'tailless'
 lower-rho = 'flat'
@@ -738,6 +741,7 @@ lower-mu = 'flat-bottom-motion-serifed'
 lower-nu = 'casual-serifed'
 lower-xi = 'flat-hooked-straight-tail-sharp-corner'
 lower-zeta = 'straight-tail-sharp-corner'
+lower-sigma = 'vertical-bowl'
 lower-final-sigma = 'straight-tail-sharp-corner'
 lower-pi = 'diagonal-tailed'
 lower-rho = 'flat'
@@ -911,10 +915,15 @@ winMetricAscenderPad = 144
 winMetricDescenderPad = 16
 
 [buildPlans.IosevkaTestSans]
+subset = { include = { ranges = [[0x5f,0x5f],[0x3C3,0x3C3],[0x3C2,0x3C2],[0xA7,0xA7],[0x2E60,0x2E61],[0x2E39,0x2E39],[0x2E0E,0x2E0E],[0x2E14,0x2E15],[0x2E19,0x2E19],[0x2E4F,0x2E4F],[0x2E50,0x2E51],[0xA76E,0xA76F],[0x1DF5D,0x1DF5E],[0xAB61,0xAB61],[0x69,0x69],[0x131,0x131],[0x65,0x65]] } }
 family = 'Iosevka Test Sans'
 serifs = 'sans'
 noCvSs = false
 exportGlyphNames = true
+
+[buildPlans.IosevkaTestSans.variants.design]
+lower-sigma = 'vertical-bowl'
+
 
 [buildPlans.IosevkaTestSans.weights.Thin]
 shape = 120
@@ -949,10 +958,15 @@ menu = 'italic'
 css = 'italic'
 
 [buildPlans.IosevkaTestSlab]
+subset = { include = { ranges = [[0x5f,0x5f],[0x3C3,0x3C3],[0x3C2,0x3C2],[0xA7,0xA7],[0x2E60,0x2E61],[0x2E39,0x2E39],[0x2E0E,0x2E0E],[0x2E14,0x2E15],[0x2E19,0x2E19],[0x2E4F,0x2E4F],[0x2E50,0x2E51],[0xA76E,0xA76F],[0x1DF5D,0x1DF5E],[0xAB61,0xAB61],[0x69,0x69],[0x131,0x131],[0x65,0x65]] } }
 family = 'Iosevka Test Slab'
 serifs = 'slab'
 noCvSs = false
 exportGlyphNames = true
+
+[buildPlans.IosevkaTestSlab.variants.design]
+lower-sigma = 'vertical-bowl'
+
 
 [buildPlans.IosevkaTestSlab.weights.Thin]
 shape = 120
@@ -987,6 +1001,7 @@ menu = 'italic'
 css = 'italic'
 
 [buildPlans.IosevkaTestAile]
+subset = { include = { ranges = [[0x5f,0x5f],[0x3C3,0x3C3],[0x3C2,0x3C2],[0xA7,0xA7],[0x2E60,0x2E61],[0x2E39,0x2E39],[0x2E0E,0x2E0E],[0x2E14,0x2E15],[0x2E19,0x2E19],[0x2E4F,0x2E4F],[0x2E50,0x2E51],[0xA76E,0xA76F],[0x1DF5D,0x1DF5E],[0xAB61,0xAB61],[0x69,0x69],[0x131,0x131],[0x65,0x65]] } }
 family = 'Iosevka Test Aile'
 spacing = 'quasi-proportional'
 serifs = 'sans'
@@ -1011,6 +1026,7 @@ t = 'flat-hooked'
 u = 'toothed-serifless'
 w = 'straight-flat-top-serifless'
 y = 'straight-serifless'
+lower-sigma = 'vertical-bowl'
 long-s = 'flat-hooked-serifless'
 eszet = 'longs-s-lig-serifless'
 lower-iota = 'flat-tailed'
@@ -1061,6 +1077,7 @@ menu = 'italic'
 css = 'italic'
 
 [buildPlans.IosevkaTestEtoile]
+subset = { include = { ranges = [[0x5f,0x5f],[0x3C3,0x3C3],[0x3C2,0x3C2],[0xA7,0xA7],[0x2E60,0x2E61],[0x2E39,0x2E39],[0x2E0E,0x2E0E],[0x2E14,0x2E15],[0x2E19,0x2E19],[0x2E4F,0x2E4F],[0x2E50,0x2E51],[0xA76E,0xA76F],[0x1DF5D,0x1DF5E],[0xAB61,0xAB61],[0x69,0x69],[0x131,0x131],[0x65,0x65]] } }
 family = 'Iosevka Test Etoile'
 spacing = 'quasi-proportional'
 serifs = 'slab'
@@ -1068,6 +1085,7 @@ noCvSs = false
 exportGlyphNames = true
 
 [buildPlans.IosevkaTestEtoile.variants.design]
+lower-sigma = 'vertical-bowl'
 capital-m = 'flat-bottom-serifed'
 capital-w = 'straight-almost-flat-top-serifed'
 f = 'flat-hooked-serifed'
