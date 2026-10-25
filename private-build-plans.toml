@@ -10,7 +10,7 @@ zero = 'diamond-broken-reverse-slash'
 one = 'base-flat-top-serif'
 two = 'curly-neck-serifless'
 three = 'flat-top-broken-flat-hooked'
-four = 'open-serifed'
+four = 'open-serifed-rising'
 five = 'more-oblique-flat-hooked-broken-serifless'
 six = 'closed-contour-flat-bowl'
 seven = 'vertical-bottom-base-serifed-crossbar'
@@ -18,12 +18,12 @@ eight = 'crossing-reverse-asymmetric'
 nine = 'steep-bar-flat-bowl'
 
 capital-a = 'square-bottom-top-serifed'
-capital-b = 'more-asymmetric-unilateral-serifed'
+capital-b = 'more-asymmetric-bilateral-serifed'
 capital-c = 'bilateral-inward-serifed'
-capital-d = 'diamond-unilateral-serifed'
+capital-d = 'diamond-bilateral-serifed'
 capital-e = 'diagonal-crossbar-top-left-serifed'
 capital-f = 'diagonal-crossbar-top-left-serifed-capped'
-capital-g = 'toothless-rounded-serifless-capped'
+capital-g = 'toothless-rounded-serifless-diagonal-crossbar-capped'
 capital-h = 'diagonal-crossbar-bilateral-motion-serifed'
 capital-i = 'serifed'
 capital-j = 'flat-hooked-full-topbar'
@@ -154,7 +154,9 @@ cyrl-koppa = 'base-serifed'
 
 braille-dot = 'square'
 diacritic-dot = 'diamond'
+diacritic-comma = 'square'
 punctuation-dot = 'diamond'
+punctuation-comma = 'square'
 tittle = 'diamond'
 
 ascii-grave = 'straight'
@@ -196,7 +198,7 @@ zero = 'diamond-broken-reverse-slash'
 one = 'base-long-top-serif'
 two = 'curly-neck-serifless'
 three = 'flat-top-broken-flat-hooked'
-four = 'open-serifless'
+four = 'open-serifless-rising'
 five = 'more-oblique-flat-hooked-broken-serifless'
 six = 'closed-contour-flat-bowl'
 seven = 'vertical-top-serifed-crossbar'
@@ -204,12 +206,12 @@ eight = 'crossing-asymmetric'
 nine = 'steep-bar-flat-bowl'
 
 capital-a = 'square-bottom-top-serifed'
-capital-b = 'more-asymmetric-unilateral-serifed'
+capital-b = 'more-asymmetric-bilateral-serifed'
 capital-c = 'bilateral-inward-serifed'
-capital-d = 'diamond-unilateral-serifed'
+capital-d = 'diamond-bilateral-serifed'
 capital-e = 'diagonal-crossbar-top-left-serifed'
 capital-f = 'diagonal-crossbar-top-left-serifed-capped'
-capital-g = 'toothless-rounded-serifless-capped'
+capital-g = 'toothless-rounded-serifless-diagonal-crossbar-capped'
 capital-h = 'diagonal-crossbar-bilateral-motion-serifed'
 capital-i = 'serifed'
 capital-j = 'descending-flat-hooked-full-topbar'
@@ -341,7 +343,9 @@ cyrl-koppa = 'base-serifed'
 
 braille-dot = 'square'
 diacritic-dot = 'diamond'
+diacritic-comma = 'square'
 punctuation-dot = 'diamond'
+punctuation-comma = 'square'
 tittle = 'diamond'
 
 ascii-grave = 'straight'
@@ -470,7 +474,7 @@ zero = 'diamond-broken-reverse-slash'
 one = 'base-flat-top-serif'
 two = 'curly-neck-serifless'
 three = 'flat-top-broken-flat-hooked'
-four = 'open-serifed'
+four = 'open-serifed-rising'
 five = 'more-oblique-flat-hooked-broken-serifless'
 six = 'closed-contour-flat-bowl'
 seven = 'vertical-bottom-base-serifed-crossbar'
@@ -478,12 +482,12 @@ eight = 'crossing-reverse-asymmetric'
 nine = 'steep-bar-flat-bowl'
 
 capital-a = 'square-bottom-top-serifed'
-capital-b = 'more-asymmetric-unilateral-serifed'
+capital-b = 'more-asymmetric-bilateral-serifed'
 capital-c = 'bilateral-inward-serifed'
-capital-d = 'diamond-unilateral-serifed'
+capital-d = 'diamond-bilateral-serifed'
 capital-e = 'diagonal-crossbar-top-left-serifed'
 capital-f = 'diagonal-crossbar-top-left-serifed-capped'
-capital-g = 'toothless-rounded-serifless-capped'
+capital-g = 'toothless-rounded-serifless-diagonal-crossbar-capped'
 capital-h = 'diagonal-crossbar-bilateral-motion-serifed'
 capital-i = 'serifed'
 capital-j = 'flat-hooked-full-topbar'
@@ -614,7 +618,9 @@ cyrl-koppa = 'base-serifed'
 
 braille-dot = 'square'
 diacritic-dot = 'diamond'
+diacritic-comma = 'square'
 punctuation-dot = 'diamond'
+punctuation-comma = 'square'
 tittle = 'diamond'
 
 ascii-grave = 'straight'
@@ -656,7 +662,7 @@ zero = 'diamond-broken-reverse-slash'
 one = 'base-long-top-serif'
 two = 'curly-neck-serifless'
 three = 'flat-top-broken-flat-hooked'
-four = 'open-serifless'
+four = 'open-serifless-rising'
 five = 'more-oblique-flat-hooked-broken-serifless'
 six = 'closed-contour-flat-bowl'
 seven = 'vertical-top-serifed-crossbar'
@@ -664,12 +670,12 @@ eight = 'crossing-asymmetric'
 nine = 'steep-bar-flat-bowl'
 
 capital-a = 'square-bottom-top-serifed'
-capital-b = 'more-asymmetric-unilateral-serifed'
+capital-b = 'more-asymmetric-bilateral-serifed'
 capital-c = 'bilateral-inward-serifed'
-capital-d = 'diamond-unilateral-serifed'
+capital-d = 'diamond-bilateral-serifed'
 capital-e = 'diagonal-crossbar-top-left-serifed'
 capital-f = 'diagonal-crossbar-top-left-serifed-capped'
-capital-g = 'toothless-rounded-serifless-capped'
+capital-g = 'toothless-rounded-serifless-diagonal-crossbar-capped'
 capital-h = 'diagonal-crossbar-bilateral-motion-serifed'
 capital-i = 'serifed'
 capital-j = 'descending-flat-hooked-full-topbar'
@@ -801,7 +807,9 @@ cyrl-koppa = 'base-serifed'
 
 braille-dot = 'square'
 diacritic-dot = 'diamond'
+diacritic-comma = 'square'
 punctuation-dot = 'diamond'
+punctuation-comma = 'square'
 tittle = 'diamond'
 
 ascii-grave = 'straight'
@@ -920,13 +928,15 @@ winMetricDescenderPad = 16
 
 [buildPlans.IosevkaTestSans]
 spacing = 'term'
-subset = { include = { ranges = [[0x63,0x63],[0x68,0x68],[0x74,0x74],[0x77,0x77],[0x1DF5B,0x1DF5B],[0x1DF62,0x1DF65]] } }
+subset = { include = { ranges = [[0x63,0x63],[0x68,0x68],[0x74,0x74],[0x77,0x77],[0x1DF5B,0x1DF5B],[0x1DF62,0x1DF65],[0x65,0x65],[0x69,0x69],[0x75,0x75],[0x1DF5D,0x1DF5F],[0x47,0x47],[0x34,0x34],[0x1E4,0x1E4]] } }
 family = 'Iosevka Test Sans'
 serifs = 'sans'
 noCvSs = false
 exportGlyphNames = true
 
 [buildPlans.IosevkaTestSans.variants.design]
+capital-g = 'toothed-serifless-diagonal-crossbar'
+four = 'closed-serifless-rising'
 lower-sigma = 'vertical-bowl'
 
 [buildPlans.IosevkaTestSans.weights.Thin]
@@ -963,7 +973,7 @@ css = 'italic'
 
 [buildPlans.IosevkaTestSlab]
 spacing = 'term'
-subset = { include = { ranges = [[0x63,0x63],[0x68,0x68],[0x74,0x74],[0x77,0x77],[0x1DF5B,0x1DF5B],[0x1DF62,0x1DF65]] } }
+subset = { include = { ranges = [[0x63,0x63],[0x68,0x68],[0x74,0x74],[0x77,0x77],[0x1DF5B,0x1DF5B],[0x1DF62,0x1DF65],[0x65,0x65],[0x69,0x69],[0x75,0x75],[0x1DF5D,0x1DF5F],[0x47,0x47],[0x34,0x34],[0x1E4,0x1E4]] } }
 family = 'Iosevka Test Slab'
 serifs = 'slab'
 noCvSs = false
@@ -1006,7 +1016,7 @@ menu = 'italic'
 css = 'italic'
 
 [buildPlans.IosevkaTestAile]
-subset = { include = { ranges = [[0x63,0x63],[0x68,0x68],[0x74,0x74],[0x77,0x77],[0x1DF5B,0x1DF5B],[0x1DF62,0x1DF65]] } }
+subset = { include = { ranges = [[0x63,0x63],[0x68,0x68],[0x74,0x74],[0x77,0x77],[0x1DF5B,0x1DF5B],[0x1DF62,0x1DF65],[0x65,0x65],[0x69,0x69],[0x75,0x75],[0x1DF5D,0x1DF5F],[0x47,0x47],[0x34,0x34],[0x1E4,0x1E4]] } }
 family = 'Iosevka Test Aile'
 spacing = 'quasi-proportional'
 serifs = 'sans'
@@ -1082,7 +1092,7 @@ menu = 'italic'
 css = 'italic'
 
 [buildPlans.IosevkaTestEtoile]
-subset = { include = { ranges = [[0x63,0x63],[0x68,0x68],[0x74,0x74],[0x77,0x77],[0x1DF5B,0x1DF5B],[0x1DF62,0x1DF65]] } }
+subset = { include = { ranges = [[0x63,0x63],[0x68,0x68],[0x74,0x74],[0x77,0x77],[0x1DF5B,0x1DF5B],[0x1DF62,0x1DF65],[0x65,0x65],[0x69,0x69],[0x75,0x75],[0x1DF5D,0x1DF5F],[0x47,0x47],[0x34,0x34],[0x1E4,0x1E4]] } }
 family = 'Iosevka Test Etoile'
 spacing = 'quasi-proportional'
 serifs = 'slab'
@@ -1156,12 +1166,17 @@ css = 'italic'
 
 [buildPlans.IosevkaTestV1]
 spacing = 'term'
-subset = { include = { ranges = [[0x63,0x63],[0x68,0x68],[0x74,0x74],[0x77,0x77],[0x1DF5B,0x1DF5B],[0x1DF62,0x1DF65]] } }
+subset = { include = { ranges = [[0x63,0x63],[0x68,0x68],[0x74,0x74],[0x77,0x77],[0x1DF5B,0x1DF5B],[0x1DF62,0x1DF65],[0x65,0x65],[0x69,0x69],[0x75,0x75],[0x1DF5D,0x1DF5F],[0x47,0x47],[0x34,0x34],[0x1E4,0x1E4]] } }
 family = 'Iosevka Test V1'
 serifs = 'sans'
 exportGlyphNames = true
 
 [buildPlans.IosevkaTestV1.variants.design]
+capital-g = 'toothed-serifed-diagonal-crossbar-falling'
+four = 'semi-open-non-crossing-serifed-falling'
+e = 'rounded'
+i = 'tailed-serifed'
+u = 'tailed-serifed'
 h = 'flat-hump-tailed-serifed'
 t = 'bent-hook'
 w = 'rounded-vertical-sides-serifed'
@@ -1185,12 +1200,17 @@ css = 'normal'
 
 [buildPlans.IosevkaTestV2]
 spacing = 'term'
-subset = { include = { ranges = [[0x63,0x63],[0x68,0x68],[0x74,0x74],[0x77,0x77],[0x1DF5B,0x1DF5B],[0x1DF62,0x1DF65]] } }
+subset = { include = { ranges = [[0x63,0x63],[0x68,0x68],[0x74,0x74],[0x77,0x77],[0x1DF5B,0x1DF5B],[0x1DF62,0x1DF65],[0x65,0x65],[0x69,0x69],[0x75,0x75],[0x1DF5D,0x1DF5F],[0x47,0x47],[0x34,0x34],[0x1E4,0x1E4]] } }
 family = 'Iosevka Test V2'
 serifs = 'slab'
 exportGlyphNames = true
 
 [buildPlans.IosevkaTestV2.variants.design]
+capital-g = 'toothless-corner-serifless-diagonal-crossbar-capped'
+four = 'open-serifless-falling'
+e = 'diagonal-crossbar-falling-flat-hooked'
+i = 'serifed-asymmetric'
+u = 'toothless-corner-motion-serifed'
 h = 'tailed-motion-serifed'
 t = 'flat-hooked-asymmetric-short-neck'
 w = 'cursive-serifed'
@@ -1214,12 +1234,17 @@ css = 'normal'
 
 [buildPlans.IosevkaTestV3]
 spacing = 'term'
-subset = { include = { ranges = [[0x63,0x63],[0x68,0x68],[0x74,0x74],[0x77,0x77],[0x1DF5B,0x1DF5B],[0x1DF62,0x1DF65]] } }
+subset = { include = { ranges = [[0x63,0x63],[0x68,0x68],[0x74,0x74],[0x77,0x77],[0x1DF5B,0x1DF5B],[0x1DF62,0x1DF65],[0x65,0x65],[0x69,0x69],[0x75,0x75],[0x1DF5D,0x1DF5F],[0x47,0x47],[0x34,0x34],[0x1E4,0x1E4]] } }
 family = 'Iosevka Test V3'
 serifs = 'sans'
 exportGlyphNames = true
 
 [buildPlans.IosevkaTestV3.variants.design]
+capital-g = 'toothless-rounded-flat-hooked-diagonal-crossbar-falling-capped'
+four = 'closed-non-crossing-serifed-rising'
+e = 'flat-crossbar-flat-hooked'
+i = 'double-tailed'
+u = 'flat-bottom-bottom-right-serifed'
 h = 'flat-hump-straight-top-left-serifed'
 t = 'hookless-asymmetric-shorter-neck'
 w = 'square-top-top-right-motion-serifed'
@@ -1243,12 +1268,17 @@ css = 'normal'
 
 [buildPlans.IosevkaTestV4]
 spacing = 'term'
-subset = { include = { ranges = [[0x63,0x63],[0x68,0x68],[0x74,0x74],[0x77,0x77],[0x1DF5B,0x1DF5B],[0x1DF62,0x1DF65]] } }
+subset = { include = { ranges = [[0x63,0x63],[0x68,0x68],[0x74,0x74],[0x77,0x77],[0x1DF5B,0x1DF5B],[0x1DF62,0x1DF65],[0x65,0x65],[0x69,0x69],[0x75,0x75],[0x1DF5D,0x1DF5F],[0x47,0x47],[0x34,0x34],[0x1E4,0x1E4]] } }
 family = 'Iosevka Test V4'
 serifs = 'slab'
 exportGlyphNames = true
 
 [buildPlans.IosevkaTestV4.variants.design]
+capital-g = 'flat-bottom-inward-serifed-diagonal-crossbar-capped'
+four = 'open-non-crossing-serifless-rising'
+e = 'diagonal-crossbar'
+i = 'hooky'
+u = 'toothless-rounded-serifed'
 h = 'straight-serifless'
 t = 'diagonal-tailed'
 w = 'straight-vertical-sides-serifed'
@@ -1272,12 +1302,15 @@ css = 'normal'
 
 [buildPlans.IosevkaTestV5]
 spacing = 'term'
-subset = { include = { ranges = [[0x63,0x63],[0x68,0x68],[0x74,0x74],[0x77,0x77],[0x1DF5B,0x1DF5B],[0x1DF62,0x1DF65]] } }
+subset = { include = { ranges = [[0x63,0x63],[0x68,0x68],[0x74,0x74],[0x77,0x77],[0x1DF5B,0x1DF5B],[0x1DF62,0x1DF65],[0x65,0x65],[0x69,0x69],[0x75,0x75],[0x1DF5D,0x1DF5F],[0x47,0x47],[0x34,0x34],[0x1E4,0x1E4]] } }
 family = 'Iosevka Test V5'
 serifs = 'sans'
 exportGlyphNames = true
 
 [buildPlans.IosevkaTestV5.variants.design]
+e = 'rounded-flat-hooked'
+i = 'diagonal-tailed'
+u = 'tailed-motion-serifed'
 h = 'tailed-serifed'
 t = 'narrow-bent-hook'
 w = 'rounded-single-arch-serifless'
@@ -1301,7 +1334,7 @@ css = 'normal'
 
 [buildPlans.IosevkaTestV6]
 spacing = 'term'
-subset = { include = { ranges = [[0x63,0x63],[0x68,0x68],[0x74,0x74],[0x77,0x77],[0x1DF5B,0x1DF5B],[0x1DF62,0x1DF65]] } }
+subset = { include = { ranges = [[0x63,0x63],[0x68,0x68],[0x74,0x74],[0x77,0x77],[0x1DF5B,0x1DF5B],[0x1DF62,0x1DF65],[0x65,0x65],[0x69,0x69],[0x75,0x75],[0x1DF5D,0x1DF5F],[0x47,0x47],[0x34,0x34],[0x1E4,0x1E4]] } }
 family = 'Iosevka Test V6'
 serifs = 'sans'
 exportGlyphNames = true
@@ -1330,7 +1363,7 @@ css = 'normal'
 
 [buildPlans.IosevkaTestV7]
 spacing = 'term'
-subset = { include = { ranges = [[0x63,0x63],[0x68,0x68],[0x74,0x74],[0x77,0x77],[0x1DF5B,0x1DF5B],[0x1DF62,0x1DF65]] } }
+subset = { include = { ranges = [[0x63,0x63],[0x68,0x68],[0x74,0x74],[0x77,0x77],[0x1DF5B,0x1DF5B],[0x1DF62,0x1DF65],[0x65,0x65],[0x69,0x69],[0x75,0x75],[0x1DF5D,0x1DF5F],[0x47,0x47],[0x34,0x34],[0x1E4,0x1E4]] } }
 family = 'Iosevka Test V7'
 serifs = 'sans'
 exportGlyphNames = true
