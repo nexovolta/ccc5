@@ -110,7 +110,6 @@ lower-psi = 'shorter-neck-serifed'
 latin-upsilon = 'serifless'
 qoppa = 'base-serifed'
 
-cyrl-a = 'double-storey-bottom-cut-serifless-diagonal-bar'
 cyrl-be = 'standard'
 cyrl-ve = 'cursive-tall'
 cyrl-zhe = 'cursive'
@@ -299,7 +298,6 @@ lower-psi = 'flat-top-serifed'
 latin-upsilon = 'serifless'
 qoppa = 'base-serifed'
 
-cyrl-a = 'single-storey-top-cut-tailed'
 cyrl-be = 'standard'
 cyrl-ve = 'cursive-tall'
 cyrl-zhe = 'cursive'
@@ -576,7 +574,6 @@ lower-psi = 'shorter-neck-serifed'
 latin-upsilon = 'serifless'
 qoppa = 'base-serifed'
 
-cyrl-a = 'double-storey-bottom-cut-serifless-diagonal-bar'
 cyrl-be = 'standard'
 cyrl-ve = 'cursive-tall'
 cyrl-zhe = 'cursive'
@@ -765,7 +762,6 @@ lower-psi = 'flat-top-serifed'
 latin-upsilon = 'serifless'
 qoppa = 'base-serifed'
 
-cyrl-a = 'single-storey-top-cut-tailed'
 cyrl-be = 'standard'
 cyrl-ve = 'cursive-tall'
 cyrl-zhe = 'cursive'
@@ -932,13 +928,13 @@ winMetricDescenderPad = 16
 
 [buildPlans.IosevkaTestSans]
 spacing = 'term'
-subset = { include = { ranges = [[0x41,0x41],[0x61,0x61],[0x258,0x258],[0x7E,0x7E],[0xE3,0xE3],[0x303,0x303],[0x2248,0x2248],[0x223C,0x223C],[0x2243,0x2243]] } }
+subset = { include = { ranges = [[0x43,0x43],[0x61,0x61],[0x72,0x72],[0x20A2,0x20A2],[0x20D4,0x20D5],[0x20D9,0x20DA],[0x20DD,0x20DD],[0x20DE,0x20E0],[0x20E2,0x20E4],[0x20E7,0x20E7],[0x20EA,0x20EA]] } }
 family = 'Iosevka Test Sans'
 serifs = 'sans'
 noCvSs = false
 exportGlyphNames = true
-
 [buildPlans.IosevkaTestSans.variants.design]
+r = 'base-serifed'
 a = 'double-storey-bottom-cut-serifless-diagonal-bar'
 capital-a = 'straight-base-serifed-diagonal-bar-falling'
 tilde = 'compact-mid-tall'
@@ -989,12 +985,11 @@ css = 'italic'
 
 [buildPlans.IosevkaTestSlab]
 spacing = 'term'
-subset = { include = { ranges = [[0x41,0x41],[0x61,0x61],[0x258,0x258],[0x7E,0x7E],[0xE3,0xE3],[0x303,0x303],[0x2248,0x2248],[0x223C,0x223C],[0x2243,0x2243]] } }
+subset = { include = { ranges = [[0x43,0x43],[0x61,0x61],[0x72,0x72],[0x20A2,0x20A2],[0x20D4,0x20D5],[0x20D9,0x20DA],[0x20DD,0x20DD],[0x20DE,0x20E0],[0x20E2,0x20E4],[0x20E7,0x20E7],[0x20EA,0x20EA]] } }
 family = 'Iosevka Test Slab'
 serifs = 'slab'
 noCvSs = false
 exportGlyphNames = true
-
 [buildPlans.IosevkaTestSlab.variants.design]
 e = 'diagonal-crossbar-falling'
 schwa = 'diagonal-crossbar-falling'
@@ -1037,13 +1032,12 @@ menu = 'italic'
 css = 'italic'
 
 [buildPlans.IosevkaTestAile]
-subset = { include = { ranges = [[0x41,0x41],[0x61,0x61],[0x258,0x258],[0x7E,0x7E],[0xE3,0xE3],[0x303,0x303],[0x2248,0x2248],[0x223C,0x223C],[0x2243,0x2243]] } }
+subset = { include = { ranges = [[0x43,0x43],[0x61,0x61],[0x72,0x72],[0x20A2,0x20A2],[0x20D4,0x20D5],[0x20D9,0x20DA],[0x20DD,0x20DD],[0x20DE,0x20E0],[0x20E2,0x20E4],[0x20E7,0x20E7],[0x20EA,0x20EA]] } }
 family = 'Iosevka Test Aile'
 spacing = 'quasi-proportional'
 serifs = 'sans'
 noCvSs = false
 exportGlyphNames = true
-
 [buildPlans.IosevkaTestAile.variants.design]
 capital-i = 'serifless'
 capital-j = 'serifless'
@@ -1068,7 +1062,6 @@ eszet = 'longs-s-lig-serifless'
 lower-iota = 'flat-tailed'
 lower-lambda = 'square-bottom'
 lower-tau = 'short-tailed'
-cyrl-a = 'double-storey-serifless'
 cyrl-u = 'straight-serifless'
 cyrl-ef = 'serifless'
 four = 'closed-serifless'
@@ -1113,13 +1106,12 @@ menu = 'italic'
 css = 'italic'
 
 [buildPlans.IosevkaTestEtoile]
-subset = { include = { ranges = [[0x41,0x41],[0x61,0x61],[0x258,0x258],[0x7E,0x7E],[0xE3,0xE3],[0x303,0x303],[0x2248,0x2248],[0x223C,0x223C],[0x2243,0x2243]] } }
+subset = { include = { ranges = [[0x43,0x43],[0x61,0x61],[0x72,0x72],[0x20A2,0x20A2],[0x20D4,0x20D5],[0x20D9,0x20DA],[0x20DD,0x20DD],[0x20DE,0x20E0],[0x20E2,0x20E4],[0x20E7,0x20E7],[0x20EA,0x20EA]] } }
 family = 'Iosevka Test Etoile'
 spacing = 'quasi-proportional'
 serifs = 'slab'
 noCvSs = false
 exportGlyphNames = true
-
 [buildPlans.IosevkaTestEtoile.variants.design]
 lower-sigma = 'vertical-bowl'
 y = 'square-top-turn-top-right-motion-serifed'
