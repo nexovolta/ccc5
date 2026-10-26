@@ -17,7 +17,7 @@ seven = 'vertical-bottom-base-serifed-crossbar'
 eight = 'crossing-reverse-asymmetric'
 nine = 'steep-bar-flat-bowl'
 
-capital-a = 'square-bottom-top-serifed'
+capital-a = 'square-bottom-top-serifed-diagonal-bar-falling'
 capital-b = 'more-asymmetric-bilateral-serifed'
 capital-c = 'bilateral-inward-serifed'
 capital-d = 'diamond-bilateral-serifed'
@@ -55,7 +55,7 @@ capital-psi = 'base-serifed'
 capital-xi = 'diagonal-crossbar-falling-motion-serifed'
 capital-omega = 'disjoint-serifed'
 
-a = 'double-storey-hook-flat-bottom-cut-serifless'
+a = 'double-storey-bottom-cut-serifless-diagonal-bar'
 b = 'toothless-corner-serifed'
 c = 'serifless'
 d = 'toothed-flat-bowl-top-serifed'
@@ -110,7 +110,7 @@ lower-psi = 'shorter-neck-serifed'
 latin-upsilon = 'serifless'
 qoppa = 'base-serifed'
 
-cyrl-a = 'double-storey-hook-flat-bottom-cut-serifless'
+cyrl-a = 'double-storey-bottom-cut-serifless-diagonal-bar'
 cyrl-be = 'standard'
 cyrl-ve = 'cursive-tall'
 cyrl-zhe = 'cursive'
@@ -206,7 +206,7 @@ seven = 'vertical-top-serifed-crossbar'
 eight = 'crossing-asymmetric'
 nine = 'steep-bar-flat-bowl'
 
-capital-a = 'square-bottom-top-serifed'
+capital-a = 'square-bottom-top-serifed-diagonal-bar-falling'
 capital-b = 'more-asymmetric-bilateral-serifed'
 capital-c = 'bilateral-inward-serifed'
 capital-d = 'diamond-bilateral-serifed'
@@ -483,7 +483,7 @@ seven = 'vertical-bottom-base-serifed-crossbar'
 eight = 'crossing-reverse-asymmetric'
 nine = 'steep-bar-flat-bowl'
 
-capital-a = 'square-bottom-top-serifed'
+capital-a = 'square-bottom-top-serifed-diagonal-bar-falling'
 capital-b = 'more-asymmetric-bilateral-serifed'
 capital-c = 'bilateral-inward-serifed'
 capital-d = 'diamond-bilateral-serifed'
@@ -521,7 +521,7 @@ capital-psi = 'base-serifed'
 capital-xi = 'diagonal-crossbar-falling-motion-serifed'
 capital-omega = 'disjoint-serifed'
 
-a = 'double-storey-hook-flat-bottom-cut-serifless'
+a = 'double-storey-bottom-cut-serifless-diagonal-bar'
 b = 'toothless-corner-serifed'
 c = 'serifless'
 d = 'toothed-flat-bowl-top-serifed'
@@ -576,7 +576,7 @@ lower-psi = 'shorter-neck-serifed'
 latin-upsilon = 'serifless'
 qoppa = 'base-serifed'
 
-cyrl-a = 'double-storey-hook-flat-bottom-cut-serifless'
+cyrl-a = 'double-storey-bottom-cut-serifless-diagonal-bar'
 cyrl-be = 'standard'
 cyrl-ve = 'cursive-tall'
 cyrl-zhe = 'cursive'
@@ -672,7 +672,7 @@ seven = 'vertical-top-serifed-crossbar'
 eight = 'crossing-asymmetric'
 nine = 'steep-bar-flat-bowl'
 
-capital-a = 'square-bottom-top-serifed'
+capital-a = 'square-bottom-top-serifed-diagonal-bar-falling'
 capital-b = 'more-asymmetric-bilateral-serifed'
 capital-c = 'bilateral-inward-serifed'
 capital-d = 'diamond-bilateral-serifed'
@@ -932,13 +932,15 @@ winMetricDescenderPad = 16
 
 [buildPlans.IosevkaTestSans]
 spacing = 'term'
-subset = { include = { ranges = [[0x7E,0x7E],[0xE3,0xE3],[0x303,0x303],[0x2248,0x2248],[0x223C,0x223C],[0x2243,0x2243]] } }
+subset = { include = { ranges = [[0x41,0x41],[0x61,0x61],[0x258,0x258],[0x7E,0x7E],[0xE3,0xE3],[0x303,0x303],[0x2248,0x2248],[0x223C,0x223C],[0x2243,0x2243]] } }
 family = 'Iosevka Test Sans'
 serifs = 'sans'
 noCvSs = false
 exportGlyphNames = true
 
 [buildPlans.IosevkaTestSans.variants.design]
+a = 'double-storey-bottom-cut-serifless-diagonal-bar'
+capital-a = 'straight-base-serifed-diagonal-bar-falling'
 tilde = 'compact-mid-tall'
 e = 'diagonal-crossbar-falling'
 schwa = 'diagonal-crossbar-falling'
@@ -948,6 +950,10 @@ lower-sigma = 'vertical-bowl'
 i = 'hooky-bottom'
 y = 'square-top-turn-top-right-motion-serifed'
 lower-lambda = 'square-bottom'
+
+[buildPlans.IosevkaTestSans.variants.italic]
+a = 'double-storey-bottom-cut-serifless-diagonal-bar'
+capital-a = 'straight-base-serifed-diagonal-bar-falling'
 
 [buildPlans.IosevkaTestSans.weights.Thin]
 shape = 120
@@ -983,7 +989,7 @@ css = 'italic'
 
 [buildPlans.IosevkaTestSlab]
 spacing = 'term'
-subset = { include = { ranges = [[0x7E,0x7E],[0xE3,0xE3],[0x303,0x303],[0x2248,0x2248],[0x223C,0x223C],[0x2243,0x2243]] } }
+subset = { include = { ranges = [[0x41,0x41],[0x61,0x61],[0x258,0x258],[0x7E,0x7E],[0xE3,0xE3],[0x303,0x303],[0x2248,0x2248],[0x223C,0x223C],[0x2243,0x2243]] } }
 family = 'Iosevka Test Slab'
 serifs = 'slab'
 noCvSs = false
@@ -1031,7 +1037,7 @@ menu = 'italic'
 css = 'italic'
 
 [buildPlans.IosevkaTestAile]
-subset = { include = { ranges = [[0x7E,0x7E],[0xE3,0xE3],[0x303,0x303],[0x2248,0x2248],[0x223C,0x223C],[0x2243,0x2243]] } }
+subset = { include = { ranges = [[0x41,0x41],[0x61,0x61],[0x258,0x258],[0x7E,0x7E],[0xE3,0xE3],[0x303,0x303],[0x2248,0x2248],[0x223C,0x223C],[0x2243,0x2243]] } }
 family = 'Iosevka Test Aile'
 spacing = 'quasi-proportional'
 serifs = 'sans'
@@ -1043,7 +1049,7 @@ capital-i = 'serifless'
 capital-j = 'serifless'
 capital-m = 'flat-bottom-serifless'
 capital-w = 'straight-flat-top-serifless'
-a = 'double-storey-serifless'
+a = 'double-storey-bottom-cut-serifless-diagonal-bar'
 d = 'toothed-serifless'
 e = 'flat-crossbar'
 f = 'flat-hooked-serifless'
@@ -1107,7 +1113,7 @@ menu = 'italic'
 css = 'italic'
 
 [buildPlans.IosevkaTestEtoile]
-subset = { include = { ranges = [[0x7E,0x7E],[0xE3,0xE3],[0x303,0x303],[0x2248,0x2248],[0x223C,0x223C],[0x2243,0x2243]] } }
+subset = { include = { ranges = [[0x41,0x41],[0x61,0x61],[0x258,0x258],[0x7E,0x7E],[0xE3,0xE3],[0x303,0x303],[0x2248,0x2248],[0x223C,0x223C],[0x2243,0x2243]] } }
 family = 'Iosevka Test Etoile'
 spacing = 'quasi-proportional'
 serifs = 'slab'
