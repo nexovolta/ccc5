@@ -55,7 +55,7 @@ capital-psi = 'base-serifed'
 capital-xi = 'diagonal-crossbar-falling-motion-serifed'
 capital-omega = 'disjoint-serifed'
 
-a = 'double-storey-bottom-cut-serifless-diagonal-bar'
+a = 'double-storey-hook-flat-bottom-cut-serifless-diagonal-bar'
 b = 'toothless-corner-serifed'
 c = 'serifless'
 d = 'toothed-flat-bowl-top-serifed'
@@ -178,7 +178,7 @@ pilcrow = 'flat-hooked'
 question = 'corner'
 section = 'flat-hooked'
 underscore = 'above-baseline'
-tilde = 'compact-mid-tall'
+tilde = 'compact-mid'
 ampersand = 'upper-open-flat-hooked'
 micro-sign = 'flat-bottom-motion-serifed'
 sterling = 'motion-serifed'
@@ -367,7 +367,7 @@ pilcrow = 'flat-hooked'
 question = 'corner'
 section = 'flat-hooked'
 underscore = 'above-baseline'
-tilde = 'compact-mid-tall'
+tilde = 'compact-mid'
 ampersand = 'flat-top-serifed'
 micro-sign = 'flat-bottom-motion-serifed'
 sterling = 'motion-serifed'
@@ -519,7 +519,7 @@ capital-psi = 'base-serifed'
 capital-xi = 'diagonal-crossbar-falling-motion-serifed'
 capital-omega = 'disjoint-serifed'
 
-a = 'double-storey-bottom-cut-serifless-diagonal-bar'
+a = 'double-storey-hook-flat-bottom-cut-serifless-diagonal-bar'
 b = 'toothless-corner-serifed'
 c = 'serifless'
 d = 'toothed-flat-bowl-top-serifed'
@@ -642,7 +642,7 @@ pilcrow = 'flat-hooked'
 question = 'corner'
 section = 'flat-hooked'
 underscore = 'above-baseline'
-tilde = 'compact-mid-tall'
+tilde = 'compact-mid'
 ampersand = 'upper-open-flat-hooked'
 micro-sign = 'flat-bottom-motion-serifed'
 sterling = 'motion-serifed'
@@ -831,7 +831,7 @@ pilcrow = 'flat-hooked'
 question = 'corner'
 section = 'flat-hooked'
 underscore = 'above-baseline'
-tilde = 'compact-mid-tall'
+tilde = 'compact-mid'
 ampersand = 'flat-top-serifed'
 micro-sign = 'flat-bottom-motion-serifed'
 sterling = 'motion-serifed'
@@ -928,16 +928,17 @@ winMetricDescenderPad = 16
 
 [buildPlans.IosevkaTestSans]
 spacing = 'term'
-subset = { include = { ranges = [[0x43,0x43],[0x61,0x61],[0x72,0x72],[0x20A2,0x20A2],[0x20D4,0x20D5],[0x20D9,0x20DA],[0x20DD,0x20DD],[0x20DE,0x20E0],[0x20E2,0x20E4],[0x20E7,0x20E7],[0x20EA,0x20EA]] } }
+subset = { include = { ranges = [[0x52,0x52],[0x280,0x280],[0x20B9,0x20B9],[0xA75A,0xA75B]] } }
 family = 'Iosevka Test Sans'
 serifs = 'sans'
 noCvSs = false
 exportGlyphNames = true
 [buildPlans.IosevkaTestSans.variants.design]
+capital-r = 'straight-broken-open-serifless'
 r = 'base-serifed'
-a = 'double-storey-bottom-cut-serifless-diagonal-bar'
+a = 'double-storey-hook-flat-bottom-cut-serifless-diagonal-bar'
 capital-a = 'straight-base-serifed-diagonal-bar-falling'
-tilde = 'compact-mid-tall'
+tilde = 'compact-mid'
 e = 'diagonal-crossbar-falling'
 schwa = 'diagonal-crossbar-falling'
 capital-g = 'toothed-serifless-diagonal-crossbar-falling'
@@ -948,7 +949,7 @@ y = 'square-top-turn-top-right-motion-serifed'
 lower-lambda = 'square-bottom'
 
 [buildPlans.IosevkaTestSans.variants.italic]
-a = 'double-storey-bottom-cut-serifless-diagonal-bar'
+a = 'double-storey-hook-flat-bottom-cut-serifless-diagonal-bar-falling'
 capital-a = 'straight-base-serifed-diagonal-bar-falling'
 
 [buildPlans.IosevkaTestSans.weights.Thin]
@@ -985,12 +986,14 @@ css = 'italic'
 
 [buildPlans.IosevkaTestSlab]
 spacing = 'term'
-subset = { include = { ranges = [[0x43,0x43],[0x61,0x61],[0x72,0x72],[0x20A2,0x20A2],[0x20D4,0x20D5],[0x20D9,0x20DA],[0x20DD,0x20DD],[0x20DE,0x20E0],[0x20E2,0x20E4],[0x20E7,0x20E7],[0x20EA,0x20EA]] } }
+subset = { include = { ranges = [[0x52,0x52],[0x280,0x280],[0x20B9,0x20B9],[0xA75A,0xA75B]] } }
 family = 'Iosevka Test Slab'
 serifs = 'slab'
 noCvSs = false
 exportGlyphNames = true
 [buildPlans.IosevkaTestSlab.variants.design]
+capital-r = 'straight-broken-open-serifless'
+a = 'double-storey-hook-flat-bottom-cut-serifless-diagonal-bar'
 e = 'diagonal-crossbar-falling'
 schwa = 'diagonal-crossbar-falling'
 lower-sigma = 'vertical-bowl'
@@ -1031,19 +1034,23 @@ shape = 'italic'
 menu = 'italic'
 css = 'italic'
 
+[buildPlans.IosevkaTestSlab.variants.italic]
+a = 'double-storey-hook-flat-bottom-cut-serifless-diagonal-bar-falling'
+
 [buildPlans.IosevkaTestAile]
-subset = { include = { ranges = [[0x43,0x43],[0x61,0x61],[0x72,0x72],[0x20A2,0x20A2],[0x20D4,0x20D5],[0x20D9,0x20DA],[0x20DD,0x20DD],[0x20DE,0x20E0],[0x20E2,0x20E4],[0x20E7,0x20E7],[0x20EA,0x20EA]] } }
+subset = { include = { ranges = [[0x52,0x52],[0x280,0x280],[0x20B9,0x20B9],[0xA75A,0xA75B]] } }
 family = 'Iosevka Test Aile'
 spacing = 'quasi-proportional'
 serifs = 'sans'
 noCvSs = false
 exportGlyphNames = true
 [buildPlans.IosevkaTestAile.variants.design]
+capital-r = 'straight-broken-open-serifless'
 capital-i = 'serifless'
 capital-j = 'serifless'
 capital-m = 'flat-bottom-serifless'
 capital-w = 'straight-flat-top-serifless'
-a = 'double-storey-bottom-cut-serifless-diagonal-bar'
+a = 'double-storey-hook-flat-bottom-cut-serifless-diagonal-bar'
 d = 'toothed-serifless'
 e = 'flat-crossbar'
 f = 'flat-hooked-serifless'
@@ -1072,6 +1079,9 @@ guillemet = 'straight-vertical-terminal'
 at = 'fourfold'
 percent = 'rings-continuous-slash'
 micro-sign = 'toothed-serifless'
+
+[buildPlans.IosevkaTestAile.variants.italic]
+a = 'double-storey-hook-flat-bottom-cut-serifless-diagonal-bar-falling'
 
 [buildPlans.IosevkaTestAile.weights.Thin]
 shape = 120
@@ -1106,13 +1116,15 @@ menu = 'italic'
 css = 'italic'
 
 [buildPlans.IosevkaTestEtoile]
-subset = { include = { ranges = [[0x43,0x43],[0x61,0x61],[0x72,0x72],[0x20A2,0x20A2],[0x20D4,0x20D5],[0x20D9,0x20DA],[0x20DD,0x20DD],[0x20DE,0x20E0],[0x20E2,0x20E4],[0x20E7,0x20E7],[0x20EA,0x20EA]] } }
+subset = { include = { ranges = [[0x52,0x52],[0x280,0x280],[0x20B9,0x20B9],[0xA75A,0xA75B]] } }
 family = 'Iosevka Test Etoile'
 spacing = 'quasi-proportional'
 serifs = 'slab'
 noCvSs = false
 exportGlyphNames = true
 [buildPlans.IosevkaTestEtoile.variants.design]
+capital-r = 'straight-broken-open-serifless'
+a = 'double-storey-hook-flat-bottom-cut-serifless-diagonal-bar'
 lower-sigma = 'vertical-bowl'
 y = 'square-top-turn-top-right-motion-serifed'
 capital-m = 'flat-bottom-serifed'
@@ -1138,6 +1150,7 @@ at = 'fourfold'
 percent = 'rings-continuous-slash'
 
 [buildPlans.IosevkaTestEtoile.variants.italic]
+a = 'double-storey-hook-flat-bottom-cut-serifless-diagonal-bar-falling'
 f = 'flat-hooked-tailed'
 i = 'serifed-flat-tailed'
 l = 'serifed-flat-tailed'
