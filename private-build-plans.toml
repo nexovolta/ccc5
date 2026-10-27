@@ -154,9 +154,9 @@ cyrl-koppa = 'base-serifed'
 braille-dot = 'diamond'
 diacritic-dot = 'round'
 diacritic-comma = 'square'
-punctuation-dot = 'round'
-punctuation-comma = 'square'
-tittle = 'diamond'
+punctuation-dot = 'square'
+punctuation-comma = 'diamond'
+tittle = 'round'
 diacritic-line = 'horizontal-terminal'
 
 ascii-grave = 'straight'
@@ -343,9 +343,9 @@ cyrl-koppa = 'base-serifed'
 braille-dot = 'diamond'
 diacritic-dot = 'round'
 diacritic-comma = 'square'
-punctuation-dot = 'round'
-punctuation-comma = 'square'
-tittle = 'diamond'
+punctuation-dot = 'square'
+punctuation-comma = 'diamond'
+tittle = 'round'
 diacritic-line = 'horizontal-terminal'
 
 ascii-grave = 'straight'
@@ -618,9 +618,9 @@ cyrl-koppa = 'base-serifed'
 braille-dot = 'diamond'
 diacritic-dot = 'round'
 diacritic-comma = 'square'
-punctuation-dot = 'round'
-punctuation-comma = 'square'
-tittle = 'diamond'
+punctuation-dot = 'square'
+punctuation-comma = 'diamond'
+tittle = 'round'
 diacritic-line = 'horizontal-terminal'
 
 ascii-grave = 'straight'
@@ -807,9 +807,9 @@ cyrl-koppa = 'base-serifed'
 braille-dot = 'diamond'
 diacritic-dot = 'round'
 diacritic-comma = 'square'
-punctuation-dot = 'round'
-punctuation-comma = 'square'
-tittle = 'diamond'
+punctuation-dot = 'square'
+punctuation-comma = 'diamond'
+tittle = 'round'
 diacritic-line = 'horizontal-terminal'
 
 ascii-grave = 'straight'
@@ -933,24 +933,10 @@ family = 'Iosevka Test Sans'
 serifs = 'sans'
 noCvSs = false
 exportGlyphNames = true
+
 [buildPlans.IosevkaTestSans.variants.design]
-capital-r = 'straight-broken-open-serifless'
-r = 'base-serifed'
-a = 'double-storey-hook-flat-bottom-cut-serifless-diagonal-bar'
-capital-a = 'straight-base-serifed-diagonal-bar-falling'
-tilde = 'compact-mid'
-e = 'diagonal-crossbar-falling'
-schwa = 'diagonal-crossbar-falling'
-capital-g = 'toothed-serifless-diagonal-crossbar-falling'
-four = 'closed-serifless-rising'
-lower-sigma = 'vertical-bowl'
-i = 'hooky-bottom'
-y = 'square-top-turn-top-right-motion-serifed'
-lower-lambda = 'square-bottom'
 
 [buildPlans.IosevkaTestSans.variants.italic]
-a = 'double-storey-hook-flat-bottom-cut-serifless-diagonal-bar-falling'
-capital-a = 'straight-base-serifed-diagonal-bar-falling'
 
 [buildPlans.IosevkaTestSans.weights.Thin]
 shape = 120
@@ -991,16 +977,8 @@ family = 'Iosevka Test Slab'
 serifs = 'slab'
 noCvSs = false
 exportGlyphNames = true
-[buildPlans.IosevkaTestSlab.variants.design]
-capital-r = 'straight-broken-open-serifless'
-a = 'double-storey-hook-flat-bottom-cut-serifless-diagonal-bar'
-e = 'diagonal-crossbar-falling'
-schwa = 'diagonal-crossbar-falling'
-lower-sigma = 'vertical-bowl'
-i = 'hooky-bottom'
-y = 'square-top-turn-top-right-motion-serifed'
-lower-lambda = 'square-bottom'
 
+[buildPlans.IosevkaTestSlab.variants.design]
 
 [buildPlans.IosevkaTestSlab.weights.Thin]
 shape = 120
@@ -1044,44 +1022,10 @@ spacing = 'quasi-proportional'
 serifs = 'sans'
 noCvSs = false
 exportGlyphNames = true
+
 [buildPlans.IosevkaTestAile.variants.design]
-capital-r = 'straight-broken-open-serifless'
-capital-i = 'serifless'
-capital-j = 'serifless'
-capital-m = 'flat-bottom-serifless'
-capital-w = 'straight-flat-top-serifless'
-a = 'double-storey-hook-flat-bottom-cut-serifless-diagonal-bar'
-d = 'toothed-serifless'
-e = 'flat-crossbar'
-f = 'flat-hooked-serifless'
-i = 'serifless'
-j = 'flat-hooked-serifless'
-k = 'straight-serifless'
-l = 'serifless'
-r = 'compact-serifless'
-t = 'flat-hooked'
-u = 'toothed-serifless'
-w = 'straight-flat-top-serifless'
-y = 'square-top-turn-top-right-motion-serifed'
-lower-sigma = 'vertical-bowl'
-long-s = 'flat-hooked-serifless'
-eszet = 'longs-s-lig-serifless'
-lower-iota = 'flat-tailed'
-lower-lambda = 'square-bottom'
-lower-tau = 'short-tailed'
-cyrl-u = 'straight-serifless'
-cyrl-ef = 'serifless'
-four = 'closed-serifless'
-six = 'closed-contour-flat-bowl'
-nine = 'closed-contour-flat-bowl'
-brace = 'straight'
-guillemet = 'straight-vertical-terminal'
-at = 'fourfold'
-percent = 'rings-continuous-slash'
-micro-sign = 'toothed-serifless'
 
 [buildPlans.IosevkaTestAile.variants.italic]
-a = 'double-storey-hook-flat-bottom-cut-serifless-diagonal-bar-falling'
 
 [buildPlans.IosevkaTestAile.weights.Thin]
 shape = 120
@@ -1122,42 +1066,10 @@ spacing = 'quasi-proportional'
 serifs = 'slab'
 noCvSs = false
 exportGlyphNames = true
+
 [buildPlans.IosevkaTestEtoile.variants.design]
-capital-r = 'straight-broken-open-serifless'
-a = 'double-storey-hook-flat-bottom-cut-serifless-diagonal-bar'
-lower-sigma = 'vertical-bowl'
-y = 'square-top-turn-top-right-motion-serifed'
-capital-m = 'flat-bottom-serifed'
-capital-w = 'straight-almost-flat-top-serifed'
-f = 'flat-hooked-serifed'
-i = 'serifed'
-j = 'flat-hooked-serifed'
-l = 'serifed'
-t = 'flat-hooked'
-w = 'straight-almost-flat-top-serifed'
-long-s = 'flat-hooked-bottom-serifed'
-eszet = 'longs-s-lig-bottom-serifed'
-lower-iota = 'serifed-flat-tailed'
-lower-lambda = 'square-bottom'
-lower-tau = 'short-tailed'
-cyrl-ef = 'serifed'
-four = 'closed-serifed'
-six = 'closed-contour'
-nine = 'closed-contour'
-brace = 'straight'
-guillemet = 'straight-vertical-terminal'
-at = 'fourfold'
-percent = 'rings-continuous-slash'
 
 [buildPlans.IosevkaTestEtoile.variants.italic]
-a = 'double-storey-hook-flat-bottom-cut-serifless-diagonal-bar-falling'
-f = 'flat-hooked-tailed'
-i = 'serifed-flat-tailed'
-l = 'serifed-flat-tailed'
-w = 'straight-almost-flat-top-motion-serifed'
-long-s = 'flat-hooked-tailed'
-eszet = 'longs-s-lig-tailed-serifless'
-cyrl-ef = 'split-cursive'
 
 [buildPlans.IosevkaTestEtoile.weights.Thin]
 shape = 120
