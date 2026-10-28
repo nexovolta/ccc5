@@ -120,7 +120,6 @@ cyrl-el = 'triangular-motion-serifed'
 cyrl-em = 'slanted-sides-vertical-middle-hanging-motion-serifed'
 cyrl-i = 'asymmetric-bilateral-motion-serifed'
 cyrl-en = 'top-left-bottom-right-serifed'
-cyrl-er = 'flat-top-motion-serifed'
 cyrl-u = 'straight-motion-serifed'
 cyrl-ef = 'split-left-flat-top-top-serifed'
 cyrl-pe = 'motion-serifed'
@@ -139,13 +138,11 @@ cyrl-capital-de = 'square-legless-motion-serifed'
 cyrl-capital-el = 'square-motion-serifed'
 cyrl-capital-i = 'asymmetric-bilateral-motion-serifed'
 cyrl-capital-en = 'bilateral-motion-serifed'
-cyrl-capital-er = 'closed-motion-serifed'
 cyrl-capital-u = 'square-top-bilateral-motion-serifed'
 cyrl-capital-pe = 'motion-serifed'
 cyrl-capital-tse = 'bilateral-motion-serifed'
 cyrl-capital-sha = 'short-stem-bilateral-motion-serifed'
 cyrl-capital-che = 'flat-hump-bilateral-motion-serifed'
-cyrl-yu = 'motion-serifed'
 cyrl-capital-e = 'diagonal-crossbar-falling-bilateral-inward-mid-serifed'
 capital-o-bar = 'diagonal-crossbar-falling'
 cyrl-capital-ya = 'straight-broken-motion-serifed'
@@ -308,7 +305,6 @@ cyrl-el = 'tailed-motion-serifed'
 cyrl-em = 'vertical-middle-hanging-tailed-motion-serifed'
 cyrl-i = 'cursive-flat-bottom-bilateral-motion-serifed'
 cyrl-en = 'tailed-bilateral-motion-serifed'
-cyrl-er = 'flat-top-motion-serifed'
 cyrl-u = 'cursive-flat-hump-flat-hooked-serifed'
 cyrl-ef = 'split-left-flat-top-diagonal-tailed-cursive'
 cyrl-pe = 'cursive-flat-top-tailed-motion-serifed'
@@ -328,13 +324,11 @@ cyrl-capital-de = 'square-legless-motion-serifed'
 cyrl-capital-el = 'square-motion-serifed'
 cyrl-capital-i = 'asymmetric-bilateral-motion-serifed'
 cyrl-capital-en = 'bilateral-motion-serifed'
-cyrl-capital-er = 'closed-motion-serifed'
 cyrl-capital-u = 'square-top-bilateral-motion-serifed'
 cyrl-capital-pe = 'motion-serifed'
 cyrl-capital-tse = 'bilateral-motion-serifed'
 cyrl-capital-sha = 'short-stem-bilateral-motion-serifed'
 cyrl-capital-che = 'flat-hump-bilateral-motion-serifed'
-cyrl-yu = 'motion-serifed'
 cyrl-capital-e = 'diagonal-crossbar-falling-bilateral-inward-mid-serifed'
 capital-o-bar = 'diagonal-crossbar-falling'
 cyrl-capital-ya = 'straight-broken-motion-serifed'
@@ -584,7 +578,6 @@ cyrl-el = 'triangular-motion-serifed'
 cyrl-em = 'slanted-sides-vertical-middle-hanging-motion-serifed'
 cyrl-i = 'asymmetric-bilateral-motion-serifed'
 cyrl-en = 'top-left-bottom-right-serifed'
-cyrl-er = 'flat-top-motion-serifed'
 cyrl-u = 'straight-motion-serifed'
 cyrl-ef = 'split-left-flat-top-top-serifed'
 cyrl-pe = 'motion-serifed'
@@ -603,13 +596,11 @@ cyrl-capital-de = 'square-legless-motion-serifed'
 cyrl-capital-el = 'square-motion-serifed'
 cyrl-capital-i = 'asymmetric-bilateral-motion-serifed'
 cyrl-capital-en = 'bilateral-motion-serifed'
-cyrl-capital-er = 'closed-motion-serifed'
 cyrl-capital-u = 'square-top-bilateral-motion-serifed'
 cyrl-capital-pe = 'motion-serifed'
 cyrl-capital-tse = 'bilateral-motion-serifed'
 cyrl-capital-sha = 'short-stem-bilateral-motion-serifed'
 cyrl-capital-che = 'flat-hump-bilateral-motion-serifed'
-cyrl-yu = 'motion-serifed'
 cyrl-capital-e = 'diagonal-crossbar-falling-bilateral-inward-mid-serifed'
 capital-o-bar = 'diagonal-crossbar-falling'
 cyrl-capital-ya = 'straight-broken-motion-serifed'
@@ -772,7 +763,6 @@ cyrl-el = 'tailed-motion-serifed'
 cyrl-em = 'vertical-middle-hanging-tailed-motion-serifed'
 cyrl-i = 'cursive-flat-bottom-bilateral-motion-serifed'
 cyrl-en = 'tailed-bilateral-motion-serifed'
-cyrl-er = 'flat-top-motion-serifed'
 cyrl-u = 'cursive-flat-hump-flat-hooked-serifed'
 cyrl-ef = 'split-left-flat-top-diagonal-tailed-cursive'
 cyrl-pe = 'cursive-flat-top-tailed-motion-serifed'
@@ -792,13 +782,11 @@ cyrl-capital-de = 'square-legless-motion-serifed'
 cyrl-capital-el = 'square-motion-serifed'
 cyrl-capital-i = 'asymmetric-bilateral-motion-serifed'
 cyrl-capital-en = 'bilateral-motion-serifed'
-cyrl-capital-er = 'closed-motion-serifed'
 cyrl-capital-u = 'square-top-bilateral-motion-serifed'
 cyrl-capital-pe = 'motion-serifed'
 cyrl-capital-tse = 'bilateral-motion-serifed'
 cyrl-capital-sha = 'short-stem-bilateral-motion-serifed'
 cyrl-capital-che = 'flat-hump-bilateral-motion-serifed'
-cyrl-yu = 'motion-serifed'
 cyrl-capital-e = 'diagonal-crossbar-falling-bilateral-inward-mid-serifed'
 capital-o-bar = 'diagonal-crossbar-falling'
 cyrl-capital-ya = 'straight-broken-motion-serifed'
@@ -928,13 +916,15 @@ winMetricDescenderPad = 16
 
 [buildPlans.IosevkaTestSans]
 spacing = 'term'
-subset = { include = { ranges = [[0x0053,0x0053]] } }
+subset = { include = { ranges = [[0x50, 0x50], [0x70, 0x70], [0x79, 0x79], [0x269, 0x269], [0x3B4, 0x3B4], [0x3B9, 0x3B9], [0x420, 0x420], [0x431, 0x431], [0x440, 0x440], [0x44E, 0x44E], [0xA647, 0xA647]] } }
 family = 'Iosevka Test Sans'
 serifs = 'sans'
 noCvSs = false
 exportGlyphNames = true
 
 [buildPlans.IosevkaTestSans.variants.design]
+r = 'serifless'
+t = 'hookless-asymmetric-shorter-neck'
 
 [buildPlans.IosevkaTestSans.variants.italic]
 
@@ -972,13 +962,15 @@ css = 'italic'
 
 [buildPlans.IosevkaTestSlab]
 spacing = 'term'
-subset = { include = { ranges = [[0x0053,0x0053]] } }
+subset = { include = { ranges = [[0x72,0x72], [0x74,0x74], [0x20B6,0x20B6], [0xAB45,0xAB45], [0xA648,0xA649]] } }
 family = 'Iosevka Test Slab'
 serifs = 'slab'
 noCvSs = false
 exportGlyphNames = true
 
 [buildPlans.IosevkaTestSlab.variants.design]
+r = 'top-serifed'
+t = 'bent-hook'
 
 [buildPlans.IosevkaTestSlab.weights.Thin]
 shape = 120
@@ -1016,7 +1008,7 @@ css = 'italic'
 a = 'double-storey-hook-flat-bottom-cut-serifless-diagonal-bar-falling'
 
 [buildPlans.IosevkaTestAile]
-subset = { include = { ranges = [[0x0053,0x0053]] } }
+subset = { include = { ranges = [[0x72,0x72], [0x74,0x74], [0x20B6,0x20B6], [0xAB45,0xAB45], [0xA648,0xA649]] } }
 family = 'Iosevka Test Aile'
 spacing = 'quasi-proportional'
 serifs = 'sans'
@@ -1024,6 +1016,8 @@ noCvSs = false
 exportGlyphNames = true
 
 [buildPlans.IosevkaTestAile.variants.design]
+r = 'base-serifed'
+t = 'corner-hooked-asymmetric'
 
 [buildPlans.IosevkaTestAile.variants.italic]
 
@@ -1060,7 +1054,7 @@ menu = 'italic'
 css = 'italic'
 
 [buildPlans.IosevkaTestEtoile]
-subset = { include = { ranges = [[0x0053,0x0053]] } }
+subset = { include = { ranges = [[0x72,0x72], [0x74,0x74], [0x20B6,0x20B6], [0xAB45,0xAB45], [0xA648,0xA649]] } }
 family = 'Iosevka Test Etoile'
 spacing = 'quasi-proportional'
 serifs = 'slab'
@@ -1068,6 +1062,8 @@ noCvSs = false
 exportGlyphNames = true
 
 [buildPlans.IosevkaTestEtoile.variants.design]
+r = 'serifed'
+t = 'flat-hooked'
 
 [buildPlans.IosevkaTestEtoile.variants.italic]
 
