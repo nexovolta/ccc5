@@ -2894,6 +2894,10 @@
   more-oblique-inward-serifed-broken-serifless
   more-oblique-inward-serifed-serifed
   more-oblique-inward-serifed-serifless
+  more-oblique-serifed-hooked-broken-serifed
+  more-oblique-serifed-hooked-broken-serifless
+  more-oblique-serifed-hooked-serifed
+  more-oblique-serifed-hooked-serifless
   oblique-arched-broken-serifed
   oblique-arched-broken-serifless
   oblique-arched-serifed
@@ -2914,6 +2918,10 @@
   oblique-inward-serifed-broken-serifless
   oblique-inward-serifed-serifed
   oblique-inward-serifed-serifless
+  oblique-serifed-hooked-broken-serifed
+  oblique-serifed-hooked-broken-serifless
+  oblique-serifed-hooked-serifed
+  oblique-serifed-hooked-serifless
   upright-arched-broken-serifed
   upright-arched-broken-serifless
   upright-arched-serifed
@@ -2934,6 +2942,10 @@
   upright-inward-serifed-broken-serifless
   upright-inward-serifed-serifed
   upright-inward-serifed-serifless
+  upright-serifed-hooked-broken-serifed
+  upright-serifed-hooked-broken-serifless
+  upright-serifed-hooked-serifed
+  upright-serifed-hooked-serifless
 
 [four] tag=cv05 sampler="4"
   closed-non-crossing-serifed
@@ -4250,6 +4262,8 @@
   closed-flat-hooked-flat-bowl
   closed-inward-serifed
   closed-inward-serifed-flat-bowl
+  closed-serifed-hooked
+  closed-serifed-hooked-flat-bowl
   open-contour
   open-contour-flat-bowl
   steep-bar
@@ -4619,6 +4633,8 @@
   closed-flat-hooked-flat-bowl
   closed-inward-serifed
   closed-inward-serifed-flat-bowl
+  closed-serifed-hooked
+  closed-serifed-hooked-flat-bowl
   open-contour
   open-contour-flat-bowl
   steep-bar
@@ -4682,13 +4698,18 @@
   flat-top-broken-serifed
   flat-top-broken-serifed-corner-hooked
   flat-top-broken-serifed-flat-hooked
+  flat-top-broken-serifed-hooked
+  flat-top-broken-serifed-serifed-hooked
   flat-top-corner-hooked
   flat-top-flat-hooked
   flat-top-serifed
   flat-top-serifed-corner-hooked
   flat-top-serifed-flat-hooked
+  flat-top-serifed-hooked
+  flat-top-serifed-serifed-hooked
   inward-serifed
   rounded
+  serifed-hooked
 
 [tilde] tag=VXAU sampler="~"
   compact
@@ -4723,6 +4744,8 @@
   curly-neck-inward-serifed-serifed
   curly-neck-inward-serifed-serifless
   curly-neck-serifed
+  curly-neck-serifed-hooked-serifed
+  curly-neck-serifed-hooked-serifless
   curly-neck-serifless
   straight-neck-corner-hooked-serifed
   straight-neck-corner-hooked-serifless
@@ -4731,6 +4754,8 @@
   straight-neck-inward-serifed-serifed
   straight-neck-inward-serifed-serifless
   straight-neck-serifed
+  straight-neck-serifed-hooked-serifed
+  straight-neck-serifed-hooked-serifless
   straight-neck-serifless
 
 [u] tag=cv69 sampler="u"
