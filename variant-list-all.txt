@@ -4488,6 +4488,41 @@
   earless-corner-serifless
   earless-rounded-serifed
   earless-rounded-serifless
+  flat-tailed-base-serifed
+  flat-tailed-compact-base-serifed
+  flat-tailed-compact-serifed
+  flat-tailed-compact-serifless
+  flat-tailed-compact-top-cut-base-serifed
+  flat-tailed-compact-top-cut-serifed
+  flat-tailed-compact-top-cut-serifless
+  flat-tailed-compact-top-serifed
+  flat-tailed-corner-hooked-base-serifed
+  flat-tailed-corner-hooked-serifed
+  flat-tailed-corner-hooked-serifless
+  flat-tailed-corner-hooked-top-cut-base-serifed
+  flat-tailed-corner-hooked-top-cut-serifed
+  flat-tailed-corner-hooked-top-cut-serifless
+  flat-tailed-corner-hooked-top-serifed
+  flat-tailed-hookless-base-serifed
+  flat-tailed-hookless-serifed
+  flat-tailed-hookless-serifless
+  flat-tailed-hookless-top-cut-base-serifed
+  flat-tailed-hookless-top-cut-serifed
+  flat-tailed-hookless-top-cut-serifless
+  flat-tailed-hookless-top-serifed
+  flat-tailed-narrow-hook-base-serifed
+  flat-tailed-narrow-hook-serifed
+  flat-tailed-narrow-hook-serifless
+  flat-tailed-narrow-hook-top-cut-base-serifed
+  flat-tailed-narrow-hook-top-cut-serifed
+  flat-tailed-narrow-hook-top-cut-serifless
+  flat-tailed-narrow-hook-top-serifed
+  flat-tailed-serifed
+  flat-tailed-serifless
+  flat-tailed-top-cut-base-serifed
+  flat-tailed-top-cut-serifed
+  flat-tailed-top-cut-serifless
+  flat-tailed-top-serifed
   flat-top-base-serifed
   flat-top-serifed
   flat-top-serifless
