@@ -8,11 +8,11 @@ exportGlyphNames = true
 [buildPlans.Nexsevka.variants.design]
 zero = 'diamond-broken-reverse-slash'
 one = 'base-flat-top-serif'
-two = 'curly-neck-corner-hooked-serifless'
+two = 'curly-neck-serifed-hooked-serifless'
 three = 'flat-top-broken-flat-hooked'
 four = 'open-serifed-rising'
-five = 'more-oblique-flat-hooked-broken-serifless'
-six = 'closed-contour-flat-bowl'
+five = 'more-oblique-flat-broken-serifless'
+six = 'closed-corner-hooked-flat-bowl'
 seven = 'vertical-bottom-base-serifed-crossbar'
 eight = 'crossing-reverse-asymmetric'
 nine = 'steep-bar-flat-bowl'
@@ -193,11 +193,11 @@ lig-single-arrow-bar = 'with-notch'
 [buildPlans.Nexsevka.variants.italic]
 zero = 'diamond-broken-reverse-slash'
 one = 'base-long-top-serif'
-two = 'curly-neck-corner-hooked-serifless'
+two = 'curly-neck-serifed-hooked-serifless'
 three = 'flat-top-broken-flat-hooked'
 four = 'open-serifless-rising'
-five = 'more-oblique-flat-hooked-broken-serifless'
-six = 'closed-contour-flat-bowl'
+five = 'more-oblique-flat-broken-serifless'
+six = 'closed-corner-hooked-flat-bowl'
 seven = 'vertical-top-serifed-crossbar'
 eight = 'crossing-asymmetric'
 nine = 'steep-bar-flat-bowl'
@@ -466,11 +466,11 @@ exportGlyphNames = true
 [buildPlans.NexsevkaPropo.variants.design]
 zero = 'diamond-broken-reverse-slash'
 one = 'base-flat-top-serif'
-two = 'curly-neck-corner-hooked-serifless'
+two = 'curly-neck-serifed-hooked-serifless'
 three = 'flat-top-broken-flat-hooked'
 four = 'open-serifed-rising'
-five = 'more-oblique-flat-hooked-broken-serifless'
-six = 'closed-contour-flat-bowl'
+five = 'more-oblique-flat-broken-serifless'
+six = 'closed-corner-hooked-flat-bowl'
 seven = 'vertical-bottom-base-serifed-crossbar'
 eight = 'crossing-reverse-asymmetric'
 nine = 'steep-bar-flat-bowl'
@@ -651,11 +651,11 @@ lig-single-arrow-bar = 'with-notch'
 [buildPlans.NexsevkaPropo.variants.italic]
 zero = 'diamond-broken-reverse-slash'
 one = 'base-long-top-serif'
-two = 'curly-neck-corner-hooked-serifless'
+two = 'curly-neck-serifed-hooked-serifless'
 three = 'flat-top-broken-flat-hooked'
 four = 'open-serifless-rising'
-five = 'more-oblique-flat-hooked-broken-serifless'
-six = 'closed-contour-flat-bowl'
+five = 'more-oblique-flat-broken-serifless'
+six = 'closed-corner-hooked-flat-bowl'
 seven = 'vertical-top-serifed-crossbar'
 eight = 'crossing-asymmetric'
 nine = 'steep-bar-flat-bowl'
@@ -916,13 +916,20 @@ winMetricDescenderPad = 16
 
 [buildPlans.IosevkaTestSans]
 spacing = 'term'
-subset = { include = { ranges = [[0x69, 0x69], [0x6A, 0x6A], [0x6C, 0x6C]] } }
+subset = { include = { ranges = [[0x32, 0x33], [0x35, 0x36], [0x39, 0x39], [0x69, 0x69], [0x6C, 0x6C], [0x1DF6F, 0x1DF6F]] } }
 family = 'Iosevka Test Sans'
 serifs = 'sans'
 noCvSs = false
 exportGlyphNames = true
 
 [buildPlans.IosevkaTestSans.variants.design]
+cyrl-ze = 'corner-hooked'
+cyrl-capital-ze = 'corner-hooked'
+two = 'straight-neck-serifed-hooked-serifless'
+three = 'serifed-hooked'
+five = 'upright-serifed-hooked-serifless'
+six = 'closed-serifed-hooked'
+nine = 'closed-serifed-hooked'
 
 [buildPlans.IosevkaTestSans.variants.italic]
 
@@ -960,13 +967,15 @@ css = 'italic'
 
 [buildPlans.IosevkaTestSlab]
 spacing = 'term'
-subset = { include = { ranges = [[0x69, 0x69], [0x6A, 0x6A], [0x6C, 0x6C]] } }
+subset = { include = { ranges = [[0x21C, 0x21D], [0x2A9, 0x2A9], [0xA76A, 0xA76B], [0x1DF00, 0x1DF00]] } }
 family = 'Iosevka Test Slab'
 serifs = 'slab'
 noCvSs = false
 exportGlyphNames = true
 
 [buildPlans.IosevkaTestSlab.variants.design]
+cyrl-ze = 'corner-hooked'
+cyrl-capital-ze = 'corner-hooked'
 
 [buildPlans.IosevkaTestSlab.weights.Thin]
 shape = 120
@@ -1004,7 +1013,7 @@ css = 'italic'
 a = 'double-storey-hook-flat-bottom-cut-serifless-diagonal-bar-falling'
 
 [buildPlans.IosevkaTestAile]
-subset = { include = { ranges = [[0x69, 0x69], [0x6A, 0x6A], [0x6C, 0x6C]] } }
+subset = { include = { ranges = [[0x21C, 0x21D], [0x2A9, 0x2A9], [0xA76A, 0xA76B], [0x1DF00, 0x1DF00]] } }
 family = 'Iosevka Test Aile'
 spacing = 'quasi-proportional'
 serifs = 'sans'
@@ -1012,6 +1021,8 @@ noCvSs = false
 exportGlyphNames = true
 
 [buildPlans.IosevkaTestAile.variants.design]
+cyrl-ze = 'corner-hooked'
+cyrl-capital-ze = 'corner-hooked'
 
 [buildPlans.IosevkaTestAile.variants.italic]
 
@@ -1048,7 +1059,7 @@ menu = 'italic'
 css = 'italic'
 
 [buildPlans.IosevkaTestEtoile]
-subset = { include = { ranges = [[0x69, 0x69], [0x6A, 0x6A], [0x6C, 0x6C]] } }
+subset = { include = { ranges = [[0x21C, 0x21D], [0x2A9, 0x2A9], [0xA76A, 0xA76B], [0x1DF00, 0x1DF00]] } }
 family = 'Iosevka Test Etoile'
 spacing = 'quasi-proportional'
 serifs = 'slab'
@@ -1056,6 +1067,8 @@ noCvSs = false
 exportGlyphNames = true
 
 [buildPlans.IosevkaTestEtoile.variants.design]
+cyrl-ze = 'corner-hooked'
+cyrl-capital-ze = 'corner-hooked'
 r = 'serifed'
 t = 'flat-hooked'
 
