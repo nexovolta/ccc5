@@ -163,7 +163,17 @@
   lower-open
   upper-open
   upper-open-corner-hooked
+  upper-open-et-corner-hooked-flat-bottom
+  upper-open-et-corner-hooked-tailed
+  upper-open-et-corner-hooked-toothed
+  upper-open-et-corner-hooked-toothless-corner
+  upper-open-et-corner-hooked-toothless-rounded
   upper-open-et-flat-bottom
+  upper-open-et-flat-hooked-flat-bottom
+  upper-open-et-flat-hooked-tailed
+  upper-open-et-flat-hooked-toothed
+  upper-open-et-flat-hooked-toothless-corner
+  upper-open-et-flat-hooked-toothless-rounded
   upper-open-et-tailed
   upper-open-et-toothed
   upper-open-et-toothless-corner
@@ -1406,15 +1416,7 @@
   top-left-serifed
   top-right-motion-serifed
 
-[cyrl-capital-er] tag=VXBY sampler="Р"
-  closed-motion-serifed
-  closed-serifed
-  closed-serifless
-  open-motion-serifed
-  open-serifed
-  open-serifless
-
-[cyrl-capital-i] tag=VXCA sampler="И"
+[cyrl-capital-i] tag=VXBY sampler="И"
   asymmetric-bilateral-motion-serifed
   asymmetric-motion-serifed
   asymmetric-serifed
@@ -1426,7 +1428,7 @@
   standard-serifless
   standard-top-right-motion-serifed
 
-[cyrl-capital-ka] tag=VXCC sampler="К"
+[cyrl-capital-ka] tag=VXCA sampler="К"
   curly-bilateral-serifed
   curly-bilateral-top-serifed
   curly-bottom-right-serifed
@@ -1530,12 +1532,12 @@
   symmetric-touching-top-right-outer-serifed
   symmetric-touching-tri-serifed
 
-[cyrl-capital-pe] tag=VXCF sampler="П"
+[cyrl-capital-pe] tag=VXCD sampler="П"
   motion-serifed
   serifed
   serifless
 
-[cyrl-capital-sha] tag=VXCH sampler="Ш Щ"
+[cyrl-capital-sha] tag=VXCF sampler="Ш Щ"
   bilateral-motion-serifed
   motion-serifed
   serifed
@@ -1549,14 +1551,14 @@
   top-right-motion-serifed
   trilateral-motion-serifed
 
-[cyrl-capital-tse] tag=VXCK sampler="Ц"
+[cyrl-capital-tse] tag=VXCI sampler="Ц"
   bilateral-motion-serifed
   motion-serifed
   serifed
   serifless
   top-right-motion-serifed
 
-[cyrl-capital-u] tag=VXCM sampler="У"
+[cyrl-capital-u] tag=VXCK sampler="У"
   curly-bilateral-motion-serifed
   curly-motion-serifed
   curly-serifed
@@ -1618,7 +1620,7 @@
   straight-turn-serifless
   straight-turn-top-right-motion-serifed
 
-[cyrl-capital-ya] tag=VXCP sampler="Я"
+[cyrl-capital-ya] tag=VXCN sampler="Я"
   curly-bilateral-motion-serifed
   curly-motion-serifed
   curly-open-bilateral-motion-serifed
@@ -1668,7 +1670,7 @@
   round-bilateral-motion-serifed
   round-top-right-motion-serifed
 
-[cyrl-capital-ze] tag=VXCU sampler="З"
+[cyrl-capital-ze] tag=VXCR sampler="З"
   bilateral-inward-serifed
   bilateral-serifed
   corner-hooked
@@ -1687,7 +1689,7 @@
   unilateral-serifed-corner-hooked
   unilateral-serifed-flat-hooked
 
-[cyrl-capital-zhe] tag=VXCW sampler="Ж"
+[cyrl-capital-zhe] tag=VXCT sampler="Ж"
   curly
   cursive
   inverse-connected
@@ -1981,37 +1983,7 @@
   top-left-serifed
   top-right-motion-serifed
 
-[cyrl-er] tag=VXBZ sampler="р"
-  eared-flat-bowl-motion-serifed
-  eared-flat-bowl-serifed
-  eared-flat-bowl-serifless
-  eared-motion-serifed
-  eared-serifed
-  eared-serifless
-  eared-top-cut-flat-bowl-serifed
-  eared-top-cut-flat-bowl-serifless
-  eared-top-cut-serifed
-  eared-top-cut-serifless
-  earless-corner-flat-bowl-serifed
-  earless-corner-flat-bowl-serifless
-  earless-corner-serifed
-  earless-corner-serifless
-  earless-rounded-flat-bowl-serifed
-  earless-rounded-flat-bowl-serifless
-  earless-rounded-serifed
-  earless-rounded-serifless
-  flat-top-flat-bowl-motion-serifed
-  flat-top-flat-bowl-serifed
-  flat-top-flat-bowl-serifless
-  flat-top-motion-serifed
-  flat-top-serifed
-  flat-top-serifless
-  flat-top-top-cut-flat-bowl-serifed
-  flat-top-top-cut-flat-bowl-serifless
-  flat-top-top-cut-serifed
-  flat-top-top-cut-serifless
-
-[cyrl-i] tag=VXCB sampler="и"
+[cyrl-i] tag=VXBZ sampler="и"
   asymmetric-bilateral-motion-serifed
   asymmetric-motion-serifed
   asymmetric-serifed
@@ -2058,7 +2030,7 @@
   standard-serifless
   standard-top-right-motion-serifed
 
-[cyrl-ka] tag=VXCD sampler="к"
+[cyrl-ka] tag=VXCB sampler="к"
   curly-bilateral-serifed
   curly-bilateral-top-serifed
   curly-bottom-right-serifed
@@ -2162,11 +2134,11 @@
   symmetric-touching-top-right-outer-serifed
   symmetric-touching-tri-serifed
 
-[cyrl-koppa] tag=VXCE sampler="Ҁҁ"
+[cyrl-koppa] tag=VXCC sampler="Ҁҁ"
   base-serifed
   serifless
 
-[cyrl-pe] tag=VXCG sampler="п"
+[cyrl-pe] tag=VXCE sampler="п"
   cursive-earless-corner-straight-motion-serifed
   cursive-earless-corner-straight-serifed
   cursive-earless-corner-straight-serifless
@@ -2199,7 +2171,7 @@
   serifed
   serifless
 
-[cyrl-sha] tag=VXCI sampler="ш щ"
+[cyrl-sha] tag=VXCG sampler="ш щ"
   bilateral-motion-serifed
   cursive-flat-bottom-bilateral-motion-serifed
   cursive-flat-bottom-bottom-cut-bilateral-motion-serifed
@@ -2285,7 +2257,7 @@
   top-right-motion-serifed
   trilateral-motion-serifed
 
-[cyrl-te] tag=VXCJ sampler="т"
+[cyrl-te] tag=VXCH sampler="т"
   cursive-earless-corner-double-arch-bottom-right-serifed
   cursive-earless-corner-double-arch-serifed
   cursive-earless-corner-double-arch-serifless
@@ -2366,7 +2338,7 @@
   serifed
   serifless
 
-[cyrl-tse] tag=VXCL sampler="ц"
+[cyrl-tse] tag=VXCJ sampler="ц"
   bilateral-motion-serifed
   cursive-flat-bottom-bilateral-motion-serifed
   cursive-flat-bottom-bottom-cut-bilateral-motion-serifed
@@ -2398,7 +2370,7 @@
   serifless
   top-right-motion-serifed
 
-[cyrl-u] tag=VXCN sampler="у"
+[cyrl-u] tag=VXCL sampler="у"
   curly-bilateral-motion-serifed
   curly-motion-serifed
   curly-serifed
@@ -2460,7 +2432,7 @@
   straight-turn-serifless
   straight-turn-top-right-motion-serifed
 
-[cyrl-ve] tag=VXCO sampler="в"
+[cyrl-ve] tag=VXCM sampler="в"
   cursive
   cursive-interrupted
   cursive-interrupted-tall
@@ -2476,7 +2448,7 @@
   standard-serifless
   standard-unilateral-serifed
 
-[cyrl-ya] tag=VXCQ sampler="я"
+[cyrl-ya] tag=VXCO sampler="я"
   curly-bilateral-motion-serifed
   curly-motion-serifed
   curly-open-bilateral-motion-serifed
@@ -2534,12 +2506,12 @@
   straight-tailed-serifed
   straight-tailed-serifless
 
-[cyrl-yeri] tag=VXCR sampler="ь ъ"
+[cyrl-yeri] tag=VXCP sampler="ь ъ"
   corner
   cursive
   round
 
-[cyrl-yery] tag=VXCS sampler="ы"
+[cyrl-yery] tag=VXCQ sampler="ы"
   corner
   corner-bilateral-motion-serifed
   corner-tailed
@@ -2559,12 +2531,7 @@
   round-tailed-top-right-motion-serifed
   round-top-right-motion-serifed
 
-[cyrl-yu] tag=VXCT sampler="ю"
-  motion-serifed
-  serifed
-  serifless
-
-[cyrl-ze] tag=VXCV sampler="з"
+[cyrl-ze] tag=VXCS sampler="з"
   bilateral-inward-serifed
   bilateral-serifed
   corner-hooked
@@ -2600,7 +2567,7 @@
   unilateral-serifed-corner-hooked
   unilateral-serifed-flat-hooked
 
-[cyrl-zhe] tag=VXCX sampler="ж"
+[cyrl-zhe] tag=VXCU sampler="ж"
   curly
   cursive
   inverse-connected
@@ -3130,6 +3097,7 @@
   flat-tailed
   hooky
   hooky-bottom
+  plain-top-bottom-left-serifed
   reverse-hooky
   semi-tailed
   serifed
@@ -3141,9 +3109,102 @@
   sshaped
   tailed
   tailed-serifed
+  top-center-serifed-bottom-diagonal-tailed
+  top-center-serifed-bottom-flat-tailed
+  top-center-serifed-bottom-left-serifed
+  top-center-serifed-bottom-right-serifed
+  top-center-serifed-bottom-semi-tailed
+  top-center-serifed-bottom-tailed
+  top-center-serifed-plain-bottom
+  top-center-short-serifed-bottom-diagonal-tailed
+  top-center-short-serifed-bottom-flat-tailed
+  top-center-short-serifed-bottom-left-serifed
+  top-center-short-serifed-bottom-right-serifed
+  top-center-short-serifed-bottom-semi-tailed
+  top-center-short-serifed-bottom-tailed
+  top-center-short-serifed-plain-bottom
+  top-diagonal-tailed-base-serifed
+  top-diagonal-tailed-bottom-flat-tailed
+  top-diagonal-tailed-bottom-left-serifed
+  top-diagonal-tailed-bottom-right-serifed
+  top-diagonal-tailed-bottom-semi-tailed
+  top-diagonal-tailed-bottom-tailed
+  top-diagonal-tailed-plain-bottom
+  top-flat-tailed-base-serifed
+  top-flat-tailed-bottom-diagonal-tailed
+  top-flat-tailed-bottom-left-serifed
+  top-flat-tailed-bottom-right-serifed
+  top-flat-tailed-bottom-semi-tailed
+  top-flat-tailed-bottom-tailed
+  top-flat-tailed-plain-bottom
+  top-left-long-serifed-bottom-diagonal-tailed
+  top-left-long-serifed-bottom-flat-tailed
+  top-left-long-serifed-bottom-left-serifed
+  top-left-long-serifed-bottom-right-serifed
+  top-left-long-serifed-bottom-semi-tailed
+  top-left-long-serifed-bottom-tailed
+  top-left-long-serifed-plain-bottom
+  top-left-long-short-serifed-bottom-diagonal-tailed
+  top-left-long-short-serifed-bottom-flat-tailed
+  top-left-long-short-serifed-bottom-left-serifed
+  top-left-long-short-serifed-bottom-right-serifed
+  top-left-long-short-serifed-bottom-semi-tailed
+  top-left-long-short-serifed-bottom-tailed
+  top-left-long-short-serifed-plain-bottom
+  top-left-serifed-base-serifed
+  top-left-serifed-bottom-left-serifed
+  top-left-short-serifed-base-serifed
+  top-left-short-serifed-bottom-diagonal-tailed
+  top-left-short-serifed-bottom-flat-tailed
+  top-left-short-serifed-bottom-left-serifed
+  top-left-short-serifed-bottom-right-serifed
+  top-left-short-serifed-bottom-semi-tailed
+  top-left-short-serifed-bottom-tailed
+  top-left-short-serifed-plain-bottom
   top-right-base-serifed
   top-right-base-serifed-asymmetric
+  top-right-long-serifed-bottom-diagonal-tailed
+  top-right-long-serifed-bottom-flat-tailed
+  top-right-long-serifed-bottom-left-serifed
+  top-right-long-serifed-bottom-right-serifed
+  top-right-long-serifed-bottom-semi-tailed
+  top-right-long-serifed-bottom-tailed
+  top-right-long-serifed-plain-bottom
+  top-right-long-short-serifed-bottom-diagonal-tailed
+  top-right-long-short-serifed-bottom-flat-tailed
+  top-right-long-short-serifed-bottom-left-serifed
+  top-right-long-short-serifed-bottom-right-serifed
+  top-right-long-short-serifed-bottom-semi-tailed
+  top-right-long-short-serifed-bottom-tailed
+  top-right-long-short-serifed-plain-bottom
   top-right-serifed
+  top-right-serifed-bottom-diagonal-tailed
+  top-right-serifed-bottom-flat-tailed
+  top-right-serifed-bottom-right-serifed
+  top-right-serifed-bottom-semi-tailed
+  top-right-serifed-bottom-tailed
+  top-right-short-serifed-base-serifed
+  top-right-short-serifed-bottom-diagonal-tailed
+  top-right-short-serifed-bottom-flat-tailed
+  top-right-short-serifed-bottom-left-serifed
+  top-right-short-serifed-bottom-right-serifed
+  top-right-short-serifed-bottom-semi-tailed
+  top-right-short-serifed-bottom-tailed
+  top-right-short-serifed-plain-bottom
+  top-semi-tailed-base-serifed
+  top-semi-tailed-bottom-diagonal-tailed
+  top-semi-tailed-bottom-flat-tailed
+  top-semi-tailed-bottom-left-serifed
+  top-semi-tailed-bottom-right-serifed
+  top-semi-tailed-bottom-tailed
+  top-semi-tailed-plain-bottom
+  top-tailed-base-serifed
+  top-tailed-bottom-diagonal-tailed
+  top-tailed-bottom-flat-tailed
+  top-tailed-bottom-left-serifed
+  top-tailed-bottom-right-serifed
+  top-tailed-bottom-semi-tailed
+  top-tailed-plain-bottom
   zshaped
 
 [j] tag=cv35 sampler="j"
@@ -3199,6 +3260,18 @@
   straight-top-tailed
   top-diagonal-tailed
   top-flat-tailed
+  top-left-short-serifed-bent-hook
+  top-left-short-serifed-corner-hook
+  top-left-short-serifed-diagonal-tail
+  top-left-short-serifed-flat-hook
+  top-left-short-serifed-narrow-hook
+  top-left-short-serifed-straight-bottom
+  top-right-short-serifed-bent-hook
+  top-right-short-serifed-corner-hook
+  top-right-short-serifed-diagonal-tail
+  top-right-short-serifed-flat-hook
+  top-right-short-serifed-narrow-hook
+  top-right-short-serifed-straight-bottom
   top-semi-tailed
   top-tailed
 
@@ -3330,6 +3403,7 @@
   flat-tailed
   hooky
   hooky-bottom
+  plain-top-bottom-left-serifed
   reverse-hooky
   semi-tailed
   serifed
@@ -3341,9 +3415,104 @@
   sshaped
   tailed
   tailed-serifed
+  top-center-serifed-base-serifed
+  top-center-serifed-bottom-diagonal-tailed
+  top-center-serifed-bottom-flat-tailed
+  top-center-serifed-bottom-left-serifed
+  top-center-serifed-bottom-right-serifed
+  top-center-serifed-bottom-semi-tailed
+  top-center-serifed-bottom-tailed
+  top-center-serifed-plain-bottom
+  top-center-short-serifed-base-serifed
+  top-center-short-serifed-bottom-diagonal-tailed
+  top-center-short-serifed-bottom-flat-tailed
+  top-center-short-serifed-bottom-left-serifed
+  top-center-short-serifed-bottom-right-serifed
+  top-center-short-serifed-bottom-semi-tailed
+  top-center-short-serifed-bottom-tailed
+  top-center-short-serifed-plain-bottom
+  top-diagonal-tailed-base-serifed
+  top-diagonal-tailed-bottom-flat-tailed
+  top-diagonal-tailed-bottom-left-serifed
+  top-diagonal-tailed-bottom-right-serifed
+  top-diagonal-tailed-bottom-semi-tailed
+  top-diagonal-tailed-bottom-tailed
+  top-diagonal-tailed-plain-bottom
+  top-flat-tailed-base-serifed
+  top-flat-tailed-bottom-diagonal-tailed
+  top-flat-tailed-bottom-left-serifed
+  top-flat-tailed-bottom-right-serifed
+  top-flat-tailed-bottom-semi-tailed
+  top-flat-tailed-bottom-tailed
+  top-flat-tailed-plain-bottom
+  top-left-long-serifed-bottom-diagonal-tailed
+  top-left-long-serifed-bottom-flat-tailed
+  top-left-long-serifed-bottom-left-serifed
+  top-left-long-serifed-bottom-right-serifed
+  top-left-long-serifed-bottom-semi-tailed
+  top-left-long-serifed-bottom-tailed
+  top-left-long-serifed-plain-bottom
+  top-left-long-short-serifed-bottom-diagonal-tailed
+  top-left-long-short-serifed-bottom-flat-tailed
+  top-left-long-short-serifed-bottom-left-serifed
+  top-left-long-short-serifed-bottom-right-serifed
+  top-left-long-short-serifed-bottom-semi-tailed
+  top-left-long-short-serifed-bottom-tailed
+  top-left-long-short-serifed-plain-bottom
+  top-left-serifed-base-serifed
+  top-left-serifed-bottom-left-serifed
+  top-left-short-serifed-base-serifed
+  top-left-short-serifed-bottom-diagonal-tailed
+  top-left-short-serifed-bottom-flat-tailed
+  top-left-short-serifed-bottom-left-serifed
+  top-left-short-serifed-bottom-right-serifed
+  top-left-short-serifed-bottom-semi-tailed
+  top-left-short-serifed-bottom-tailed
+  top-left-short-serifed-plain-bottom
   top-right-base-serifed
   top-right-base-serifed-asymmetric
+  top-right-long-serifed-bottom-diagonal-tailed
+  top-right-long-serifed-bottom-flat-tailed
+  top-right-long-serifed-bottom-left-serifed
+  top-right-long-serifed-bottom-right-serifed
+  top-right-long-serifed-bottom-semi-tailed
+  top-right-long-serifed-bottom-tailed
+  top-right-long-serifed-plain-bottom
+  top-right-long-short-serifed-bottom-diagonal-tailed
+  top-right-long-short-serifed-bottom-flat-tailed
+  top-right-long-short-serifed-bottom-left-serifed
+  top-right-long-short-serifed-bottom-right-serifed
+  top-right-long-short-serifed-bottom-semi-tailed
+  top-right-long-short-serifed-bottom-tailed
+  top-right-long-short-serifed-plain-bottom
   top-right-serifed
+  top-right-serifed-bottom-diagonal-tailed
+  top-right-serifed-bottom-flat-tailed
+  top-right-serifed-bottom-right-serifed
+  top-right-serifed-bottom-semi-tailed
+  top-right-serifed-bottom-tailed
+  top-right-short-serifed-base-serifed
+  top-right-short-serifed-bottom-diagonal-tailed
+  top-right-short-serifed-bottom-flat-tailed
+  top-right-short-serifed-bottom-left-serifed
+  top-right-short-serifed-bottom-right-serifed
+  top-right-short-serifed-bottom-semi-tailed
+  top-right-short-serifed-bottom-tailed
+  top-right-short-serifed-plain-bottom
+  top-semi-tailed-base-serifed
+  top-semi-tailed-bottom-diagonal-tailed
+  top-semi-tailed-bottom-flat-tailed
+  top-semi-tailed-bottom-left-serifed
+  top-semi-tailed-bottom-right-serifed
+  top-semi-tailed-bottom-tailed
+  top-semi-tailed-plain-bottom
+  top-tailed-base-serifed
+  top-tailed-bottom-diagonal-tailed
+  top-tailed-bottom-flat-tailed
+  top-tailed-bottom-left-serifed
+  top-tailed-bottom-right-serifed
+  top-tailed-bottom-semi-tailed
+  top-tailed-plain-bottom
   zshaped
 
 [latin-upsilon] tag=cv40 sampler="Ʊʊ"
@@ -3561,27 +3730,126 @@
   straight
   straight-serifed
 
-[lower-iota] tag=cv90 sampler="ι"
+[lower-iota] tag=cv90 sampler="?"
+  base-serifed
+  center-serifed
+  center-short-serifed
   diagonal-tailed
   double-diagonal-tailed
   double-flat-tailed
   double-semi-tailed
   double-tailed
   flat-tailed
+  hooky
   hooky-bottom
+  plain-top-bottom-left-serifed
   reverse-hooky
   semi-tailed
+  serifed
+  serifed-asymmetric
   serifed-diagonal-tailed
   serifed-flat-tailed
   serifed-semi-tailed
+  serifless
   sshaped
   tailed
   tailed-serifed
-  tailless
-  tailless-serifed
+  top-center-serifed-bottom-diagonal-tailed
+  top-center-serifed-bottom-flat-tailed
+  top-center-serifed-bottom-left-serifed
+  top-center-serifed-bottom-right-serifed
+  top-center-serifed-bottom-semi-tailed
+  top-center-serifed-bottom-tailed
+  top-center-serifed-plain-bottom
+  top-center-short-serifed-bottom-diagonal-tailed
+  top-center-short-serifed-bottom-flat-tailed
+  top-center-short-serifed-bottom-left-serifed
+  top-center-short-serifed-bottom-right-serifed
+  top-center-short-serifed-bottom-semi-tailed
+  top-center-short-serifed-bottom-tailed
+  top-center-short-serifed-plain-bottom
+  top-diagonal-tailed-base-serifed
+  top-diagonal-tailed-bottom-flat-tailed
+  top-diagonal-tailed-bottom-left-serifed
+  top-diagonal-tailed-bottom-right-serifed
+  top-diagonal-tailed-bottom-semi-tailed
+  top-diagonal-tailed-bottom-tailed
+  top-diagonal-tailed-plain-bottom
+  top-flat-tailed-base-serifed
+  top-flat-tailed-bottom-diagonal-tailed
+  top-flat-tailed-bottom-left-serifed
+  top-flat-tailed-bottom-right-serifed
+  top-flat-tailed-bottom-semi-tailed
+  top-flat-tailed-bottom-tailed
+  top-flat-tailed-plain-bottom
+  top-left-long-serifed-bottom-diagonal-tailed
+  top-left-long-serifed-bottom-flat-tailed
+  top-left-long-serifed-bottom-left-serifed
+  top-left-long-serifed-bottom-right-serifed
+  top-left-long-serifed-bottom-semi-tailed
+  top-left-long-serifed-bottom-tailed
+  top-left-long-serifed-plain-bottom
+  top-left-long-short-serifed-bottom-diagonal-tailed
+  top-left-long-short-serifed-bottom-flat-tailed
+  top-left-long-short-serifed-bottom-left-serifed
+  top-left-long-short-serifed-bottom-right-serifed
+  top-left-long-short-serifed-bottom-semi-tailed
+  top-left-long-short-serifed-bottom-tailed
+  top-left-long-short-serifed-plain-bottom
+  top-left-serifed-base-serifed
+  top-left-serifed-bottom-left-serifed
+  top-left-short-serifed-base-serifed
+  top-left-short-serifed-bottom-diagonal-tailed
+  top-left-short-serifed-bottom-flat-tailed
+  top-left-short-serifed-bottom-left-serifed
+  top-left-short-serifed-bottom-right-serifed
+  top-left-short-serifed-bottom-semi-tailed
+  top-left-short-serifed-bottom-tailed
+  top-left-short-serifed-plain-bottom
   top-right-base-serifed
   top-right-base-serifed-asymmetric
+  top-right-long-serifed-bottom-diagonal-tailed
+  top-right-long-serifed-bottom-flat-tailed
+  top-right-long-serifed-bottom-left-serifed
+  top-right-long-serifed-bottom-right-serifed
+  top-right-long-serifed-bottom-semi-tailed
+  top-right-long-serifed-bottom-tailed
+  top-right-long-serifed-plain-bottom
+  top-right-long-short-serifed-bottom-diagonal-tailed
+  top-right-long-short-serifed-bottom-flat-tailed
+  top-right-long-short-serifed-bottom-left-serifed
+  top-right-long-short-serifed-bottom-right-serifed
+  top-right-long-short-serifed-bottom-semi-tailed
+  top-right-long-short-serifed-bottom-tailed
+  top-right-long-short-serifed-plain-bottom
   top-right-serifed
+  top-right-serifed-bottom-diagonal-tailed
+  top-right-serifed-bottom-flat-tailed
+  top-right-serifed-bottom-right-serifed
+  top-right-serifed-bottom-semi-tailed
+  top-right-serifed-bottom-tailed
+  top-right-short-serifed-base-serifed
+  top-right-short-serifed-bottom-diagonal-tailed
+  top-right-short-serifed-bottom-flat-tailed
+  top-right-short-serifed-bottom-left-serifed
+  top-right-short-serifed-bottom-right-serifed
+  top-right-short-serifed-bottom-semi-tailed
+  top-right-short-serifed-bottom-tailed
+  top-right-short-serifed-plain-bottom
+  top-semi-tailed-base-serifed
+  top-semi-tailed-bottom-diagonal-tailed
+  top-semi-tailed-bottom-flat-tailed
+  top-semi-tailed-bottom-left-serifed
+  top-semi-tailed-bottom-right-serifed
+  top-semi-tailed-bottom-tailed
+  top-semi-tailed-plain-bottom
+  top-tailed-base-serifed
+  top-tailed-bottom-diagonal-tailed
+  top-tailed-bottom-flat-tailed
+  top-tailed-bottom-left-serifed
+  top-tailed-bottom-right-serifed
+  top-tailed-bottom-semi-tailed
+  top-tailed-plain-bottom
   zshaped
 
 [lower-kappa] tag=cv91 sampler="κ"
@@ -3779,6 +4047,7 @@
 [lower-tau] tag=VXBE sampler="τ"
   diagonal-tailed
   flat-tailed
+  hooky
   semi-tailed
   short-tailed
   tailed
