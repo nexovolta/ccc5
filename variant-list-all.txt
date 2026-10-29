@@ -987,9 +987,15 @@
 
 [capital-thorn] tag=cv66 sampler="Þ"
   asymmetric-motion-serifed
+  asymmetric-open-motion-serifed
+  asymmetric-open-serifed
+  asymmetric-open-serifless
   asymmetric-serifed
   asymmetric-serifless
   motion-serifed
+  open-motion-serifed
+  open-serifed
+  open-serifless
   serifed
   serifless
 
@@ -4454,6 +4460,16 @@
   corner-hooked-top-cut-serifed
   corner-hooked-top-cut-serifless
   corner-hooked-top-serifed
+  diagonal-tailed-base-serifed
+  diagonal-tailed-compact-base-serifed
+  diagonal-tailed-compact-serifless
+  diagonal-tailed-corner-hooked-base-serifed
+  diagonal-tailed-corner-hooked-serifless
+  diagonal-tailed-hookless-base-serifed
+  diagonal-tailed-hookless-serifless
+  diagonal-tailed-narrow-hook-base-serifed
+  diagonal-tailed-narrow-hook-serifless
+  diagonal-tailed-serifless
   earless-corner-serifed
   earless-corner-serifless
   earless-rounded-serifed
@@ -4479,8 +4495,28 @@
   narrow-hook-top-cut-serifed
   narrow-hook-top-cut-serifless
   narrow-hook-top-serifed
+  semi-tailed-base-serifed
+  semi-tailed-compact-base-serifed
+  semi-tailed-compact-serifless
+  semi-tailed-corner-hooked-base-serifed
+  semi-tailed-corner-hooked-serifless
+  semi-tailed-hookless-base-serifed
+  semi-tailed-hookless-serifless
+  semi-tailed-narrow-hook-base-serifed
+  semi-tailed-narrow-hook-serifless
+  semi-tailed-serifless
   serifed
   serifless
+  tailed-base-serifed
+  tailed-compact-base-serifed
+  tailed-compact-serifless
+  tailed-corner-hooked-base-serifed
+  tailed-corner-hooked-serifless
+  tailed-hookless-base-serifed
+  tailed-hookless-serifless
+  tailed-narrow-hook-base-serifed
+  tailed-narrow-hook-serifless
+  tailed-serifless
   top-cut-base-serifed
   top-cut-serifed
   top-cut-serifless

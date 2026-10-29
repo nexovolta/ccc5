@@ -49,7 +49,7 @@ capital-gamma = 'diagonal-crossbar-falling-bilateral-motion-serifed'
 capital-lambda = 'square-bottom-top-serifed'
 capital-pi = 'motion-serifed'
 capital-sigma = 'top-serifed'
-capital-thorn = 'motion-serifed'
+capital-thorn = 'open-motion-serifed'
 capital-phi = 'serifed'
 capital-psi = 'base-serifed'
 capital-xi = 'diagonal-crossbar-falling-motion-serifed'
@@ -71,7 +71,7 @@ m = 'flat-top-top-left-serifed'
 n = 'straight-top-left-serifed'
 p = 'eared-flat-bowl-motion-serifed'
 q = 'flat-top-straight-motion-bottom-serifed'
-r = 'corner-hooked-base-serifed'
+r = 'diagonal-tailed-corner-hooked-base-serifed'
 s = 'serifless'
 t = 'hookless-asymmetric-shorter-neck'
 u = 'toothless-corner-motion-serifed'
@@ -234,7 +234,7 @@ capital-theta = 'diagonal-crossbar-falling'
 capital-lambda = 'square-bottom-top-serifed'
 capital-pi = 'motion-serifed'
 capital-sigma = 'top-serifed'
-capital-thorn = 'motion-serifed'
+capital-thorn = 'open-motion-serifed'
 capital-phi = 'serifed'
 capital-psi = 'base-serifed'
 capital-xi = 'diagonal-crossbar-falling-motion-serifed'
@@ -256,7 +256,7 @@ m = 'flat-top-tailed-top-left-serifed'
 n = 'tailed-motion-serifed'
 p = 'eared-flat-bowl-motion-serifed'
 q = 'flat-top-diagonal-tailed-serifless'
-r = 'corner-hooked-top-serifed'
+r = 'diagonal-tailed-corner-hooked-serifless'
 s = 'unilateral-inward-serifed'
 t = 'diagonal-tailed-asymmetric-shorter-neck'
 u = 'toothed-motion-serifed'
@@ -507,7 +507,7 @@ capital-gamma = 'diagonal-crossbar-falling-bilateral-motion-serifed'
 capital-lambda = 'square-bottom-top-serifed'
 capital-pi = 'motion-serifed'
 capital-sigma = 'top-serifed'
-capital-thorn = 'motion-serifed'
+capital-thorn = 'open-motion-serifed'
 capital-phi = 'serifed'
 capital-psi = 'base-serifed'
 capital-xi = 'diagonal-crossbar-falling-motion-serifed'
@@ -529,7 +529,7 @@ m = 'flat-top-top-left-serifed'
 n = 'straight-top-left-serifed'
 p = 'eared-flat-bowl-motion-serifed'
 q = 'flat-top-straight-motion-bottom-serifed'
-r = 'compact-base-serifed'
+r = 'diagonal-tailed-compact-base-serifed'
 s = 'serifless'
 t = 'hookless-asymmetric-shorter-neck'
 u = 'toothless-corner-motion-serifed'
@@ -692,7 +692,7 @@ capital-theta = 'diagonal-crossbar-falling'
 capital-lambda = 'square-bottom-top-serifed'
 capital-pi = 'motion-serifed'
 capital-sigma = 'top-serifed'
-capital-thorn = 'motion-serifed'
+capital-thorn = 'open-motion-serifed'
 capital-phi = 'serifed'
 capital-psi = 'base-serifed'
 capital-xi = 'diagonal-crossbar-falling-motion-serifed'
@@ -714,7 +714,7 @@ m = 'flat-top-tailed-top-left-serifed'
 n = 'tailed-motion-serifed'
 p = 'eared-flat-bowl-motion-serifed'
 q = 'flat-top-diagonal-tailed-serifless'
-r = 'compact-top-serifed'
+r = 'diagonal-tailed-corner-hooked-serifless'
 s = 'unilateral-inward-serifed'
 t = 'diagonal-tailed-asymmetric-shorter-neck'
 u = 'toothed-motion-serifed'
@@ -923,8 +923,6 @@ noCvSs = false
 exportGlyphNames = true
 
 [buildPlans.IosevkaTestSans.variants.design]
-r = 'serifless'
-t = 'hookless-asymmetric-shorter-neck'
 
 [buildPlans.IosevkaTestSans.variants.italic]
 
@@ -969,8 +967,6 @@ noCvSs = false
 exportGlyphNames = true
 
 [buildPlans.IosevkaTestSlab.variants.design]
-r = 'top-serifed'
-t = 'bent-hook'
 
 [buildPlans.IosevkaTestSlab.weights.Thin]
 shape = 120
@@ -1016,8 +1012,6 @@ noCvSs = false
 exportGlyphNames = true
 
 [buildPlans.IosevkaTestAile.variants.design]
-r = 'base-serifed'
-t = 'corner-hooked-asymmetric'
 
 [buildPlans.IosevkaTestAile.variants.italic]
 
