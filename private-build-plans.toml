@@ -46,6 +46,7 @@ capital-delta = 'square-motion-serifed'
 capital-eszet = 'corner-motion-serifed'
 capital-theta = 'diagonal-crossbar-falling'
 capital-gamma = 'diagonal-crossbar-falling-bilateral-motion-serifed'
+capital-latin-gamma = 'top-right-motion-serifed'
 capital-lambda = 'square-bottom-top-serifed'
 capital-pi = 'motion-serifed'
 capital-sigma = 'top-serifed'
@@ -88,6 +89,7 @@ lower-thorn = 'flat-bottom-motion-serifed'
 lower-alpha = 'crossing'
 lower-beta = 'cursive'
 lower-gamma = 'straight-serifed'
+latin-gamma = 'bilateral-motion-serifed'
 lower-delta = 'flat-top'
 lower-eta = 'motion-serifed'
 lower-theta = 'diamond'
@@ -504,6 +506,7 @@ capital-delta = 'square-motion-serifed'
 capital-eszet = 'corner-motion-serifed'
 capital-theta = 'diagonal-crossbar-falling'
 capital-gamma = 'diagonal-crossbar-falling-bilateral-motion-serifed'
+capital-latin-gamma = 'top-right-motion-serifed'
 capital-lambda = 'square-bottom-top-serifed'
 capital-pi = 'motion-serifed'
 capital-sigma = 'top-serifed'
@@ -546,6 +549,7 @@ lower-thorn = 'flat-bottom-motion-serifed'
 lower-alpha = 'crossing'
 lower-beta = 'cursive'
 lower-gamma = 'straight-serifed'
+latin-gamma = 'bilateral-motion-serifed'
 lower-delta = 'flat-top'
 lower-eta = 'motion-serifed'
 lower-theta = 'diamond'
@@ -916,7 +920,7 @@ winMetricDescenderPad = 16
 
 [buildPlans.IosevkaTestSans]
 spacing = 'term'
-subset = { include = { ranges = [[0x32, 0x33], [0x35, 0x36], [0x39, 0x39], [0x69, 0x69], [0x6C, 0x6C], [0x1DF6F, 0x1DF6F]] } }
+subset = { include = { ranges = [[0x32, 0x33], [0x35, 0x36], [0x39, 0x39], [0x69, 0x69], [0x6C, 0x6C], [0x20D4, 0x20D5], [0x232C, 0x232C], [0x238E, 0x2392], [0x23B4, 0x23B6], [0x23CD, 0x23CD], [0x23D1, 0x23D9], [0x23E0, 0x23E1], [0x23E6, 0x23E6], [0x1DF6F, 0x1DF6F]] } }
 family = 'Iosevka Test Sans'
 serifs = 'sans'
 noCvSs = false
@@ -925,6 +929,8 @@ exportGlyphNames = true
 [buildPlans.IosevkaTestSans.variants.design]
 cyrl-ze = 'corner-hooked'
 cyrl-capital-ze = 'corner-hooked'
+capital-latin-gamma = 'serifless'
+latin-gamma = 'serifless'
 two = 'straight-neck-serifed-hooked-serifless'
 three = 'serifed-hooked'
 five = 'upright-serifed-hooked-serifless'
@@ -976,6 +982,8 @@ exportGlyphNames = true
 [buildPlans.IosevkaTestSlab.variants.design]
 cyrl-ze = 'corner-hooked'
 cyrl-capital-ze = 'corner-hooked'
+capital-latin-gamma = 'serifless'
+latin-gamma = 'serifless'
 
 [buildPlans.IosevkaTestSlab.weights.Thin]
 shape = 120
@@ -1023,6 +1031,8 @@ exportGlyphNames = true
 [buildPlans.IosevkaTestAile.variants.design]
 cyrl-ze = 'corner-hooked'
 cyrl-capital-ze = 'corner-hooked'
+capital-latin-gamma = 'serifless'
+latin-gamma = 'serifless'
 
 [buildPlans.IosevkaTestAile.variants.italic]
 
@@ -1069,6 +1079,8 @@ exportGlyphNames = true
 [buildPlans.IosevkaTestEtoile.variants.design]
 cyrl-ze = 'corner-hooked'
 cyrl-capital-ze = 'corner-hooked'
+capital-latin-gamma = 'serifless'
+latin-gamma = 'serifless'
 r = 'serifed'
 t = 'flat-hooked'
 
