@@ -152,10 +152,10 @@ cyrl-koppa = 'base-serifed'
 
 braille-dot = 'diamond'
 diacritic-dot = 'round'
-diacritic-comma = 'square'
-punctuation-dot = 'square'
-punctuation-comma = 'diamond'
-tittle = 'round'
+diacritic-comma = 'prime'
+punctuation-dot = 'diamond'
+punctuation-comma = 'prime'
+tittle = 'square'
 diacritic-line = 'horizontal-terminal'
 
 ascii-grave = 'straight'
@@ -339,10 +339,10 @@ cyrl-koppa = 'base-serifed'
 
 braille-dot = 'diamond'
 diacritic-dot = 'round'
-diacritic-comma = 'square'
-punctuation-dot = 'square'
-punctuation-comma = 'diamond'
-tittle = 'round'
+diacritic-comma = 'prime'
+punctuation-dot = 'diamond'
+punctuation-comma = 'prime'
+tittle = 'square'
 diacritic-line = 'horizontal-terminal'
 
 ascii-grave = 'straight'
@@ -613,10 +613,10 @@ cyrl-koppa = 'base-serifed'
 
 braille-dot = 'diamond'
 diacritic-dot = 'round'
-diacritic-comma = 'square'
-punctuation-dot = 'square'
-punctuation-comma = 'diamond'
-tittle = 'round'
+diacritic-comma = 'prime'
+punctuation-dot = 'diamond'
+punctuation-comma = 'prime'
+tittle = 'square'
 diacritic-line = 'horizontal-terminal'
 
 ascii-grave = 'straight'
@@ -800,10 +800,10 @@ cyrl-koppa = 'base-serifed'
 
 braille-dot = 'diamond'
 diacritic-dot = 'round'
-diacritic-comma = 'square'
-punctuation-dot = 'square'
-punctuation-comma = 'diamond'
-tittle = 'round'
+diacritic-comma = 'prime'
+punctuation-dot = 'diamond'
+punctuation-comma = 'prime'
+tittle = 'square'
 diacritic-line = 'horizontal-terminal'
 
 ascii-grave = 'straight'
@@ -922,7 +922,6 @@ winMetricDescenderPad = 16
 
 [buildPlans.IosevkaTestSans]
 spacing = 'term'
-subset = { include = { ranges = [[0x28, 0x29], [0x32, 0x33], [0x35, 0x36], [0x39, 0x39], [0x5B, 0x5D], [0x69, 0x69], [0x6C, 0x6C], [0x7B, 0x7D], [0x20D4, 0x20D5], [0x232C, 0x232C], [0x238E, 0x2392], [0x23B4, 0x23B6], [0x23CD, 0x23CD], [0x23D1, 0x23D9], [0x23DC, 0x23DF], [0x23E0, 0x23E1], [0x23E6, 0x23E6], [0x3014, 0x3015], [0x1DF6F, 0x1DF6F]] } }
 family = 'Iosevka Test Sans'
 serifs = 'sans'
 noCvSs = false
