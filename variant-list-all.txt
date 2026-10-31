@@ -2637,6 +2637,7 @@
 
 [diacritic-comma] tag= sampler=","
   diamond
+  prime
   round
   square
 
@@ -4379,6 +4380,7 @@
 
 [punctuation-comma] tag= sampler=",;"
   diamond
+  prime
   round
   square
 
