@@ -132,16 +132,46 @@
   closed-et-toothless-rounded
   closed-flat-hooked
   et-corner-hooked-flat-bottom
+  et-corner-hooked-inward-serifed-flat-bottom
+  et-corner-hooked-inward-serifed-tailed
+  et-corner-hooked-inward-serifed-toothed
+  et-corner-hooked-inward-serifed-toothless-corner
+  et-corner-hooked-inward-serifed-toothless-rounded
+  et-corner-hooked-serifed-flat-bottom
+  et-corner-hooked-serifed-tailed
+  et-corner-hooked-serifed-toothed
+  et-corner-hooked-serifed-toothless-corner
+  et-corner-hooked-serifed-toothless-rounded
   et-corner-hooked-tailed
   et-corner-hooked-toothed
   et-corner-hooked-toothless-corner
   et-corner-hooked-toothless-rounded
   et-flat-bottom
   et-flat-hooked-flat-bottom
+  et-flat-hooked-inward-serifed-flat-bottom
+  et-flat-hooked-inward-serifed-tailed
+  et-flat-hooked-inward-serifed-toothed
+  et-flat-hooked-inward-serifed-toothless-corner
+  et-flat-hooked-inward-serifed-toothless-rounded
+  et-flat-hooked-serifed-flat-bottom
+  et-flat-hooked-serifed-tailed
+  et-flat-hooked-serifed-toothed
+  et-flat-hooked-serifed-toothless-corner
+  et-flat-hooked-serifed-toothless-rounded
   et-flat-hooked-tailed
   et-flat-hooked-toothed
   et-flat-hooked-toothless-corner
   et-flat-hooked-toothless-rounded
+  et-inward-serifed-flat-bottom
+  et-inward-serifed-tailed
+  et-inward-serifed-toothed
+  et-inward-serifed-toothless-corner
+  et-inward-serifed-toothless-rounded
+  et-serifed-flat-bottom
+  et-serifed-tailed
+  et-serifed-toothed
+  et-serifed-toothless-corner
+  et-serifed-toothless-rounded
   et-tailed
   et-toothed
   et-toothless-corner
@@ -163,22 +193,58 @@
   lower-open
   upper-open
   upper-open-corner-hooked
+  upper-open-corner-hooked-inward-serifed
+  upper-open-corner-hooked-serifed
   upper-open-et-corner-hooked-flat-bottom
+  upper-open-et-corner-hooked-inward-serifed-flat-bottom
+  upper-open-et-corner-hooked-inward-serifed-tailed
+  upper-open-et-corner-hooked-inward-serifed-toothed
+  upper-open-et-corner-hooked-inward-serifed-toothless-corner
+  upper-open-et-corner-hooked-inward-serifed-toothless-rounded
+  upper-open-et-corner-hooked-serifed-flat-bottom
+  upper-open-et-corner-hooked-serifed-tailed
+  upper-open-et-corner-hooked-serifed-toothed
+  upper-open-et-corner-hooked-serifed-toothless-corner
+  upper-open-et-corner-hooked-serifed-toothless-rounded
   upper-open-et-corner-hooked-tailed
   upper-open-et-corner-hooked-toothed
   upper-open-et-corner-hooked-toothless-corner
   upper-open-et-corner-hooked-toothless-rounded
   upper-open-et-flat-bottom
   upper-open-et-flat-hooked-flat-bottom
+  upper-open-et-flat-hooked-inward-serifed-flat-bottom
+  upper-open-et-flat-hooked-inward-serifed-tailed
+  upper-open-et-flat-hooked-inward-serifed-toothed
+  upper-open-et-flat-hooked-inward-serifed-toothless-corner
+  upper-open-et-flat-hooked-inward-serifed-toothless-rounded
+  upper-open-et-flat-hooked-serifed-flat-bottom
+  upper-open-et-flat-hooked-serifed-tailed
+  upper-open-et-flat-hooked-serifed-toothed
+  upper-open-et-flat-hooked-serifed-toothless-corner
+  upper-open-et-flat-hooked-serifed-toothless-rounded
   upper-open-et-flat-hooked-tailed
   upper-open-et-flat-hooked-toothed
   upper-open-et-flat-hooked-toothless-corner
   upper-open-et-flat-hooked-toothless-rounded
+  upper-open-et-inward-serifed-flat-bottom
+  upper-open-et-inward-serifed-tailed
+  upper-open-et-inward-serifed-toothed
+  upper-open-et-inward-serifed-toothless-corner
+  upper-open-et-inward-serifed-toothless-rounded
+  upper-open-et-serifed-flat-bottom
+  upper-open-et-serifed-tailed
+  upper-open-et-serifed-toothed
+  upper-open-et-serifed-toothless-corner
+  upper-open-et-serifed-toothless-rounded
   upper-open-et-tailed
   upper-open-et-toothed
   upper-open-et-toothless-corner
   upper-open-et-toothless-rounded
   upper-open-flat-hooked
+  upper-open-flat-hooked-inward-serifed
+  upper-open-flat-hooked-serifed
+  upper-open-inward-serifed
+  upper-open-serifed
 
 [apl-form] tag= sampler=""
   enable
@@ -222,7 +288,13 @@
 [at] tag=VXAE sampler="@"
   compact
   compact-corner-hook
+  compact-corner-hook-inward-serifed
+  compact-corner-hook-serifed
   compact-flat-hook
+  compact-flat-hook-inward-serifed
+  compact-flat-hook-serifed
+  compact-inward-serifed
+  compact-serifed
   fourfold
   fourfold-solid-inner
   fourfold-solid-inner-tall
@@ -4396,10 +4468,12 @@
 
 [pilcrow] tag=VXAQ sampler="¶"
   corner-hooked
-  curved
   flat-hooked
   high
+  inward-serifed
   low
+  serifed
+  serifless
 
 [punctuation-comma] tag= sampler=",;"
   diamond
@@ -4724,10 +4798,16 @@
   vertical-bar-flat-bowl
 
 [sterling] tag=VXAT sampler="£"
-  corner-hooked
-  flat-hooked
-  motion-serifed
+  serifed
+  serifed-corner-hooked
+  serifed-flat-hooked
+  serifed-inward-serifed
+  serifed-serifed
   serifless
+  serifless-corner-hooked
+  serifless-flat-hooked
+  serifless-inward-serifed
+  serifless-serifed
 
 [t] tag=cv68 sampler="t"
   bent-hook
