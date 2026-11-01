@@ -1127,3 +1127,115 @@ shape = 'italic'
 menu = 'italic'
 css = 'italic'
 # touch
+
+[buildPlans.IosevkaMathQAMono]
+family = 'Iosevka Math QA Mono'
+spacing = 'term'
+serifs = 'sans'
+noCvSs = false
+exportGlyphNames = true
+[buildPlans.IosevkaMathQAMono.variants.design]
+cyrl-ze = 'corner-hooked'
+cyrl-capital-ze = 'corner-hooked'
+capital-latin-gamma = 'serifless'
+latin-gamma = 'serifless'
+[buildPlans.IosevkaMathQAMono.weights.Regular]
+shape = 420
+menu = 400
+css = 400
+[buildPlans.IosevkaMathQAMono.widths.Normal]
+shape = 500
+menu = 5
+css = 'normal'
+[buildPlans.IosevkaMathQAMono.slopes.Upright]
+angle = 0
+shape = 'upright'
+menu = 'upright'
+css = 'normal'
+
+[buildPlans.IosevkaMathQAPropo]
+family = 'Iosevka Math QA Propo'
+spacing = 'quasi-proportional'
+serifs = 'sans'
+noCvSs = false
+exportGlyphNames = true
+[buildPlans.IosevkaMathQAPropo.variants.design]
+cyrl-ze = 'corner-hooked'
+cyrl-capital-ze = 'corner-hooked'
+capital-latin-gamma = 'serifless'
+latin-gamma = 'serifless'
+[buildPlans.IosevkaMathQAPropo.weights.Regular]
+shape = 420
+menu = 400
+css = 400
+[buildPlans.IosevkaMathQAPropo.widths.Normal]
+shape = 600
+menu = 5
+css = 'normal'
+[buildPlans.IosevkaMathQAPropo.slopes.Upright]
+angle = 0
+shape = 'upright'
+menu = 'upright'
+css = 'normal'
+
+[buildPlans.IosevkaMathQAMono.subset.include]
+ranges = [[0x0000, 0x007F], [0x0300, 0x036F], [0x2000, 0x2AFF]]
+
+[buildPlans.IosevkaMathQAPropo.subset.include]
+ranges = [[0x0000, 0x007F], [0x0300, 0x036F], [0x2000, 0x2AFF]]
+
+[buildPlans.IosevkaMathQAMono.weights.Thin]
+shape = 120
+menu = 100
+css = 100
+[buildPlans.IosevkaMathQAMono.weights.Heavy]
+shape = 920
+menu = 900
+css = 900
+[buildPlans.IosevkaMathQAMono.slopes.Italic]
+angle = 9.4
+shape = 'italic'
+menu = 'italic'
+css = 'italic'
+
+[buildPlans.IosevkaMathQAPropo.weights.Thin]
+shape = 120
+menu = 100
+css = 100
+[buildPlans.IosevkaMathQAPropo.weights.Heavy]
+shape = 920
+menu = 900
+css = 900
+[buildPlans.IosevkaMathQAPropo.slopes.Italic]
+angle = 9.4
+shape = 'italic'
+menu = 'italic'
+css = 'italic'
+
+[buildPlans.IosevkaMathQADensePropo]
+family = 'Iosevka Math QA Dense Propo'
+spacing = 'quasi-proportional'
+serifs = 'sans'
+noCvSs = false
+exportGlyphNames = true
+[buildPlans.IosevkaMathQADensePropo.variants.design]
+cyrl-ze = 'corner-hooked'
+cyrl-capital-ze = 'corner-hooked'
+capital-latin-gamma = 'serifless'
+latin-gamma = 'serifless'
+ellipsis-density = 'dense'
+[buildPlans.IosevkaMathQADensePropo.weights.Regular]
+shape = 420
+menu = 400
+css = 400
+[buildPlans.IosevkaMathQADensePropo.widths.Normal]
+shape = 600
+menu = 5
+css = 'normal'
+[buildPlans.IosevkaMathQADensePropo.slopes.Upright]
+angle = 0
+shape = 'upright'
+menu = 'upright'
+css = 'normal'
+[buildPlans.IosevkaMathQADensePropo.subset.include]
+ranges = [[0x0000, 0x007F], [0x0300, 0x036F], [0x2000, 0x2AFF]]
