@@ -69,7 +69,7 @@ h = 'flat-hump-straight-top-left-serifed'
 i = 'serifed-asymmetric'
 j = 'diagonal-tailed-reverse-hooky'
 k = 'inverse-connected-top-left-and-top-right-inner-serifed'
-l = 'base-serifed'
+l = 'zshaped'
 m = 'flat-top-top-left-serifed'
 n = 'straight-top-left-serifed'
 p = 'eared-flat-bowl-motion-serifed'
@@ -384,27 +384,27 @@ lig-double-arrow-bar = 'with-notch'
 lig-single-arrow-bar = 'with-notch'
 
 [buildPlans.Nexsevka.weights.Thin]
-shape = 265
+shape = 260
 menu = 100
 css = 100
 
 [buildPlans.Nexsevka.weights.Light]
-shape = 308
+shape = 303
 menu = 200
 css = 200
 
 [buildPlans.Nexsevka.weights.SemiLight]
-shape = 394
+shape = 389
 menu = 300
 css = 300
 
 [buildPlans.Nexsevka.weights.Regular]
-shape = 542
+shape = 537
 menu = 400
 css = 400
 
 [buildPlans.Nexsevka.weights.Medium]
-shape = 619
+shape = 609
 menu = 500
 css = 500
 
@@ -441,8 +441,8 @@ cap = 693
 ascender = 732
 descender = -186
 symbolMid = 305
-sb = 'blend(weight, [265, 82], [298, 80], [384, 77], [532, 72], [609, 70], [775, 64], [910, 60])'
-contrast = 'blend(weight, [265, 1.044], [532, 1.093], [910, 1.102])'
+sb = 'blend(weight, [260, 82], [303, 80], [389, 77], [537, 72], [609, 70], [780, 64], [905, 60])'
+contrast = 'blend(weight, [260, 1.044], [537, 1.093], [905, 1.102])'
 
 accentWidth = 215
 accentClearance = 68
@@ -451,8 +451,8 @@ accentStackOffset = 234
 
 leading = 1250
 parenSize = 902
-dotSize = 'blend(weight, [265, 98], [298, 104], [384, 113], [532, 125], [609, 133], [775, 150], [910, 166])'
-periodSize = 'blend(weight, [265, 123], [298, 133], [384, 152], [532, 172], [609, 181], [775, 201], [910, 221])'
+dotSize = 'blend(weight, [260, 98], [303, 104], [389, 113], [537, 125], [609, 133], [780, 150], [905, 166])'
+periodSize = 'blend(weight, [260, 123], [303, 133], [389, 152], [537, 172], [609, 181], [780, 201], [905, 221])'
 
 onumZeroHeightRatio = 1
 
@@ -534,7 +534,7 @@ h = 'flat-hump-straight-top-left-serifed'
 i = 'serifed-asymmetric'
 j = 'diagonal-tailed-reverse-hooky'
 k = 'inverse-connected-top-left-and-top-right-inner-serifed'
-l = 'base-serifed'
+l = 'zshaped'
 m = 'flat-top-top-left-serifed'
 n = 'straight-top-left-serifed'
 p = 'eared-flat-bowl-motion-serifed'
@@ -849,27 +849,27 @@ lig-double-arrow-bar = 'with-notch'
 lig-single-arrow-bar = 'with-notch'
 
 [buildPlans.NexsevkaPropo.weights.Thin]
-shape = 265
+shape = 260
 menu = 100
 css = 100
 
 [buildPlans.NexsevkaPropo.weights.Light]
-shape = 308
+shape = 303
 menu = 200
 css = 200
 
 [buildPlans.NexsevkaPropo.weights.SemiLight]
-shape = 394
+shape = 389
 menu = 300
 css = 300
 
 [buildPlans.NexsevkaPropo.weights.Regular]
-shape = 542
+shape = 537
 menu = 400
 css = 400
 
 [buildPlans.NexsevkaPropo.weights.Medium]
-shape = 619
+shape = 609
 menu = 500
 css = 500
 
@@ -906,8 +906,8 @@ cap = 693
 ascender = 732
 descender = -186
 symbolMid = 305
-sb = 'blend(weight, [265, 82], [298, 80], [384, 77], [532, 72], [609, 70], [775, 64], [910, 60])'
-contrast = 'blend(weight, [265, 1.044], [532, 1.093], [910, 1.102])'
+sb = 'blend(weight, [260, 82], [303, 80], [389, 77], [537, 72], [609, 70], [780, 64], [905, 60])'
+contrast = 'blend(weight, [260, 1.044], [537, 1.093], [905, 1.102])'
 
 accentWidth = 215
 accentClearance = 68
@@ -916,8 +916,8 @@ accentStackOffset = 234
 
 leading = 1250
 parenSize = 902
-dotSize = 'blend(weight, [265, 98], [298, 104], [384, 113], [532, 125], [609, 133], [775, 150], [910, 166])'
-periodSize = 'blend(weight, [265, 123], [298, 133], [384, 152], [532, 172], [609, 181], [775, 201], [910, 221])'
+dotSize = 'blend(weight, [260, 98], [303, 104], [389, 113], [537, 125], [609, 133], [780, 150], [905, 166])'
+periodSize = 'blend(weight, [260, 123], [303, 133], [389, 152], [537, 172], [609, 181], [780, 201], [905, 221])'
 
 onumZeroHeightRatio = 1
 
