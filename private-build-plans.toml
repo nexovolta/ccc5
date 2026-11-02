@@ -430,7 +430,7 @@ menu = 'upright'
 css = 'normal'
 
 [buildPlans.Nexsevka.slopes.Italic]
-angle = 8
+angle = 12
 shape = 'italic'
 menu = 'italic'
 css = 'italic'
@@ -895,7 +895,7 @@ menu = 'upright'
 css = 'normal'
 
 [buildPlans.NexsevkaPropo.slopes.Italic]
-angle = 8
+angle = 12
 shape = 'italic'
 menu = 'italic'
 css = 'italic'
@@ -930,10 +930,10 @@ winMetricDescenderPad = 16
 
 [buildPlans.IosevkaTestSans]
 spacing = 'term'
-subset = { include = { ranges = [[0x0000, 0x007F], [0x0300, 0x036F], [0x2000, 0x2AFF]] } }
+subset = { include = { text = '&' } }
 family = 'Iosevka Test Sans'
 serifs = 'sans'
-noCvSs = true
+noCvSs = false
 exportGlyphNames = true
 
 [buildPlans.IosevkaTestSans.variants.design]
@@ -983,10 +983,10 @@ css = 'italic'
 
 [buildPlans.IosevkaTestSlab]
 spacing = 'term'
-subset = { include = { ranges = [[0x0000, 0x007F], [0x0300, 0x036F], [0x2000, 0x2AFF]] } }
+subset = { include = { text = '&' } }
 family = 'Iosevka Test Slab'
 serifs = 'slab'
-noCvSs = true
+noCvSs = false
 exportGlyphNames = true
 
 [buildPlans.IosevkaTestSlab.variants.design]
@@ -1031,11 +1031,11 @@ css = 'italic'
 a = 'double-storey-hook-flat-bottom-cut-serifless-diagonal-bar-falling'
 
 [buildPlans.IosevkaTestAile]
-subset = { include = { ranges = [[0x0000, 0x007F], [0x0300, 0x036F], [0x2000, 0x2AFF]] } }
+subset = { include = { text = '&' } }
 family = 'Iosevka Test Aile'
 spacing = 'quasi-proportional'
 serifs = 'sans'
-noCvSs = true
+noCvSs = false
 exportGlyphNames = true
 
 [buildPlans.IosevkaTestAile.variants.design]
@@ -1079,11 +1079,11 @@ menu = 'italic'
 css = 'italic'
 
 [buildPlans.IosevkaTestEtoile]
-subset = { include = { ranges = [[0x0000, 0x007F], [0x0300, 0x036F], [0x2000, 0x2AFF]] } }
+subset = { include = { text = '&' } }
 family = 'Iosevka Test Etoile'
 spacing = 'quasi-proportional'
 serifs = 'slab'
-noCvSs = true
+noCvSs = false
 exportGlyphNames = true
 
 [buildPlans.IosevkaTestEtoile.variants.design]
