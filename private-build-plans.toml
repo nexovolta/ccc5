@@ -430,7 +430,7 @@ menu = 'upright'
 css = 'normal'
 
 [buildPlans.Nexsevka.slopes.Italic]
-angle = 12
+angle = 10
 shape = 'italic'
 menu = 'italic'
 css = 'italic'
@@ -895,7 +895,7 @@ menu = 'upright'
 css = 'normal'
 
 [buildPlans.NexsevkaPropo.slopes.Italic]
-angle = 12
+angle = 10
 shape = 'italic'
 menu = 'italic'
 css = 'italic'
