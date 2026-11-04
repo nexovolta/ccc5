@@ -2979,11 +2979,12 @@
   short
   tall
 
-[diacritic-comma] tag= sampler=","
+[diacritic-comma] tag= sampler="Ģģ"
   diamond
   prime
   round
   square
+  tick
 
 [diacritic-dot] tag= sampler="öẋ "
   diamond
@@ -4767,6 +4768,7 @@
   prime
   round
   square
+  tick
 
 [punctuation-dot] tag= sampler="., :;"
   diamond
