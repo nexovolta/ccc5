@@ -206,6 +206,262 @@
   enable
   none
 
+[armn-ayb] tag=VXEF sampler="ա"
+  serifed
+  serifless
+
+[armn-ben] tag=VXEG sampler="բ"
+  serifed
+  serifless
+
+[armn-capital-ayb] tag=VXDC sampler="Ա"
+  serifed
+  serifless
+
+[armn-capital-ben] tag=VXDD sampler="Բ"
+  serifed
+  serifless
+
+[armn-capital-da] tag=VXDF sampler="Դ"
+  serifed
+  serifless
+
+[armn-capital-ech] tag=VXDG sampler="Ե"
+  serifed
+  serifless
+
+[armn-capital-eh] tag=VXDH sampler="Է"
+  serifed
+  serifless
+
+[armn-capital-et] tag=VXDI sampler="Ը"
+  serifed
+  serifless
+
+[armn-capital-feh] tag=VXED sampler="Ֆ"
+  serifed
+  serifless
+
+[armn-capital-ghat] tag=VXDQ sampler="Ղ"
+  serifed
+  serifless
+
+[armn-capital-gim] tag=VXDE sampler="Գ"
+  serifed
+  serifless
+
+[armn-capital-hiun] tag=VXEA sampler="Ւ"
+  serifed
+  serifless
+
+[armn-capital-ho] tag=VXDP sampler="Հ"
+  serifed
+  serifless
+
+[armn-capital-ini] tag=VXDL sampler="Ի"
+  serifed
+  serifless
+
+[armn-capital-keh] tag=VXEC sampler="Ք"
+  serifed
+  serifless
+
+[armn-capital-ken] tag=VXDO sampler="Կ"
+  serifed
+  serifless
+
+[armn-capital-liun] tag=VXDM sampler="Լ"
+  serifed
+  serifless
+
+[armn-capital-men] tag=VXDR sampler="Մ"
+  serifed
+  serifless
+
+[armn-capital-nu] tag=VXDT sampler="Ն"
+  serifed
+  serifless
+
+[armn-capital-peh] tag=VXDV sampler="Պ"
+  serifed
+  serifless
+
+[armn-capital-piur] tag=VXEB sampler="Փ"
+  serifed
+  serifless
+
+[armn-capital-reh] tag=VXDZ sampler="Ր"
+  serifed
+  serifless
+
+[armn-capital-rra] tag=VXDW sampler="Ռ"
+  serifed
+  serifless
+
+[armn-capital-seh] tag=VXDX sampler="Ս"
+  serifed
+  serifless
+
+[armn-capital-to] tag=VXDJ sampler="Թ"
+  serifed
+  serifless
+
+[armn-capital-vew] tag=VXDY sampler="Վ"
+  serifed
+  serifless
+
+[armn-capital-vo] tag=VXDU sampler="Ո"
+  serifed
+  serifless
+
+[armn-capital-xeh] tag=VXDN sampler="Խ"
+  serifed
+  serifless
+
+[armn-capital-yi] tag=VXDS sampler="Յ"
+  serifed
+  serifless
+
+[armn-capital-zhe] tag=VXDK sampler="Ժ"
+  serifed
+  serifless
+
+[armn-cheh] tag=VXEW sampler="ճ"
+  serifed
+  serifless
+
+[armn-co] tag=VXFH sampler="ց"
+  serifed
+  serifless
+
+[armn-da] tag=VXEI sampler="դ"
+  serifed
+  serifless
+
+[armn-dza] tag=VXEU sampler="ձ"
+  serifed
+  serifless
+
+[armn-ech] tag=VXEJ sampler="ե"
+  serifed
+  serifless
+
+[armn-eh] tag=VXEL sampler="է"
+  serifed
+  serifless
+
+[armn-et] tag=VXEM sampler="ը"
+  serifed
+  serifless
+
+[armn-ew] tag=VXFM sampler="և"
+  serifed
+  serifless
+
+[armn-feh] tag=VXFL sampler="ֆ"
+  serifed
+  serifless
+
+[armn-ghat] tag=VXEV sampler="ղ"
+  serifed
+  serifless
+
+[armn-gim] tag=VXEH sampler="գ"
+  serifed
+  serifless
+
+[armn-hiun] tag=VXFI sampler="ւ"
+  serifed
+  serifless
+
+[armn-ho] tag=VXET sampler="հ"
+  serifed
+  serifless
+
+[armn-ini] tag=VXEP sampler="ի"
+  serifed
+  serifless
+
+[armn-keh] tag=VXFK sampler="ք"
+  serifed
+  serifless
+
+[armn-ken] tag=VXES sampler="կ"
+  serifed
+  serifless
+
+[armn-liun] tag=VXEQ sampler="լ"
+  serifed
+  serifless
+
+[armn-men] tag=VXEX sampler="մ"
+  serifed
+  serifless
+
+[armn-nu] tag=VXEZ sampler="ն"
+  serifed
+  serifless
+
+[armn-peh] tag=VXFB sampler="պ"
+  serifed
+  serifless
+
+[armn-piur] tag=VXFJ sampler="փ"
+  serifed
+  serifless
+
+[armn-reh] tag=VXFG sampler="ր"
+  serifed
+  serifless
+
+[armn-rra] tag=VXFC sampler="ռ"
+  serifed
+  serifless
+
+[armn-seh] tag=VXFD sampler="ս"
+  serifed
+  serifless
+
+[armn-tiun] tag=VXFF sampler="տ"
+  serifed
+  serifless
+
+[armn-to] tag=VXEN sampler="թ"
+  serifed
+  serifless
+
+[armn-turnayb] tag=VXEE sampler="ՠ"
+  serifed
+  serifless
+
+[armn-vew] tag=VXFE sampler="վ"
+  serifed
+  serifless
+
+[armn-vo] tag=VXFA sampler="ո"
+  serifed
+  serifless
+
+[armn-xeh] tag=VXER sampler="խ"
+  serifed
+  serifless
+
+[armn-yi] tag=VXEY sampler="յ"
+  serifed
+  serifless
+
+[armn-yi-bar] tag=VXFN sampler="ֈ"
+  serifed
+  serifless
+
+[armn-za] tag=VXEK sampler="զ"
+  serifed
+  serifless
+
+[armn-zhe] tag=VXEO sampler="ժ"
+  serifed
+  serifless
+
 [ascii-grave] tag=VXAB sampler="`"
   raised-inverse-comma
   raised-turn-comma
@@ -435,6 +691,28 @@
   flat-top-serifless
   rounded-serifed
   rounded-serifless
+
+[capital-ezh] tag=VXFO sampler="ƷƸꝢ"
+  cursive-corner-hooked-serifless
+  cursive-corner-hooked-top-serifed
+  cursive-flat-hooked-serifless
+  cursive-flat-hooked-top-serifed
+  cursive-inward-serifed-serifless
+  cursive-inward-serifed-top-serifed
+  cursive-serifed-serifless
+  cursive-serifed-top-serifed
+  cursive-serifless-serifless
+  cursive-serifless-top-serifed
+  straight-corner-hooked-serifless
+  straight-corner-hooked-top-serifed
+  straight-flat-hooked-serifless
+  straight-flat-hooked-top-serifed
+  straight-inward-serifed-serifless
+  straight-inward-serifed-top-serifed
+  straight-serifed-serifless
+  straight-serifed-top-serifed
+  straight-serifless-serifless
+  straight-serifless-top-serifed
 
 [capital-f] tag=cv25 sampler="F"
   capped
@@ -947,6 +1225,10 @@
   open-swash
   straight
   vertical-crossing
+
+[capital-qoppa] tag=VXDA sampler="Ϙ"
+  base-serifed
+  serifless
 
 [capital-r] tag=cv59 sampler="R"
   curly-bottom-right-serifed
@@ -1592,6 +1874,18 @@
   symmetric-touching-top-right-outer-serifed
   symmetric-touching-tri-serifed
 
+[cyrl-capital-koppa] tag=VXDB sampler="Ҁ"
+  base-serifed
+  corner-hooked-base-serifed
+  corner-hooked-serifless
+  flat-hooked-base-serifed
+  flat-hooked-serifless
+  inward-serifed-base-serifed
+  inward-serifed-serifless
+  serifed-base-serifed
+  serifed-serifless
+  serifless
+
 [cyrl-capital-pe] tag=VXCH sampler="П"
   motion-serifed
   serifed
@@ -2194,8 +2488,16 @@
   symmetric-touching-top-right-outer-serifed
   symmetric-touching-tri-serifed
 
-[cyrl-koppa] tag=VXCG sampler="Ҁҁ"
+[cyrl-koppa] tag=VXCG sampler="ҁ"
   base-serifed
+  corner-hooked-base-serifed
+  corner-hooked-serifless
+  flat-hooked-base-serifed
+  flat-hooked-serifless
+  inward-serifed-base-serifed
+  inward-serifed-serifless
+  serifed-base-serifed
+  serifed-serifless
   serifless
 
 [cyrl-pe] tag=VXCI sampler="п"
@@ -2805,6 +3107,28 @@
   traditional-serifless
   traditional-tailed-middle-serifed
   traditional-tailed-serifless
+
+[ezh] tag=VXFP sampler="ʒƹƺʓꝣ"
+  cursive-corner-hooked-serifless
+  cursive-corner-hooked-top-serifed
+  cursive-flat-hooked-serifless
+  cursive-flat-hooked-top-serifed
+  cursive-inward-serifed-serifless
+  cursive-inward-serifed-top-serifed
+  cursive-serifed-serifless
+  cursive-serifed-top-serifed
+  cursive-serifless-serifless
+  cursive-serifless-top-serifed
+  straight-corner-hooked-serifless
+  straight-corner-hooked-top-serifed
+  straight-flat-hooked-serifless
+  straight-flat-hooked-top-serifed
+  straight-inward-serifed-serifless
+  straight-inward-serifed-top-serifed
+  straight-serifed-serifless
+  straight-serifed-top-serifed
+  straight-serifless-serifless
+  straight-serifless-top-serifed
 
 [f] tag=cv26 sampler="f"
   corner-hooked-diagonal-tailed
@@ -4089,6 +4413,17 @@
   diagonal-crossbar-falling
   standard
 
+[lower-omega] tag=VXCZ sampler="ωϖɷꞷ𝽵𝽷𝽠"
+  almost-flat-top
+  broad
+  broad-almost-flat-top
+  broad-flat-top
+  flat-top
+  round
+  rounded-vertical-sides
+  rounded-vertical-sides-almost-flat-top
+  rounded-vertical-sides-flat-top
+
 [lower-phi] tag=VXBE sampler="φ"
   cursive
   cursive-base-serifed
@@ -4516,7 +4851,7 @@
   top-cut-straight-serifless
   top-cut-tailed-serifless
 
-[qoppa] tag=cv58 sampler="Ϙϙ"
+[qoppa] tag=cv58 sampler="ϙ"
   base-serifed
   serifless
 
