@@ -207,260 +207,920 @@
   none
 
 [armn-ayb] tag=VXEF sampler="ա"
+  bottom-right-motion-serifed
   serifed
   serifless
+  top-center-bottom-right-motion-serifed
+  top-center-serifed
+  top-center-top-right-bottom-right-motion-serifed
+  top-center-top-right-motion-bottom-right-motion-serifed
+  top-center-top-right-motion-serifed
+  top-center-top-right-serifed
+  top-left-bottom-right-motion-serifed
+  top-left-motion-bottom-right-motion-serifed
+  top-left-motion-serifed
+  top-left-motion-top-center-bottom-right-motion-serifed
+  top-left-motion-top-center-serifed
+  top-left-motion-top-center-top-right-bottom-right-motion-serifed
+  top-left-motion-top-center-top-right-motion-bottom-right-motion-serifed
+  top-left-motion-top-center-top-right-motion-serifed
+  top-left-motion-top-center-top-right-serifed
+  top-left-motion-top-right-bottom-right-motion-serifed
+  top-left-motion-top-right-motion-bottom-right-motion-serifed
+  top-left-motion-top-right-motion-serifed
+  top-left-motion-top-right-serifed
+  top-left-serifed
+  top-left-top-center-bottom-right-motion-serifed
+  top-left-top-center-serifed
+  top-left-top-center-top-right-bottom-right-motion-serifed
+  top-left-top-center-top-right-motion-bottom-right-motion-serifed
+  top-left-top-center-top-right-motion-serifed
+  top-left-top-center-top-right-serifed
+  top-left-top-right-bottom-right-motion-serifed
+  top-left-top-right-motion-bottom-right-motion-serifed
+  top-left-top-right-motion-serifed
+  top-left-top-right-serifed
+  top-right-bottom-right-motion-serifed
+  top-right-motion-bottom-right-motion-serifed
+  top-right-motion-serifed
+  top-right-serifed
 
 [armn-ben] tag=VXEG sampler="բ"
+  bottom-left-motion-serifed
+  bottom-left-serifed
   serifed
   serifless
+  top-left-motion-bottom-left-motion-serifed
+  top-left-motion-bottom-left-serifed
+  top-left-motion-serifed
 
 [armn-capital-ayb] tag=VXDC sampler="Ա"
   serifed
   serifless
+  top-left-motion-serifed
+  top-left-motion-top-right-motion-serifed
+  top-left-motion-top-right-serifed
+  top-left-serifed
+  top-left-top-right-motion-serifed
+  top-left-top-right-serifed
+  top-right-motion-serifed
+  top-right-serifed
 
 [armn-capital-ben] tag=VXDD sampler="Բ"
+  bottom-left-motion-serifed
+  bottom-left-serifed
   serifed
   serifless
 
 [armn-capital-da] tag=VXDF sampler="Դ"
+  bottom-right-motion-serifed
+  bottom-right-serifed
   serifed
   serifless
 
 [armn-capital-ech] tag=VXDG sampler="Ե"
   serifed
   serifless
+  top-left-motion-serifed
+  top-left-serifed
 
 [armn-capital-eh] tag=VXDH sampler="Է"
+  bottom-left-motion-serifed
   serifed
   serifless
+  top-left-bottom-left-motion-serifed
+  top-left-motion-bottom-left-motion-serifed
+  top-left-motion-serifed
+  top-left-serifed
 
 [armn-capital-et] tag=VXDI sampler="Ը"
+  bottom-left-motion-serifed
   serifed
   serifless
 
 [armn-capital-feh] tag=VXED sampler="Ֆ"
   serifed
   serifless
+  top-center-motion-serifed
 
 [armn-capital-ghat] tag=VXDQ sampler="Ղ"
+  bottom-right-motion-serifed
+  bottom-right-serifed
   serifed
   serifless
 
 [armn-capital-gim] tag=VXDE sampler="Գ"
+  bottom-right-motion-serifed
+  bottom-right-serifed
   serifed
   serifless
 
 [armn-capital-hiun] tag=VXEA sampler="Ւ"
+  bottom-left-motion-serifed
+  bottom-left-serifed
   serifed
   serifless
+  top-left-bottom-left-motion-serifed
+  top-left-bottom-left-serifed
+  top-left-motion-bottom-left-motion-serifed
+  top-left-motion-bottom-left-serifed
+  top-left-motion-serifed
+  top-left-serifed
 
 [armn-capital-ho] tag=VXDP sampler="Հ"
+  bottom-right-motion-serifed
+  bottom-right-serifed
   serifed
   serifless
 
 [armn-capital-ini] tag=VXDL sampler="Ի"
+  bottom-left-bottom-right-motion-serifed
+  bottom-left-bottom-right-serifed
+  bottom-left-motion-bottom-right-motion-serifed
+  bottom-left-motion-bottom-right-serifed
+  bottom-left-motion-serifed
+  bottom-left-serifed
+  bottom-right-motion-serifed
+  bottom-right-serifed
   serifed
   serifless
+  top-left-bottom-left-bottom-right-motion-serifed
+  top-left-bottom-left-bottom-right-serifed
+  top-left-bottom-left-motion-bottom-right-motion-serifed
+  top-left-bottom-left-motion-bottom-right-serifed
+  top-left-bottom-left-motion-serifed
+  top-left-bottom-left-serifed
+  top-left-bottom-right-motion-serifed
+  top-left-bottom-right-serifed
+  top-left-motion-bottom-left-bottom-right-motion-serifed
+  top-left-motion-bottom-left-bottom-right-serifed
+  top-left-motion-bottom-left-motion-bottom-right-motion-serifed
+  top-left-motion-bottom-left-motion-bottom-right-serifed
+  top-left-motion-bottom-left-motion-serifed
+  top-left-motion-bottom-left-serifed
+  top-left-motion-bottom-right-motion-serifed
+  top-left-motion-bottom-right-serifed
+  top-left-motion-serifed
+  top-left-serifed
 
 [armn-capital-keh] tag=VXEC sampler="Ք"
+  bottom-left-motion-serifed
+  bottom-left-serifed
   serifed
   serifless
 
 [armn-capital-ken] tag=VXDO sampler="Կ"
+  bottom-right-motion-serifed
+  bottom-right-serifed
   serifed
   serifless
+  top-left-bottom-right-motion-serifed
+  top-left-bottom-right-serifed
+  top-left-motion-bottom-right-motion-serifed
+  top-left-motion-bottom-right-serifed
+  top-left-motion-serifed
+  top-left-motion-top-right-bottom-right-motion-serifed
+  top-left-motion-top-right-bottom-right-serifed
+  top-left-motion-top-right-motion-bottom-right-motion-serifed
+  top-left-motion-top-right-motion-bottom-right-serifed
+  top-left-motion-top-right-motion-serifed
+  top-left-motion-top-right-serifed
+  top-left-serifed
+  top-left-top-right-bottom-right-motion-serifed
+  top-left-top-right-bottom-right-serifed
+  top-left-top-right-motion-bottom-right-motion-serifed
+  top-left-top-right-motion-bottom-right-serifed
+  top-left-top-right-motion-serifed
+  top-left-top-right-serifed
+  top-right-bottom-right-motion-serifed
+  top-right-bottom-right-serifed
+  top-right-motion-bottom-right-motion-serifed
+  top-right-motion-bottom-right-serifed
+  top-right-motion-serifed
+  top-right-serifed
 
 [armn-capital-liun] tag=VXDM sampler="Լ"
+  bottom-left-motion-serifed
   serifed
   serifless
+  top-left-bottom-left-motion-serifed
+  top-left-motion-bottom-left-motion-serifed
+  top-left-motion-serifed
+  top-left-serifed
 
 [armn-capital-men] tag=VXDR sampler="Մ"
   serifed
   serifless
+  top-left-motion-serifed
+  top-left-motion-top-right-motion-serifed
+  top-left-motion-top-right-serifed
+  top-left-serifed
+  top-left-top-right-motion-serifed
+  top-left-top-right-serifed
+  top-right-motion-serifed
+  top-right-serifed
 
 [armn-capital-nu] tag=VXDT sampler="Ն"
   serifed
   serifless
+  top-left-motion-serifed
+  top-left-serifed
 
 [armn-capital-peh] tag=VXDV sampler="Պ"
+  bottom-right-motion-serifed
+  bottom-right-serifed
   serifed
   serifless
 
 [armn-capital-piur] tag=VXEB sampler="Փ"
+  bottom-center-serifed
   serifed
   serifless
+  top-center-bottom-center-serifed
+  top-center-serifed
 
 [armn-capital-reh] tag=VXDZ sampler="Ր"
+  bottom-left-motion-serifed
+  bottom-left-serifed
   serifed
   serifless
 
 [armn-capital-rra] tag=VXDW sampler="Ռ"
+  bottom-left-bottom-right-motion-serifed
+  bottom-left-bottom-right-serifed
+  bottom-left-motion-bottom-right-motion-serifed
+  bottom-left-motion-bottom-right-serifed
+  bottom-left-motion-serifed
+  bottom-left-serifed
+  bottom-right-motion-serifed
+  bottom-right-serifed
   serifed
   serifless
 
 [armn-capital-seh] tag=VXDX sampler="Ս"
   serifed
   serifless
+  top-left-motion-serifed
+  top-left-motion-top-right-motion-serifed
+  top-left-motion-top-right-serifed
+  top-left-serifed
+  top-left-top-right-motion-serifed
+  top-left-top-right-serifed
+  top-right-motion-serifed
+  top-right-serifed
 
 [armn-capital-to] tag=VXDJ sampler="Թ"
+  bottom-left-motion-serifed
+  bottom-left-serifed
   serifed
   serifless
 
 [armn-capital-vew] tag=VXDY sampler="Վ"
+  bottom-right-motion-serifed
+  bottom-right-serifed
   serifed
   serifless
+  top-left-bottom-right-motion-serifed
+  top-left-bottom-right-serifed
+  top-left-motion-bottom-right-motion-serifed
+  top-left-motion-bottom-right-serifed
+  top-left-motion-serifed
+  top-left-motion-top-right-bottom-right-motion-serifed
+  top-left-motion-top-right-bottom-right-serifed
+  top-left-motion-top-right-motion-bottom-right-motion-serifed
+  top-left-motion-top-right-motion-bottom-right-serifed
+  top-left-motion-top-right-motion-serifed
+  top-left-motion-top-right-serifed
+  top-left-serifed
+  top-left-top-right-bottom-right-motion-serifed
+  top-left-top-right-bottom-right-serifed
+  top-left-top-right-motion-bottom-right-motion-serifed
+  top-left-top-right-motion-bottom-right-serifed
+  top-left-top-right-motion-serifed
+  top-left-top-right-serifed
+  top-right-bottom-right-motion-serifed
+  top-right-bottom-right-serifed
+  top-right-motion-bottom-right-motion-serifed
+  top-right-motion-bottom-right-serifed
+  top-right-motion-serifed
+  top-right-serifed
 
 [armn-capital-vo] tag=VXDU sampler="Ո"
+  bottom-left-bottom-right-motion-serifed
+  bottom-left-bottom-right-serifed
+  bottom-left-motion-bottom-right-motion-serifed
+  bottom-left-motion-bottom-right-serifed
+  bottom-left-motion-serifed
+  bottom-left-serifed
+  bottom-right-motion-serifed
+  bottom-right-serifed
   serifed
   serifless
 
 [armn-capital-xeh] tag=VXDN sampler="Խ"
+  bottom-left-motion-serifed
+  bottom-left-serifed
   serifed
   serifless
+  top-center-bottom-left-motion-serifed
+  top-center-bottom-left-serifed
+  top-center-serifed
+  top-center-top-right-bottom-left-motion-serifed
+  top-center-top-right-bottom-left-serifed
+  top-center-top-right-motion-bottom-left-motion-serifed
+  top-center-top-right-motion-bottom-left-serifed
+  top-center-top-right-motion-serifed
+  top-center-top-right-serifed
+  top-left-bottom-left-motion-serifed
+  top-left-bottom-left-serifed
+  top-left-motion-bottom-left-motion-serifed
+  top-left-motion-bottom-left-serifed
+  top-left-motion-serifed
+  top-left-motion-top-center-bottom-left-motion-serifed
+  top-left-motion-top-center-bottom-left-serifed
+  top-left-motion-top-center-serifed
+  top-left-motion-top-center-top-right-bottom-left-motion-serifed
+  top-left-motion-top-center-top-right-bottom-left-serifed
+  top-left-motion-top-center-top-right-motion-bottom-left-motion-serifed
+  top-left-motion-top-center-top-right-motion-bottom-left-serifed
+  top-left-motion-top-center-top-right-motion-serifed
+  top-left-motion-top-center-top-right-serifed
+  top-left-motion-top-right-bottom-left-motion-serifed
+  top-left-motion-top-right-bottom-left-serifed
+  top-left-motion-top-right-motion-bottom-left-motion-serifed
+  top-left-motion-top-right-motion-bottom-left-serifed
+  top-left-motion-top-right-motion-serifed
+  top-left-motion-top-right-serifed
+  top-left-serifed
+  top-left-top-center-bottom-left-motion-serifed
+  top-left-top-center-bottom-left-serifed
+  top-left-top-center-serifed
+  top-left-top-center-top-right-bottom-left-motion-serifed
+  top-left-top-center-top-right-bottom-left-serifed
+  top-left-top-center-top-right-motion-bottom-left-motion-serifed
+  top-left-top-center-top-right-motion-bottom-left-serifed
+  top-left-top-center-top-right-motion-serifed
+  top-left-top-center-top-right-serifed
+  top-left-top-right-bottom-left-motion-serifed
+  top-left-top-right-bottom-left-serifed
+  top-left-top-right-motion-bottom-left-motion-serifed
+  top-left-top-right-motion-bottom-left-serifed
+  top-left-top-right-motion-serifed
+  top-left-top-right-serifed
+  top-right-bottom-left-motion-serifed
+  top-right-bottom-left-serifed
+  top-right-motion-bottom-left-motion-serifed
+  top-right-motion-bottom-left-serifed
+  top-right-motion-serifed
+  top-right-serifed
 
 [armn-capital-yi] tag=VXDS sampler="Յ"
+  middle-left-serifed
   serifed
   serifless
 
 [armn-capital-zhe] tag=VXDK sampler="Ժ"
   serifed
   serifless
+  top-right-motion-serifed
+  top-right-serifed
 
 [armn-cheh] tag=VXEW sampler="ճ"
+  bottom-right-motion-serifed
+  bottom-right-serifed
   serifed
   serifless
 
 [armn-co] tag=VXFH sampler="ց"
   serifed
   serifless
+  top-right-motion-serifed
 
 [armn-da] tag=VXEI sampler="դ"
+  bottom-left-bottom-right-motion-serifed
+  bottom-left-bottom-right-serifed
+  bottom-left-motion-bottom-right-motion-serifed
+  bottom-left-motion-bottom-right-serifed
+  bottom-left-motion-serifed
+  bottom-left-serifed
+  bottom-right-motion-serifed
+  bottom-right-serifed
   serifed
   serifless
+  top-left-motion-bottom-left-bottom-right-motion-serifed
+  top-left-motion-bottom-left-bottom-right-serifed
+  top-left-motion-bottom-left-motion-bottom-right-motion-serifed
+  top-left-motion-bottom-left-motion-bottom-right-serifed
+  top-left-motion-bottom-left-motion-serifed
+  top-left-motion-bottom-left-serifed
+  top-left-motion-bottom-right-motion-serifed
+  top-left-motion-bottom-right-serifed
+  top-left-motion-serifed
 
 [armn-dza] tag=VXEU sampler="ձ"
+  bottom-right-motion-serifed
+  bottom-right-serifed
   serifed
   serifless
 
 [armn-ech] tag=VXEJ sampler="ե"
+  bottom-right-motion-serifed
   serifed
   serifless
+  top-left-bottom-right-motion-serifed
+  top-left-motion-bottom-right-motion-serifed
+  top-left-motion-serifed
+  top-left-serifed
 
 [armn-eh] tag=VXEL sampler="է"
+  bottom-left-motion-serifed
   serifed
   serifless
+  top-left-bottom-left-motion-serifed
+  top-left-motion-bottom-left-motion-serifed
+  top-left-motion-serifed
+  top-left-serifed
 
 [armn-et] tag=VXEM sampler="ը"
+  bottom-right-motion-serifed
+  bottom-right-serifed
   serifed
   serifless
+  top-left-motion-bottom-right-motion-serifed
+  top-left-motion-bottom-right-serifed
+  top-left-motion-serifed
 
 [armn-ew] tag=VXFM sampler="և"
   serifed
   serifless
+  top-left-motion-serifed
+  top-left-motion-top-right-motion-serifed
+  top-left-motion-top-right-serifed
+  top-left-serifed
+  top-left-top-right-motion-serifed
+  top-left-top-right-serifed
+  top-right-motion-serifed
+  top-right-serifed
 
 [armn-feh] tag=VXFL sampler="ֆ"
+  bottom-center-serifed
   serifed
   serifless
 
 [armn-ghat] tag=VXEV sampler="ղ"
+  bottom-left-motion-serifed
+  bottom-left-serifed
   serifed
   serifless
+  top-left-motion-bottom-left-motion-serifed
+  top-left-motion-bottom-left-serifed
+  top-left-motion-serifed
 
 [armn-gim] tag=VXEH sampler="գ"
+  bottom-right-motion-serifed
+  bottom-right-serifed
   serifed
   serifless
+  top-right-motion-bottom-right-motion-serifed
+  top-right-motion-bottom-right-serifed
+  top-right-motion-serifed
 
 [armn-hiun] tag=VXFI sampler="ւ"
+  bottom-left-motion-serifed
   serifed
   serifless
+  top-left-bottom-left-motion-serifed
+  top-left-motion-bottom-left-motion-serifed
+  top-left-motion-serifed
+  top-left-serifed
 
 [armn-ho] tag=VXET sampler="հ"
+  bottom-left-bottom-right-motion-serifed
+  bottom-left-bottom-right-serifed
+  bottom-left-motion-bottom-right-motion-serifed
+  bottom-left-motion-bottom-right-serifed
+  bottom-left-motion-serifed
+  bottom-left-serifed
+  bottom-right-motion-serifed
+  bottom-right-serifed
   serifed
   serifless
+  top-left-bottom-left-bottom-right-motion-serifed
+  top-left-bottom-left-bottom-right-serifed
+  top-left-bottom-left-motion-bottom-right-motion-serifed
+  top-left-bottom-left-motion-bottom-right-serifed
+  top-left-bottom-left-motion-serifed
+  top-left-bottom-left-serifed
+  top-left-bottom-right-motion-serifed
+  top-left-bottom-right-serifed
+  top-left-motion-bottom-left-bottom-right-motion-serifed
+  top-left-motion-bottom-left-bottom-right-serifed
+  top-left-motion-bottom-left-motion-bottom-right-motion-serifed
+  top-left-motion-bottom-left-motion-bottom-right-serifed
+  top-left-motion-bottom-left-motion-serifed
+  top-left-motion-bottom-left-serifed
+  top-left-motion-bottom-right-motion-serifed
+  top-left-motion-bottom-right-serifed
+  top-left-motion-serifed
+  top-left-serifed
 
 [armn-ini] tag=VXEP sampler="ի"
+  bottom-left-bottom-right-motion-serifed
+  bottom-left-bottom-right-serifed
+  bottom-left-motion-bottom-right-motion-serifed
+  bottom-left-motion-bottom-right-serifed
+  bottom-left-motion-serifed
+  bottom-left-serifed
+  bottom-right-motion-serifed
+  bottom-right-serifed
   serifed
   serifless
+  top-left-bottom-left-bottom-right-motion-serifed
+  top-left-bottom-left-bottom-right-serifed
+  top-left-bottom-left-motion-bottom-right-motion-serifed
+  top-left-bottom-left-motion-bottom-right-serifed
+  top-left-bottom-left-motion-serifed
+  top-left-bottom-left-serifed
+  top-left-bottom-right-motion-serifed
+  top-left-bottom-right-serifed
+  top-left-motion-bottom-left-bottom-right-motion-serifed
+  top-left-motion-bottom-left-bottom-right-serifed
+  top-left-motion-bottom-left-motion-bottom-right-motion-serifed
+  top-left-motion-bottom-left-motion-bottom-right-serifed
+  top-left-motion-bottom-left-motion-serifed
+  top-left-motion-bottom-left-serifed
+  top-left-motion-bottom-right-motion-serifed
+  top-left-motion-bottom-right-serifed
+  top-left-motion-serifed
+  top-left-serifed
 
 [armn-keh] tag=VXFK sampler="ք"
+  bottom-left-motion-serifed
+  bottom-left-serifed
   serifed
   serifless
+  top-left-motion-bottom-left-motion-serifed
+  top-left-motion-bottom-left-serifed
+  top-left-motion-serifed
 
 [armn-ken] tag=VXES sampler="կ"
+  bottom-right-motion-serifed
+  bottom-right-serifed
   serifed
   serifless
+  top-left-bottom-right-motion-serifed
+  top-left-bottom-right-serifed
+  top-left-motion-bottom-right-motion-serifed
+  top-left-motion-bottom-right-serifed
+  top-left-motion-serifed
+  top-left-motion-top-right-bottom-right-motion-serifed
+  top-left-motion-top-right-bottom-right-serifed
+  top-left-motion-top-right-motion-bottom-right-motion-serifed
+  top-left-motion-top-right-motion-bottom-right-serifed
+  top-left-motion-top-right-motion-serifed
+  top-left-motion-top-right-serifed
+  top-left-serifed
+  top-left-top-right-bottom-right-motion-serifed
+  top-left-top-right-bottom-right-serifed
+  top-left-top-right-motion-bottom-right-motion-serifed
+  top-left-top-right-motion-bottom-right-serifed
+  top-left-top-right-motion-serifed
+  top-left-top-right-serifed
+  top-right-bottom-right-motion-serifed
+  top-right-bottom-right-serifed
+  top-right-motion-bottom-right-motion-serifed
+  top-right-motion-bottom-right-serifed
+  top-right-motion-serifed
+  top-right-serifed
 
 [armn-liun] tag=VXEQ sampler="լ"
   serifed
   serifless
+  top-center-serifed
 
 [armn-men] tag=VXEX sampler="մ"
+  bottom-right-motion-serifed
   serifed
   serifless
+  top-left-bottom-right-motion-serifed
+  top-left-motion-bottom-right-motion-serifed
+  top-left-motion-serifed
+  top-left-serifed
 
 [armn-nu] tag=VXEZ sampler="ն"
+  bottom-right-motion-serifed
   serifed
   serifless
+  top-right-bottom-right-motion-serifed
+  top-right-motion-bottom-right-motion-serifed
+  top-right-motion-serifed
+  top-right-serifed
 
 [armn-peh] tag=VXFB sampler="պ"
+  bottom-right-motion-serifed
+  bottom-right-serifed
   serifed
   serifless
+  top-center-bottom-right-motion-serifed
+  top-center-bottom-right-serifed
+  top-center-serifed
+  top-center-top-right-bottom-right-motion-serifed
+  top-center-top-right-bottom-right-serifed
+  top-center-top-right-motion-bottom-right-motion-serifed
+  top-center-top-right-motion-bottom-right-serifed
+  top-center-top-right-motion-serifed
+  top-center-top-right-serifed
+  top-left-bottom-right-motion-serifed
+  top-left-bottom-right-serifed
+  top-left-motion-bottom-right-motion-serifed
+  top-left-motion-bottom-right-serifed
+  top-left-motion-serifed
+  top-left-motion-top-center-bottom-right-motion-serifed
+  top-left-motion-top-center-bottom-right-serifed
+  top-left-motion-top-center-serifed
+  top-left-motion-top-center-top-right-bottom-right-motion-serifed
+  top-left-motion-top-center-top-right-bottom-right-serifed
+  top-left-motion-top-center-top-right-motion-bottom-right-motion-serifed
+  top-left-motion-top-center-top-right-motion-bottom-right-serifed
+  top-left-motion-top-center-top-right-motion-serifed
+  top-left-motion-top-center-top-right-serifed
+  top-left-motion-top-right-bottom-right-motion-serifed
+  top-left-motion-top-right-bottom-right-serifed
+  top-left-motion-top-right-motion-bottom-right-motion-serifed
+  top-left-motion-top-right-motion-bottom-right-serifed
+  top-left-motion-top-right-motion-serifed
+  top-left-motion-top-right-serifed
+  top-left-serifed
+  top-left-top-center-bottom-right-motion-serifed
+  top-left-top-center-bottom-right-serifed
+  top-left-top-center-serifed
+  top-left-top-center-top-right-bottom-right-motion-serifed
+  top-left-top-center-top-right-bottom-right-serifed
+  top-left-top-center-top-right-motion-bottom-right-motion-serifed
+  top-left-top-center-top-right-motion-bottom-right-serifed
+  top-left-top-center-top-right-motion-serifed
+  top-left-top-center-top-right-serifed
+  top-left-top-right-bottom-right-motion-serifed
+  top-left-top-right-bottom-right-serifed
+  top-left-top-right-motion-bottom-right-motion-serifed
+  top-left-top-right-motion-bottom-right-serifed
+  top-left-top-right-motion-serifed
+  top-left-top-right-serifed
+  top-right-bottom-right-motion-serifed
+  top-right-bottom-right-serifed
+  top-right-motion-bottom-right-motion-serifed
+  top-right-motion-bottom-right-serifed
+  top-right-motion-serifed
+  top-right-serifed
 
 [armn-piur] tag=VXFJ sampler="փ"
+  bottom-center-bottom-right-motion-serifed
+  bottom-center-bottom-right-serifed
+  bottom-center-serifed
+  bottom-right-motion-serifed
+  bottom-right-serifed
   serifed
   serifless
+  top-center-bottom-center-bottom-right-motion-serifed
+  top-center-bottom-center-bottom-right-serifed
+  top-center-bottom-center-serifed
+  top-center-bottom-right-motion-serifed
+  top-center-bottom-right-serifed
+  top-center-serifed
+  top-left-bottom-center-bottom-right-motion-serifed
+  top-left-bottom-center-bottom-right-serifed
+  top-left-bottom-center-serifed
+  top-left-bottom-right-motion-serifed
+  top-left-bottom-right-serifed
+  top-left-motion-bottom-center-bottom-right-motion-serifed
+  top-left-motion-bottom-center-bottom-right-serifed
+  top-left-motion-bottom-center-serifed
+  top-left-motion-bottom-right-motion-serifed
+  top-left-motion-bottom-right-serifed
+  top-left-motion-serifed
+  top-left-motion-top-center-bottom-center-bottom-right-motion-serifed
+  top-left-motion-top-center-bottom-center-bottom-right-serifed
+  top-left-motion-top-center-bottom-center-serifed
+  top-left-motion-top-center-bottom-right-motion-serifed
+  top-left-motion-top-center-bottom-right-serifed
+  top-left-motion-top-center-serifed
+  top-left-serifed
+  top-left-top-center-bottom-center-bottom-right-motion-serifed
+  top-left-top-center-bottom-center-bottom-right-serifed
+  top-left-top-center-bottom-center-serifed
+  top-left-top-center-bottom-right-motion-serifed
+  top-left-top-center-bottom-right-serifed
+  top-left-top-center-serifed
 
 [armn-reh] tag=VXFG sampler="ր"
+  bottom-left-bottom-right-motion-serifed
+  bottom-left-bottom-right-serifed
+  bottom-left-motion-bottom-right-motion-serifed
+  bottom-left-motion-bottom-right-serifed
+  bottom-left-motion-serifed
+  bottom-left-serifed
+  bottom-right-motion-serifed
+  bottom-right-serifed
   serifed
   serifless
+  top-left-motion-bottom-left-bottom-right-motion-serifed
+  top-left-motion-bottom-left-bottom-right-serifed
+  top-left-motion-bottom-left-motion-bottom-right-motion-serifed
+  top-left-motion-bottom-left-motion-bottom-right-serifed
+  top-left-motion-bottom-left-motion-serifed
+  top-left-motion-bottom-left-serifed
+  top-left-motion-bottom-right-motion-serifed
+  top-left-motion-bottom-right-serifed
+  top-left-motion-serifed
 
 [armn-rra] tag=VXFC sampler="ռ"
+  bottom-left-motion-serifed
+  bottom-left-serifed
   serifed
   serifless
+  top-left-motion-bottom-left-motion-serifed
+  top-left-motion-bottom-left-serifed
+  top-left-motion-serifed
 
 [armn-seh] tag=VXFD sampler="ս"
+  bottom-right-motion-serifed
   serifed
   serifless
+  top-left-bottom-right-motion-serifed
+  top-left-motion-bottom-right-motion-serifed
+  top-left-motion-serifed
+  top-left-motion-top-right-bottom-right-motion-serifed
+  top-left-motion-top-right-motion-bottom-right-motion-serifed
+  top-left-motion-top-right-motion-serifed
+  top-left-motion-top-right-serifed
+  top-left-serifed
+  top-left-top-right-bottom-right-motion-serifed
+  top-left-top-right-motion-bottom-right-motion-serifed
+  top-left-top-right-motion-serifed
+  top-left-top-right-serifed
+  top-right-bottom-right-motion-serifed
+  top-right-motion-bottom-right-motion-serifed
+  top-right-motion-serifed
+  top-right-serifed
 
 [armn-tiun] tag=VXFF sampler="տ"
+  bottom-center-motion-bottom-right-motion-serifed
+  bottom-center-motion-bottom-right-serifed
+  bottom-center-motion-serifed
+  bottom-right-motion-serifed
+  bottom-right-serifed
   serifed
   serifless
+  top-center-motion-bottom-center-motion-bottom-right-motion-serifed
+  top-center-motion-bottom-center-motion-bottom-right-serifed
+  top-center-motion-bottom-center-motion-serifed
+  top-center-motion-bottom-right-motion-serifed
+  top-center-motion-bottom-right-serifed
+  top-center-motion-serifed
+  top-left-bottom-center-motion-bottom-right-motion-serifed
+  top-left-bottom-center-motion-bottom-right-serifed
+  top-left-bottom-center-motion-serifed
+  top-left-bottom-right-motion-serifed
+  top-left-bottom-right-serifed
+  top-left-motion-bottom-center-motion-bottom-right-motion-serifed
+  top-left-motion-bottom-center-motion-bottom-right-serifed
+  top-left-motion-bottom-center-motion-serifed
+  top-left-motion-bottom-right-motion-serifed
+  top-left-motion-bottom-right-serifed
+  top-left-motion-serifed
+  top-left-motion-top-center-motion-bottom-center-motion-bottom-right-motion-serifed
+  top-left-motion-top-center-motion-bottom-center-motion-bottom-right-serifed
+  top-left-motion-top-center-motion-bottom-center-motion-serifed
+  top-left-motion-top-center-motion-bottom-right-motion-serifed
+  top-left-motion-top-center-motion-bottom-right-serifed
+  top-left-motion-top-center-motion-serifed
+  top-left-serifed
+  top-left-top-center-motion-bottom-center-motion-bottom-right-motion-serifed
+  top-left-top-center-motion-bottom-center-motion-bottom-right-serifed
+  top-left-top-center-motion-bottom-center-motion-serifed
+  top-left-top-center-motion-bottom-right-motion-serifed
+  top-left-top-center-motion-bottom-right-serifed
+  top-left-top-center-motion-serifed
 
 [armn-to] tag=VXEN sampler="թ"
+  bottom-left-motion-serifed
+  bottom-left-serifed
   serifed
   serifless
-
-[armn-turnayb] tag=VXEE sampler="ՠ"
-  serifed
-  serifless
+  top-left-motion-bottom-left-motion-serifed
+  top-left-motion-bottom-left-serifed
+  top-left-motion-serifed
 
 [armn-vew] tag=VXFE sampler="վ"
   serifed
   serifless
+  top-left-motion-serifed
+  top-left-motion-top-right-motion-serifed
+  top-left-motion-top-right-serifed
+  top-left-serifed
+  top-left-top-right-motion-serifed
+  top-left-top-right-serifed
+  top-right-motion-serifed
+  top-right-serifed
 
 [armn-vo] tag=VXFA sampler="ո"
+  bottom-left-bottom-right-motion-serifed
+  bottom-left-bottom-right-serifed
+  bottom-left-motion-bottom-right-motion-serifed
+  bottom-left-motion-bottom-right-serifed
+  bottom-left-motion-serifed
+  bottom-left-serifed
+  bottom-right-motion-serifed
+  bottom-right-serifed
   serifed
   serifless
+  top-left-motion-bottom-left-bottom-right-motion-serifed
+  top-left-motion-bottom-left-bottom-right-serifed
+  top-left-motion-bottom-left-motion-bottom-right-motion-serifed
+  top-left-motion-bottom-left-motion-bottom-right-serifed
+  top-left-motion-bottom-left-motion-serifed
+  top-left-motion-bottom-left-serifed
+  top-left-motion-bottom-right-motion-serifed
+  top-left-motion-bottom-right-serifed
+  top-left-motion-serifed
 
 [armn-xeh] tag=VXER sampler="խ"
+  bottom-left-bottom-right-motion-serifed
+  bottom-left-motion-bottom-right-motion-serifed
+  bottom-left-motion-serifed
+  bottom-left-serifed
+  bottom-right-motion-serifed
   serifed
   serifless
+  top-left-bottom-left-bottom-right-motion-serifed
+  top-left-bottom-left-motion-bottom-right-motion-serifed
+  top-left-bottom-left-motion-serifed
+  top-left-bottom-left-serifed
+  top-left-bottom-right-motion-serifed
+  top-left-motion-bottom-left-bottom-right-motion-serifed
+  top-left-motion-bottom-left-motion-bottom-right-motion-serifed
+  top-left-motion-bottom-left-motion-serifed
+  top-left-motion-bottom-left-serifed
+  top-left-motion-bottom-right-motion-serifed
+  top-left-motion-serifed
+  top-left-motion-top-right-bottom-left-bottom-right-motion-serifed
+  top-left-motion-top-right-bottom-left-motion-bottom-right-motion-serifed
+  top-left-motion-top-right-bottom-left-motion-serifed
+  top-left-motion-top-right-bottom-left-serifed
+  top-left-motion-top-right-bottom-right-motion-serifed
+  top-left-motion-top-right-motion-bottom-left-bottom-right-motion-serifed
+  top-left-motion-top-right-motion-bottom-left-motion-bottom-right-motion-serifed
+  top-left-motion-top-right-motion-bottom-left-motion-serifed
+  top-left-motion-top-right-motion-bottom-left-serifed
+  top-left-motion-top-right-motion-bottom-right-motion-serifed
+  top-left-motion-top-right-motion-serifed
+  top-left-motion-top-right-serifed
+  top-left-serifed
+  top-left-top-right-bottom-left-bottom-right-motion-serifed
+  top-left-top-right-bottom-left-motion-bottom-right-motion-serifed
+  top-left-top-right-bottom-left-motion-serifed
+  top-left-top-right-bottom-left-serifed
+  top-left-top-right-bottom-right-motion-serifed
+  top-left-top-right-motion-bottom-left-bottom-right-motion-serifed
+  top-left-top-right-motion-bottom-left-motion-bottom-right-motion-serifed
+  top-left-top-right-motion-bottom-left-motion-serifed
+  top-left-top-right-motion-bottom-left-serifed
+  top-left-top-right-motion-bottom-right-motion-serifed
+  top-left-top-right-motion-serifed
+  top-left-top-right-serifed
+  top-right-bottom-left-bottom-right-motion-serifed
+  top-right-bottom-left-motion-bottom-right-motion-serifed
+  top-right-bottom-left-motion-serifed
+  top-right-bottom-left-serifed
+  top-right-bottom-right-motion-serifed
+  top-right-motion-bottom-left-bottom-right-motion-serifed
+  top-right-motion-bottom-left-motion-bottom-right-motion-serifed
+  top-right-motion-bottom-left-motion-serifed
+  top-right-motion-bottom-left-serifed
+  top-right-motion-bottom-right-motion-serifed
+  top-right-motion-serifed
+  top-right-serifed
 
 [armn-yi] tag=VXEY sampler="յ"
   serifed
   serifless
+  top-center-serifed
 
 [armn-yi-bar] tag=VXFN sampler="ֈ"
   serifed
   serifless
+  top-center-serifed
 
 [armn-za] tag=VXEK sampler="զ"
   serifed
   serifless
+  top-right-motion-serifed
 
 [armn-zhe] tag=VXEO sampler="ժ"
   serifed
   serifless
+  top-right-motion-serifed
+  top-right-serifed
 
 [ascii-grave] tag=VXAB sampler="`"
   raised-inverse-comma
