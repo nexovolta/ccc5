@@ -212,16 +212,16 @@ def resolve_dakuten_mark_font_stack(in_dir: str) -> List[str]:
             os.path.join(_REPO_ROOT, "Kana", "mkanaplus.ttf"),
             os.path.join(_REPO_ROOT, "mkanaplus-regular.ttf"),
         ),
-        _paths_for_names(
-            in_dir,
-            ARIAL_FILENAMES,
-            os.path.join(os.environ.get("WINDIR", r"C:\Windows"), "Fonts", "arial.ttf"),
-        ),
         _paths_for_names(in_dir, (JULIAMONO_FILENAME,)),
         _paths_for_names(in_dir, SEGOE_UI_FILENAMES),
         _paths_for_names(in_dir, SEGOE_UI_HISTORIC_FILENAMES),
         _paths_for_names(in_dir, SANS_SERIF_COLLECTION_FILENAMES),
         _paths_for_names(in_dir, DROID_SANS_FILENAMES),
+        _paths_for_names(
+            in_dir,
+            ARIAL_FILENAMES,
+            os.path.join(os.environ.get("WINDIR", r"C:\Windows"), "Fonts", "arial.ttf"),
+        ),
     )
     out: List[str] = []
     for candidates in groups:
