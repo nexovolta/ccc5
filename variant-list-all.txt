@@ -5098,6 +5098,9 @@
   inverse-connected-top-right-middle-serifed
   inverse-connected-top-right-outer-serifed
   inverse-connected-tri-serifed
+  rounded-bilateral-serifed
+  rounded-bilateral-top-serifed
+  rounded-bottom-right-serifed
   rounded-connected-bilateral-serifed
   rounded-connected-bilateral-top-serifed
   rounded-connected-bottom-right-serifed
@@ -5116,6 +5119,21 @@
   rounded-connected-top-right-middle-serifed
   rounded-connected-top-right-outer-serifed
   rounded-connected-tri-serifed
+  rounded-full-serifed
+  rounded-serifed
+  rounded-serifless
+  rounded-top-left-and-bottom-right-serifed
+  rounded-top-left-and-top-right-inner-and-bottom-right-serifed
+  rounded-top-left-and-top-right-inner-serifed
+  rounded-top-left-and-top-right-middle-and-bottom-right-serifed
+  rounded-top-left-and-top-right-middle-serifed
+  rounded-top-left-serifed
+  rounded-top-right-inner-and-bottom-right-serifed
+  rounded-top-right-inner-serifed
+  rounded-top-right-middle-and-bottom-right-serifed
+  rounded-top-right-middle-serifed
+  rounded-top-right-outer-serifed
+  rounded-tri-serifed
   straight-bilateral-serifed
   straight-bilateral-top-serifed
   straight-bottom-right-serifed
