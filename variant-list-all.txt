@@ -1213,6 +1213,7 @@
 
 [braille-dot] tag= sampler="⣝⣑ "
   diamond
+  hexagon
   round
   square
 
@@ -1797,8 +1798,7 @@
   triangle-bottom-top-right-motion-serifed
 
 [capital-latin-upsilon] tag=cv42 sampler="Ʊʊ"
-  disjoint
-  disjoint-serifed
+  serifed
   serifless
 
 [capital-m] tag=cv44 sampler="M"
@@ -3771,7 +3771,10 @@
   tall
 
 [diacritic-comma] tag= sampler="Ģģ"
+  bottom-cut
+  corner
   diamond
+  hexagon
   prime
   round
   square
@@ -3779,6 +3782,7 @@
 
 [diacritic-dot] tag= sampler="öẋ "
   diamond
+  hexagon
   round
   square
 
@@ -5608,7 +5612,10 @@
   serifless
 
 [punctuation-comma] tag= sampler=",;"
+  bottom-cut
+  corner
   diamond
+  hexagon
   prime
   round
   square
@@ -5616,6 +5623,7 @@
 
 [punctuation-dot] tag= sampler="., :;"
   diamond
+  hexagon
   round
   square
 
@@ -6003,6 +6011,7 @@
 
 [tittle] tag= sampler="ij "
   diamond
+  hexagon
   round
   square
 

@@ -239,11 +239,11 @@ armn-zhe = 'top-right-motion-serifed'
 
 # PUNCTUATION AND SYMBOLS
 
-braille-dot = 'diamond'
-diacritic-dot = 'square'
-diacritic-comma = 'tick'
+braille-dot = 'square'
+diacritic-dot = 'hexagon'
+diacritic-comma = 'bottom-cut'
 punctuation-dot = 'diamond'
-punctuation-comma = 'prime'
+punctuation-comma = 'corner'
 tittle = 'round'
 diacritic-line = 'horizontal-terminal'
 
@@ -280,7 +280,7 @@ lig-hyphen-chain = 'with-notch'
 lig-plus-chain = 'with-notch'
 lig-double-arrow-bar = 'with-notch'
 lig-single-arrow-bar = 'with-notch'
-    
+
 [buildPlans.Nexsevka.variants.italic]
 
 # DIGITS
@@ -514,11 +514,13 @@ armn-yi-bar = 'top-center-serifed'
 armn-za = 'top-right-motion-serifed'
 armn-zhe = 'top-right-motion-serifed'
 
-braille-dot = 'diamond'
-diacritic-dot = 'square'
-diacritic-comma = 'tick'
+# PUNCTUATION AND SYMBOLS
+
+braille-dot = 'square'
+diacritic-dot = 'hexagon'
+diacritic-comma = 'bottom-cut'
 punctuation-dot = 'diamond'
-punctuation-comma = 'prime'
+punctuation-comma = 'corner'
 tittle = 'round'
 diacritic-line = 'horizontal-terminal'
 
@@ -542,12 +544,12 @@ question = 'corner'
 section = 'flat-hooked'
 underscore = 'above-baseline'
 tilde = 'compact-low'
-ampersand = 'flat-top-corner-hooked-serifed'
+ampersand = 'upper-open-et-corner-hooked-flat-bottom'
 micro-sign = 'flat-bottom-motion-serifed'
 sterling = 'serifed-inward-serifed'
 
 glottal-stop = 'smooth-flat-hooked'
-partial-derivative = 'straight-bar'
+partial-derivative = 'closed-contour'
 lig-ltgteq = 'slanted'
 lig-neq = 'more-slanted-dotted'
 lig-equal-chain = 'with-notch'
@@ -877,11 +879,11 @@ armn-zhe = 'top-right-motion-serifed'
 
 # PUNCTUATION AND SYMBOLS
 
-braille-dot = 'diamond'
-diacritic-dot = 'square'
-diacritic-comma = 'tick'
+braille-dot = 'square'
+diacritic-dot = 'hexagon'
+diacritic-comma = 'bottom-cut'
 punctuation-dot = 'diamond'
-punctuation-comma = 'prime'
+punctuation-comma = 'corner'
 tittle = 'round'
 diacritic-line = 'horizontal-terminal'
 
@@ -1152,11 +1154,13 @@ armn-yi-bar = 'top-center-serifed'
 armn-za = 'top-right-motion-serifed'
 armn-zhe = 'top-right-motion-serifed'
 
-braille-dot = 'diamond'
-diacritic-dot = 'square'
-diacritic-comma = 'tick'
+# PUNCTUATION AND SYMBOLS
+
+braille-dot = 'square'
+diacritic-dot = 'hexagon'
+diacritic-comma = 'bottom-cut'
 punctuation-dot = 'diamond'
-punctuation-comma = 'prime'
+punctuation-comma = 'corner'
 tittle = 'round'
 diacritic-line = 'horizontal-terminal'
 
@@ -1180,12 +1184,12 @@ question = 'corner'
 section = 'flat-hooked'
 underscore = 'above-baseline'
 tilde = 'compact-low'
-ampersand = 'flat-top-corner-hooked-serifed'
+ampersand = 'upper-open-et-corner-hooked-flat-bottom'
 micro-sign = 'flat-bottom-motion-serifed'
 sterling = 'serifed-inward-serifed'
 
 glottal-stop = 'smooth-flat-hooked'
-partial-derivative = 'straight-bar'
+partial-derivative = 'closed-contour'
 lig-ltgteq = 'slanted'
 lig-neq = 'more-slanted-dotted'
 lig-equal-chain = 'with-notch'
