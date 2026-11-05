@@ -1678,6 +1678,8 @@
   inverse-connected-top-right-middle-serifed
   inverse-connected-top-right-outer-serifed
   inverse-connected-tri-serifed
+  rounded-bilateral-top-serifed
+  rounded-bottom-right-serifed
   rounded-connected-bilateral-top-serifed
   rounded-connected-bottom-right-serifed
   rounded-connected-full-serifed
@@ -1695,6 +1697,21 @@
   rounded-connected-top-right-middle-serifed
   rounded-connected-top-right-outer-serifed
   rounded-connected-tri-serifed
+  rounded-full-serifed
+  rounded-serifed
+  rounded-serifless
+  rounded-top-left-and-bottom-right-serifed
+  rounded-top-left-and-top-right-inner-and-bottom-right-serifed
+  rounded-top-left-and-top-right-inner-serifed
+  rounded-top-left-and-top-right-middle-and-bottom-right-serifed
+  rounded-top-left-and-top-right-middle-serifed
+  rounded-top-left-serifed
+  rounded-top-right-inner-and-bottom-right-serifed
+  rounded-top-right-inner-serifed
+  rounded-top-right-middle-and-bottom-right-serifed
+  rounded-top-right-middle-serifed
+  rounded-top-right-outer-serifed
+  rounded-tri-serifed
   straight-bilateral-top-serifed
   straight-bottom-right-serifed
   straight-full-serifed
@@ -1779,6 +1796,11 @@
   triangle-bottom-serifless
   triangle-bottom-top-right-motion-serifed
 
+[capital-latin-upsilon] tag=cv42 sampler="Ʊʊ"
+  disjoint
+  disjoint-serifed
+  serifless
+
 [capital-m] tag=cv44 sampler="M"
   almost-flat-bottom-motion-serifed
   almost-flat-bottom-serifed
@@ -1849,6 +1871,7 @@
 [capital-omega] tag=cv50 sampler="Ω"
   disjoint
   disjoint-serifed
+  serifed
   serifless
 
 [capital-p] tag=cv51 sampler="P"
@@ -2173,6 +2196,13 @@
   hshaped-serifless
   hshaped-top-right-motion-serifed
   hshaped-unilateral-motion-serifed
+  rounded-bilateral-motion-serifed
+  rounded-bilateral-top-motion-serifed
+  rounded-chancery
+  rounded-serifed
+  rounded-serifless
+  rounded-top-right-motion-serifed
+  rounded-unilateral-motion-serifed
   straight-bilateral-motion-serifed
   straight-bilateral-top-motion-serifed
   straight-serifed
@@ -2203,7 +2233,7 @@
   serifless
   top-bottom-serifed
 
-[capital-y] tag=cv81 sampler="YҮү"
+[capital-y] tag=cv81 sampler="Y"
   curly-base-bilateral-motion-serifed
   curly-base-motion-serifed
   curly-base-serifed
@@ -2213,6 +2243,15 @@
   curly-serifed
   curly-serifless
   curly-top-right-motion-serifed
+  rounded-base-bilateral-motion-serifed
+  rounded-base-motion-serifed
+  rounded-base-serifed
+  rounded-base-top-right-motion-serifed
+  rounded-bilateral-motion-serifed
+  rounded-motion-serifed
+  rounded-serifed
+  rounded-serifless
+  rounded-top-right-motion-serifed
   straight-base-bilateral-motion-serifed
   straight-base-motion-serifed
   straight-base-serifed
@@ -2465,6 +2504,9 @@
   inverse-connected-top-right-middle-serifed
   inverse-connected-top-right-outer-serifed
   inverse-connected-tri-serifed
+  rounded-bilateral-serifed
+  rounded-bilateral-top-serifed
+  rounded-bottom-right-serifed
   rounded-connected-bilateral-serifed
   rounded-connected-bilateral-top-serifed
   rounded-connected-bottom-right-serifed
@@ -2482,6 +2524,20 @@
   rounded-connected-top-right-middle-serifed
   rounded-connected-top-right-outer-serifed
   rounded-connected-tri-serifed
+  rounded-serifed
+  rounded-serifless
+  rounded-top-left-and-bottom-right-serifed
+  rounded-top-left-and-top-right-inner-and-bottom-right-serifed
+  rounded-top-left-and-top-right-inner-serifed
+  rounded-top-left-and-top-right-middle-and-bottom-right-serifed
+  rounded-top-left-and-top-right-middle-serifed
+  rounded-top-left-serifed
+  rounded-top-right-inner-and-bottom-right-serifed
+  rounded-top-right-inner-serifed
+  rounded-top-right-middle-and-bottom-right-serifed
+  rounded-top-right-middle-serifed
+  rounded-top-right-outer-serifed
+  rounded-tri-serifed
   straight-bilateral-serifed
   straight-bilateral-top-serifed
   straight-bottom-right-serifed
@@ -2633,6 +2689,35 @@
   straight-turn-serifed
   straight-turn-serifless
   straight-turn-top-right-motion-serifed
+
+[cyrl-capital-ue] tag=VXFQ sampler="ҮҰ"
+  curly-base-bilateral-motion-serifed
+  curly-base-motion-serifed
+  curly-base-serifed
+  curly-base-top-right-motion-serifed
+  curly-bilateral-motion-serifed
+  curly-motion-serifed
+  curly-serifed
+  curly-serifless
+  curly-top-right-motion-serifed
+  rounded-base-bilateral-motion-serifed
+  rounded-base-motion-serifed
+  rounded-base-serifed
+  rounded-base-top-right-motion-serifed
+  rounded-bilateral-motion-serifed
+  rounded-motion-serifed
+  rounded-serifed
+  rounded-serifless
+  rounded-top-right-motion-serifed
+  straight-base-bilateral-motion-serifed
+  straight-base-motion-serifed
+  straight-base-serifed
+  straight-base-top-right-motion-serifed
+  straight-bilateral-motion-serifed
+  straight-motion-serifed
+  straight-serifed
+  straight-serifless
+  straight-top-right-motion-serifed
 
 [cyrl-capital-ya] tag=VXCR sampler="Я"
   curly-bilateral-motion-serifed
@@ -3079,6 +3164,9 @@
   inverse-connected-top-right-middle-serifed
   inverse-connected-top-right-outer-serifed
   inverse-connected-tri-serifed
+  rounded-bilateral-serifed
+  rounded-bilateral-top-serifed
+  rounded-bottom-right-serifed
   rounded-connected-bilateral-serifed
   rounded-connected-bilateral-top-serifed
   rounded-connected-bottom-right-serifed
@@ -3096,6 +3184,20 @@
   rounded-connected-top-right-middle-serifed
   rounded-connected-top-right-outer-serifed
   rounded-connected-tri-serifed
+  rounded-serifed
+  rounded-serifless
+  rounded-top-left-and-bottom-right-serifed
+  rounded-top-left-and-top-right-inner-and-bottom-right-serifed
+  rounded-top-left-and-top-right-inner-serifed
+  rounded-top-left-and-top-right-middle-and-bottom-right-serifed
+  rounded-top-left-and-top-right-middle-serifed
+  rounded-top-left-serifed
+  rounded-top-right-inner-and-bottom-right-serifed
+  rounded-top-right-inner-serifed
+  rounded-top-right-middle-and-bottom-right-serifed
+  rounded-top-right-middle-serifed
+  rounded-top-right-outer-serifed
+  rounded-tri-serifed
   straight-bilateral-serifed
   straight-bilateral-top-serifed
   straight-bottom-right-serifed
@@ -3454,6 +3556,35 @@
   straight-turn-serifless
   straight-turn-top-right-motion-serifed
 
+[cyrl-ue] tag=VXFR sampler="үұ"
+  curly-base-bilateral-motion-serifed
+  curly-base-motion-serifed
+  curly-base-serifed
+  curly-base-top-right-motion-serifed
+  curly-bilateral-motion-serifed
+  curly-motion-serifed
+  curly-serifed
+  curly-serifless
+  curly-top-right-motion-serifed
+  rounded-base-bilateral-motion-serifed
+  rounded-base-motion-serifed
+  rounded-base-serifed
+  rounded-base-top-right-motion-serifed
+  rounded-bilateral-motion-serifed
+  rounded-motion-serifed
+  rounded-serifed
+  rounded-serifless
+  rounded-top-right-motion-serifed
+  straight-base-bilateral-motion-serifed
+  straight-base-motion-serifed
+  straight-base-serifed
+  straight-base-top-right-motion-serifed
+  straight-bilateral-motion-serifed
+  straight-motion-serifed
+  straight-serifed
+  straight-serifless
+  straight-top-right-motion-serifed
+
 [cyrl-ve] tag=VXCQ sampler="в"
   cursive
   cursive-interrupted
@@ -3696,100 +3827,6 @@
 [ellipsis-density] tag=VXAW sampler="…"
   dense
   normal
-
-[eszet] tag=cv23 sampler="ß"
-  longs-s-lig-bottom-serifed
-  longs-s-lig-descending-middle-serifed
-  longs-s-lig-descending-middle-serifed-half-ascender
-  longs-s-lig-descending-middle-serifed-xh
-  longs-s-lig-descending-serifless
-  longs-s-lig-diagonal-tailed-middle-serifed
-  longs-s-lig-diagonal-tailed-middle-serifed-half-ascender
-  longs-s-lig-diagonal-tailed-middle-serifed-xh
-  longs-s-lig-diagonal-tailed-serifless
-  longs-s-lig-dual-serifed
-  longs-s-lig-dual-serifed-half-ascender
-  longs-s-lig-dual-serifed-xh
-  longs-s-lig-middle-serifed
-  longs-s-lig-middle-serifed-half-ascender
-  longs-s-lig-middle-serifed-xh
-  longs-s-lig-serifless
-  longs-s-lig-tailed-middle-serifed
-  longs-s-lig-tailed-middle-serifed-half-ascender
-  longs-s-lig-tailed-middle-serifed-xh
-  longs-s-lig-tailed-serifless
-  sulzbacher-bottom-serifed
-  sulzbacher-descending-middle-serifed
-  sulzbacher-descending-middle-serifed-half-ascender
-  sulzbacher-descending-middle-serifed-xh
-  sulzbacher-descending-serifless
-  sulzbacher-diagonal-tailed-middle-serifed
-  sulzbacher-diagonal-tailed-middle-serifed-half-ascender
-  sulzbacher-diagonal-tailed-middle-serifed-xh
-  sulzbacher-diagonal-tailed-serifless
-  sulzbacher-dual-serifed
-  sulzbacher-dual-serifed-half-ascender
-  sulzbacher-dual-serifed-xh
-  sulzbacher-middle-serifed
-  sulzbacher-middle-serifed-half-ascender
-  sulzbacher-middle-serifed-xh
-  sulzbacher-serifless
-  sulzbacher-tailed-middle-serifed
-  sulzbacher-tailed-middle-serifed-half-ascender
-  sulzbacher-tailed-middle-serifed-xh
-  sulzbacher-tailed-serifless
-  traditional-bottom-serifed
-  traditional-corner-hooked-bottom-serifed
-  traditional-corner-hooked-descending-middle-serifed
-  traditional-corner-hooked-descending-serifless
-  traditional-corner-hooked-diagonal-tailed-middle-serifed
-  traditional-corner-hooked-diagonal-tailed-serifless
-  traditional-corner-hooked-dual-serifed
-  traditional-corner-hooked-middle-serifed
-  traditional-corner-hooked-serifless
-  traditional-corner-hooked-tailed-middle-serifed
-  traditional-corner-hooked-tailed-serifless
-  traditional-descending-middle-serifed
-  traditional-descending-serifless
-  traditional-diagonal-tailed-middle-serifed
-  traditional-diagonal-tailed-serifless
-  traditional-dual-serifed
-  traditional-flat-hooked-bottom-serifed
-  traditional-flat-hooked-descending-middle-serifed
-  traditional-flat-hooked-descending-serifless
-  traditional-flat-hooked-diagonal-tailed-middle-serifed
-  traditional-flat-hooked-diagonal-tailed-serifless
-  traditional-flat-hooked-dual-serifed
-  traditional-flat-hooked-middle-serifed
-  traditional-flat-hooked-serifless
-  traditional-flat-hooked-tailed-middle-serifed
-  traditional-flat-hooked-tailed-serifless
-  traditional-middle-serifed
-  traditional-serifless
-  traditional-tailed-middle-serifed
-  traditional-tailed-serifless
-
-[ezh] tag=VXFP sampler="ʒƹƺʓꝣ"
-  cursive-corner-hooked-serifless
-  cursive-corner-hooked-top-serifed
-  cursive-flat-hooked-serifless
-  cursive-flat-hooked-top-serifed
-  cursive-inward-serifed-serifless
-  cursive-inward-serifed-top-serifed
-  cursive-serifed-serifless
-  cursive-serifed-top-serifed
-  cursive-serifless-serifless
-  cursive-serifless-top-serifed
-  straight-corner-hooked-serifless
-  straight-corner-hooked-top-serifed
-  straight-flat-hooked-serifless
-  straight-flat-hooked-top-serifed
-  straight-inward-serifed-serifless
-  straight-inward-serifed-top-serifed
-  straight-serifed-serifless
-  straight-serifed-top-serifed
-  straight-serifless-serifless
-  straight-serifless-top-serifed
 
 [f] tag=cv26 sampler="f"
   corner-hooked-diagonal-tailed
@@ -4378,6 +4415,9 @@
   inverse-connected-top-right-middle-serifed
   inverse-connected-top-right-outer-serifed
   inverse-connected-tri-serifed
+  rounded-bilateral-serifed
+  rounded-bilateral-top-serifed
+  rounded-bottom-right-serifed
   rounded-connected-bilateral-serifed
   rounded-connected-bilateral-top-serifed
   rounded-connected-bottom-right-serifed
@@ -4396,6 +4436,21 @@
   rounded-connected-top-right-middle-serifed
   rounded-connected-top-right-outer-serifed
   rounded-connected-tri-serifed
+  rounded-full-serifed
+  rounded-serifed
+  rounded-serifless
+  rounded-top-left-and-bottom-right-serifed
+  rounded-top-left-and-top-right-inner-and-bottom-right-serifed
+  rounded-top-left-and-top-right-inner-serifed
+  rounded-top-left-and-top-right-middle-and-bottom-right-serifed
+  rounded-top-left-and-top-right-middle-serifed
+  rounded-top-left-serifed
+  rounded-top-right-inner-and-bottom-right-serifed
+  rounded-top-right-inner-serifed
+  rounded-top-right-middle-and-bottom-right-serifed
+  rounded-top-right-middle-serifed
+  rounded-top-right-outer-serifed
+  rounded-tri-serifed
   straight-bilateral-serifed
   straight-bilateral-top-serifed
   straight-bottom-right-serifed
@@ -4580,11 +4635,6 @@
   serifless
   top-right-motion-serifed
 
-[latin-upsilon] tag=cv42 sampler="Ʊʊ"
-  disjoint
-  disjoint-serifed
-  serifless
-
 [less-greater] tag= sampler="<>≤≥"
   diagonal-terminal
   vertical-terminal
@@ -4754,6 +4804,78 @@
   toothless-corner
   toothless-rounded
 
+[lower-eszet] tag=cv23 sampler="ß"
+  longs-s-lig-bottom-serifed
+  longs-s-lig-descending-middle-serifed
+  longs-s-lig-descending-middle-serifed-half-ascender
+  longs-s-lig-descending-middle-serifed-xh
+  longs-s-lig-descending-serifless
+  longs-s-lig-diagonal-tailed-middle-serifed
+  longs-s-lig-diagonal-tailed-middle-serifed-half-ascender
+  longs-s-lig-diagonal-tailed-middle-serifed-xh
+  longs-s-lig-diagonal-tailed-serifless
+  longs-s-lig-dual-serifed
+  longs-s-lig-dual-serifed-half-ascender
+  longs-s-lig-dual-serifed-xh
+  longs-s-lig-middle-serifed
+  longs-s-lig-middle-serifed-half-ascender
+  longs-s-lig-middle-serifed-xh
+  longs-s-lig-serifless
+  longs-s-lig-tailed-middle-serifed
+  longs-s-lig-tailed-middle-serifed-half-ascender
+  longs-s-lig-tailed-middle-serifed-xh
+  longs-s-lig-tailed-serifless
+  sulzbacher-bottom-serifed
+  sulzbacher-descending-middle-serifed
+  sulzbacher-descending-middle-serifed-half-ascender
+  sulzbacher-descending-middle-serifed-xh
+  sulzbacher-descending-serifless
+  sulzbacher-diagonal-tailed-middle-serifed
+  sulzbacher-diagonal-tailed-middle-serifed-half-ascender
+  sulzbacher-diagonal-tailed-middle-serifed-xh
+  sulzbacher-diagonal-tailed-serifless
+  sulzbacher-dual-serifed
+  sulzbacher-dual-serifed-half-ascender
+  sulzbacher-dual-serifed-xh
+  sulzbacher-middle-serifed
+  sulzbacher-middle-serifed-half-ascender
+  sulzbacher-middle-serifed-xh
+  sulzbacher-serifless
+  sulzbacher-tailed-middle-serifed
+  sulzbacher-tailed-middle-serifed-half-ascender
+  sulzbacher-tailed-middle-serifed-xh
+  sulzbacher-tailed-serifless
+  traditional-bottom-serifed
+  traditional-corner-hooked-bottom-serifed
+  traditional-corner-hooked-descending-middle-serifed
+  traditional-corner-hooked-descending-serifless
+  traditional-corner-hooked-diagonal-tailed-middle-serifed
+  traditional-corner-hooked-diagonal-tailed-serifless
+  traditional-corner-hooked-dual-serifed
+  traditional-corner-hooked-middle-serifed
+  traditional-corner-hooked-serifless
+  traditional-corner-hooked-tailed-middle-serifed
+  traditional-corner-hooked-tailed-serifless
+  traditional-descending-middle-serifed
+  traditional-descending-serifless
+  traditional-diagonal-tailed-middle-serifed
+  traditional-diagonal-tailed-serifless
+  traditional-dual-serifed
+  traditional-flat-hooked-bottom-serifed
+  traditional-flat-hooked-descending-middle-serifed
+  traditional-flat-hooked-descending-serifless
+  traditional-flat-hooked-diagonal-tailed-middle-serifed
+  traditional-flat-hooked-diagonal-tailed-serifless
+  traditional-flat-hooked-dual-serifed
+  traditional-flat-hooked-middle-serifed
+  traditional-flat-hooked-serifless
+  traditional-flat-hooked-tailed-middle-serifed
+  traditional-flat-hooked-tailed-serifless
+  traditional-middle-serifed
+  traditional-serifless
+  traditional-tailed-middle-serifed
+  traditional-tailed-serifless
+
 [lower-eta] tag=cv90 sampler="η"
   earless-corner-serifed
   earless-corner-serifless
@@ -4769,6 +4891,28 @@
 [lower-eth] tag=cv24 sampler="ð"
   curly-bar
   straight-bar
+
+[lower-ezh] tag=VXFP sampler="ʒƹƺʓꝣ"
+  cursive-corner-hooked-serifless
+  cursive-corner-hooked-top-serifed
+  cursive-flat-hooked-serifless
+  cursive-flat-hooked-top-serifed
+  cursive-inward-serifed-serifless
+  cursive-inward-serifed-top-serifed
+  cursive-serifed-serifless
+  cursive-serifed-top-serifed
+  cursive-serifless-serifless
+  cursive-serifless-top-serifed
+  straight-corner-hooked-serifless
+  straight-corner-hooked-top-serifed
+  straight-flat-hooked-serifless
+  straight-flat-hooked-top-serifed
+  straight-inward-serifed-serifless
+  straight-inward-serifed-top-serifed
+  straight-serifed-serifless
+  straight-serifed-top-serifed
+  straight-serifless-serifless
+  straight-serifless-top-serifed
 
 [lower-final-sigma] tag=cv91 sampler="ςϛ"
   corner-hooked-curly-tail
@@ -5074,7 +5218,7 @@
   diagonal-crossbar-falling
   standard
 
-[lower-omega] tag=VXCZ sampler="ωϖɷꞷ𝽵𝽷𝽠"
+[lower-omega] tag=VXCZ sampler="ωϖꞶꞷ꟝ɷ𝽴𝽵𝽶𝽷𝽠"
   almost-flat-top
   broad
   broad-almost-flat-top
@@ -5117,9 +5261,31 @@
   shorter-neck-serifed
   shorter-neck-serifless
 
+[lower-qoppa] tag=cv58 sampler="ϙ"
+  base-serifed
+  serifless
+
 [lower-rho] tag=VXBH sampler="ρ"
   arched
   flat
+
+[lower-schwa] tag=cv64 sampler="ə"
+  diagonal-crossbar
+  diagonal-crossbar-corner-hooked
+  diagonal-crossbar-falling
+  diagonal-crossbar-falling-corner-hooked
+  diagonal-crossbar-falling-flat-hooked
+  diagonal-crossbar-falling-serif
+  diagonal-crossbar-flat-hooked
+  diagonal-crossbar-serif
+  flat-crossbar
+  flat-crossbar-corner-hooked
+  flat-crossbar-flat-hooked
+  flat-crossbar-serif
+  rounded
+  rounded-corner-hooked
+  rounded-flat-hooked
+  rounded-serif
 
 [lower-sigma] tag=cv66 sampler="σ"
   rounded
@@ -5513,10 +5679,6 @@
   top-cut-straight-serifless
   top-cut-tailed-serifless
 
-[qoppa] tag=cv58 sampler="ϙ"
-  base-serifed
-  serifless
-
 [question] tag=VXAR sampler="?"
   corner
   corner-corner-hooked
@@ -5650,24 +5812,6 @@
   unilateral-serifed
   unilateral-serifed-corner-hooked
   unilateral-serifed-flat-hooked
-
-[schwa] tag=cv64 sampler="ə"
-  diagonal-crossbar
-  diagonal-crossbar-corner-hooked
-  diagonal-crossbar-falling
-  diagonal-crossbar-falling-corner-hooked
-  diagonal-crossbar-falling-flat-hooked
-  diagonal-crossbar-falling-serif
-  diagonal-crossbar-flat-hooked
-  diagonal-crossbar-serif
-  flat-crossbar
-  flat-crossbar-corner-hooked
-  flat-crossbar-flat-hooked
-  flat-crossbar-serif
-  rounded
-  rounded-corner-hooked
-  rounded-flat-hooked
-  rounded-serif
 
 [section] tag=VXAS sampler="§"
   corner-hooked
@@ -6070,6 +6214,13 @@
   hshaped-serifless
   hshaped-top-right-motion-serifed
   hshaped-unilateral-motion-serifed
+  rounded-bilateral-motion-serifed
+  rounded-bilateral-top-motion-serifed
+  rounded-chancery
+  rounded-serifed
+  rounded-serifless
+  rounded-top-right-motion-serifed
+  rounded-unilateral-motion-serifed
   semi-chancery-curly-serifed
   semi-chancery-curly-serifless
   semi-chancery-straight-serifed
