@@ -239,10 +239,10 @@ armn-zhe = 'top-right-motion-serifed'
 
 # PUNCTUATION AND SYMBOLS
 
-braille-dot = 'square'
+braille-dot = 'diamond'
 diacritic-dot = 'hexagon'
 diacritic-comma = 'bottom-cut'
-punctuation-dot = 'diamond'
+punctuation-dot = 'square'
 punctuation-comma = 'corner'
 tittle = 'round'
 diacritic-line = 'horizontal-terminal'
@@ -516,10 +516,10 @@ armn-zhe = 'top-right-motion-serifed'
 
 # PUNCTUATION AND SYMBOLS
 
-braille-dot = 'square'
+braille-dot = 'diamond'
 diacritic-dot = 'hexagon'
 diacritic-comma = 'bottom-cut'
-punctuation-dot = 'diamond'
+punctuation-dot = 'square'
 punctuation-comma = 'corner'
 tittle = 'round'
 diacritic-line = 'horizontal-terminal'
@@ -879,10 +879,10 @@ armn-zhe = 'top-right-motion-serifed'
 
 # PUNCTUATION AND SYMBOLS
 
-braille-dot = 'square'
+braille-dot = 'diamond'
 diacritic-dot = 'hexagon'
 diacritic-comma = 'bottom-cut'
-punctuation-dot = 'diamond'
+punctuation-dot = 'square'
 punctuation-comma = 'corner'
 tittle = 'round'
 diacritic-line = 'horizontal-terminal'
@@ -1156,10 +1156,10 @@ armn-zhe = 'top-right-motion-serifed'
 
 # PUNCTUATION AND SYMBOLS
 
-braille-dot = 'square'
+braille-dot = 'diamond'
 diacritic-dot = 'hexagon'
 diacritic-comma = 'bottom-cut'
-punctuation-dot = 'diamond'
+punctuation-dot = 'square'
 punctuation-comma = 'corner'
 tittle = 'round'
 diacritic-line = 'horizontal-terminal'
