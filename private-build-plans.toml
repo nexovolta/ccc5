@@ -6,6 +6,7 @@ noCvSs = true
 exportGlyphNames = true
 
 [buildPlans.Nexsevka.variants.design]
+
 # DIGITS
 
 zero = 'diamond-broken-reverse-slash'
@@ -49,11 +50,11 @@ capital-z = 'straight-serifed-with-crossbar'
 
 capital-schwa = 'diagonal-crossbar-falling-corner-hooked'
 capital-o-bar = 'diagonal-crossbar-falling'
-capital-latin-upsilon = 'serifed'
-capital-latin-gamma = 'triangle-bottom-top-right-motion-serifed'
 capital-ezh = 'straight-corner-hooked-top-serifed'
 capital-eszet = 'corner-motion-serifed'
 capital-thorn = 'open-motion-serifed'
+capital-latin-gamma = 'triangle-bottom-top-right-motion-serifed'
+capital-latin-upsilon = 'serifed'
 
 a = 'double-storey-hook-flat-bottom-cut-serifless-curved-bar-rising'
 b = 'toothless-corner-serifed'
@@ -89,6 +90,8 @@ lower-ezh = 'cursive-corner-hooked-serifless'
 lower-eth = 'straight-bar'
 lower-thorn = 'flat-bottom-motion-serifed'
 lower-eszet = 'traditional-flat-hooked-middle-serifed'
+latin-gamma = 'bilateral-motion-serifed'
+latin-upsilon = 'serifless'
 
 # GREEK
 
@@ -107,7 +110,6 @@ capital-qoppa = 'serifless'
 lower-alpha = 'crossing'
 lower-beta = 'cursive'
 lower-gamma = 'straight-serifed'
-latin-gamma = 'bilateral-motion-serifed'
 lower-delta = 'flat-top'
 lower-eta = 'motion-serifed'
 lower-theta = 'diamond'
@@ -368,6 +370,8 @@ lower-ezh = 'cursive-corner-hooked-serifless'
 lower-eth = 'straight-bar'
 lower-thorn = 'flat-bottom-motion-serifed'
 lower-eszet = 'traditional-flat-hooked-middle-serifed'
+latin-gamma = 'bilateral-motion-serifed'
+latin-upsilon = 'serifless'
 
 # GREEK
 
@@ -650,6 +654,7 @@ noCvSs = true
 exportGlyphNames = true
 
 [buildPlans.NexsevkaPropo.variants.design]
+
 # DIGITS
 
 zero = 'diamond-broken-reverse-slash'
@@ -693,11 +698,11 @@ capital-z = 'straight-serifed-with-crossbar'
 
 capital-schwa = 'diagonal-crossbar-falling-corner-hooked'
 capital-o-bar = 'diagonal-crossbar-falling'
-capital-latin-upsilon = 'serifed'
-capital-latin-gamma = 'triangle-bottom-top-right-motion-serifed'
 capital-ezh = 'straight-corner-hooked-top-serifed'
 capital-eszet = 'corner-motion-serifed'
 capital-thorn = 'open-motion-serifed'
+capital-latin-gamma = 'triangle-bottom-top-right-motion-serifed'
+capital-latin-upsilon = 'serifed'
 
 a = 'double-storey-hook-flat-bottom-cut-serifless-curved-bar-rising'
 b = 'toothless-corner-serifed'
@@ -733,6 +738,8 @@ lower-ezh = 'cursive-corner-hooked-serifless'
 lower-eth = 'straight-bar'
 lower-thorn = 'flat-bottom-motion-serifed'
 lower-eszet = 'traditional-flat-hooked-middle-serifed'
+latin-gamma = 'bilateral-motion-serifed'
+latin-upsilon = 'serifless'
 
 # GREEK
 
@@ -751,7 +758,6 @@ capital-qoppa = 'serifless'
 lower-alpha = 'crossing'
 lower-beta = 'cursive'
 lower-gamma = 'straight-serifed'
-latin-gamma = 'bilateral-motion-serifed'
 lower-delta = 'flat-top'
 lower-eta = 'motion-serifed'
 lower-theta = 'diamond'
@@ -1012,6 +1018,8 @@ lower-ezh = 'cursive-corner-hooked-serifless'
 lower-eth = 'straight-bar'
 lower-thorn = 'flat-bottom-motion-serifed'
 lower-eszet = 'traditional-flat-hooked-middle-serifed'
+latin-gamma = 'bilateral-motion-serifed'
+latin-upsilon = 'serifless'
 
 # GREEK
 

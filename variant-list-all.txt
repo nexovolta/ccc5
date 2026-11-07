@@ -278,7 +278,7 @@
   enable
   none
 
-[armn-ayb] tag=VXEF sampler="ա"
+[armn-ayb] tag=VXEG sampler="ա"
   bottom-right-motion-serifed
   serifed
   serifless
@@ -317,7 +317,7 @@
   top-right-motion-serifed
   top-right-serifed
 
-[armn-ben] tag=VXEG sampler="բ"
+[armn-ben] tag=VXEH sampler="բ"
   bottom-left-motion-serifed
   bottom-left-serifed
   serifed
@@ -326,7 +326,7 @@
   top-left-motion-bottom-left-serifed
   top-left-motion-serifed
 
-[armn-capital-ayb] tag=VXDC sampler="Ա"
+[armn-capital-ayb] tag=VXDD sampler="Ա"
   serifed
   serifless
   top-left-motion-serifed
@@ -338,25 +338,25 @@
   top-right-motion-serifed
   top-right-serifed
 
-[armn-capital-ben] tag=VXDD sampler="Բ"
+[armn-capital-ben] tag=VXDE sampler="Բ"
   bottom-left-motion-serifed
   bottom-left-serifed
   serifed
   serifless
 
-[armn-capital-da] tag=VXDF sampler="Դ"
+[armn-capital-da] tag=VXDG sampler="Դ"
   bottom-right-motion-serifed
   bottom-right-serifed
   serifed
   serifless
 
-[armn-capital-ech] tag=VXDG sampler="Ե"
+[armn-capital-ech] tag=VXDH sampler="Ե"
   serifed
   serifless
   top-left-motion-serifed
   top-left-serifed
 
-[armn-capital-eh] tag=VXDH sampler="Է"
+[armn-capital-eh] tag=VXDI sampler="Է"
   bottom-left-motion-serifed
   serifed
   serifless
@@ -365,29 +365,29 @@
   top-left-motion-serifed
   top-left-serifed
 
-[armn-capital-et] tag=VXDI sampler="Ը"
+[armn-capital-et] tag=VXDJ sampler="Ը"
   bottom-left-motion-serifed
   serifed
   serifless
 
-[armn-capital-feh] tag=VXED sampler="Ֆ"
+[armn-capital-feh] tag=VXEE sampler="Ֆ"
   serifed
   serifless
   top-center-motion-serifed
 
-[armn-capital-ghat] tag=VXDQ sampler="Ղ"
+[armn-capital-ghat] tag=VXDR sampler="Ղ"
   bottom-right-motion-serifed
   bottom-right-serifed
   serifed
   serifless
 
-[armn-capital-gim] tag=VXDE sampler="Գ"
+[armn-capital-gim] tag=VXDF sampler="Գ"
   bottom-right-motion-serifed
   bottom-right-serifed
   serifed
   serifless
 
-[armn-capital-hiun] tag=VXEA sampler="Ւ"
+[armn-capital-hiun] tag=VXEB sampler="Ւ"
   bottom-left-motion-serifed
   bottom-left-serifed
   serifed
@@ -399,13 +399,13 @@
   top-left-motion-serifed
   top-left-serifed
 
-[armn-capital-ho] tag=VXDP sampler="Հ"
+[armn-capital-ho] tag=VXDQ sampler="Հ"
   bottom-right-motion-serifed
   bottom-right-serifed
   serifed
   serifless
 
-[armn-capital-ini] tag=VXDL sampler="Ի"
+[armn-capital-ini] tag=VXDM sampler="Ի"
   bottom-left-bottom-right-motion-serifed
   bottom-left-bottom-right-serifed
   bottom-left-motion-bottom-right-motion-serifed
@@ -435,13 +435,13 @@
   top-left-motion-serifed
   top-left-serifed
 
-[armn-capital-keh] tag=VXEC sampler="Ք"
+[armn-capital-keh] tag=VXED sampler="Ք"
   bottom-left-motion-serifed
   bottom-left-serifed
   serifed
   serifless
 
-[armn-capital-ken] tag=VXDO sampler="Կ"
+[armn-capital-ken] tag=VXDP sampler="Կ"
   bottom-right-motion-serifed
   bottom-right-serifed
   serifed
@@ -471,7 +471,7 @@
   top-right-motion-serifed
   top-right-serifed
 
-[armn-capital-liun] tag=VXDM sampler="Լ"
+[armn-capital-liun] tag=VXDN sampler="Լ"
   bottom-left-motion-serifed
   serifed
   serifless
@@ -480,7 +480,7 @@
   top-left-motion-serifed
   top-left-serifed
 
-[armn-capital-men] tag=VXDR sampler="Մ"
+[armn-capital-men] tag=VXDS sampler="Մ"
   serifed
   serifless
   top-left-motion-serifed
@@ -492,32 +492,32 @@
   top-right-motion-serifed
   top-right-serifed
 
-[armn-capital-nu] tag=VXDT sampler="Ն"
+[armn-capital-nu] tag=VXDU sampler="Ն"
   serifed
   serifless
   top-left-motion-serifed
   top-left-serifed
 
-[armn-capital-peh] tag=VXDV sampler="Պ"
+[armn-capital-peh] tag=VXDW sampler="Պ"
   bottom-right-motion-serifed
   bottom-right-serifed
   serifed
   serifless
 
-[armn-capital-piur] tag=VXEB sampler="Փ"
+[armn-capital-piur] tag=VXEC sampler="Փ"
   bottom-center-serifed
   serifed
   serifless
   top-center-bottom-center-serifed
   top-center-serifed
 
-[armn-capital-reh] tag=VXDZ sampler="Ր"
+[armn-capital-reh] tag=VXEA sampler="Ր"
   bottom-left-motion-serifed
   bottom-left-serifed
   serifed
   serifless
 
-[armn-capital-rra] tag=VXDW sampler="Ռ"
+[armn-capital-rra] tag=VXDX sampler="Ռ"
   bottom-left-bottom-right-motion-serifed
   bottom-left-bottom-right-serifed
   bottom-left-motion-bottom-right-motion-serifed
@@ -529,7 +529,7 @@
   serifed
   serifless
 
-[armn-capital-seh] tag=VXDX sampler="Ս"
+[armn-capital-seh] tag=VXDY sampler="Ս"
   serifed
   serifless
   top-left-motion-serifed
@@ -541,13 +541,13 @@
   top-right-motion-serifed
   top-right-serifed
 
-[armn-capital-to] tag=VXDJ sampler="Թ"
+[armn-capital-to] tag=VXDK sampler="Թ"
   bottom-left-motion-serifed
   bottom-left-serifed
   serifed
   serifless
 
-[armn-capital-vew] tag=VXDY sampler="Վ"
+[armn-capital-vew] tag=VXDZ sampler="Վ"
   bottom-right-motion-serifed
   bottom-right-serifed
   serifed
@@ -577,7 +577,7 @@
   top-right-motion-serifed
   top-right-serifed
 
-[armn-capital-vo] tag=VXDU sampler="Ո"
+[armn-capital-vo] tag=VXDV sampler="Ո"
   bottom-left-bottom-right-motion-serifed
   bottom-left-bottom-right-serifed
   bottom-left-motion-bottom-right-motion-serifed
@@ -589,7 +589,7 @@
   serifed
   serifless
 
-[armn-capital-xeh] tag=VXDN sampler="Խ"
+[armn-capital-xeh] tag=VXDO sampler="Խ"
   bottom-left-motion-serifed
   bottom-left-serifed
   serifed
@@ -646,29 +646,29 @@
   top-right-motion-serifed
   top-right-serifed
 
-[armn-capital-yi] tag=VXDS sampler="Յ"
+[armn-capital-yi] tag=VXDT sampler="Յ"
   middle-left-serifed
   serifed
   serifless
 
-[armn-capital-zhe] tag=VXDK sampler="Ժ"
+[armn-capital-zhe] tag=VXDL sampler="Ժ"
   serifed
   serifless
   top-right-motion-serifed
   top-right-serifed
 
-[armn-cheh] tag=VXEW sampler="ճ"
+[armn-cheh] tag=VXEX sampler="ճ"
   bottom-right-motion-serifed
   bottom-right-serifed
   serifed
   serifless
 
-[armn-co] tag=VXFH sampler="ց"
+[armn-co] tag=VXFI sampler="ց"
   serifed
   serifless
   top-right-motion-serifed
 
-[armn-da] tag=VXEI sampler="դ"
+[armn-da] tag=VXEJ sampler="դ"
   bottom-left-bottom-right-motion-serifed
   bottom-left-bottom-right-serifed
   bottom-left-motion-bottom-right-motion-serifed
@@ -689,13 +689,13 @@
   top-left-motion-bottom-right-serifed
   top-left-motion-serifed
 
-[armn-dza] tag=VXEU sampler="ձ"
+[armn-dza] tag=VXEV sampler="ձ"
   bottom-right-motion-serifed
   bottom-right-serifed
   serifed
   serifless
 
-[armn-ech] tag=VXEJ sampler="ե"
+[armn-ech] tag=VXEK sampler="ե"
   bottom-right-motion-serifed
   serifed
   serifless
@@ -704,7 +704,7 @@
   top-left-motion-serifed
   top-left-serifed
 
-[armn-eh] tag=VXEL sampler="է"
+[armn-eh] tag=VXEM sampler="է"
   bottom-left-motion-serifed
   serifed
   serifless
@@ -713,7 +713,7 @@
   top-left-motion-serifed
   top-left-serifed
 
-[armn-et] tag=VXEM sampler="ը"
+[armn-et] tag=VXEN sampler="ը"
   bottom-right-motion-serifed
   bottom-right-serifed
   serifed
@@ -722,7 +722,7 @@
   top-left-motion-bottom-right-serifed
   top-left-motion-serifed
 
-[armn-ew] tag=VXFM sampler="և"
+[armn-ew] tag=VXFN sampler="և"
   serifed
   serifless
   top-left-motion-serifed
@@ -734,12 +734,12 @@
   top-right-motion-serifed
   top-right-serifed
 
-[armn-feh] tag=VXFL sampler="ֆ"
+[armn-feh] tag=VXFM sampler="ֆ"
   bottom-center-serifed
   serifed
   serifless
 
-[armn-ghat] tag=VXEV sampler="ղ"
+[armn-ghat] tag=VXEW sampler="ղ"
   bottom-left-motion-serifed
   bottom-left-serifed
   serifed
@@ -748,7 +748,7 @@
   top-left-motion-bottom-left-serifed
   top-left-motion-serifed
 
-[armn-gim] tag=VXEH sampler="գ"
+[armn-gim] tag=VXEI sampler="գ"
   bottom-right-motion-serifed
   bottom-right-serifed
   serifed
@@ -757,7 +757,7 @@
   top-right-motion-bottom-right-serifed
   top-right-motion-serifed
 
-[armn-hiun] tag=VXFI sampler="ւ"
+[armn-hiun] tag=VXFJ sampler="ւ"
   bottom-left-motion-serifed
   serifed
   serifless
@@ -766,7 +766,7 @@
   top-left-motion-serifed
   top-left-serifed
 
-[armn-ho] tag=VXET sampler="հ"
+[armn-ho] tag=VXEU sampler="հ"
   bottom-left-bottom-right-motion-serifed
   bottom-left-bottom-right-serifed
   bottom-left-motion-bottom-right-motion-serifed
@@ -796,7 +796,7 @@
   top-left-motion-serifed
   top-left-serifed
 
-[armn-ini] tag=VXEP sampler="ի"
+[armn-ini] tag=VXEQ sampler="ի"
   bottom-left-bottom-right-motion-serifed
   bottom-left-bottom-right-serifed
   bottom-left-motion-bottom-right-motion-serifed
@@ -826,7 +826,7 @@
   top-left-motion-serifed
   top-left-serifed
 
-[armn-keh] tag=VXFK sampler="ք"
+[armn-keh] tag=VXFL sampler="ք"
   bottom-left-motion-serifed
   bottom-left-serifed
   serifed
@@ -835,7 +835,7 @@
   top-left-motion-bottom-left-serifed
   top-left-motion-serifed
 
-[armn-ken] tag=VXES sampler="կ"
+[armn-ken] tag=VXET sampler="կ"
   bottom-right-motion-serifed
   bottom-right-serifed
   serifed
@@ -865,12 +865,12 @@
   top-right-motion-serifed
   top-right-serifed
 
-[armn-liun] tag=VXEQ sampler="լ"
+[armn-liun] tag=VXER sampler="լ"
   serifed
   serifless
   top-center-serifed
 
-[armn-men] tag=VXEX sampler="մ"
+[armn-men] tag=VXEY sampler="մ"
   bottom-right-motion-serifed
   serifed
   serifless
@@ -879,7 +879,7 @@
   top-left-motion-serifed
   top-left-serifed
 
-[armn-nu] tag=VXEZ sampler="ն"
+[armn-nu] tag=VXFA sampler="ն"
   bottom-right-motion-serifed
   serifed
   serifless
@@ -888,7 +888,7 @@
   top-right-motion-serifed
   top-right-serifed
 
-[armn-peh] tag=VXFB sampler="պ"
+[armn-peh] tag=VXFC sampler="պ"
   bottom-right-motion-serifed
   bottom-right-serifed
   serifed
@@ -945,7 +945,7 @@
   top-right-motion-serifed
   top-right-serifed
 
-[armn-piur] tag=VXFJ sampler="փ"
+[armn-piur] tag=VXFK sampler="փ"
   bottom-center-bottom-right-motion-serifed
   bottom-center-bottom-right-serifed
   bottom-center-serifed
@@ -984,7 +984,7 @@
   top-left-top-center-bottom-right-serifed
   top-left-top-center-serifed
 
-[armn-reh] tag=VXFG sampler="ր"
+[armn-reh] tag=VXFH sampler="ր"
   bottom-left-bottom-right-motion-serifed
   bottom-left-bottom-right-serifed
   bottom-left-motion-bottom-right-motion-serifed
@@ -1005,7 +1005,7 @@
   top-left-motion-bottom-right-serifed
   top-left-motion-serifed
 
-[armn-rra] tag=VXFC sampler="ռ"
+[armn-rra] tag=VXFD sampler="ռ"
   bottom-left-motion-serifed
   bottom-left-serifed
   serifed
@@ -1014,7 +1014,7 @@
   top-left-motion-bottom-left-serifed
   top-left-motion-serifed
 
-[armn-seh] tag=VXFD sampler="ս"
+[armn-seh] tag=VXFE sampler="ս"
   bottom-right-motion-serifed
   serifed
   serifless
@@ -1035,7 +1035,7 @@
   top-right-motion-serifed
   top-right-serifed
 
-[armn-tiun] tag=VXFF sampler="տ"
+[armn-tiun] tag=VXFG sampler="տ"
   bottom-center-motion-bottom-right-motion-serifed
   bottom-center-motion-bottom-right-serifed
   bottom-center-motion-serifed
@@ -1074,7 +1074,7 @@
   top-left-top-center-motion-bottom-right-serifed
   top-left-top-center-motion-serifed
 
-[armn-to] tag=VXEN sampler="թ"
+[armn-to] tag=VXEO sampler="թ"
   bottom-left-motion-serifed
   bottom-left-serifed
   serifed
@@ -1083,7 +1083,7 @@
   top-left-motion-bottom-left-serifed
   top-left-motion-serifed
 
-[armn-vew] tag=VXFE sampler="վ"
+[armn-vew] tag=VXFF sampler="վ"
   serifed
   serifless
   top-left-motion-serifed
@@ -1095,7 +1095,7 @@
   top-right-motion-serifed
   top-right-serifed
 
-[armn-vo] tag=VXFA sampler="ո"
+[armn-vo] tag=VXFB sampler="ո"
   bottom-left-bottom-right-motion-serifed
   bottom-left-bottom-right-serifed
   bottom-left-motion-bottom-right-motion-serifed
@@ -1116,7 +1116,7 @@
   top-left-motion-bottom-right-serifed
   top-left-motion-serifed
 
-[armn-xeh] tag=VXER sampler="խ"
+[armn-xeh] tag=VXES sampler="խ"
   bottom-left-bottom-right-motion-serifed
   bottom-left-motion-bottom-right-motion-serifed
   bottom-left-motion-serifed
@@ -1173,22 +1173,22 @@
   top-right-motion-serifed
   top-right-serifed
 
-[armn-yi] tag=VXEY sampler="յ"
+[armn-yi] tag=VXEZ sampler="յ"
   serifed
   serifless
   top-center-serifed
 
-[armn-yi-bar] tag=VXFN sampler="ֈ"
+[armn-yi-bar] tag=VXFO sampler="ֈ"
   serifed
   serifless
   top-center-serifed
 
-[armn-za] tag=VXEK sampler="զ"
+[armn-za] tag=VXEL sampler="զ"
   serifed
   serifless
   top-right-motion-serifed
 
-[armn-zhe] tag=VXEO sampler="ժ"
+[armn-zhe] tag=VXEP sampler="ժ"
   serifed
   serifless
   top-right-motion-serifed
@@ -1434,7 +1434,7 @@
   standard-serifless
   standard-unilateral-serifed
 
-[capital-delta] tag=cv88 sampler="Δ"
+[capital-delta] tag=cv89 sampler="Δ"
   curly-motion-serifed
   curly-serifed
   curly-serifless
@@ -1475,7 +1475,7 @@
   rounded-serifed
   rounded-serifless
 
-[capital-ezh] tag=VXFO sampler="ƷƸꝢ"
+[capital-ezh] tag=VXFP sampler="ƷƸꝢ"
   cursive-corner-hooked-serifless
   cursive-corner-hooked-top-serifed
   cursive-flat-hooked-serifless
@@ -1659,7 +1659,7 @@
   toothless-rounded-serifless-hooked
   toothless-rounded-serifless-hookless
 
-[capital-gamma] tag=cv92 sampler="Γ"
+[capital-gamma] tag=cv93 sampler="Γ"
   bilateral-motion-serifed
   bottom-serifed
   capped
@@ -1893,7 +1893,7 @@
   serifed
   serifless
 
-[capital-lambda] tag=cv96 sampler="Λ"
+[capital-lambda] tag=cv97 sampler="Λ"
   curly-base-serifed
   curly-serifless
   curly-top-serifed
@@ -1919,11 +1919,11 @@
   triangle-bottom-serifless
   triangle-bottom-top-right-motion-serifed
 
-[capital-latin-upsilon] tag=cv42 sampler="Ʊʊ"
+[capital-latin-upsilon] tag=cv42 sampler="Ʊ"
   serifed
   serifless
 
-[capital-m] tag=cv44 sampler="M"
+[capital-m] tag=cv45 sampler="M"
   almost-flat-bottom-motion-serifed
   almost-flat-bottom-serifed
   almost-flat-bottom-serifless
@@ -1973,7 +1973,7 @@
   yshaped-serifed
   yshaped-serifless
 
-[capital-n] tag=cv46 sampler="N"
+[capital-n] tag=cv47 sampler="N"
   asymmetric-bilateral-motion-serifed
   asymmetric-motion-serifed
   asymmetric-serifed
@@ -1985,18 +1985,18 @@
   standard-serifless
   standard-top-right-motion-serifed
 
-[capital-o-bar] tag=cv48 sampler="Ɵ"
+[capital-o-bar] tag=cv49 sampler="Ɵ"
   diagonal-crossbar-falling
   diagonal-crossbar-rising
   standard
 
-[capital-omega] tag=cv50 sampler="Ω"
+[capital-omega] tag=cv51 sampler="Ω"
   disjoint
   disjoint-serifed
   serifed
   serifless
 
-[capital-p] tag=cv51 sampler="P"
+[capital-p] tag=cv52 sampler="P"
   closed-motion-serifed
   closed-serifed
   closed-serifless
@@ -2004,21 +2004,21 @@
   open-serifed
   open-serifless
 
-[capital-phi] tag=cv53 sampler="Φ"
+[capital-phi] tag=cv54 sampler="Φ"
   serifed
   serifless
 
-[capital-pi] tag=cv54 sampler="Π"
+[capital-pi] tag=cv55 sampler="Π"
   motion-serifed
   serifed
   serifless
 
-[capital-psi] tag=cv55 sampler="Ψ"
+[capital-psi] tag=cv56 sampler="Ψ"
   base-serifed
   serifed
   serifless
 
-[capital-q] tag=cv56 sampler="Q"
+[capital-q] tag=cv57 sampler="Q"
   closed-swash
   crossing
   crossing-baseline
@@ -2031,11 +2031,11 @@
   straight
   vertical-crossing
 
-[capital-qoppa] tag=VXDA sampler="Ϙ"
+[capital-qoppa] tag=VXDB sampler="Ϙ"
   base-serifed
   serifless
 
-[capital-r] tag=cv59 sampler="R"
+[capital-r] tag=cv60 sampler="R"
   curly-bottom-right-serifed
   curly-open-bottom-right-serifed
   curly-open-serifed
@@ -2077,7 +2077,7 @@
   straight-top-left-and-bottom-right-serifed
   straight-top-left-serifed
 
-[capital-s] tag=cv61 sampler="S"
+[capital-s] tag=cv62 sampler="S"
   bilateral-inward-serifed
   bilateral-serifed
   corner-hooked
@@ -2115,7 +2115,7 @@
   unilateral-serifed-corner-hooked
   unilateral-serifed-flat-hooked
 
-[capital-schwa] tag=cv63 sampler="Ə"
+[capital-schwa] tag=cv64 sampler="Ə"
   diagonal-crossbar-falling
   diagonal-crossbar-falling-corner-hooked
   diagonal-crossbar-falling-flat-hooked
@@ -2133,25 +2133,25 @@
   rounded-flat-hooked
   rounded-serif
 
-[capital-sigma] tag=cv65 sampler="Σ"
+[capital-sigma] tag=cv66 sampler="Σ"
   bottom-serifed
   full-serifed
   serifless
   top-serifed
 
-[capital-t] tag=cv67 sampler="T"
+[capital-t] tag=cv68 sampler="T"
   base-serifed
   motion-serifed
   serifed
   serifless
 
-[capital-theta] tag=cv69 sampler="Θ"
+[capital-theta] tag=cv70 sampler="Θ"
   diagonal-crossbar-falling
   diagonal-crossbar-rising
   serifed
   serifless
 
-[capital-thorn] tag=cv70 sampler="Þ"
+[capital-thorn] tag=cv71 sampler="Þ"
   asymmetric-motion-serifed
   asymmetric-open-motion-serifed
   asymmetric-open-serifed
@@ -2165,7 +2165,7 @@
   serifed
   serifless
 
-[capital-u] tag=cv72 sampler="U"
+[capital-u] tag=cv73 sampler="U"
   flat-bottom-bottom-cut-motion-serifed
   flat-bottom-bottom-cut-serifless
   flat-bottom-bottom-right-serifed
@@ -2190,7 +2190,7 @@
   toothless-rounded-serifless
   toothless-rounded-unilateral-motion-serifed
 
-[capital-v] tag=cv74 sampler="VѴѰꙊ"
+[capital-v] tag=cv75 sampler="VѴѰꙊ"
   curly-bilateral-motion-serifed
   curly-motion-serifed
   curly-serifed
@@ -2207,7 +2207,7 @@
   straight-serifless
   straight-top-right-motion-serifed
 
-[capital-w] tag=cv76 sampler="W"
+[capital-w] tag=cv77 sampler="W"
   curly-almost-flat-top-bilateral-motion-serifed
   curly-almost-flat-top-motion-serifed
   curly-almost-flat-top-serifed
@@ -2324,7 +2324,7 @@
   straight-vertical-sides-serifless
   straight-vertical-sides-top-right-motion-serifed
 
-[capital-x] tag=cv78 sampler="X"
+[capital-x] tag=cv79 sampler="X"
   curly-bilateral-motion-serifed
   curly-bilateral-top-motion-serifed
   curly-serifed
@@ -2363,7 +2363,7 @@
   straight-touching-unilateral-motion-serifed
   straight-unilateral-motion-serifed
 
-[capital-xi] tag=cv80 sampler="Ξ"
+[capital-xi] tag=cv81 sampler="Ξ"
   diagonal-crossbar-falling
   diagonal-crossbar-falling-full-serifed
   diagonal-crossbar-falling-middle-serifed
@@ -2380,7 +2380,7 @@
   serifless
   top-bottom-serifed
 
-[capital-y] tag=cv81 sampler="Y"
+[capital-y] tag=cv82 sampler="Y"
   curly-base-bilateral-motion-serifed
   curly-base-motion-serifed
   curly-base-serifed
@@ -2409,7 +2409,7 @@
   straight-serifless
   straight-top-right-motion-serifed
 
-[capital-z] tag=cv83 sampler="Z"
+[capital-z] tag=cv84 sampler="Z"
   curly-bottom-serifed
   curly-bottom-serifed-with-crossbar
   curly-bottom-serifed-with-horizontal-crossbar
@@ -2469,20 +2469,20 @@
   through
   through-cap
 
-[cyrl-be] tag=VXBP sampler="б"
+[cyrl-be] tag=VXBQ sampler="б"
   flat-top
   serbian-flat-top
   serbian-rounded
   standard
 
-[cyrl-capital-be] tag=VXBO sampler="Б"
+[cyrl-capital-be] tag=VXBP sampler="Б"
   bilateral-serifed
   full-serifed
   motion-serifed
   serifless
   top-serifed
 
-[cyrl-capital-che] tag=VXBQ sampler="Ч"
+[cyrl-capital-che] tag=VXBR sampler="Ч"
   bilateral-motion-serifed
   flat-hump-bilateral-motion-serifed
   flat-hump-motion-serifed
@@ -2494,7 +2494,7 @@
   serifless
   top-right-motion-serifed
 
-[cyrl-capital-de] tag=VXBS sampler="Д"
+[cyrl-capital-de] tag=VXBT sampler="Д"
   curly-legless-motion-serifed
   curly-legless-serifed
   curly-legless-serifless
@@ -2520,7 +2520,7 @@
   triangular-serifed
   triangular-serifless
 
-[cyrl-capital-e] tag=VXBU sampler="Э"
+[cyrl-capital-e] tag=VXBV sampler="Э"
   bilateral-inward-mid-serifed
   bilateral-inward-serifed
   bilateral-mid-serifed
@@ -2657,7 +2657,7 @@
   unilateral-serifed-corner-hooked
   unilateral-serifed-flat-hooked
 
-[cyrl-capital-el] tag=VXBX sampler="Л"
+[cyrl-capital-el] tag=VXBY sampler="Л"
   curly-motion-serifed
   curly-serifed
   curly-serifless
@@ -2671,7 +2671,7 @@
   triangular-serifed
   triangular-serifless
 
-[cyrl-capital-en] tag=VXCA sampler="Н"
+[cyrl-capital-en] tag=VXCB sampler="Н"
   bilateral-motion-serifed
   serifed
   serifless
@@ -2679,7 +2679,7 @@
   top-left-serifed
   top-right-motion-serifed
 
-[cyrl-capital-i] tag=VXCC sampler="И"
+[cyrl-capital-i] tag=VXCD sampler="И"
   asymmetric-bilateral-motion-serifed
   asymmetric-motion-serifed
   asymmetric-serifed
@@ -2691,7 +2691,7 @@
   standard-serifless
   standard-top-right-motion-serifed
 
-[cyrl-capital-ka] tag=VXCE sampler="К"
+[cyrl-capital-ka] tag=VXCF sampler="К"
   curly-bilateral-serifed
   curly-bilateral-top-serifed
   curly-bottom-right-serifed
@@ -2812,7 +2812,7 @@
   symmetric-touching-top-right-outer-serifed
   symmetric-touching-tri-serifed
 
-[cyrl-capital-koppa] tag=VXDB sampler="Ҁ"
+[cyrl-capital-koppa] tag=VXDC sampler="Ҁ"
   base-serifed
   corner-hooked-base-serifed
   corner-hooked-serifless
@@ -2824,12 +2824,12 @@
   serifed-serifless
   serifless
 
-[cyrl-capital-pe] tag=VXCH sampler="П"
+[cyrl-capital-pe] tag=VXCI sampler="П"
   motion-serifed
   serifed
   serifless
 
-[cyrl-capital-sha] tag=VXCJ sampler="Ш Щ"
+[cyrl-capital-sha] tag=VXCK sampler="Ш Щ"
   bilateral-motion-serifed
   motion-serifed
   serifed
@@ -2843,14 +2843,14 @@
   top-right-motion-serifed
   trilateral-motion-serifed
 
-[cyrl-capital-tse] tag=VXCM sampler="Ц"
+[cyrl-capital-tse] tag=VXCN sampler="Ц"
   bilateral-motion-serifed
   motion-serifed
   serifed
   serifless
   top-right-motion-serifed
 
-[cyrl-capital-u] tag=VXCO sampler="У"
+[cyrl-capital-u] tag=VXCP sampler="У"
   curly-bilateral-motion-serifed
   curly-motion-serifed
   curly-serifed
@@ -2912,7 +2912,7 @@
   straight-turn-serifless
   straight-turn-top-right-motion-serifed
 
-[cyrl-capital-ue] tag=VXFQ sampler="ҮҰ"
+[cyrl-capital-ue] tag=VXFR sampler="ҮҰ"
   curly-base-bilateral-motion-serifed
   curly-base-motion-serifed
   curly-base-serifed
@@ -2941,7 +2941,7 @@
   straight-serifless
   straight-top-right-motion-serifed
 
-[cyrl-capital-ya] tag=VXCR sampler="Я"
+[cyrl-capital-ya] tag=VXCS sampler="Я"
   curly-bilateral-motion-serifed
   curly-motion-serifed
   curly-open-bilateral-motion-serifed
@@ -2991,7 +2991,7 @@
   round-bilateral-motion-serifed
   round-top-right-motion-serifed
 
-[cyrl-capital-ze] tag=VXCV sampler="З"
+[cyrl-capital-ze] tag=VXCW sampler="З"
   bilateral-inward-serifed
   bilateral-serifed
   corner-hooked
@@ -3035,7 +3035,7 @@
   unilateral-serifed-corner-hooked
   unilateral-serifed-flat-hooked
 
-[cyrl-capital-zhe] tag=VXCX sampler="Ж"
+[cyrl-capital-zhe] tag=VXCY sampler="Ж"
   curly
   cursive
   inverse-connected
@@ -3044,7 +3044,7 @@
   symmetric-connected
   symmetric-touching
 
-[cyrl-che] tag=VXBR sampler="ч"
+[cyrl-che] tag=VXBS sampler="ч"
   flat-hump-standard
   flat-hump-standard-bilateral-motion-serifed
   flat-hump-standard-motion-serifed
@@ -3066,7 +3066,7 @@
   tailed-serifed
   tailed-top-right-motion-serifed
 
-[cyrl-de] tag=VXBT sampler="д"
+[cyrl-de] tag=VXBU sampler="д"
   curly-legless-motion-serifed
   curly-legless-serifed
   curly-legless-serifless
@@ -3136,7 +3136,7 @@
   triangular-serifed
   triangular-serifless
 
-[cyrl-e] tag=VXBV sampler="э"
+[cyrl-e] tag=VXBW sampler="э"
   bilateral-inward-mid-serifed
   bilateral-inward-serifed
   bilateral-mid-serifed
@@ -3273,7 +3273,7 @@
   unilateral-serifed-corner-hooked
   unilateral-serifed-flat-hooked
 
-[cyrl-ef] tag=VXBW sampler="ф"
+[cyrl-ef] tag=VXBX sampler="ф"
   cursive
   diagonal-tailed-cursive
   serifed
@@ -3300,7 +3300,7 @@
   split-top-serifed
   top-serifed
 
-[cyrl-el] tag=VXBY sampler="л"
+[cyrl-el] tag=VXBZ sampler="л"
   curly-motion-serifed
   curly-serifed
   curly-serifless
@@ -3317,7 +3317,7 @@
   triangular-serifed
   triangular-serifless
 
-[cyrl-em] tag=VXBZ sampler="м"
+[cyrl-em] tag=VXCA sampler="м"
   almost-flat-bottom-motion-serifed
   almost-flat-bottom-serifed
   almost-flat-bottom-serifless
@@ -3391,7 +3391,7 @@
   yshaped-tailed-serifed
   yshaped-tailed-serifless
 
-[cyrl-en] tag=VXCB sampler="н"
+[cyrl-en] tag=VXCC sampler="н"
   bilateral-motion-serifed
   serifed
   serifless
@@ -3404,7 +3404,7 @@
   top-left-serifed
   top-right-motion-serifed
 
-[cyrl-i] tag=VXCD sampler="и"
+[cyrl-i] tag=VXCE sampler="и"
   asymmetric-bilateral-motion-serifed
   asymmetric-motion-serifed
   asymmetric-serifed
@@ -3451,7 +3451,7 @@
   standard-serifless
   standard-top-right-motion-serifed
 
-[cyrl-ka] tag=VXCF sampler="к"
+[cyrl-ka] tag=VXCG sampler="к"
   curly-bilateral-serifed
   curly-bilateral-top-serifed
   curly-bottom-right-serifed
@@ -3572,7 +3572,7 @@
   symmetric-touching-top-right-outer-serifed
   symmetric-touching-tri-serifed
 
-[cyrl-koppa] tag=VXCG sampler="ҁ"
+[cyrl-koppa] tag=VXCH sampler="ҁ"
   base-serifed
   corner-hooked-base-serifed
   corner-hooked-serifless
@@ -3584,7 +3584,7 @@
   serifed-serifless
   serifless
 
-[cyrl-pe] tag=VXCI sampler="п"
+[cyrl-pe] tag=VXCJ sampler="п"
   cursive-earless-corner-straight-motion-serifed
   cursive-earless-corner-straight-serifed
   cursive-earless-corner-straight-serifless
@@ -3617,7 +3617,7 @@
   serifed
   serifless
 
-[cyrl-sha] tag=VXCK sampler="ш щ"
+[cyrl-sha] tag=VXCL sampler="ш щ"
   bilateral-motion-serifed
   cursive-flat-bottom-bilateral-motion-serifed
   cursive-flat-bottom-bottom-cut-bilateral-motion-serifed
@@ -3703,7 +3703,7 @@
   top-right-motion-serifed
   trilateral-motion-serifed
 
-[cyrl-te] tag=VXCL sampler="т"
+[cyrl-te] tag=VXCM sampler="т"
   cursive-earless-corner-double-arch-bottom-right-serifed
   cursive-earless-corner-double-arch-serifed
   cursive-earless-corner-double-arch-serifless
@@ -3784,7 +3784,7 @@
   serifed
   serifless
 
-[cyrl-tse] tag=VXCN sampler="ц"
+[cyrl-tse] tag=VXCO sampler="ц"
   bilateral-motion-serifed
   cursive-flat-bottom-bilateral-motion-serifed
   cursive-flat-bottom-bottom-cut-bilateral-motion-serifed
@@ -3816,7 +3816,7 @@
   serifless
   top-right-motion-serifed
 
-[cyrl-u] tag=VXCP sampler="у"
+[cyrl-u] tag=VXCQ sampler="у"
   curly-bilateral-motion-serifed
   curly-motion-serifed
   curly-serifed
@@ -3878,7 +3878,7 @@
   straight-turn-serifless
   straight-turn-top-right-motion-serifed
 
-[cyrl-ue] tag=VXFR sampler="үұ"
+[cyrl-ue] tag=VXFS sampler="үұ"
   curly-base-bilateral-motion-serifed
   curly-base-motion-serifed
   curly-base-serifed
@@ -3907,7 +3907,7 @@
   straight-serifless
   straight-top-right-motion-serifed
 
-[cyrl-ve] tag=VXCQ sampler="в"
+[cyrl-ve] tag=VXCR sampler="в"
   cursive
   cursive-interrupted
   cursive-interrupted-tall
@@ -3923,7 +3923,7 @@
   standard-serifless
   standard-unilateral-serifed
 
-[cyrl-ya] tag=VXCS sampler="я"
+[cyrl-ya] tag=VXCT sampler="я"
   curly-bilateral-motion-serifed
   curly-motion-serifed
   curly-open-bilateral-motion-serifed
@@ -3981,12 +3981,12 @@
   straight-tailed-serifed
   straight-tailed-serifless
 
-[cyrl-yeri] tag=VXCT sampler="ь ъ"
+[cyrl-yeri] tag=VXCU sampler="ь ъ"
   corner
   cursive
   round
 
-[cyrl-yery] tag=VXCU sampler="ы"
+[cyrl-yery] tag=VXCV sampler="ы"
   corner
   corner-bilateral-motion-serifed
   corner-tailed
@@ -4006,7 +4006,7 @@
   round-tailed-top-right-motion-serifed
   round-top-right-motion-serifed
 
-[cyrl-ze] tag=VXCW sampler="з"
+[cyrl-ze] tag=VXCX sampler="з"
   bilateral-inward-serifed
   bilateral-serifed
   corner-hooked
@@ -4092,7 +4092,7 @@
   unilateral-serifed-corner-hooked
   unilateral-serifed-flat-hooked
 
-[cyrl-zhe] tag=VXCY sampler="ж"
+[cyrl-zhe] tag=VXCZ sampler="ж"
   curly
   cursive
   inverse-connected
@@ -5011,6 +5011,10 @@
   serifless
   top-right-motion-serifed
 
+[latin-upsilon] tag=cv43 sampler="ʊ"
+  serifed
+  serifless
+
 [less-greater] tag= sampler="<>≤≥"
   diagonal-terminal
   vertical-terminal
@@ -5047,7 +5051,7 @@
   with-notch
   without-notch
 
-[long-s] tag=cv43 sampler="ſ"
+[long-s] tag=cv44 sampler="ſ"
   bent-hook-bottom-serifed
   bent-hook-descending
   bent-hook-descending-middle-serifed
@@ -5109,7 +5113,7 @@
   flat-hooked-tailed-middle-serifed-half-ascender
   flat-hooked-tailed-middle-serifed-xh
 
-[lower-alpha] tag=cv85 sampler="α"
+[lower-alpha] tag=cv86 sampler="α"
   barred
   barred-bottom-cut
   barred-double-serifed
@@ -5138,12 +5142,12 @@
   barred-top-cut-tailed
   crossing
 
-[lower-beta] tag=cv86 sampler="β"
+[lower-beta] tag=cv87 sampler="β"
   cursive
   flat-bottom
   standard
 
-[lower-chi] tag=cv87 sampler="χ"
+[lower-chi] tag=cv88 sampler="χ"
   chancery
   chancery-above-baseline
   curly-above-baseline-bilateral-motion-serifed
@@ -5171,7 +5175,7 @@
   straight-serifless
   straight-unilateral-motion-serifed
 
-[lower-delta] tag=cv89 sampler="δ"
+[lower-delta] tag=cv90 sampler="δ"
   flat-top
   rounded
 
@@ -5182,7 +5186,7 @@
   toothless-corner
   toothless-rounded
 
-[lower-esh] tag=VXFS sampler="ʃ"
+[lower-esh] tag=VXFT sampler="ʃ"
   compact
   corner-hooked
   diagonal-tailed
@@ -5262,7 +5266,7 @@
   traditional-tailed-middle-serifed
   traditional-tailed-serifless
 
-[lower-eta] tag=cv90 sampler="η"
+[lower-eta] tag=cv91 sampler="η"
   earless-corner-serifed
   earless-corner-serifless
   earless-rounded-serifed
@@ -5278,7 +5282,7 @@
   curly-bar
   straight-bar
 
-[lower-ezh] tag=VXFP sampler="ʒƹƺʓꝣ"
+[lower-ezh] tag=VXFQ sampler="ʒƹƺʓꝣ"
   cursive-corner-hooked-serifless
   cursive-corner-hooked-top-serifed
   cursive-flat-hooked-serifless
@@ -5300,7 +5304,7 @@
   straight-serifless-serifless
   straight-serifless-top-serifed
 
-[lower-final-sigma] tag=cv91 sampler="ςϛ"
+[lower-final-sigma] tag=cv92 sampler="ςϛ"
   corner-hooked-curly-tail
   corner-hooked-diagonal-tail
   corner-hooked-diagonal-tail-sharp-corner
@@ -5317,7 +5321,7 @@
   straight-tail
   straight-tail-sharp-corner
 
-[lower-gamma] tag=cv93 sampler="γ"
+[lower-gamma] tag=cv94 sampler="γ"
   casual
   casual-serifed
   curly
@@ -5325,7 +5329,7 @@
   straight
   straight-serifed
 
-[lower-iota] tag=cv94 sampler="?"
+[lower-iota] tag=cv95 sampler="?"
   base-serifed
   center-serifed
   center-short-serifed
@@ -5447,7 +5451,7 @@
   top-tailed-plain-bottom
   zshaped
 
-[lower-kappa] tag=cv95 sampler="κ"
+[lower-kappa] tag=cv96 sampler="κ"
   curly-bilateral-serifed
   curly-bilateral-top-serifed
   curly-bottom-right-serifed
@@ -5575,7 +5579,7 @@
   symmetric-touching-top-right-outer-serifed
   symmetric-touching-tri-serifed
 
-[lower-lambda] tag=cv97 sampler="λ"
+[lower-lambda] tag=cv98 sampler="λ"
   curly
   curly-tailed-turn
   curly-turn
@@ -5590,7 +5594,7 @@
   straight-turn
   tailed-turn
 
-[lower-mu] tag=cv98 sampler="μ"
+[lower-mu] tag=cv99 sampler="μ"
   flat-bottom-bottom-right-serifed
   flat-bottom-motion-serifed
   flat-bottom-serifed
@@ -5609,7 +5613,7 @@
   toothless-rounded-serifed
   toothless-rounded-serifless
 
-[lower-nu] tag=cv99 sampler="ν"
+[lower-nu] tag=VXBE sampler="ν"
   casual
   casual-serifed
   curly
@@ -5617,12 +5621,12 @@
   straight
   straight-serifed
 
-[lower-o-bar] tag=cv49 sampler="ɵ"
+[lower-o-bar] tag=cv50 sampler="ɵ"
   diagonal-crossbar-falling
   diagonal-crossbar-rising
   standard
 
-[lower-omega] tag=VXCZ sampler="ωϖꞶꞷ꟝ɷ𝽴𝽵𝽶𝽷𝽠"
+[lower-omega] tag=VXDA sampler="ωϖꞶꞷ꟝ɷ𝽴𝽵𝽶𝽷𝽠"
   almost-flat-top
   broad
   broad-almost-flat-top
@@ -5633,7 +5637,7 @@
   rounded-vertical-sides-almost-flat-top
   rounded-vertical-sides-flat-top
 
-[lower-phi] tag=VXBE sampler="φ"
+[lower-phi] tag=VXBF sampler="φ"
   cursive
   cursive-base-serifed
   neo-hellenic
@@ -5645,13 +5649,13 @@
   straight-shorter-neck
   straight-shorter-neck-base-serifed
 
-[lower-pi] tag=VXBF sampler="π"
+[lower-pi] tag=VXBG sampler="π"
   diagonal-tailed
   small-capital
   tailed
   tailless
 
-[lower-psi] tag=VXBG sampler="ψ"
+[lower-psi] tag=VXBH sampler="ψ"
   base-serifed
   flat-top-base-serifed
   flat-top-serifed
@@ -5665,15 +5669,15 @@
   shorter-neck-serifed
   shorter-neck-serifless
 
-[lower-qoppa] tag=cv58 sampler="ϙ"
+[lower-qoppa] tag=cv59 sampler="ϙ"
   base-serifed
   serifless
 
-[lower-rho] tag=VXBH sampler="ρ"
+[lower-rho] tag=VXBI sampler="ρ"
   arched
   flat
 
-[lower-schwa] tag=cv64 sampler="ə"
+[lower-schwa] tag=cv65 sampler="ə"
   diagonal-crossbar-falling
   diagonal-crossbar-falling-corner-hooked
   diagonal-crossbar-falling-flat-hooked
@@ -5691,11 +5695,11 @@
   rounded-flat-hooked
   rounded-serif
 
-[lower-sigma] tag=cv66 sampler="σ"
+[lower-sigma] tag=cv67 sampler="σ"
   rounded
   vertical-bowl
 
-[lower-tau] tag=VXBI sampler="τ"
+[lower-tau] tag=VXBJ sampler="τ"
   diagonal-tailed
   flat-tailed
   hooky
@@ -5704,13 +5708,13 @@
   tailed
   tailless
 
-[lower-theta] tag=VXBJ sampler="θ"
+[lower-theta] tag=VXBK sampler="θ"
   capsule
   cursive
   diamond
   oval
 
-[lower-thorn] tag=cv71 sampler="þ"
+[lower-thorn] tag=cv72 sampler="þ"
   flat-bottom-motion-serifed
   flat-bottom-serifed
   flat-bottom-serifless
@@ -5724,13 +5728,13 @@
   serifed
   serifless
 
-[lower-upsilon] tag=VXBK sampler="υ"
+[lower-upsilon] tag=VXBL sampler="υ"
   casual-serifed
   casual-serifless
   straight-serifed
   straight-serifless
 
-[lower-xi] tag=VXBL sampler="ξѮѯ"
+[lower-xi] tag=VXBM sampler="ξѮѯ"
   corner-hooked
   corner-hooked-diagonal-tail
   corner-hooked-diagonal-tail-sharp-corner
@@ -5752,14 +5756,14 @@
   rounded-straight-tail
   rounded-straight-tail-sharp-corner
 
-[lower-zeta] tag=VXBM sampler="ζ"
+[lower-zeta] tag=VXBN sampler="ζ"
   curly-tail
   diagonal-tail
   diagonal-tail-sharp-corner
   straight-tail
   straight-tail-sharp-corner
 
-[m] tag=cv45 sampler="m"
+[m] tag=cv46 sampler="m"
   earless-corner-double-arch-bottom-right-serifed
   earless-corner-double-arch-serifed
   earless-corner-double-arch-serifless
@@ -5856,7 +5860,7 @@
   toothless-rounded-serifed
   toothless-rounded-serifless
 
-[n] tag=cv47 sampler="n"
+[n] tag=cv48 sampler="n"
   earless-corner-straight-motion-serifed
   earless-corner-straight-serifed
   earless-corner-straight-serifless
@@ -5935,7 +5939,7 @@
   no-base-long-top-serif
   no-base-top-cut
 
-[p] tag=cv52 sampler="p"
+[p] tag=cv53 sampler="p"
   eared-flat-bowl-motion-serifed
   eared-flat-bowl-serifed
   eared-flat-bowl-serifless
@@ -5970,7 +5974,7 @@
   large-contour
   normal
 
-[partial-derivative] tag=VXBN sampler="∂"
+[partial-derivative] tag=VXBO sampler="∂"
   closed-contour
   curly-bar
   straight-bar
@@ -6009,7 +6013,7 @@
   round
   square
 
-[q] tag=cv57 sampler="q"
+[q] tag=cv58 sampler="q"
   diagonal-tailed-motion-serifed
   diagonal-tailed-serifless
   earless-corner-diagonal-tailed-serifless
@@ -6095,7 +6099,7 @@
   smooth-corner-hooked
   smooth-flat-hooked
 
-[r] tag=cv60 sampler="r"
+[r] tag=cv61 sampler="r"
   base-serifed
   compact-base-serifed
   compact-serifed
@@ -6208,7 +6212,7 @@
   top-cut-serifless
   top-serifed
 
-[s] tag=cv62 sampler="s"
+[s] tag=cv63 sampler="s"
   bilateral-inward-serifed
   bilateral-serifed
   corner-hooked
@@ -6355,7 +6359,7 @@
   serifless-inward-serifed
   serifless-serifed
 
-[t] tag=cv68 sampler="t"
+[t] tag=cv69 sampler="t"
   bent-hook
   bent-hook-asymmetric
   bent-hook-asymmetric-short-neck
@@ -6484,7 +6488,7 @@
   straight-neck-serifed-hooked-serifless
   straight-neck-serifless
 
-[u] tag=cv73 sampler="u"
+[u] tag=cv74 sampler="u"
   flat-bottom-bottom-cut-motion-serifed
   flat-bottom-bottom-cut-serifless
   flat-bottom-bottom-right-serifed
@@ -6512,7 +6516,7 @@
   high
   low
 
-[v] tag=cv75 sampler="vѵ"
+[v] tag=cv76 sampler="vѵ"
   curly-bilateral-motion-serifed
   curly-motion-serifed
   curly-serifed
@@ -6531,7 +6535,7 @@
   straight-serifless
   straight-top-right-motion-serifed
 
-[w] tag=cv77 sampler="w"
+[w] tag=cv78 sampler="w"
   curly-almost-flat-top-bilateral-motion-serifed
   curly-almost-flat-top-motion-serifed
   curly-almost-flat-top-serifed
@@ -6667,7 +6671,7 @@
   straight-vertical-sides-serifless
   straight-vertical-sides-top-right-motion-serifed
 
-[x] tag=cv79 sampler="x"
+[x] tag=cv80 sampler="x"
   chancery
   curly-bilateral-motion-serifed
   curly-bilateral-top-motion-serifed
@@ -6712,7 +6716,7 @@
   straight-touching-unilateral-motion-serifed
   straight-unilateral-motion-serifed
 
-[y] tag=cv82 sampler="y"
+[y] tag=cv83 sampler="y"
   curly-bilateral-motion-serifed
   curly-motion-serifed
   curly-serifed
@@ -6774,7 +6778,7 @@
   straight-turn-serifless
   straight-turn-top-right-motion-serifed
 
-[z] tag=cv84 sampler="z"
+[z] tag=cv85 sampler="z"
   curly-bottom-serifed
   curly-bottom-serifed-with-crossbar
   curly-bottom-serifed-with-horizontal-crossbar
