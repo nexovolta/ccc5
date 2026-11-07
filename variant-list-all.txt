@@ -1,100 +1,164 @@
 [a] tag=cv12 sampler="a"
   double-storey-bottom-cut-serifless
-  double-storey-bottom-cut-serifless-diagonal-bar
+  double-storey-bottom-cut-serifless-curved-bar-falling
+  double-storey-bottom-cut-serifless-curved-bar-rising
   double-storey-bottom-cut-serifless-diagonal-bar-falling
+  double-storey-bottom-cut-serifless-diagonal-bar-rising
   double-storey-flat-bottom-serifed
-  double-storey-flat-bottom-serifed-diagonal-bar
+  double-storey-flat-bottom-serifed-curved-bar-falling
+  double-storey-flat-bottom-serifed-curved-bar-rising
   double-storey-flat-bottom-serifed-diagonal-bar-falling
+  double-storey-flat-bottom-serifed-diagonal-bar-rising
   double-storey-flat-bottom-serifless
-  double-storey-flat-bottom-serifless-diagonal-bar
+  double-storey-flat-bottom-serifless-curved-bar-falling
+  double-storey-flat-bottom-serifless-curved-bar-rising
   double-storey-flat-bottom-serifless-diagonal-bar-falling
+  double-storey-flat-bottom-serifless-diagonal-bar-rising
   double-storey-hook-corner-bottom-cut-serifless
-  double-storey-hook-corner-bottom-cut-serifless-diagonal-bar
+  double-storey-hook-corner-bottom-cut-serifless-curved-bar-falling
+  double-storey-hook-corner-bottom-cut-serifless-curved-bar-rising
   double-storey-hook-corner-bottom-cut-serifless-diagonal-bar-falling
+  double-storey-hook-corner-bottom-cut-serifless-diagonal-bar-rising
   double-storey-hook-corner-flat-bottom-serifed
-  double-storey-hook-corner-flat-bottom-serifed-diagonal-bar
+  double-storey-hook-corner-flat-bottom-serifed-curved-bar-falling
+  double-storey-hook-corner-flat-bottom-serifed-curved-bar-rising
   double-storey-hook-corner-flat-bottom-serifed-diagonal-bar-falling
+  double-storey-hook-corner-flat-bottom-serifed-diagonal-bar-rising
   double-storey-hook-corner-flat-bottom-serifless
-  double-storey-hook-corner-flat-bottom-serifless-diagonal-bar
+  double-storey-hook-corner-flat-bottom-serifless-curved-bar-falling
+  double-storey-hook-corner-flat-bottom-serifless-curved-bar-rising
   double-storey-hook-corner-flat-bottom-serifless-diagonal-bar-falling
+  double-storey-hook-corner-flat-bottom-serifless-diagonal-bar-rising
   double-storey-hook-corner-serifed
-  double-storey-hook-corner-serifed-diagonal-bar
+  double-storey-hook-corner-serifed-curved-bar-falling
+  double-storey-hook-corner-serifed-curved-bar-rising
   double-storey-hook-corner-serifed-diagonal-bar-falling
+  double-storey-hook-corner-serifed-diagonal-bar-rising
   double-storey-hook-corner-serifless
-  double-storey-hook-corner-serifless-diagonal-bar
+  double-storey-hook-corner-serifless-curved-bar-falling
+  double-storey-hook-corner-serifless-curved-bar-rising
   double-storey-hook-corner-serifless-diagonal-bar-falling
+  double-storey-hook-corner-serifless-diagonal-bar-rising
   double-storey-hook-corner-tailed
-  double-storey-hook-corner-tailed-diagonal-bar
+  double-storey-hook-corner-tailed-curved-bar-falling
+  double-storey-hook-corner-tailed-curved-bar-rising
   double-storey-hook-corner-tailed-diagonal-bar-falling
+  double-storey-hook-corner-tailed-diagonal-bar-rising
   double-storey-hook-corner-toothless-corner
-  double-storey-hook-corner-toothless-corner-diagonal-bar
+  double-storey-hook-corner-toothless-corner-curved-bar-falling
+  double-storey-hook-corner-toothless-corner-curved-bar-rising
   double-storey-hook-corner-toothless-corner-diagonal-bar-falling
+  double-storey-hook-corner-toothless-corner-diagonal-bar-rising
   double-storey-hook-corner-toothless-rounded
-  double-storey-hook-corner-toothless-rounded-diagonal-bar
+  double-storey-hook-corner-toothless-rounded-curved-bar-falling
+  double-storey-hook-corner-toothless-rounded-curved-bar-rising
   double-storey-hook-corner-toothless-rounded-diagonal-bar-falling
+  double-storey-hook-corner-toothless-rounded-diagonal-bar-rising
   double-storey-hook-flat-bottom-cut-serifless
-  double-storey-hook-flat-bottom-cut-serifless-diagonal-bar
+  double-storey-hook-flat-bottom-cut-serifless-curved-bar-falling
+  double-storey-hook-flat-bottom-cut-serifless-curved-bar-rising
   double-storey-hook-flat-bottom-cut-serifless-diagonal-bar-falling
+  double-storey-hook-flat-bottom-cut-serifless-diagonal-bar-rising
   double-storey-hook-flat-flat-bottom-serifed
-  double-storey-hook-flat-flat-bottom-serifed-diagonal-bar
+  double-storey-hook-flat-flat-bottom-serifed-curved-bar-falling
+  double-storey-hook-flat-flat-bottom-serifed-curved-bar-rising
   double-storey-hook-flat-flat-bottom-serifed-diagonal-bar-falling
+  double-storey-hook-flat-flat-bottom-serifed-diagonal-bar-rising
   double-storey-hook-flat-flat-bottom-serifless
-  double-storey-hook-flat-flat-bottom-serifless-diagonal-bar
+  double-storey-hook-flat-flat-bottom-serifless-curved-bar-falling
+  double-storey-hook-flat-flat-bottom-serifless-curved-bar-rising
   double-storey-hook-flat-flat-bottom-serifless-diagonal-bar-falling
+  double-storey-hook-flat-flat-bottom-serifless-diagonal-bar-rising
   double-storey-hook-flat-serifed
-  double-storey-hook-flat-serifed-diagonal-bar
+  double-storey-hook-flat-serifed-curved-bar-falling
+  double-storey-hook-flat-serifed-curved-bar-rising
   double-storey-hook-flat-serifed-diagonal-bar-falling
+  double-storey-hook-flat-serifed-diagonal-bar-rising
   double-storey-hook-flat-serifless
-  double-storey-hook-flat-serifless-diagonal-bar
+  double-storey-hook-flat-serifless-curved-bar-falling
+  double-storey-hook-flat-serifless-curved-bar-rising
   double-storey-hook-flat-serifless-diagonal-bar-falling
+  double-storey-hook-flat-serifless-diagonal-bar-rising
   double-storey-hook-flat-tailed
-  double-storey-hook-flat-tailed-diagonal-bar
+  double-storey-hook-flat-tailed-curved-bar-falling
+  double-storey-hook-flat-tailed-curved-bar-rising
   double-storey-hook-flat-tailed-diagonal-bar-falling
+  double-storey-hook-flat-tailed-diagonal-bar-rising
   double-storey-hook-flat-toothless-corner
-  double-storey-hook-flat-toothless-corner-diagonal-bar
+  double-storey-hook-flat-toothless-corner-curved-bar-falling
+  double-storey-hook-flat-toothless-corner-curved-bar-rising
   double-storey-hook-flat-toothless-corner-diagonal-bar-falling
+  double-storey-hook-flat-toothless-corner-diagonal-bar-rising
   double-storey-hook-flat-toothless-rounded
-  double-storey-hook-flat-toothless-rounded-diagonal-bar
+  double-storey-hook-flat-toothless-rounded-curved-bar-falling
+  double-storey-hook-flat-toothless-rounded-curved-bar-rising
   double-storey-hook-flat-toothless-rounded-diagonal-bar-falling
+  double-storey-hook-flat-toothless-rounded-diagonal-bar-rising
   double-storey-hook-inward-serifed-bottom-cut-serifless
-  double-storey-hook-inward-serifed-bottom-cut-serifless-diagonal-bar
+  double-storey-hook-inward-serifed-bottom-cut-serifless-curved-bar-falling
+  double-storey-hook-inward-serifed-bottom-cut-serifless-curved-bar-rising
   double-storey-hook-inward-serifed-bottom-cut-serifless-diagonal-bar-falling
+  double-storey-hook-inward-serifed-bottom-cut-serifless-diagonal-bar-rising
   double-storey-hook-inward-serifed-flat-bottom-serifed
-  double-storey-hook-inward-serifed-flat-bottom-serifed-diagonal-bar
+  double-storey-hook-inward-serifed-flat-bottom-serifed-curved-bar-falling
+  double-storey-hook-inward-serifed-flat-bottom-serifed-curved-bar-rising
   double-storey-hook-inward-serifed-flat-bottom-serifed-diagonal-bar-falling
+  double-storey-hook-inward-serifed-flat-bottom-serifed-diagonal-bar-rising
   double-storey-hook-inward-serifed-flat-bottom-serifless
-  double-storey-hook-inward-serifed-flat-bottom-serifless-diagonal-bar
+  double-storey-hook-inward-serifed-flat-bottom-serifless-curved-bar-falling
+  double-storey-hook-inward-serifed-flat-bottom-serifless-curved-bar-rising
   double-storey-hook-inward-serifed-flat-bottom-serifless-diagonal-bar-falling
+  double-storey-hook-inward-serifed-flat-bottom-serifless-diagonal-bar-rising
   double-storey-hook-inward-serifed-serifed
-  double-storey-hook-inward-serifed-serifed-diagonal-bar
+  double-storey-hook-inward-serifed-serifed-curved-bar-falling
+  double-storey-hook-inward-serifed-serifed-curved-bar-rising
   double-storey-hook-inward-serifed-serifed-diagonal-bar-falling
+  double-storey-hook-inward-serifed-serifed-diagonal-bar-rising
   double-storey-hook-inward-serifed-serifless
-  double-storey-hook-inward-serifed-serifless-diagonal-bar
+  double-storey-hook-inward-serifed-serifless-curved-bar-falling
+  double-storey-hook-inward-serifed-serifless-curved-bar-rising
   double-storey-hook-inward-serifed-serifless-diagonal-bar-falling
+  double-storey-hook-inward-serifed-serifless-diagonal-bar-rising
   double-storey-hook-inward-serifed-tailed
-  double-storey-hook-inward-serifed-tailed-diagonal-bar
+  double-storey-hook-inward-serifed-tailed-curved-bar-falling
+  double-storey-hook-inward-serifed-tailed-curved-bar-rising
   double-storey-hook-inward-serifed-tailed-diagonal-bar-falling
+  double-storey-hook-inward-serifed-tailed-diagonal-bar-rising
   double-storey-hook-inward-serifed-toothless-corner
-  double-storey-hook-inward-serifed-toothless-corner-diagonal-bar
+  double-storey-hook-inward-serifed-toothless-corner-curved-bar-falling
+  double-storey-hook-inward-serifed-toothless-corner-curved-bar-rising
   double-storey-hook-inward-serifed-toothless-corner-diagonal-bar-falling
+  double-storey-hook-inward-serifed-toothless-corner-diagonal-bar-rising
   double-storey-hook-inward-serifed-toothless-rounded
-  double-storey-hook-inward-serifed-toothless-rounded-diagonal-bar
+  double-storey-hook-inward-serifed-toothless-rounded-curved-bar-falling
+  double-storey-hook-inward-serifed-toothless-rounded-curved-bar-rising
   double-storey-hook-inward-serifed-toothless-rounded-diagonal-bar-falling
+  double-storey-hook-inward-serifed-toothless-rounded-diagonal-bar-rising
   double-storey-serifed
-  double-storey-serifed-diagonal-bar
+  double-storey-serifed-curved-bar-falling
+  double-storey-serifed-curved-bar-rising
   double-storey-serifed-diagonal-bar-falling
+  double-storey-serifed-diagonal-bar-rising
   double-storey-serifless
-  double-storey-serifless-diagonal-bar
+  double-storey-serifless-curved-bar-falling
+  double-storey-serifless-curved-bar-rising
   double-storey-serifless-diagonal-bar-falling
+  double-storey-serifless-diagonal-bar-rising
   double-storey-tailed
-  double-storey-tailed-diagonal-bar
+  double-storey-tailed-curved-bar-falling
+  double-storey-tailed-curved-bar-rising
   double-storey-tailed-diagonal-bar-falling
+  double-storey-tailed-diagonal-bar-rising
   double-storey-toothless-corner
-  double-storey-toothless-corner-diagonal-bar
+  double-storey-toothless-corner-curved-bar-falling
+  double-storey-toothless-corner-curved-bar-rising
   double-storey-toothless-corner-diagonal-bar-falling
+  double-storey-toothless-corner-diagonal-bar-rising
   double-storey-toothless-rounded
-  double-storey-toothless-rounded-diagonal-bar
+  double-storey-toothless-rounded-curved-bar-falling
+  double-storey-toothless-rounded-curved-bar-rising
   double-storey-toothless-rounded-diagonal-bar-falling
+  double-storey-toothless-rounded-diagonal-bar-rising
   single-storey-bottom-cut-serifless
   single-storey-double-serifed
   single-storey-earless-corner-bottom-cut-serifless
@@ -1265,47 +1329,47 @@
 
 [capital-a] tag=cv11 sampler="A"
   curly-base-serifed
-  curly-base-serifed-diagonal-bar
   curly-base-serifed-diagonal-bar-falling
+  curly-base-serifed-diagonal-bar-rising
   curly-serifless
-  curly-serifless-diagonal-bar
   curly-serifless-diagonal-bar-falling
+  curly-serifless-diagonal-bar-rising
   curly-top-serifed
-  curly-top-serifed-diagonal-bar
   curly-top-serifed-diagonal-bar-falling
+  curly-top-serifed-diagonal-bar-rising
   curly-tri-serifed
-  curly-tri-serifed-diagonal-bar
   curly-tri-serifed-diagonal-bar-falling
+  curly-tri-serifed-diagonal-bar-rising
   round-top-base-serifed
-  round-top-base-serifed-diagonal-bar
   round-top-base-serifed-diagonal-bar-falling
+  round-top-base-serifed-diagonal-bar-rising
   round-top-serifless
-  round-top-serifless-diagonal-bar
   round-top-serifless-diagonal-bar-falling
+  round-top-serifless-diagonal-bar-rising
   square-bottom-base-serifed
-  square-bottom-base-serifed-diagonal-bar
   square-bottom-base-serifed-diagonal-bar-falling
+  square-bottom-base-serifed-diagonal-bar-rising
   square-bottom-serifless
-  square-bottom-serifless-diagonal-bar
   square-bottom-serifless-diagonal-bar-falling
+  square-bottom-serifless-diagonal-bar-rising
   square-bottom-top-serifed
-  square-bottom-top-serifed-diagonal-bar
   square-bottom-top-serifed-diagonal-bar-falling
+  square-bottom-top-serifed-diagonal-bar-rising
   square-bottom-tri-serifed
-  square-bottom-tri-serifed-diagonal-bar
   square-bottom-tri-serifed-diagonal-bar-falling
+  square-bottom-tri-serifed-diagonal-bar-rising
   straight-base-serifed
-  straight-base-serifed-diagonal-bar
   straight-base-serifed-diagonal-bar-falling
+  straight-base-serifed-diagonal-bar-rising
   straight-serifless
-  straight-serifless-diagonal-bar
   straight-serifless-diagonal-bar-falling
+  straight-serifless-diagonal-bar-rising
   straight-top-serifed
-  straight-top-serifed-diagonal-bar
   straight-top-serifed-diagonal-bar-falling
+  straight-top-serifed-diagonal-bar-rising
   straight-tri-serifed
-  straight-tri-serifed-diagonal-bar
   straight-tri-serifed-diagonal-bar-falling
+  straight-tri-serifed-diagonal-bar-rising
 
 [capital-b] tag=cv13 sampler="B"
   more-asymmetric-bilateral-serifed
@@ -4134,7 +4198,7 @@
   crossing
   crossing-asymmetric
   crossing-reverse-asymmetric
-  two-circles
+  double-circle
 
 [ellipsis-density] tag=VXAW sampler="…"
   dense
