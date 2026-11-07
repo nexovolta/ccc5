@@ -635,7 +635,7 @@ periodSize = 'blend(weight, [260, 123], [303, 133], [389, 152], [537, 172], [609
 
 onumZeroHeightRatio = 1
 
-essRatio = 1
+essRatio = 1.12
 archDepth = 192
 smallArchDepth = 256
 
@@ -1279,7 +1279,7 @@ periodSize = 'blend(weight, [260, 123], [303, 133], [389, 152], [537, 172], [609
 
 onumZeroHeightRatio = 1
 
-essRatio = 1
+essRatio = 1.12
 archDepth = 192
 smallArchDepth = 256
 
