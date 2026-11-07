@@ -5112,7 +5112,9 @@
   rounded
 
 [lower-digamma] tag=cv19 sampler="ϝ"
-  straight
+  flat-top
+  flat-top-bend
+  flat-top-upturn
   toothless-corner
   toothless-rounded
 
