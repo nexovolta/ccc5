@@ -1447,18 +1447,18 @@
 
 [capital-e] tag=cv20 sampler="E"
   capped
-  diagonal-crossbar
-  diagonal-crossbar-capped
   diagonal-crossbar-falling
   diagonal-crossbar-falling-capped
   diagonal-crossbar-falling-serifed
   diagonal-crossbar-falling-serifed-capped
   diagonal-crossbar-falling-top-left-serifed
   diagonal-crossbar-falling-top-left-serifed-capped
-  diagonal-crossbar-serifed
-  diagonal-crossbar-serifed-capped
-  diagonal-crossbar-top-left-serifed
-  diagonal-crossbar-top-left-serifed-capped
+  diagonal-crossbar-rising
+  diagonal-crossbar-rising-capped
+  diagonal-crossbar-rising-serifed
+  diagonal-crossbar-rising-serifed-capped
+  diagonal-crossbar-rising-top-left-serifed
+  diagonal-crossbar-rising-top-left-serifed-capped
   serifed
   serifed-capped
   serifless
@@ -1499,18 +1499,18 @@
 
 [capital-f] tag=cv25 sampler="F"
   capped
-  diagonal-crossbar
-  diagonal-crossbar-capped
   diagonal-crossbar-falling
   diagonal-crossbar-falling-capped
   diagonal-crossbar-falling-serifed
   diagonal-crossbar-falling-serifed-capped
   diagonal-crossbar-falling-top-left-serifed
   diagonal-crossbar-falling-top-left-serifed-capped
-  diagonal-crossbar-serifed
-  diagonal-crossbar-serifed-capped
-  diagonal-crossbar-top-left-serifed
-  diagonal-crossbar-top-left-serifed-capped
+  diagonal-crossbar-rising
+  diagonal-crossbar-rising-capped
+  diagonal-crossbar-rising-serifed
+  diagonal-crossbar-rising-serifed-capped
+  diagonal-crossbar-rising-top-left-serifed
+  diagonal-crossbar-rising-top-left-serifed-capped
   serifed
   serifed-capped
   serifless
@@ -1519,143 +1519,143 @@
 
 [capital-g] tag=cv27 sampler="G"
   flat-bottom-corner-hooked-capped
-  flat-bottom-corner-hooked-diagonal-crossbar
-  flat-bottom-corner-hooked-diagonal-crossbar-capped
   flat-bottom-corner-hooked-diagonal-crossbar-falling
   flat-bottom-corner-hooked-diagonal-crossbar-falling-capped
+  flat-bottom-corner-hooked-diagonal-crossbar-rising
+  flat-bottom-corner-hooked-diagonal-crossbar-rising-capped
   flat-bottom-corner-hooked-hooked
   flat-bottom-corner-hooked-hookless
   flat-bottom-flat-hooked-capped
-  flat-bottom-flat-hooked-diagonal-crossbar
-  flat-bottom-flat-hooked-diagonal-crossbar-capped
   flat-bottom-flat-hooked-diagonal-crossbar-falling
   flat-bottom-flat-hooked-diagonal-crossbar-falling-capped
+  flat-bottom-flat-hooked-diagonal-crossbar-rising
+  flat-bottom-flat-hooked-diagonal-crossbar-rising-capped
   flat-bottom-flat-hooked-hooked
   flat-bottom-flat-hooked-hookless
   flat-bottom-inward-serifed-capped
-  flat-bottom-inward-serifed-diagonal-crossbar
-  flat-bottom-inward-serifed-diagonal-crossbar-capped
   flat-bottom-inward-serifed-diagonal-crossbar-falling
   flat-bottom-inward-serifed-diagonal-crossbar-falling-capped
+  flat-bottom-inward-serifed-diagonal-crossbar-rising
+  flat-bottom-inward-serifed-diagonal-crossbar-rising-capped
   flat-bottom-inward-serifed-hooked
   flat-bottom-inward-serifed-hookless
   flat-bottom-serifed-capped
-  flat-bottom-serifed-diagonal-crossbar
-  flat-bottom-serifed-diagonal-crossbar-capped
   flat-bottom-serifed-diagonal-crossbar-falling
   flat-bottom-serifed-diagonal-crossbar-falling-capped
+  flat-bottom-serifed-diagonal-crossbar-rising
+  flat-bottom-serifed-diagonal-crossbar-rising-capped
   flat-bottom-serifed-hooked
   flat-bottom-serifed-hookless
   flat-bottom-serifless-capped
-  flat-bottom-serifless-diagonal-crossbar
-  flat-bottom-serifless-diagonal-crossbar-capped
   flat-bottom-serifless-diagonal-crossbar-falling
   flat-bottom-serifless-diagonal-crossbar-falling-capped
+  flat-bottom-serifless-diagonal-crossbar-rising
+  flat-bottom-serifless-diagonal-crossbar-rising-capped
   flat-bottom-serifless-hooked
   flat-bottom-serifless-hookless
   toothed-corner-hooked-capped
-  toothed-corner-hooked-diagonal-crossbar
-  toothed-corner-hooked-diagonal-crossbar-capped
   toothed-corner-hooked-diagonal-crossbar-falling
   toothed-corner-hooked-diagonal-crossbar-falling-capped
+  toothed-corner-hooked-diagonal-crossbar-rising
+  toothed-corner-hooked-diagonal-crossbar-rising-capped
   toothed-corner-hooked-hooked
   toothed-corner-hooked-hookless
   toothed-flat-hooked-capped
-  toothed-flat-hooked-diagonal-crossbar
-  toothed-flat-hooked-diagonal-crossbar-capped
   toothed-flat-hooked-diagonal-crossbar-falling
   toothed-flat-hooked-diagonal-crossbar-falling-capped
+  toothed-flat-hooked-diagonal-crossbar-rising
+  toothed-flat-hooked-diagonal-crossbar-rising-capped
   toothed-flat-hooked-hooked
   toothed-flat-hooked-hookless
   toothed-inward-serifed-capped
-  toothed-inward-serifed-diagonal-crossbar
-  toothed-inward-serifed-diagonal-crossbar-capped
   toothed-inward-serifed-diagonal-crossbar-falling
   toothed-inward-serifed-diagonal-crossbar-falling-capped
+  toothed-inward-serifed-diagonal-crossbar-rising
+  toothed-inward-serifed-diagonal-crossbar-rising-capped
   toothed-inward-serifed-hooked
   toothed-inward-serifed-hookless
   toothed-serifed-capped
-  toothed-serifed-diagonal-crossbar
-  toothed-serifed-diagonal-crossbar-capped
   toothed-serifed-diagonal-crossbar-falling
   toothed-serifed-diagonal-crossbar-falling-capped
+  toothed-serifed-diagonal-crossbar-rising
+  toothed-serifed-diagonal-crossbar-rising-capped
   toothed-serifed-hooked
   toothed-serifed-hookless
   toothed-serifless-capped
-  toothed-serifless-diagonal-crossbar
-  toothed-serifless-diagonal-crossbar-capped
   toothed-serifless-diagonal-crossbar-falling
   toothed-serifless-diagonal-crossbar-falling-capped
+  toothed-serifless-diagonal-crossbar-rising
+  toothed-serifless-diagonal-crossbar-rising-capped
   toothed-serifless-hooked
   toothed-serifless-hookless
   toothless-corner-corner-hooked-capped
-  toothless-corner-corner-hooked-diagonal-crossbar
-  toothless-corner-corner-hooked-diagonal-crossbar-capped
   toothless-corner-corner-hooked-diagonal-crossbar-falling
   toothless-corner-corner-hooked-diagonal-crossbar-falling-capped
+  toothless-corner-corner-hooked-diagonal-crossbar-rising
+  toothless-corner-corner-hooked-diagonal-crossbar-rising-capped
   toothless-corner-corner-hooked-hooked
   toothless-corner-corner-hooked-hookless
   toothless-corner-flat-hooked-capped
-  toothless-corner-flat-hooked-diagonal-crossbar
-  toothless-corner-flat-hooked-diagonal-crossbar-capped
   toothless-corner-flat-hooked-diagonal-crossbar-falling
   toothless-corner-flat-hooked-diagonal-crossbar-falling-capped
+  toothless-corner-flat-hooked-diagonal-crossbar-rising
+  toothless-corner-flat-hooked-diagonal-crossbar-rising-capped
   toothless-corner-flat-hooked-hooked
   toothless-corner-flat-hooked-hookless
   toothless-corner-inward-serifed-capped
-  toothless-corner-inward-serifed-diagonal-crossbar
-  toothless-corner-inward-serifed-diagonal-crossbar-capped
   toothless-corner-inward-serifed-diagonal-crossbar-falling
   toothless-corner-inward-serifed-diagonal-crossbar-falling-capped
+  toothless-corner-inward-serifed-diagonal-crossbar-rising
+  toothless-corner-inward-serifed-diagonal-crossbar-rising-capped
   toothless-corner-inward-serifed-hooked
   toothless-corner-inward-serifed-hookless
   toothless-corner-serifed-capped
-  toothless-corner-serifed-diagonal-crossbar
-  toothless-corner-serifed-diagonal-crossbar-capped
   toothless-corner-serifed-diagonal-crossbar-falling
   toothless-corner-serifed-diagonal-crossbar-falling-capped
+  toothless-corner-serifed-diagonal-crossbar-rising
+  toothless-corner-serifed-diagonal-crossbar-rising-capped
   toothless-corner-serifed-hooked
   toothless-corner-serifed-hookless
   toothless-corner-serifless-capped
-  toothless-corner-serifless-diagonal-crossbar
-  toothless-corner-serifless-diagonal-crossbar-capped
   toothless-corner-serifless-diagonal-crossbar-falling
   toothless-corner-serifless-diagonal-crossbar-falling-capped
+  toothless-corner-serifless-diagonal-crossbar-rising
+  toothless-corner-serifless-diagonal-crossbar-rising-capped
   toothless-corner-serifless-hooked
   toothless-corner-serifless-hookless
   toothless-rounded-corner-hooked-capped
-  toothless-rounded-corner-hooked-diagonal-crossbar
-  toothless-rounded-corner-hooked-diagonal-crossbar-capped
   toothless-rounded-corner-hooked-diagonal-crossbar-falling
   toothless-rounded-corner-hooked-diagonal-crossbar-falling-capped
+  toothless-rounded-corner-hooked-diagonal-crossbar-rising
+  toothless-rounded-corner-hooked-diagonal-crossbar-rising-capped
   toothless-rounded-corner-hooked-hooked
   toothless-rounded-corner-hooked-hookless
   toothless-rounded-flat-hooked-capped
-  toothless-rounded-flat-hooked-diagonal-crossbar
-  toothless-rounded-flat-hooked-diagonal-crossbar-capped
   toothless-rounded-flat-hooked-diagonal-crossbar-falling
   toothless-rounded-flat-hooked-diagonal-crossbar-falling-capped
+  toothless-rounded-flat-hooked-diagonal-crossbar-rising
+  toothless-rounded-flat-hooked-diagonal-crossbar-rising-capped
   toothless-rounded-flat-hooked-hooked
   toothless-rounded-flat-hooked-hookless
   toothless-rounded-inward-serifed-capped
-  toothless-rounded-inward-serifed-diagonal-crossbar
-  toothless-rounded-inward-serifed-diagonal-crossbar-capped
   toothless-rounded-inward-serifed-diagonal-crossbar-falling
   toothless-rounded-inward-serifed-diagonal-crossbar-falling-capped
+  toothless-rounded-inward-serifed-diagonal-crossbar-rising
+  toothless-rounded-inward-serifed-diagonal-crossbar-rising-capped
   toothless-rounded-inward-serifed-hooked
   toothless-rounded-inward-serifed-hookless
   toothless-rounded-serifed-capped
-  toothless-rounded-serifed-diagonal-crossbar
-  toothless-rounded-serifed-diagonal-crossbar-capped
   toothless-rounded-serifed-diagonal-crossbar-falling
   toothless-rounded-serifed-diagonal-crossbar-falling-capped
+  toothless-rounded-serifed-diagonal-crossbar-rising
+  toothless-rounded-serifed-diagonal-crossbar-rising-capped
   toothless-rounded-serifed-hooked
   toothless-rounded-serifed-hookless
   toothless-rounded-serifless-capped
-  toothless-rounded-serifless-diagonal-crossbar
-  toothless-rounded-serifless-diagonal-crossbar-capped
   toothless-rounded-serifless-diagonal-crossbar-falling
   toothless-rounded-serifless-diagonal-crossbar-falling-capped
+  toothless-rounded-serifless-diagonal-crossbar-rising
+  toothless-rounded-serifless-diagonal-crossbar-rising-capped
   toothless-rounded-serifless-hooked
   toothless-rounded-serifless-hookless
 
@@ -1663,36 +1663,36 @@
   bilateral-motion-serifed
   bottom-serifed
   capped
-  diagonal-crossbar
-  diagonal-crossbar-bilateral-motion-serifed
-  diagonal-crossbar-bottom-serifed
-  diagonal-crossbar-capped
   diagonal-crossbar-falling
   diagonal-crossbar-falling-bilateral-motion-serifed
   diagonal-crossbar-falling-bottom-serifed
   diagonal-crossbar-falling-capped
   diagonal-crossbar-falling-serifed
   diagonal-crossbar-falling-top-right-serifed
-  diagonal-crossbar-serifed
-  diagonal-crossbar-top-right-serifed
+  diagonal-crossbar-rising
+  diagonal-crossbar-rising-bilateral-motion-serifed
+  diagonal-crossbar-rising-bottom-serifed
+  diagonal-crossbar-rising-capped
+  diagonal-crossbar-rising-serifed
+  diagonal-crossbar-rising-top-right-serifed
   serifed
   serifless
   top-right-serifed
 
 [capital-h] tag=cv30 sampler="H"
   bilateral-motion-serifed
-  diagonal-crossbar
-  diagonal-crossbar-bilateral-motion-serifed
   diagonal-crossbar-falling
   diagonal-crossbar-falling-bilateral-motion-serifed
   diagonal-crossbar-falling-serifed
   diagonal-crossbar-falling-top-left-bottom-right-serifed
   diagonal-crossbar-falling-top-left-serifed
   diagonal-crossbar-falling-top-right-motion-serifed
-  diagonal-crossbar-serifed
-  diagonal-crossbar-top-left-bottom-right-serifed
-  diagonal-crossbar-top-left-serifed
-  diagonal-crossbar-top-right-motion-serifed
+  diagonal-crossbar-rising
+  diagonal-crossbar-rising-bilateral-motion-serifed
+  diagonal-crossbar-rising-serifed
+  diagonal-crossbar-rising-top-left-bottom-right-serifed
+  diagonal-crossbar-rising-top-left-serifed
+  diagonal-crossbar-rising-top-right-motion-serifed
   serifed
   serifless
   top-left-bottom-right-serifed
@@ -1986,8 +1986,8 @@
   standard-top-right-motion-serifed
 
 [capital-o-bar] tag=cv48 sampler="Ɵ"
-  diagonal-crossbar
   diagonal-crossbar-falling
+  diagonal-crossbar-rising
   standard
 
 [capital-omega] tag=cv50 sampler="Ω"
@@ -2116,14 +2116,14 @@
   unilateral-serifed-flat-hooked
 
 [capital-schwa] tag=cv63 sampler="Ə"
-  diagonal-crossbar
-  diagonal-crossbar-corner-hooked
   diagonal-crossbar-falling
   diagonal-crossbar-falling-corner-hooked
   diagonal-crossbar-falling-flat-hooked
   diagonal-crossbar-falling-serif
-  diagonal-crossbar-flat-hooked
-  diagonal-crossbar-serif
+  diagonal-crossbar-rising
+  diagonal-crossbar-rising-corner-hooked
+  diagonal-crossbar-rising-flat-hooked
+  diagonal-crossbar-rising-serif
   flat-crossbar
   flat-crossbar-corner-hooked
   flat-crossbar-flat-hooked
@@ -2146,8 +2146,8 @@
   serifless
 
 [capital-theta] tag=cv69 sampler="Θ"
-  diagonal-crossbar
   diagonal-crossbar-falling
+  diagonal-crossbar-rising
   serifed
   serifless
 
@@ -2364,16 +2364,16 @@
   straight-unilateral-motion-serifed
 
 [capital-xi] tag=cv80 sampler="Ξ"
-  diagonal-crossbar
   diagonal-crossbar-falling
   diagonal-crossbar-falling-full-serifed
   diagonal-crossbar-falling-middle-serifed
   diagonal-crossbar-falling-motion-serifed
   diagonal-crossbar-falling-top-bottom-serifed
-  diagonal-crossbar-full-serifed
-  diagonal-crossbar-middle-serifed
-  diagonal-crossbar-motion-serifed
-  diagonal-crossbar-top-bottom-serifed
+  diagonal-crossbar-rising
+  diagonal-crossbar-rising-full-serifed
+  diagonal-crossbar-rising-middle-serifed
+  diagonal-crossbar-rising-motion-serifed
+  diagonal-crossbar-rising-top-bottom-serifed
   full-serifed
   middle-serifed
   motion-serifed
@@ -2526,12 +2526,6 @@
   bilateral-mid-serifed
   bilateral-serifed
   corner-hooked
-  diagonal-crossbar
-  diagonal-crossbar-bilateral-inward-mid-serifed
-  diagonal-crossbar-bilateral-inward-serifed
-  diagonal-crossbar-bilateral-mid-serifed
-  diagonal-crossbar-bilateral-serifed
-  diagonal-crossbar-corner-hooked
   diagonal-crossbar-falling
   diagonal-crossbar-falling-bilateral-inward-mid-serifed
   diagonal-crossbar-falling-bilateral-inward-serifed
@@ -2577,45 +2571,51 @@
   diagonal-crossbar-falling-unilateral-serifed
   diagonal-crossbar-falling-unilateral-serifed-corner-hooked
   diagonal-crossbar-falling-unilateral-serifed-flat-hooked
-  diagonal-crossbar-flat-hooked
-  diagonal-crossbar-middle-serifed
-  diagonal-crossbar-top-corner-hooked-bottom-corner-hooked
-  diagonal-crossbar-top-corner-hooked-bottom-flat-hooked
-  diagonal-crossbar-top-corner-hooked-bottom-inward-serifed
-  diagonal-crossbar-top-corner-hooked-bottom-rounded
-  diagonal-crossbar-top-corner-hooked-bottom-serifed
-  diagonal-crossbar-top-flat-hooked-bottom-corner-hooked
-  diagonal-crossbar-top-flat-hooked-bottom-flat-hooked
-  diagonal-crossbar-top-flat-hooked-bottom-inward-serifed
-  diagonal-crossbar-top-flat-hooked-bottom-rounded
-  diagonal-crossbar-top-flat-hooked-bottom-serifed
-  diagonal-crossbar-top-inward-serifed-bottom-corner-hooked
-  diagonal-crossbar-top-inward-serifed-bottom-flat-hooked
-  diagonal-crossbar-top-inward-serifed-bottom-inward-serifed
-  diagonal-crossbar-top-inward-serifed-bottom-rounded
-  diagonal-crossbar-top-inward-serifed-bottom-serifed
-  diagonal-crossbar-top-rounded-bottom-corner-hooked
-  diagonal-crossbar-top-rounded-bottom-flat-hooked
-  diagonal-crossbar-top-rounded-bottom-inward-serifed
-  diagonal-crossbar-top-rounded-bottom-rounded
-  diagonal-crossbar-top-rounded-bottom-serifed
-  diagonal-crossbar-top-serifed-bottom-corner-hooked
-  diagonal-crossbar-top-serifed-bottom-flat-hooked
-  diagonal-crossbar-top-serifed-bottom-inward-serifed
-  diagonal-crossbar-top-serifed-bottom-rounded
-  diagonal-crossbar-top-serifed-bottom-serifed
-  diagonal-crossbar-unilateral-bottom-inward-mid-serifed
-  diagonal-crossbar-unilateral-bottom-inward-serifed
-  diagonal-crossbar-unilateral-bottom-mid-serifed
-  diagonal-crossbar-unilateral-bottom-serifed
-  diagonal-crossbar-unilateral-inward-mid-serifed
-  diagonal-crossbar-unilateral-inward-serifed
-  diagonal-crossbar-unilateral-inward-serifed-corner-hooked
-  diagonal-crossbar-unilateral-inward-serifed-flat-hooked
-  diagonal-crossbar-unilateral-mid-serifed
-  diagonal-crossbar-unilateral-serifed
-  diagonal-crossbar-unilateral-serifed-corner-hooked
-  diagonal-crossbar-unilateral-serifed-flat-hooked
+  diagonal-crossbar-rising
+  diagonal-crossbar-rising-bilateral-inward-mid-serifed
+  diagonal-crossbar-rising-bilateral-inward-serifed
+  diagonal-crossbar-rising-bilateral-mid-serifed
+  diagonal-crossbar-rising-bilateral-serifed
+  diagonal-crossbar-rising-corner-hooked
+  diagonal-crossbar-rising-flat-hooked
+  diagonal-crossbar-rising-middle-serifed
+  diagonal-crossbar-rising-top-corner-hooked-bottom-corner-hooked
+  diagonal-crossbar-rising-top-corner-hooked-bottom-flat-hooked
+  diagonal-crossbar-rising-top-corner-hooked-bottom-inward-serifed
+  diagonal-crossbar-rising-top-corner-hooked-bottom-rounded
+  diagonal-crossbar-rising-top-corner-hooked-bottom-serifed
+  diagonal-crossbar-rising-top-flat-hooked-bottom-corner-hooked
+  diagonal-crossbar-rising-top-flat-hooked-bottom-flat-hooked
+  diagonal-crossbar-rising-top-flat-hooked-bottom-inward-serifed
+  diagonal-crossbar-rising-top-flat-hooked-bottom-rounded
+  diagonal-crossbar-rising-top-flat-hooked-bottom-serifed
+  diagonal-crossbar-rising-top-inward-serifed-bottom-corner-hooked
+  diagonal-crossbar-rising-top-inward-serifed-bottom-flat-hooked
+  diagonal-crossbar-rising-top-inward-serifed-bottom-inward-serifed
+  diagonal-crossbar-rising-top-inward-serifed-bottom-rounded
+  diagonal-crossbar-rising-top-inward-serifed-bottom-serifed
+  diagonal-crossbar-rising-top-rounded-bottom-corner-hooked
+  diagonal-crossbar-rising-top-rounded-bottom-flat-hooked
+  diagonal-crossbar-rising-top-rounded-bottom-inward-serifed
+  diagonal-crossbar-rising-top-rounded-bottom-rounded
+  diagonal-crossbar-rising-top-rounded-bottom-serifed
+  diagonal-crossbar-rising-top-serifed-bottom-corner-hooked
+  diagonal-crossbar-rising-top-serifed-bottom-flat-hooked
+  diagonal-crossbar-rising-top-serifed-bottom-inward-serifed
+  diagonal-crossbar-rising-top-serifed-bottom-rounded
+  diagonal-crossbar-rising-top-serifed-bottom-serifed
+  diagonal-crossbar-rising-unilateral-bottom-inward-mid-serifed
+  diagonal-crossbar-rising-unilateral-bottom-inward-serifed
+  diagonal-crossbar-rising-unilateral-bottom-mid-serifed
+  diagonal-crossbar-rising-unilateral-bottom-serifed
+  diagonal-crossbar-rising-unilateral-inward-mid-serifed
+  diagonal-crossbar-rising-unilateral-inward-serifed
+  diagonal-crossbar-rising-unilateral-inward-serifed-corner-hooked
+  diagonal-crossbar-rising-unilateral-inward-serifed-flat-hooked
+  diagonal-crossbar-rising-unilateral-mid-serifed
+  diagonal-crossbar-rising-unilateral-serifed
+  diagonal-crossbar-rising-unilateral-serifed-corner-hooked
+  diagonal-crossbar-rising-unilateral-serifed-flat-hooked
   flat-hooked
   middle-serifed
   serifless
@@ -3142,12 +3142,6 @@
   bilateral-mid-serifed
   bilateral-serifed
   corner-hooked
-  diagonal-crossbar
-  diagonal-crossbar-bilateral-inward-mid-serifed
-  diagonal-crossbar-bilateral-inward-serifed
-  diagonal-crossbar-bilateral-mid-serifed
-  diagonal-crossbar-bilateral-serifed
-  diagonal-crossbar-corner-hooked
   diagonal-crossbar-falling
   diagonal-crossbar-falling-bilateral-inward-mid-serifed
   diagonal-crossbar-falling-bilateral-inward-serifed
@@ -3193,45 +3187,51 @@
   diagonal-crossbar-falling-unilateral-serifed
   diagonal-crossbar-falling-unilateral-serifed-corner-hooked
   diagonal-crossbar-falling-unilateral-serifed-flat-hooked
-  diagonal-crossbar-flat-hooked
-  diagonal-crossbar-middle-serifed
-  diagonal-crossbar-top-corner-hooked-bottom-corner-hooked
-  diagonal-crossbar-top-corner-hooked-bottom-flat-hooked
-  diagonal-crossbar-top-corner-hooked-bottom-inward-serifed
-  diagonal-crossbar-top-corner-hooked-bottom-rounded
-  diagonal-crossbar-top-corner-hooked-bottom-serifed
-  diagonal-crossbar-top-flat-hooked-bottom-corner-hooked
-  diagonal-crossbar-top-flat-hooked-bottom-flat-hooked
-  diagonal-crossbar-top-flat-hooked-bottom-inward-serifed
-  diagonal-crossbar-top-flat-hooked-bottom-rounded
-  diagonal-crossbar-top-flat-hooked-bottom-serifed
-  diagonal-crossbar-top-inward-serifed-bottom-corner-hooked
-  diagonal-crossbar-top-inward-serifed-bottom-flat-hooked
-  diagonal-crossbar-top-inward-serifed-bottom-inward-serifed
-  diagonal-crossbar-top-inward-serifed-bottom-rounded
-  diagonal-crossbar-top-inward-serifed-bottom-serifed
-  diagonal-crossbar-top-rounded-bottom-corner-hooked
-  diagonal-crossbar-top-rounded-bottom-flat-hooked
-  diagonal-crossbar-top-rounded-bottom-inward-serifed
-  diagonal-crossbar-top-rounded-bottom-rounded
-  diagonal-crossbar-top-rounded-bottom-serifed
-  diagonal-crossbar-top-serifed-bottom-corner-hooked
-  diagonal-crossbar-top-serifed-bottom-flat-hooked
-  diagonal-crossbar-top-serifed-bottom-inward-serifed
-  diagonal-crossbar-top-serifed-bottom-rounded
-  diagonal-crossbar-top-serifed-bottom-serifed
-  diagonal-crossbar-unilateral-bottom-inward-mid-serifed
-  diagonal-crossbar-unilateral-bottom-inward-serifed
-  diagonal-crossbar-unilateral-bottom-mid-serifed
-  diagonal-crossbar-unilateral-bottom-serifed
-  diagonal-crossbar-unilateral-inward-mid-serifed
-  diagonal-crossbar-unilateral-inward-serifed
-  diagonal-crossbar-unilateral-inward-serifed-corner-hooked
-  diagonal-crossbar-unilateral-inward-serifed-flat-hooked
-  diagonal-crossbar-unilateral-mid-serifed
-  diagonal-crossbar-unilateral-serifed
-  diagonal-crossbar-unilateral-serifed-corner-hooked
-  diagonal-crossbar-unilateral-serifed-flat-hooked
+  diagonal-crossbar-rising
+  diagonal-crossbar-rising-bilateral-inward-mid-serifed
+  diagonal-crossbar-rising-bilateral-inward-serifed
+  diagonal-crossbar-rising-bilateral-mid-serifed
+  diagonal-crossbar-rising-bilateral-serifed
+  diagonal-crossbar-rising-corner-hooked
+  diagonal-crossbar-rising-flat-hooked
+  diagonal-crossbar-rising-middle-serifed
+  diagonal-crossbar-rising-top-corner-hooked-bottom-corner-hooked
+  diagonal-crossbar-rising-top-corner-hooked-bottom-flat-hooked
+  diagonal-crossbar-rising-top-corner-hooked-bottom-inward-serifed
+  diagonal-crossbar-rising-top-corner-hooked-bottom-rounded
+  diagonal-crossbar-rising-top-corner-hooked-bottom-serifed
+  diagonal-crossbar-rising-top-flat-hooked-bottom-corner-hooked
+  diagonal-crossbar-rising-top-flat-hooked-bottom-flat-hooked
+  diagonal-crossbar-rising-top-flat-hooked-bottom-inward-serifed
+  diagonal-crossbar-rising-top-flat-hooked-bottom-rounded
+  diagonal-crossbar-rising-top-flat-hooked-bottom-serifed
+  diagonal-crossbar-rising-top-inward-serifed-bottom-corner-hooked
+  diagonal-crossbar-rising-top-inward-serifed-bottom-flat-hooked
+  diagonal-crossbar-rising-top-inward-serifed-bottom-inward-serifed
+  diagonal-crossbar-rising-top-inward-serifed-bottom-rounded
+  diagonal-crossbar-rising-top-inward-serifed-bottom-serifed
+  diagonal-crossbar-rising-top-rounded-bottom-corner-hooked
+  diagonal-crossbar-rising-top-rounded-bottom-flat-hooked
+  diagonal-crossbar-rising-top-rounded-bottom-inward-serifed
+  diagonal-crossbar-rising-top-rounded-bottom-rounded
+  diagonal-crossbar-rising-top-rounded-bottom-serifed
+  diagonal-crossbar-rising-top-serifed-bottom-corner-hooked
+  diagonal-crossbar-rising-top-serifed-bottom-flat-hooked
+  diagonal-crossbar-rising-top-serifed-bottom-inward-serifed
+  diagonal-crossbar-rising-top-serifed-bottom-rounded
+  diagonal-crossbar-rising-top-serifed-bottom-serifed
+  diagonal-crossbar-rising-unilateral-bottom-inward-mid-serifed
+  diagonal-crossbar-rising-unilateral-bottom-inward-serifed
+  diagonal-crossbar-rising-unilateral-bottom-mid-serifed
+  diagonal-crossbar-rising-unilateral-bottom-serifed
+  diagonal-crossbar-rising-unilateral-inward-mid-serifed
+  diagonal-crossbar-rising-unilateral-inward-serifed
+  diagonal-crossbar-rising-unilateral-inward-serifed-corner-hooked
+  diagonal-crossbar-rising-unilateral-inward-serifed-flat-hooked
+  diagonal-crossbar-rising-unilateral-mid-serifed
+  diagonal-crossbar-rising-unilateral-serifed
+  diagonal-crossbar-rising-unilateral-serifed-corner-hooked
+  diagonal-crossbar-rising-unilateral-serifed-flat-hooked
   flat-hooked
   middle-serifed
   serifless
@@ -4181,12 +4181,12 @@
   through-cap
 
 [e] tag=cv21 sampler="e"
-  diagonal-crossbar
-  diagonal-crossbar-corner-hooked
   diagonal-crossbar-falling
   diagonal-crossbar-falling-corner-hooked
   diagonal-crossbar-falling-flat-hooked
-  diagonal-crossbar-flat-hooked
+  diagonal-crossbar-rising
+  diagonal-crossbar-rising-corner-hooked
+  diagonal-crossbar-rising-flat-hooked
   flat-crossbar
   flat-crossbar-corner-hooked
   flat-crossbar-flat-hooked
@@ -5618,8 +5618,8 @@
   straight-serifed
 
 [lower-o-bar] tag=cv49 sampler="ɵ"
-  diagonal-crossbar
   diagonal-crossbar-falling
+  diagonal-crossbar-rising
   standard
 
 [lower-omega] tag=VXCZ sampler="ωϖꞶꞷ꟝ɷ𝽴𝽵𝽶𝽷𝽠"
@@ -5674,14 +5674,14 @@
   flat
 
 [lower-schwa] tag=cv64 sampler="ə"
-  diagonal-crossbar
-  diagonal-crossbar-corner-hooked
   diagonal-crossbar-falling
   diagonal-crossbar-falling-corner-hooked
   diagonal-crossbar-falling-flat-hooked
   diagonal-crossbar-falling-serif
-  diagonal-crossbar-flat-hooked
-  diagonal-crossbar-serif
+  diagonal-crossbar-rising
+  diagonal-crossbar-rising-corner-hooked
+  diagonal-crossbar-rising-flat-hooked
+  diagonal-crossbar-rising-serif
   flat-crossbar
   flat-crossbar-corner-hooked
   flat-crossbar-flat-hooked
