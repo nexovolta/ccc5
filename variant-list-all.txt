@@ -165,12 +165,20 @@
   flat-top-and-bottom-toothless-corner-serifed
   flat-top-and-bottom-toothless-rounded
   flat-top-and-bottom-toothless-rounded-serifed
-  flat-top-corner-hooked
-  flat-top-corner-hooked-serifed
-  flat-top-flat-hooked
-  flat-top-flat-hooked-serifed
+  flat-top-flat-bottom
+  flat-top-flat-bottom-serifed
   flat-top-serifed
+  flat-top-toothed
+  flat-top-toothed-serifed
+  flat-top-toothless-corner
+  flat-top-toothless-corner-serifed
+  flat-top-toothless-rounded
+  flat-top-toothless-rounded-serifed
   lower-open
+  lower-open-flat-bottom
+  lower-open-toothed
+  lower-open-toothless-corner
+  lower-open-toothless-rounded
   upper-open
   upper-open-corner-hooked
   upper-open-et-corner-hooked-flat-bottom
@@ -1223,6 +1231,31 @@
   corner-hooked
   flat-hooked
   serifless
+  top-corner-hooked-bottom-corner-hooked
+  top-corner-hooked-bottom-flat-hooked
+  top-corner-hooked-bottom-inward-serifed
+  top-corner-hooked-bottom-rounded
+  top-corner-hooked-bottom-serifed
+  top-flat-hooked-bottom-corner-hooked
+  top-flat-hooked-bottom-flat-hooked
+  top-flat-hooked-bottom-inward-serifed
+  top-flat-hooked-bottom-rounded
+  top-flat-hooked-bottom-serifed
+  top-inward-serifed-bottom-corner-hooked
+  top-inward-serifed-bottom-flat-hooked
+  top-inward-serifed-bottom-inward-serifed
+  top-inward-serifed-bottom-rounded
+  top-inward-serifed-bottom-serifed
+  top-rounded-bottom-corner-hooked
+  top-rounded-bottom-flat-hooked
+  top-rounded-bottom-inward-serifed
+  top-rounded-bottom-rounded
+  top-rounded-bottom-serifed
+  top-serifed-bottom-corner-hooked
+  top-serifed-bottom-flat-hooked
+  top-serifed-bottom-inward-serifed
+  top-serifed-bottom-rounded
+  top-serifed-bottom-serifed
   unilateral-inward-serifed
   unilateral-inward-serifed-corner-hooked
   unilateral-inward-serifed-flat-hooked
@@ -1294,6 +1327,31 @@
   corner-hooked
   flat-hooked
   serifless
+  top-corner-hooked-bottom-corner-hooked
+  top-corner-hooked-bottom-flat-hooked
+  top-corner-hooked-bottom-inward-serifed
+  top-corner-hooked-bottom-rounded
+  top-corner-hooked-bottom-serifed
+  top-flat-hooked-bottom-corner-hooked
+  top-flat-hooked-bottom-flat-hooked
+  top-flat-hooked-bottom-inward-serifed
+  top-flat-hooked-bottom-rounded
+  top-flat-hooked-bottom-serifed
+  top-inward-serifed-bottom-corner-hooked
+  top-inward-serifed-bottom-flat-hooked
+  top-inward-serifed-bottom-inward-serifed
+  top-inward-serifed-bottom-rounded
+  top-inward-serifed-bottom-serifed
+  top-rounded-bottom-corner-hooked
+  top-rounded-bottom-flat-hooked
+  top-rounded-bottom-inward-serifed
+  top-rounded-bottom-rounded
+  top-rounded-bottom-serifed
+  top-serifed-bottom-corner-hooked
+  top-serifed-bottom-flat-hooked
+  top-serifed-bottom-inward-serifed
+  top-serifed-bottom-rounded
+  top-serifed-bottom-serifed
   unilateral-inward-serifed
   unilateral-inward-serifed-corner-hooked
   unilateral-inward-serifed-flat-hooked
@@ -1961,6 +2019,31 @@
   corner-hooked
   flat-hooked
   serifless
+  top-corner-hooked-bottom-corner-hooked
+  top-corner-hooked-bottom-flat-hooked
+  top-corner-hooked-bottom-inward-serifed
+  top-corner-hooked-bottom-rounded
+  top-corner-hooked-bottom-serifed
+  top-flat-hooked-bottom-corner-hooked
+  top-flat-hooked-bottom-flat-hooked
+  top-flat-hooked-bottom-inward-serifed
+  top-flat-hooked-bottom-rounded
+  top-flat-hooked-bottom-serifed
+  top-inward-serifed-bottom-corner-hooked
+  top-inward-serifed-bottom-flat-hooked
+  top-inward-serifed-bottom-inward-serifed
+  top-inward-serifed-bottom-rounded
+  top-inward-serifed-bottom-serifed
+  top-rounded-bottom-corner-hooked
+  top-rounded-bottom-flat-hooked
+  top-rounded-bottom-inward-serifed
+  top-rounded-bottom-rounded
+  top-rounded-bottom-serifed
+  top-serifed-bottom-corner-hooked
+  top-serifed-bottom-flat-hooked
+  top-serifed-bottom-inward-serifed
+  top-serifed-bottom-rounded
+  top-serifed-bottom-serifed
   unilateral-inward-serifed
   unilateral-inward-serifed-corner-hooked
   unilateral-inward-serifed-flat-hooked
@@ -2393,6 +2476,31 @@
   diagonal-crossbar-falling-corner-hooked
   diagonal-crossbar-falling-flat-hooked
   diagonal-crossbar-falling-middle-serifed
+  diagonal-crossbar-falling-top-corner-hooked-bottom-corner-hooked
+  diagonal-crossbar-falling-top-corner-hooked-bottom-flat-hooked
+  diagonal-crossbar-falling-top-corner-hooked-bottom-inward-serifed
+  diagonal-crossbar-falling-top-corner-hooked-bottom-rounded
+  diagonal-crossbar-falling-top-corner-hooked-bottom-serifed
+  diagonal-crossbar-falling-top-flat-hooked-bottom-corner-hooked
+  diagonal-crossbar-falling-top-flat-hooked-bottom-flat-hooked
+  diagonal-crossbar-falling-top-flat-hooked-bottom-inward-serifed
+  diagonal-crossbar-falling-top-flat-hooked-bottom-rounded
+  diagonal-crossbar-falling-top-flat-hooked-bottom-serifed
+  diagonal-crossbar-falling-top-inward-serifed-bottom-corner-hooked
+  diagonal-crossbar-falling-top-inward-serifed-bottom-flat-hooked
+  diagonal-crossbar-falling-top-inward-serifed-bottom-inward-serifed
+  diagonal-crossbar-falling-top-inward-serifed-bottom-rounded
+  diagonal-crossbar-falling-top-inward-serifed-bottom-serifed
+  diagonal-crossbar-falling-top-rounded-bottom-corner-hooked
+  diagonal-crossbar-falling-top-rounded-bottom-flat-hooked
+  diagonal-crossbar-falling-top-rounded-bottom-inward-serifed
+  diagonal-crossbar-falling-top-rounded-bottom-rounded
+  diagonal-crossbar-falling-top-rounded-bottom-serifed
+  diagonal-crossbar-falling-top-serifed-bottom-corner-hooked
+  diagonal-crossbar-falling-top-serifed-bottom-flat-hooked
+  diagonal-crossbar-falling-top-serifed-bottom-inward-serifed
+  diagonal-crossbar-falling-top-serifed-bottom-rounded
+  diagonal-crossbar-falling-top-serifed-bottom-serifed
   diagonal-crossbar-falling-unilateral-bottom-inward-mid-serifed
   diagonal-crossbar-falling-unilateral-bottom-inward-serifed
   diagonal-crossbar-falling-unilateral-bottom-mid-serifed
@@ -2407,6 +2515,31 @@
   diagonal-crossbar-falling-unilateral-serifed-flat-hooked
   diagonal-crossbar-flat-hooked
   diagonal-crossbar-middle-serifed
+  diagonal-crossbar-top-corner-hooked-bottom-corner-hooked
+  diagonal-crossbar-top-corner-hooked-bottom-flat-hooked
+  diagonal-crossbar-top-corner-hooked-bottom-inward-serifed
+  diagonal-crossbar-top-corner-hooked-bottom-rounded
+  diagonal-crossbar-top-corner-hooked-bottom-serifed
+  diagonal-crossbar-top-flat-hooked-bottom-corner-hooked
+  diagonal-crossbar-top-flat-hooked-bottom-flat-hooked
+  diagonal-crossbar-top-flat-hooked-bottom-inward-serifed
+  diagonal-crossbar-top-flat-hooked-bottom-rounded
+  diagonal-crossbar-top-flat-hooked-bottom-serifed
+  diagonal-crossbar-top-inward-serifed-bottom-corner-hooked
+  diagonal-crossbar-top-inward-serifed-bottom-flat-hooked
+  diagonal-crossbar-top-inward-serifed-bottom-inward-serifed
+  diagonal-crossbar-top-inward-serifed-bottom-rounded
+  diagonal-crossbar-top-inward-serifed-bottom-serifed
+  diagonal-crossbar-top-rounded-bottom-corner-hooked
+  diagonal-crossbar-top-rounded-bottom-flat-hooked
+  diagonal-crossbar-top-rounded-bottom-inward-serifed
+  diagonal-crossbar-top-rounded-bottom-rounded
+  diagonal-crossbar-top-rounded-bottom-serifed
+  diagonal-crossbar-top-serifed-bottom-corner-hooked
+  diagonal-crossbar-top-serifed-bottom-flat-hooked
+  diagonal-crossbar-top-serifed-bottom-inward-serifed
+  diagonal-crossbar-top-serifed-bottom-rounded
+  diagonal-crossbar-top-serifed-bottom-serifed
   diagonal-crossbar-unilateral-bottom-inward-mid-serifed
   diagonal-crossbar-unilateral-bottom-inward-serifed
   diagonal-crossbar-unilateral-bottom-mid-serifed
@@ -2422,6 +2555,31 @@
   flat-hooked
   middle-serifed
   serifless
+  top-corner-hooked-bottom-corner-hooked
+  top-corner-hooked-bottom-flat-hooked
+  top-corner-hooked-bottom-inward-serifed
+  top-corner-hooked-bottom-rounded
+  top-corner-hooked-bottom-serifed
+  top-flat-hooked-bottom-corner-hooked
+  top-flat-hooked-bottom-flat-hooked
+  top-flat-hooked-bottom-inward-serifed
+  top-flat-hooked-bottom-rounded
+  top-flat-hooked-bottom-serifed
+  top-inward-serifed-bottom-corner-hooked
+  top-inward-serifed-bottom-flat-hooked
+  top-inward-serifed-bottom-inward-serifed
+  top-inward-serifed-bottom-rounded
+  top-inward-serifed-bottom-serifed
+  top-rounded-bottom-corner-hooked
+  top-rounded-bottom-flat-hooked
+  top-rounded-bottom-inward-serifed
+  top-rounded-bottom-rounded
+  top-rounded-bottom-serifed
+  top-serifed-bottom-corner-hooked
+  top-serifed-bottom-flat-hooked
+  top-serifed-bottom-inward-serifed
+  top-serifed-bottom-rounded
+  top-serifed-bottom-serifed
   unilateral-bottom-inward-mid-serifed
   unilateral-bottom-inward-serifed
   unilateral-bottom-mid-serifed
@@ -2775,6 +2933,31 @@
   corner-hooked
   flat-hooked
   serifless
+  top-corner-hooked-bottom-corner-hooked
+  top-corner-hooked-bottom-flat-hooked
+  top-corner-hooked-bottom-inward-serifed
+  top-corner-hooked-bottom-rounded
+  top-corner-hooked-bottom-serifed
+  top-flat-hooked-bottom-corner-hooked
+  top-flat-hooked-bottom-flat-hooked
+  top-flat-hooked-bottom-inward-serifed
+  top-flat-hooked-bottom-rounded
+  top-flat-hooked-bottom-serifed
+  top-inward-serifed-bottom-corner-hooked
+  top-inward-serifed-bottom-flat-hooked
+  top-inward-serifed-bottom-inward-serifed
+  top-inward-serifed-bottom-rounded
+  top-inward-serifed-bottom-serifed
+  top-rounded-bottom-corner-hooked
+  top-rounded-bottom-flat-hooked
+  top-rounded-bottom-inward-serifed
+  top-rounded-bottom-rounded
+  top-rounded-bottom-serifed
+  top-serifed-bottom-corner-hooked
+  top-serifed-bottom-flat-hooked
+  top-serifed-bottom-inward-serifed
+  top-serifed-bottom-rounded
+  top-serifed-bottom-serifed
   unilateral-bottom-inward-serifed
   unilateral-bottom-inward-serifed-corner-hooked
   unilateral-bottom-inward-serifed-flat-hooked
@@ -2909,6 +3092,31 @@
   diagonal-crossbar-falling-corner-hooked
   diagonal-crossbar-falling-flat-hooked
   diagonal-crossbar-falling-middle-serifed
+  diagonal-crossbar-falling-top-corner-hooked-bottom-corner-hooked
+  diagonal-crossbar-falling-top-corner-hooked-bottom-flat-hooked
+  diagonal-crossbar-falling-top-corner-hooked-bottom-inward-serifed
+  diagonal-crossbar-falling-top-corner-hooked-bottom-rounded
+  diagonal-crossbar-falling-top-corner-hooked-bottom-serifed
+  diagonal-crossbar-falling-top-flat-hooked-bottom-corner-hooked
+  diagonal-crossbar-falling-top-flat-hooked-bottom-flat-hooked
+  diagonal-crossbar-falling-top-flat-hooked-bottom-inward-serifed
+  diagonal-crossbar-falling-top-flat-hooked-bottom-rounded
+  diagonal-crossbar-falling-top-flat-hooked-bottom-serifed
+  diagonal-crossbar-falling-top-inward-serifed-bottom-corner-hooked
+  diagonal-crossbar-falling-top-inward-serifed-bottom-flat-hooked
+  diagonal-crossbar-falling-top-inward-serifed-bottom-inward-serifed
+  diagonal-crossbar-falling-top-inward-serifed-bottom-rounded
+  diagonal-crossbar-falling-top-inward-serifed-bottom-serifed
+  diagonal-crossbar-falling-top-rounded-bottom-corner-hooked
+  diagonal-crossbar-falling-top-rounded-bottom-flat-hooked
+  diagonal-crossbar-falling-top-rounded-bottom-inward-serifed
+  diagonal-crossbar-falling-top-rounded-bottom-rounded
+  diagonal-crossbar-falling-top-rounded-bottom-serifed
+  diagonal-crossbar-falling-top-serifed-bottom-corner-hooked
+  diagonal-crossbar-falling-top-serifed-bottom-flat-hooked
+  diagonal-crossbar-falling-top-serifed-bottom-inward-serifed
+  diagonal-crossbar-falling-top-serifed-bottom-rounded
+  diagonal-crossbar-falling-top-serifed-bottom-serifed
   diagonal-crossbar-falling-unilateral-bottom-inward-mid-serifed
   diagonal-crossbar-falling-unilateral-bottom-inward-serifed
   diagonal-crossbar-falling-unilateral-bottom-mid-serifed
@@ -2923,6 +3131,31 @@
   diagonal-crossbar-falling-unilateral-serifed-flat-hooked
   diagonal-crossbar-flat-hooked
   diagonal-crossbar-middle-serifed
+  diagonal-crossbar-top-corner-hooked-bottom-corner-hooked
+  diagonal-crossbar-top-corner-hooked-bottom-flat-hooked
+  diagonal-crossbar-top-corner-hooked-bottom-inward-serifed
+  diagonal-crossbar-top-corner-hooked-bottom-rounded
+  diagonal-crossbar-top-corner-hooked-bottom-serifed
+  diagonal-crossbar-top-flat-hooked-bottom-corner-hooked
+  diagonal-crossbar-top-flat-hooked-bottom-flat-hooked
+  diagonal-crossbar-top-flat-hooked-bottom-inward-serifed
+  diagonal-crossbar-top-flat-hooked-bottom-rounded
+  diagonal-crossbar-top-flat-hooked-bottom-serifed
+  diagonal-crossbar-top-inward-serifed-bottom-corner-hooked
+  diagonal-crossbar-top-inward-serifed-bottom-flat-hooked
+  diagonal-crossbar-top-inward-serifed-bottom-inward-serifed
+  diagonal-crossbar-top-inward-serifed-bottom-rounded
+  diagonal-crossbar-top-inward-serifed-bottom-serifed
+  diagonal-crossbar-top-rounded-bottom-corner-hooked
+  diagonal-crossbar-top-rounded-bottom-flat-hooked
+  diagonal-crossbar-top-rounded-bottom-inward-serifed
+  diagonal-crossbar-top-rounded-bottom-rounded
+  diagonal-crossbar-top-rounded-bottom-serifed
+  diagonal-crossbar-top-serifed-bottom-corner-hooked
+  diagonal-crossbar-top-serifed-bottom-flat-hooked
+  diagonal-crossbar-top-serifed-bottom-inward-serifed
+  diagonal-crossbar-top-serifed-bottom-rounded
+  diagonal-crossbar-top-serifed-bottom-serifed
   diagonal-crossbar-unilateral-bottom-inward-mid-serifed
   diagonal-crossbar-unilateral-bottom-inward-serifed
   diagonal-crossbar-unilateral-bottom-mid-serifed
@@ -2938,6 +3171,31 @@
   flat-hooked
   middle-serifed
   serifless
+  top-corner-hooked-bottom-corner-hooked
+  top-corner-hooked-bottom-flat-hooked
+  top-corner-hooked-bottom-inward-serifed
+  top-corner-hooked-bottom-rounded
+  top-corner-hooked-bottom-serifed
+  top-flat-hooked-bottom-corner-hooked
+  top-flat-hooked-bottom-flat-hooked
+  top-flat-hooked-bottom-inward-serifed
+  top-flat-hooked-bottom-rounded
+  top-flat-hooked-bottom-serifed
+  top-inward-serifed-bottom-corner-hooked
+  top-inward-serifed-bottom-flat-hooked
+  top-inward-serifed-bottom-inward-serifed
+  top-inward-serifed-bottom-rounded
+  top-inward-serifed-bottom-serifed
+  top-rounded-bottom-corner-hooked
+  top-rounded-bottom-flat-hooked
+  top-rounded-bottom-inward-serifed
+  top-rounded-bottom-rounded
+  top-rounded-bottom-serifed
+  top-serifed-bottom-corner-hooked
+  top-serifed-bottom-flat-hooked
+  top-serifed-bottom-inward-serifed
+  top-serifed-bottom-rounded
+  top-serifed-bottom-serifed
   unilateral-bottom-inward-mid-serifed
   unilateral-bottom-inward-serifed
   unilateral-bottom-mid-serifed
@@ -3695,6 +3953,31 @@
   tall-corner-hooked
   tall-flat-hooked
   tall-serifless
+  tall-top-corner-hooked-bottom-corner-hooked
+  tall-top-corner-hooked-bottom-flat-hooked
+  tall-top-corner-hooked-bottom-inward-serifed
+  tall-top-corner-hooked-bottom-rounded
+  tall-top-corner-hooked-bottom-serifed
+  tall-top-flat-hooked-bottom-corner-hooked
+  tall-top-flat-hooked-bottom-flat-hooked
+  tall-top-flat-hooked-bottom-inward-serifed
+  tall-top-flat-hooked-bottom-rounded
+  tall-top-flat-hooked-bottom-serifed
+  tall-top-inward-serifed-bottom-corner-hooked
+  tall-top-inward-serifed-bottom-flat-hooked
+  tall-top-inward-serifed-bottom-inward-serifed
+  tall-top-inward-serifed-bottom-rounded
+  tall-top-inward-serifed-bottom-serifed
+  tall-top-rounded-bottom-corner-hooked
+  tall-top-rounded-bottom-flat-hooked
+  tall-top-rounded-bottom-inward-serifed
+  tall-top-rounded-bottom-rounded
+  tall-top-rounded-bottom-serifed
+  tall-top-serifed-bottom-corner-hooked
+  tall-top-serifed-bottom-flat-hooked
+  tall-top-serifed-bottom-inward-serifed
+  tall-top-serifed-bottom-rounded
+  tall-top-serifed-bottom-serifed
   tall-unilateral-bottom-inward-serifed
   tall-unilateral-bottom-inward-serifed-corner-hooked
   tall-unilateral-bottom-inward-serifed-flat-hooked
@@ -3707,6 +3990,31 @@
   tall-unilateral-serifed
   tall-unilateral-serifed-corner-hooked
   tall-unilateral-serifed-flat-hooked
+  top-corner-hooked-bottom-corner-hooked
+  top-corner-hooked-bottom-flat-hooked
+  top-corner-hooked-bottom-inward-serifed
+  top-corner-hooked-bottom-rounded
+  top-corner-hooked-bottom-serifed
+  top-flat-hooked-bottom-corner-hooked
+  top-flat-hooked-bottom-flat-hooked
+  top-flat-hooked-bottom-inward-serifed
+  top-flat-hooked-bottom-rounded
+  top-flat-hooked-bottom-serifed
+  top-inward-serifed-bottom-corner-hooked
+  top-inward-serifed-bottom-flat-hooked
+  top-inward-serifed-bottom-inward-serifed
+  top-inward-serifed-bottom-rounded
+  top-inward-serifed-bottom-serifed
+  top-rounded-bottom-corner-hooked
+  top-rounded-bottom-flat-hooked
+  top-rounded-bottom-inward-serifed
+  top-rounded-bottom-rounded
+  top-rounded-bottom-serifed
+  top-serifed-bottom-corner-hooked
+  top-serifed-bottom-flat-hooked
+  top-serifed-bottom-inward-serifed
+  top-serifed-bottom-rounded
+  top-serifed-bottom-serifed
   unilateral-bottom-inward-serifed
   unilateral-bottom-inward-serifed-corner-hooked
   unilateral-bottom-inward-serifed-flat-hooked
@@ -4808,6 +5116,14 @@
   toothless-corner
   toothless-rounded
 
+[lower-esh] tag=VXFS sampler="ʃ"
+  compact
+  corner-hooked
+  diagonal-tailed
+  flat-tailed
+  sshaped
+  tailed
+
 [lower-eszet] tag=cv23 sampler="ß"
   longs-s-lig-bottom-serifed
   longs-s-lig-descending-middle-serifed
@@ -5832,6 +6148,31 @@
   corner-hooked
   flat-hooked
   serifless
+  top-corner-hooked-bottom-corner-hooked
+  top-corner-hooked-bottom-flat-hooked
+  top-corner-hooked-bottom-inward-serifed
+  top-corner-hooked-bottom-rounded
+  top-corner-hooked-bottom-serifed
+  top-flat-hooked-bottom-corner-hooked
+  top-flat-hooked-bottom-flat-hooked
+  top-flat-hooked-bottom-inward-serifed
+  top-flat-hooked-bottom-rounded
+  top-flat-hooked-bottom-serifed
+  top-inward-serifed-bottom-corner-hooked
+  top-inward-serifed-bottom-flat-hooked
+  top-inward-serifed-bottom-inward-serifed
+  top-inward-serifed-bottom-rounded
+  top-inward-serifed-bottom-serifed
+  top-rounded-bottom-corner-hooked
+  top-rounded-bottom-flat-hooked
+  top-rounded-bottom-inward-serifed
+  top-rounded-bottom-rounded
+  top-rounded-bottom-serifed
+  top-serifed-bottom-corner-hooked
+  top-serifed-bottom-flat-hooked
+  top-serifed-bottom-inward-serifed
+  top-serifed-bottom-rounded
+  top-serifed-bottom-serifed
   unilateral-inward-serifed
   unilateral-inward-serifed-corner-hooked
   unilateral-inward-serifed-flat-hooked
@@ -5845,6 +6186,26 @@
   inward-serifed
   serifed
   serifless
+  top-corner-hooked-bottom-flat-hooked
+  top-corner-hooked-bottom-inward-serifed
+  top-corner-hooked-bottom-rounded
+  top-corner-hooked-bottom-serifed
+  top-flat-hooked-bottom-corner-hooked
+  top-flat-hooked-bottom-inward-serifed
+  top-flat-hooked-bottom-rounded
+  top-flat-hooked-bottom-serifed
+  top-inward-serifed-bottom-corner-hooked
+  top-inward-serifed-bottom-flat-hooked
+  top-inward-serifed-bottom-rounded
+  top-inward-serifed-bottom-serifed
+  top-rounded-bottom-corner-hooked
+  top-rounded-bottom-flat-hooked
+  top-rounded-bottom-inward-serifed
+  top-rounded-bottom-serifed
+  top-serifed-bottom-corner-hooked
+  top-serifed-bottom-flat-hooked
+  top-serifed-bottom-inward-serifed
+  top-serifed-bottom-rounded
 
 [seven] tag=cv08 sampler="7"
   bend-base-serifed
@@ -5988,6 +6349,26 @@
   inward-serifed
   rounded
   serifed-hooked
+  top-corner-hooked-bottom-flat-hooked
+  top-corner-hooked-bottom-inward-serifed
+  top-corner-hooked-bottom-rounded
+  top-corner-hooked-bottom-serifed-hooked
+  top-flat-hooked-bottom-corner-hooked
+  top-flat-hooked-bottom-inward-serifed
+  top-flat-hooked-bottom-rounded
+  top-flat-hooked-bottom-serifed-hooked
+  top-inward-serifed-bottom-corner-hooked
+  top-inward-serifed-bottom-flat-hooked
+  top-inward-serifed-bottom-rounded
+  top-inward-serifed-bottom-serifed-hooked
+  top-rounded-bottom-corner-hooked
+  top-rounded-bottom-flat-hooked
+  top-rounded-bottom-inward-serifed
+  top-rounded-bottom-serifed-hooked
+  top-serifed-hooked-bottom-corner-hooked
+  top-serifed-hooked-bottom-flat-hooked
+  top-serifed-hooked-bottom-inward-serifed
+  top-serifed-hooked-bottom-rounded
 
 [tilde] tag=VXAU sampler="~"
   compact
