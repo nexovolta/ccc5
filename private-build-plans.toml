@@ -105,7 +105,7 @@ capital-phi = 'serifed'
 capital-psi = 'base-serifed'
 capital-xi = 'diagonal-crossbar-falling-motion-serifed'
 capital-omega = 'disjoint-serifed'
-capital-qoppa = 'serifless'
+capital-qoppa = 'base-serifed'
 
 lower-alpha = 'crossing'
 lower-beta = 'cursive'
@@ -131,7 +131,7 @@ lower-chi = 'straight-unilateral-motion-serifed'
 lower-psi = 'shorter-neck-serifed'
 lower-omega = 'broad'
 lower-digamma = 'toothless-rounded'
-lower-qoppa = 'base-serifed'
+lower-qoppa = 'serifless'
 
 # CYRILLIC
 
@@ -245,9 +245,9 @@ armn-zhe = 'top-right-motion-serifed'
 
 braille-dot = 'diamond'
 diacritic-dot = 'hexagon'
-diacritic-comma = 'bottom-cut'
+diacritic-comma = 'corner'
 punctuation-dot = 'square'
-punctuation-comma = 'corner'
+punctuation-comma = 'bottom-cut'
 tittle = 'round'
 diacritic-line = 'horizontal-terminal'
 
@@ -526,9 +526,9 @@ armn-zhe = 'top-right-motion-serifed'
 
 braille-dot = 'diamond'
 diacritic-dot = 'hexagon'
-diacritic-comma = 'bottom-cut'
+diacritic-comma = 'corner'
 punctuation-dot = 'square'
-punctuation-comma = 'corner'
+punctuation-comma = 'bottom-cut'
 tittle = 'round'
 diacritic-line = 'horizontal-terminal'
 
@@ -753,7 +753,7 @@ capital-phi = 'serifed'
 capital-psi = 'base-serifed'
 capital-xi = 'diagonal-crossbar-falling-motion-serifed'
 capital-omega = 'disjoint-serifed'
-capital-qoppa = 'serifless'
+capital-qoppa = 'base-serifed'
 
 lower-alpha = 'crossing'
 lower-beta = 'cursive'
@@ -779,7 +779,7 @@ lower-chi = 'straight-unilateral-motion-serifed'
 lower-psi = 'shorter-neck-serifed'
 lower-omega = 'broad'
 lower-digamma = 'toothless-rounded'
-lower-qoppa = 'base-serifed'
+lower-qoppa = 'serifless'
 
 # CYRILLIC
 
@@ -893,9 +893,9 @@ armn-zhe = 'top-right-motion-serifed'
 
 braille-dot = 'diamond'
 diacritic-dot = 'hexagon'
-diacritic-comma = 'bottom-cut'
+diacritic-comma = 'corner'
 punctuation-dot = 'square'
-punctuation-comma = 'corner'
+punctuation-comma = 'bottom-cut'
 tittle = 'round'
 diacritic-line = 'horizontal-terminal'
 
@@ -1174,9 +1174,9 @@ armn-zhe = 'top-right-motion-serifed'
 
 braille-dot = 'diamond'
 diacritic-dot = 'hexagon'
-diacritic-comma = 'bottom-cut'
+diacritic-comma = 'corner'
 punctuation-dot = 'square'
-punctuation-comma = 'corner'
+punctuation-comma = 'bottom-cut'
 tittle = 'round'
 diacritic-line = 'horizontal-terminal'
 
