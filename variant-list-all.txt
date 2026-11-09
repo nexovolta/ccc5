@@ -2019,6 +2019,7 @@
   serifless
 
 [capital-q] tag=cv57 sampler="Q"
+  closed-straight-tailed
   closed-swash
   crossing
   crossing-baseline
@@ -2026,9 +2027,13 @@
   curly-tailed
   detached-bend-tailed
   detached-tailed
+  hooky
+  hooky-crossing
   horizontal-tailed
+  open-straight-tailed
   open-swash
   straight
+  vertical
   vertical-crossing
 
 [capital-qoppa] tag=VXDB sampler="Ϙ"
@@ -5282,7 +5287,7 @@
   curly-bar
   straight-bar
 
-[lower-ezh] tag=VXFQ sampler="ʒƹƺʓꝣ"
+[lower-ezh] tag=VXFQ sampler="ʒƹƺʓꝣɮʤ𝼠"
   cursive-corner-hooked-serifless
   cursive-corner-hooked-top-serifed
   cursive-flat-hooked-serifless
