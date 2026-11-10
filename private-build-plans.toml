@@ -582,22 +582,22 @@ menu = 300
 css = 300
 
 [buildPlans.Nexsevka.weights.Regular]
-shape = 537
+shape = 530
 menu = 400
 css = 400
 
 [buildPlans.Nexsevka.weights.Medium]
-shape = 609
+shape = 618
 menu = 500
 css = 500
 
 [buildPlans.Nexsevka.weights.SemiBold]
-shape = 785
+shape = 795
 menu = 600
 css = 600
 
 [buildPlans.Nexsevka.weights.Bold]
-shape = 920
+shape = 930
 menu = 700
 css = 700
 
@@ -624,8 +624,8 @@ cap = 693
 ascender = 732
 descender = -186
 symbolMid = 305
-sb = 'blend(weight, [260, 82], [303, 80], [389, 77], [537, 72], [609, 70], [783, 64], [920, 60])'
-contrast = 'blend(weight, [260, 1.044], [537, 1.093], [920, 1.102])'
+sb = 'blend(weight, [260, 82], [303, 80], [389, 77], [530, 72], [618, 70], [783, 64], [930, 60])'
+contrast = 'blend(weight, [260, 1.044], [530, 1.093], [930, 1.102])'
 
 accentWidth = 215
 accentClearance = 68
@@ -634,8 +634,8 @@ accentStackOffset = 234
 
 leading = 1250
 parenSize = 902
-dotSize = 'blend(weight, [260, 98], [303, 104], [389, 113], [537, 125], [609, 133], [783, 150], [920, 166])'
-periodSize = 'blend(weight, [260, 123], [303, 133], [389, 152], [537, 172], [609, 181], [783, 201], [920, 221])'
+dotSize = 'blend(weight, [260, 98], [303, 104], [389, 113], [530, 125], [618, 133], [783, 150], [930, 166])'
+periodSize = 'blend(weight, [260, 123], [303, 133], [389, 152], [530, 172], [618, 181], [783, 201], [930, 221])'
 
 onumZeroHeightRatio = 1
 
@@ -1230,22 +1230,22 @@ menu = 300
 css = 300
 
 [buildPlans.NexsevkaPropo.weights.Regular]
-shape = 537
+shape = 530
 menu = 400
 css = 400
 
 [buildPlans.NexsevkaPropo.weights.Medium]
-shape = 609
+shape = 618
 menu = 500
 css = 500
 
 [buildPlans.NexsevkaPropo.weights.SemiBold]
-shape = 785
+shape = 795
 menu = 600
 css = 600
 
 [buildPlans.NexsevkaPropo.weights.Bold]
-shape = 920
+shape = 930
 menu = 700
 css = 700
 
@@ -1272,8 +1272,8 @@ cap = 693
 ascender = 732
 descender = -186
 symbolMid = 305
-sb = 'blend(weight, [260, 82], [303, 80], [389, 77], [537, 72], [609, 70], [783, 64], [920, 60])'
-contrast = 'blend(weight, [260, 1.044], [537, 1.093], [920, 1.102])'
+sb = 'blend(weight, [260, 82], [303, 80], [389, 77], [530, 72], [618, 70], [783, 64], [930, 60])'
+contrast = 'blend(weight, [260, 1.044], [530, 1.093], [930, 1.102])'
 
 accentWidth = 215
 accentClearance = 68
@@ -1282,8 +1282,8 @@ accentStackOffset = 234
 
 leading = 1250
 parenSize = 902
-dotSize = 'blend(weight, [260, 98], [303, 104], [389, 113], [537, 125], [609, 133], [783, 150], [920, 166])'
-periodSize = 'blend(weight, [260, 123], [303, 133], [389, 152], [537, 172], [609, 181], [783, 201], [920, 221])'
+dotSize = 'blend(weight, [260, 98], [303, 104], [389, 113], [530, 125], [618, 133], [783, 150], [930, 166])'
+periodSize = 'blend(weight, [260, 123], [303, 133], [389, 152], [530, 172], [618, 181], [783, 201], [930, 221])'
 
 onumZeroHeightRatio = 1
 
@@ -1326,7 +1326,7 @@ menu = 400
 css = 400
 
 [buildPlans.IosevkaTestSans.weights.Heavy]
-shape = 920
+shape = 930
 menu = 900
 css = 900
 
@@ -1372,7 +1372,7 @@ menu = 400
 css = 400
 
 [buildPlans.IosevkaTestSlab.weights.Heavy]
-shape = 920
+shape = 930
 menu = 900
 css = 900
 
@@ -1423,7 +1423,7 @@ menu = 400
 css = 400
 
 [buildPlans.IosevkaTestAile.weights.Heavy]
-shape = 920
+shape = 930
 menu = 900
 css = 900
 
@@ -1473,7 +1473,7 @@ menu = 400
 css = 400
 
 [buildPlans.IosevkaTestEtoile.weights.Heavy]
-shape = 920
+shape = 930
 menu = 900
 css = 900
 
