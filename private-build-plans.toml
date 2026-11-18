@@ -134,7 +134,7 @@ lower-omega = 'broad'
 lower-digamma = 'toothless-rounded'
 lower-qoppa = 'serifless'
 
-# CYRILLIC
+# CYRILLIC 
 
 cyrl-capital-be = 'bilateral-serifed'
 cyrl-capital-zhe = 'cursive'
@@ -151,7 +151,9 @@ cyrl-capital-sha = 'short-stem-bilateral-motion-serifed'
 cyrl-capital-che = 'flat-hump-motion-serifed'
 cyrl-capital-e = 'diagonal-crossbar-falling-bilateral-inward-mid-serifed'
 cyrl-capital-ya = 'straight-broken-motion-serifed'
-cyrl-capital-koppa = 'corner-hooked-base-serifed'
+cyrl-capital-yeri = 'open'
+cyrl-capital-yery = 'open-top-right-motion-serifed'
+cyrl-capital-koppa = 'corner-hooked-serifless'
 cyrl-capital-ue = 'straight-base-top-right-motion-serifed'
 
 cyrl-be = 'standard'
@@ -432,6 +434,8 @@ cyrl-capital-sha = 'short-stem-bilateral-motion-serifed'
 cyrl-capital-che = 'flat-hump-motion-serifed'
 cyrl-capital-e = 'diagonal-crossbar-falling-bilateral-inward-mid-serifed'
 cyrl-capital-ya = 'straight-broken-motion-serifed'
+cyrl-capital-yeri = 'open'
+cyrl-capital-yery = 'open-top-right-motion-serifed'
 cyrl-capital-koppa = 'corner-hooked-serifless'
 cyrl-capital-ue = 'straight-base-top-right-motion-serifed'
 
@@ -784,7 +788,7 @@ lower-omega = 'broad'
 lower-digamma = 'toothless-rounded'
 lower-qoppa = 'serifless'
 
-# CYRILLIC
+# CYRILLIC 
 
 cyrl-capital-be = 'bilateral-serifed'
 cyrl-capital-zhe = 'cursive'
@@ -801,7 +805,9 @@ cyrl-capital-sha = 'short-stem-bilateral-motion-serifed'
 cyrl-capital-che = 'flat-hump-motion-serifed'
 cyrl-capital-e = 'diagonal-crossbar-falling-bilateral-inward-mid-serifed'
 cyrl-capital-ya = 'straight-broken-motion-serifed'
-cyrl-capital-koppa = 'corner-hooked-base-serifed'
+cyrl-capital-yeri = 'open'
+cyrl-capital-yery = 'open-top-right-motion-serifed'
+cyrl-capital-koppa = 'corner-hooked-serifless'
 cyrl-capital-ue = 'straight-base-top-right-motion-serifed'
 
 cyrl-be = 'standard'
@@ -1082,6 +1088,8 @@ cyrl-capital-sha = 'short-stem-bilateral-motion-serifed'
 cyrl-capital-che = 'flat-hump-motion-serifed'
 cyrl-capital-e = 'diagonal-crossbar-falling-bilateral-inward-mid-serifed'
 cyrl-capital-ya = 'straight-broken-motion-serifed'
+cyrl-capital-yeri = 'open'
+cyrl-capital-yery = 'open-top-right-motion-serifed'
 cyrl-capital-koppa = 'corner-hooked-serifless'
 cyrl-capital-ue = 'straight-base-top-right-motion-serifed'
 
