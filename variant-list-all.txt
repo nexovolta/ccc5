@@ -1373,12 +1373,24 @@
 
 [capital-b] tag=cv13 sampler="B"
   more-asymmetric-bilateral-serifed
+  more-asymmetric-broken-falling-bilateral-serifed
+  more-asymmetric-broken-falling-serifless
+  more-asymmetric-broken-falling-unilateral-serifed
+  more-asymmetric-broken-rising-bilateral-serifed
+  more-asymmetric-broken-rising-serifless
+  more-asymmetric-broken-rising-unilateral-serifed
   more-asymmetric-interrupted-bilateral-serifed
   more-asymmetric-interrupted-serifless
   more-asymmetric-interrupted-unilateral-serifed
   more-asymmetric-serifless
   more-asymmetric-unilateral-serifed
   standard-bilateral-serifed
+  standard-broken-falling-bilateral-serifed
+  standard-broken-falling-serifless
+  standard-broken-falling-unilateral-serifed
+  standard-broken-rising-bilateral-serifed
+  standard-broken-rising-serifless
+  standard-broken-rising-unilateral-serifed
   standard-interrupted-bilateral-serifed
   standard-interrupted-serifless
   standard-interrupted-unilateral-serifed
@@ -2001,6 +2013,12 @@
   serifless
 
 [capital-p] tag=cv52 sampler="P"
+  broken-falling-motion-serifed
+  broken-falling-serifed
+  broken-falling-serifless
+  broken-rising-motion-serifed
+  broken-rising-serifed
+  broken-rising-serifless
   closed-motion-serifed
   closed-serifed
   closed-serifless
@@ -2161,12 +2179,24 @@
   serifless
 
 [capital-thorn] tag=cv71 sampler="Þ"
+  asymmetric-broken-falling-motion-serifed
+  asymmetric-broken-falling-serifed
+  asymmetric-broken-falling-serifless
+  asymmetric-broken-rising-motion-serifed
+  asymmetric-broken-rising-serifed
+  asymmetric-broken-rising-serifless
   asymmetric-motion-serifed
   asymmetric-open-motion-serifed
   asymmetric-open-serifed
   asymmetric-open-serifless
   asymmetric-serifed
   asymmetric-serifless
+  broken-falling-motion-serifed
+  broken-falling-serifed
+  broken-falling-serifless
+  broken-rising-motion-serifed
+  broken-rising-serifed
+  broken-rising-serifless
   motion-serifed
   open-motion-serifed
   open-serifed
@@ -2486,8 +2516,23 @@
 
 [cyrl-capital-be] tag=VXBP sampler="Б"
   bilateral-serifed
+  broken-falling-bilateral-serifed
+  broken-falling-full-serifed
+  broken-falling-motion-serifed
+  broken-falling-serifless
+  broken-falling-top-serifed
+  broken-rising-bilateral-serifed
+  broken-rising-full-serifed
+  broken-rising-motion-serifed
+  broken-rising-serifless
+  broken-rising-top-serifed
   full-serifed
   motion-serifed
+  open-bilateral-serifed
+  open-full-serifed
+  open-motion-serifed
+  open-serifless
+  open-top-serifed
   serifless
   top-serifed
 
@@ -2997,24 +3042,224 @@
   straight-serifless
 
 [cyrl-capital-yeri] tag= sampler=""
+  broken-falling-flat-bottom-serifed
+  broken-falling-flat-bottom-serifless
+  broken-falling-flat-serifed
+  broken-falling-flat-serifless
+  broken-falling-toothless-corner-serifed
+  broken-falling-toothless-corner-serifless
+  broken-falling-toothless-rounded-serifed
+  broken-falling-toothless-rounded-serifless
+  broken-rising-flat-bottom-serifed
+  broken-rising-flat-bottom-serifless
+  broken-rising-flat-serifed
+  broken-rising-flat-serifless
+  broken-rising-toothless-corner-serifed
+  broken-rising-toothless-corner-serifless
+  broken-rising-toothless-rounded-serifed
+  broken-rising-toothless-rounded-serifless
   corner
   cursive
+  flat-flat-bottom-serifed
+  flat-flat-bottom-serifless
+  flat-flat-serifed
+  flat-flat-serifless
+  flat-toothless-corner-serifed
+  flat-toothless-corner-serifless
+  flat-toothless-rounded-serifed
+  flat-toothless-rounded-serifless
   open
+  open-flat-bottom-serifed
+  open-flat-bottom-serifless
+  open-flat-serifed
+  open-flat-serifless
+  open-toothless-corner-serifed
+  open-toothless-corner-serifless
+  open-toothless-rounded-serifed
+  open-toothless-rounded-serifless
   round
+  rounded-flat-bottom-serifed
+  rounded-flat-bottom-serifless
+  rounded-flat-serifed
+  rounded-flat-serifless
+  rounded-toothless-corner-serifed
+  rounded-toothless-corner-serifless
+  rounded-toothless-rounded-serifed
+  rounded-toothless-rounded-serifless
 
 [cyrl-capital-yery] tag= sampler=""
+  broken-falling-flat-bottom-serifed-i-bottom-right-serifed
+  broken-falling-flat-bottom-serifed-i-serifed
+  broken-falling-flat-bottom-serifed-i-serifless
+  broken-falling-flat-bottom-serifed-i-top-right-motion-serifed
+  broken-falling-flat-bottom-serifless-i-bottom-right-serifed
+  broken-falling-flat-bottom-serifless-i-serifed
+  broken-falling-flat-bottom-serifless-i-serifless
+  broken-falling-flat-bottom-serifless-i-top-right-motion-serifed
+  broken-falling-flat-serifed-i-bottom-right-serifed
+  broken-falling-flat-serifed-i-serifed
+  broken-falling-flat-serifed-i-serifless
+  broken-falling-flat-serifed-i-top-right-motion-serifed
+  broken-falling-flat-serifless-i-bottom-right-serifed
+  broken-falling-flat-serifless-i-serifed
+  broken-falling-flat-serifless-i-serifless
+  broken-falling-flat-serifless-i-top-right-motion-serifed
+  broken-falling-toothless-corner-serifed-i-bottom-right-serifed
+  broken-falling-toothless-corner-serifed-i-serifed
+  broken-falling-toothless-corner-serifed-i-serifless
+  broken-falling-toothless-corner-serifed-i-top-right-motion-serifed
+  broken-falling-toothless-corner-serifless-i-bottom-right-serifed
+  broken-falling-toothless-corner-serifless-i-serifed
+  broken-falling-toothless-corner-serifless-i-serifless
+  broken-falling-toothless-corner-serifless-i-top-right-motion-serifed
+  broken-falling-toothless-rounded-serifed-i-bottom-right-serifed
+  broken-falling-toothless-rounded-serifed-i-serifed
+  broken-falling-toothless-rounded-serifed-i-serifless
+  broken-falling-toothless-rounded-serifed-i-top-right-motion-serifed
+  broken-falling-toothless-rounded-serifless-i-bottom-right-serifed
+  broken-falling-toothless-rounded-serifless-i-serifed
+  broken-falling-toothless-rounded-serifless-i-serifless
+  broken-falling-toothless-rounded-serifless-i-top-right-motion-serifed
+  broken-rising-flat-bottom-serifed-i-bottom-right-serifed
+  broken-rising-flat-bottom-serifed-i-serifed
+  broken-rising-flat-bottom-serifed-i-serifless
+  broken-rising-flat-bottom-serifed-i-top-right-motion-serifed
+  broken-rising-flat-bottom-serifless-i-bottom-right-serifed
+  broken-rising-flat-bottom-serifless-i-serifed
+  broken-rising-flat-bottom-serifless-i-serifless
+  broken-rising-flat-bottom-serifless-i-top-right-motion-serifed
+  broken-rising-flat-serifed-i-bottom-right-serifed
+  broken-rising-flat-serifed-i-serifed
+  broken-rising-flat-serifed-i-serifless
+  broken-rising-flat-serifed-i-top-right-motion-serifed
+  broken-rising-flat-serifless-i-bottom-right-serifed
+  broken-rising-flat-serifless-i-serifed
+  broken-rising-flat-serifless-i-serifless
+  broken-rising-flat-serifless-i-top-right-motion-serifed
+  broken-rising-toothless-corner-serifed-i-bottom-right-serifed
+  broken-rising-toothless-corner-serifed-i-serifed
+  broken-rising-toothless-corner-serifed-i-serifless
+  broken-rising-toothless-corner-serifed-i-top-right-motion-serifed
+  broken-rising-toothless-corner-serifless-i-bottom-right-serifed
+  broken-rising-toothless-corner-serifless-i-serifed
+  broken-rising-toothless-corner-serifless-i-serifless
+  broken-rising-toothless-corner-serifless-i-top-right-motion-serifed
+  broken-rising-toothless-rounded-serifed-i-bottom-right-serifed
+  broken-rising-toothless-rounded-serifed-i-serifed
+  broken-rising-toothless-rounded-serifed-i-serifless
+  broken-rising-toothless-rounded-serifed-i-top-right-motion-serifed
+  broken-rising-toothless-rounded-serifless-i-bottom-right-serifed
+  broken-rising-toothless-rounded-serifless-i-serifed
+  broken-rising-toothless-rounded-serifless-i-serifless
+  broken-rising-toothless-rounded-serifless-i-top-right-motion-serifed
   corner
   corner-bilateral-motion-serifed
   corner-top-right-motion-serifed
   cursive
   cursive-bilateral-motion-serifed
   cursive-top-right-motion-serifed
+  flat-flat-bottom-serifed-i-bottom-right-serifed
+  flat-flat-bottom-serifed-i-serifed
+  flat-flat-bottom-serifed-i-serifless
+  flat-flat-bottom-serifed-i-top-right-motion-serifed
+  flat-flat-bottom-serifless-i-bottom-right-serifed
+  flat-flat-bottom-serifless-i-serifed
+  flat-flat-bottom-serifless-i-serifless
+  flat-flat-bottom-serifless-i-top-right-motion-serifed
+  flat-flat-serifed-i-bottom-right-serifed
+  flat-flat-serifed-i-serifed
+  flat-flat-serifed-i-serifless
+  flat-flat-serifed-i-top-right-motion-serifed
+  flat-flat-serifless-i-bottom-right-serifed
+  flat-flat-serifless-i-serifed
+  flat-flat-serifless-i-serifless
+  flat-flat-serifless-i-top-right-motion-serifed
+  flat-toothless-corner-serifed-i-bottom-right-serifed
+  flat-toothless-corner-serifed-i-serifed
+  flat-toothless-corner-serifed-i-serifless
+  flat-toothless-corner-serifed-i-top-right-motion-serifed
+  flat-toothless-corner-serifless-i-bottom-right-serifed
+  flat-toothless-corner-serifless-i-serifed
+  flat-toothless-corner-serifless-i-serifless
+  flat-toothless-corner-serifless-i-top-right-motion-serifed
+  flat-toothless-rounded-serifed-i-bottom-right-serifed
+  flat-toothless-rounded-serifed-i-serifed
+  flat-toothless-rounded-serifed-i-serifless
+  flat-toothless-rounded-serifed-i-top-right-motion-serifed
+  flat-toothless-rounded-serifless-i-bottom-right-serifed
+  flat-toothless-rounded-serifless-i-serifed
+  flat-toothless-rounded-serifless-i-serifless
+  flat-toothless-rounded-serifless-i-top-right-motion-serifed
   open
   open-bilateral-motion-serifed
+  open-flat-bottom-serifed-i-bottom-right-serifed
+  open-flat-bottom-serifed-i-serifed
+  open-flat-bottom-serifed-i-serifless
+  open-flat-bottom-serifed-i-top-right-motion-serifed
+  open-flat-bottom-serifless-i-bottom-right-serifed
+  open-flat-bottom-serifless-i-serifed
+  open-flat-bottom-serifless-i-serifless
+  open-flat-bottom-serifless-i-top-right-motion-serifed
+  open-flat-serifed-i-bottom-right-serifed
+  open-flat-serifed-i-serifed
+  open-flat-serifed-i-serifless
+  open-flat-serifed-i-top-right-motion-serifed
+  open-flat-serifless-i-bottom-right-serifed
+  open-flat-serifless-i-serifed
+  open-flat-serifless-i-serifless
+  open-flat-serifless-i-top-right-motion-serifed
+  open-toothless-corner-serifed-i-bottom-right-serifed
+  open-toothless-corner-serifed-i-serifed
+  open-toothless-corner-serifed-i-serifless
+  open-toothless-corner-serifed-i-top-right-motion-serifed
+  open-toothless-corner-serifless-i-bottom-right-serifed
+  open-toothless-corner-serifless-i-serifed
+  open-toothless-corner-serifless-i-serifless
+  open-toothless-corner-serifless-i-top-right-motion-serifed
+  open-toothless-rounded-serifed-i-bottom-right-serifed
+  open-toothless-rounded-serifed-i-serifed
+  open-toothless-rounded-serifed-i-serifless
+  open-toothless-rounded-serifed-i-top-right-motion-serifed
+  open-toothless-rounded-serifless-i-bottom-right-serifed
+  open-toothless-rounded-serifless-i-serifed
+  open-toothless-rounded-serifless-i-serifless
+  open-toothless-rounded-serifless-i-top-right-motion-serifed
   open-top-right-motion-serifed
   round
   round-bilateral-motion-serifed
   round-top-right-motion-serifed
+  rounded-flat-bottom-serifed-i-bottom-right-serifed
+  rounded-flat-bottom-serifed-i-serifed
+  rounded-flat-bottom-serifed-i-serifless
+  rounded-flat-bottom-serifed-i-top-right-motion-serifed
+  rounded-flat-bottom-serifless-i-bottom-right-serifed
+  rounded-flat-bottom-serifless-i-serifed
+  rounded-flat-bottom-serifless-i-serifless
+  rounded-flat-bottom-serifless-i-top-right-motion-serifed
+  rounded-flat-serifed-i-bottom-right-serifed
+  rounded-flat-serifed-i-serifed
+  rounded-flat-serifed-i-serifless
+  rounded-flat-serifed-i-top-right-motion-serifed
+  rounded-flat-serifless-i-bottom-right-serifed
+  rounded-flat-serifless-i-serifed
+  rounded-flat-serifless-i-serifless
+  rounded-flat-serifless-i-top-right-motion-serifed
+  rounded-toothless-corner-serifed-i-bottom-right-serifed
+  rounded-toothless-corner-serifed-i-serifed
+  rounded-toothless-corner-serifed-i-serifless
+  rounded-toothless-corner-serifed-i-top-right-motion-serifed
+  rounded-toothless-corner-serifless-i-bottom-right-serifed
+  rounded-toothless-corner-serifless-i-serifed
+  rounded-toothless-corner-serifless-i-serifless
+  rounded-toothless-corner-serifless-i-top-right-motion-serifed
+  rounded-toothless-rounded-serifed-i-bottom-right-serifed
+  rounded-toothless-rounded-serifed-i-serifed
+  rounded-toothless-rounded-serifed-i-serifless
+  rounded-toothless-rounded-serifed-i-top-right-motion-serifed
+  rounded-toothless-rounded-serifless-i-bottom-right-serifed
+  rounded-toothless-rounded-serifless-i-serifed
+  rounded-toothless-rounded-serifless-i-serifless
+  rounded-toothless-rounded-serifless-i-top-right-motion-serifed
 
 [cyrl-capital-ze] tag=VXCW sampler="З"
   bilateral-inward-serifed
@@ -3956,14 +4201,28 @@
 
 [cyrl-ve] tag=VXCR sampler="в"
   cursive
+  cursive-broken-falling
+  cursive-broken-falling-tall
+  cursive-broken-rising
+  cursive-broken-rising-tall
   cursive-interrupted
   cursive-interrupted-tall
   cursive-tall
+  rounded-top-broken-falling-serifless
+  rounded-top-broken-falling-unilateral-bottom-serifed
+  rounded-top-broken-rising-serifless
+  rounded-top-broken-rising-unilateral-bottom-serifed
   rounded-top-interrupted-serifless
   rounded-top-interrupted-unilateral-bottom-serifed
   rounded-top-serifless
   rounded-top-unilateral-bottom-serifed
   standard-bilateral-serifed
+  standard-broken-falling-bilateral-serifed
+  standard-broken-falling-serifless
+  standard-broken-falling-unilateral-serifed
+  standard-broken-rising-bilateral-serifed
+  standard-broken-rising-serifless
+  standard-broken-rising-unilateral-serifed
   standard-interrupted-bilateral-serifed
   standard-interrupted-serifless
   standard-interrupted-unilateral-serifed
@@ -4029,12 +4288,180 @@
   straight-tailed-serifless
 
 [cyrl-yeri] tag=VXCU sampler="ь ъ"
+  broken-falling-flat-bottom-serifed
+  broken-falling-flat-bottom-serifless
+  broken-falling-flat-serifed
+  broken-falling-flat-serifless
+  broken-falling-toothless-corner-serifed
+  broken-falling-toothless-corner-serifless
+  broken-falling-toothless-rounded-serifed
+  broken-falling-toothless-rounded-serifless
+  broken-rising-flat-bottom-serifed
+  broken-rising-flat-bottom-serifless
+  broken-rising-flat-serifed
+  broken-rising-flat-serifless
+  broken-rising-toothless-corner-serifed
+  broken-rising-toothless-corner-serifless
+  broken-rising-toothless-rounded-serifed
+  broken-rising-toothless-rounded-serifless
   corner
   cursive
+  flat-flat-bottom-serifed
+  flat-flat-bottom-serifless
+  flat-flat-serifed
+  flat-flat-serifless
+  flat-toothless-corner-serifed
+  flat-toothless-corner-serifless
+  flat-toothless-rounded-serifed
+  flat-toothless-rounded-serifless
   open
+  open-flat-bottom-serifed
+  open-flat-bottom-serifless
+  open-flat-serifed
+  open-flat-serifless
+  open-toothless-corner-serifed
+  open-toothless-corner-serifless
+  open-toothless-rounded-serifed
+  open-toothless-rounded-serifless
   round
+  rounded-flat-bottom-serifed
+  rounded-flat-bottom-serifless
+  rounded-flat-serifed
+  rounded-flat-serifless
+  rounded-toothless-corner-serifed
+  rounded-toothless-corner-serifless
+  rounded-toothless-rounded-serifed
+  rounded-toothless-rounded-serifless
 
 [cyrl-yery] tag=VXCV sampler="ы"
+  broken-falling-flat-bottom-serifed-straight-i-bottom-right-serifed
+  broken-falling-flat-bottom-serifed-straight-i-serifed
+  broken-falling-flat-bottom-serifed-straight-i-serifless
+  broken-falling-flat-bottom-serifed-straight-i-top-right-motion-serifed
+  broken-falling-flat-bottom-serifed-tailed-i-bottom-right-serifed
+  broken-falling-flat-bottom-serifed-tailed-i-serifed
+  broken-falling-flat-bottom-serifed-tailed-i-serifless
+  broken-falling-flat-bottom-serifed-tailed-i-top-right-motion-serifed
+  broken-falling-flat-bottom-serifless-straight-i-bottom-right-serifed
+  broken-falling-flat-bottom-serifless-straight-i-serifed
+  broken-falling-flat-bottom-serifless-straight-i-serifless
+  broken-falling-flat-bottom-serifless-straight-i-top-right-motion-serifed
+  broken-falling-flat-bottom-serifless-tailed-i-bottom-right-serifed
+  broken-falling-flat-bottom-serifless-tailed-i-serifed
+  broken-falling-flat-bottom-serifless-tailed-i-serifless
+  broken-falling-flat-bottom-serifless-tailed-i-top-right-motion-serifed
+  broken-falling-flat-serifed-straight-i-bottom-right-serifed
+  broken-falling-flat-serifed-straight-i-serifed
+  broken-falling-flat-serifed-straight-i-serifless
+  broken-falling-flat-serifed-straight-i-top-right-motion-serifed
+  broken-falling-flat-serifed-tailed-i-bottom-right-serifed
+  broken-falling-flat-serifed-tailed-i-serifed
+  broken-falling-flat-serifed-tailed-i-serifless
+  broken-falling-flat-serifed-tailed-i-top-right-motion-serifed
+  broken-falling-flat-serifless-straight-i-bottom-right-serifed
+  broken-falling-flat-serifless-straight-i-serifed
+  broken-falling-flat-serifless-straight-i-serifless
+  broken-falling-flat-serifless-straight-i-top-right-motion-serifed
+  broken-falling-flat-serifless-tailed-i-bottom-right-serifed
+  broken-falling-flat-serifless-tailed-i-serifed
+  broken-falling-flat-serifless-tailed-i-serifless
+  broken-falling-flat-serifless-tailed-i-top-right-motion-serifed
+  broken-falling-toothless-corner-serifed-straight-i-bottom-right-serifed
+  broken-falling-toothless-corner-serifed-straight-i-serifed
+  broken-falling-toothless-corner-serifed-straight-i-serifless
+  broken-falling-toothless-corner-serifed-straight-i-top-right-motion-serifed
+  broken-falling-toothless-corner-serifed-tailed-i-bottom-right-serifed
+  broken-falling-toothless-corner-serifed-tailed-i-serifed
+  broken-falling-toothless-corner-serifed-tailed-i-serifless
+  broken-falling-toothless-corner-serifed-tailed-i-top-right-motion-serifed
+  broken-falling-toothless-corner-serifless-straight-i-bottom-right-serifed
+  broken-falling-toothless-corner-serifless-straight-i-serifed
+  broken-falling-toothless-corner-serifless-straight-i-serifless
+  broken-falling-toothless-corner-serifless-straight-i-top-right-motion-serifed
+  broken-falling-toothless-corner-serifless-tailed-i-bottom-right-serifed
+  broken-falling-toothless-corner-serifless-tailed-i-serifed
+  broken-falling-toothless-corner-serifless-tailed-i-serifless
+  broken-falling-toothless-corner-serifless-tailed-i-top-right-motion-serifed
+  broken-falling-toothless-rounded-serifed-straight-i-bottom-right-serifed
+  broken-falling-toothless-rounded-serifed-straight-i-serifed
+  broken-falling-toothless-rounded-serifed-straight-i-serifless
+  broken-falling-toothless-rounded-serifed-straight-i-top-right-motion-serifed
+  broken-falling-toothless-rounded-serifed-tailed-i-bottom-right-serifed
+  broken-falling-toothless-rounded-serifed-tailed-i-serifed
+  broken-falling-toothless-rounded-serifed-tailed-i-serifless
+  broken-falling-toothless-rounded-serifed-tailed-i-top-right-motion-serifed
+  broken-falling-toothless-rounded-serifless-straight-i-bottom-right-serifed
+  broken-falling-toothless-rounded-serifless-straight-i-serifed
+  broken-falling-toothless-rounded-serifless-straight-i-serifless
+  broken-falling-toothless-rounded-serifless-straight-i-top-right-motion-serifed
+  broken-falling-toothless-rounded-serifless-tailed-i-bottom-right-serifed
+  broken-falling-toothless-rounded-serifless-tailed-i-serifed
+  broken-falling-toothless-rounded-serifless-tailed-i-serifless
+  broken-falling-toothless-rounded-serifless-tailed-i-top-right-motion-serifed
+  broken-rising-flat-bottom-serifed-straight-i-bottom-right-serifed
+  broken-rising-flat-bottom-serifed-straight-i-serifed
+  broken-rising-flat-bottom-serifed-straight-i-serifless
+  broken-rising-flat-bottom-serifed-straight-i-top-right-motion-serifed
+  broken-rising-flat-bottom-serifed-tailed-i-bottom-right-serifed
+  broken-rising-flat-bottom-serifed-tailed-i-serifed
+  broken-rising-flat-bottom-serifed-tailed-i-serifless
+  broken-rising-flat-bottom-serifed-tailed-i-top-right-motion-serifed
+  broken-rising-flat-bottom-serifless-straight-i-bottom-right-serifed
+  broken-rising-flat-bottom-serifless-straight-i-serifed
+  broken-rising-flat-bottom-serifless-straight-i-serifless
+  broken-rising-flat-bottom-serifless-straight-i-top-right-motion-serifed
+  broken-rising-flat-bottom-serifless-tailed-i-bottom-right-serifed
+  broken-rising-flat-bottom-serifless-tailed-i-serifed
+  broken-rising-flat-bottom-serifless-tailed-i-serifless
+  broken-rising-flat-bottom-serifless-tailed-i-top-right-motion-serifed
+  broken-rising-flat-serifed-straight-i-bottom-right-serifed
+  broken-rising-flat-serifed-straight-i-serifed
+  broken-rising-flat-serifed-straight-i-serifless
+  broken-rising-flat-serifed-straight-i-top-right-motion-serifed
+  broken-rising-flat-serifed-tailed-i-bottom-right-serifed
+  broken-rising-flat-serifed-tailed-i-serifed
+  broken-rising-flat-serifed-tailed-i-serifless
+  broken-rising-flat-serifed-tailed-i-top-right-motion-serifed
+  broken-rising-flat-serifless-straight-i-bottom-right-serifed
+  broken-rising-flat-serifless-straight-i-serifed
+  broken-rising-flat-serifless-straight-i-serifless
+  broken-rising-flat-serifless-straight-i-top-right-motion-serifed
+  broken-rising-flat-serifless-tailed-i-bottom-right-serifed
+  broken-rising-flat-serifless-tailed-i-serifed
+  broken-rising-flat-serifless-tailed-i-serifless
+  broken-rising-flat-serifless-tailed-i-top-right-motion-serifed
+  broken-rising-toothless-corner-serifed-straight-i-bottom-right-serifed
+  broken-rising-toothless-corner-serifed-straight-i-serifed
+  broken-rising-toothless-corner-serifed-straight-i-serifless
+  broken-rising-toothless-corner-serifed-straight-i-top-right-motion-serifed
+  broken-rising-toothless-corner-serifed-tailed-i-bottom-right-serifed
+  broken-rising-toothless-corner-serifed-tailed-i-serifed
+  broken-rising-toothless-corner-serifed-tailed-i-serifless
+  broken-rising-toothless-corner-serifed-tailed-i-top-right-motion-serifed
+  broken-rising-toothless-corner-serifless-straight-i-bottom-right-serifed
+  broken-rising-toothless-corner-serifless-straight-i-serifed
+  broken-rising-toothless-corner-serifless-straight-i-serifless
+  broken-rising-toothless-corner-serifless-straight-i-top-right-motion-serifed
+  broken-rising-toothless-corner-serifless-tailed-i-bottom-right-serifed
+  broken-rising-toothless-corner-serifless-tailed-i-serifed
+  broken-rising-toothless-corner-serifless-tailed-i-serifless
+  broken-rising-toothless-corner-serifless-tailed-i-top-right-motion-serifed
+  broken-rising-toothless-rounded-serifed-straight-i-bottom-right-serifed
+  broken-rising-toothless-rounded-serifed-straight-i-serifed
+  broken-rising-toothless-rounded-serifed-straight-i-serifless
+  broken-rising-toothless-rounded-serifed-straight-i-top-right-motion-serifed
+  broken-rising-toothless-rounded-serifed-tailed-i-bottom-right-serifed
+  broken-rising-toothless-rounded-serifed-tailed-i-serifed
+  broken-rising-toothless-rounded-serifed-tailed-i-serifless
+  broken-rising-toothless-rounded-serifed-tailed-i-top-right-motion-serifed
+  broken-rising-toothless-rounded-serifless-straight-i-bottom-right-serifed
+  broken-rising-toothless-rounded-serifless-straight-i-serifed
+  broken-rising-toothless-rounded-serifless-straight-i-serifless
+  broken-rising-toothless-rounded-serifless-straight-i-top-right-motion-serifed
+  broken-rising-toothless-rounded-serifless-tailed-i-bottom-right-serifed
+  broken-rising-toothless-rounded-serifless-tailed-i-serifed
+  broken-rising-toothless-rounded-serifless-tailed-i-serifless
+  broken-rising-toothless-rounded-serifless-tailed-i-top-right-motion-serifed
   corner
   corner-bilateral-motion-serifed
   corner-tailed
@@ -4047,11 +4474,139 @@
   cursive-tailed-bilateral-motion-serifed
   cursive-tailed-top-right-motion-serifed
   cursive-top-right-motion-serifed
+  flat-flat-bottom-serifed-straight-i-bottom-right-serifed
+  flat-flat-bottom-serifed-straight-i-serifed
+  flat-flat-bottom-serifed-straight-i-serifless
+  flat-flat-bottom-serifed-straight-i-top-right-motion-serifed
+  flat-flat-bottom-serifed-tailed-i-bottom-right-serifed
+  flat-flat-bottom-serifed-tailed-i-serifed
+  flat-flat-bottom-serifed-tailed-i-serifless
+  flat-flat-bottom-serifed-tailed-i-top-right-motion-serifed
+  flat-flat-bottom-serifless-straight-i-bottom-right-serifed
+  flat-flat-bottom-serifless-straight-i-serifed
+  flat-flat-bottom-serifless-straight-i-serifless
+  flat-flat-bottom-serifless-straight-i-top-right-motion-serifed
+  flat-flat-bottom-serifless-tailed-i-bottom-right-serifed
+  flat-flat-bottom-serifless-tailed-i-serifed
+  flat-flat-bottom-serifless-tailed-i-serifless
+  flat-flat-bottom-serifless-tailed-i-top-right-motion-serifed
+  flat-flat-serifed-straight-i-bottom-right-serifed
+  flat-flat-serifed-straight-i-serifed
+  flat-flat-serifed-straight-i-serifless
+  flat-flat-serifed-straight-i-top-right-motion-serifed
+  flat-flat-serifed-tailed-i-bottom-right-serifed
+  flat-flat-serifed-tailed-i-serifed
+  flat-flat-serifed-tailed-i-serifless
+  flat-flat-serifed-tailed-i-top-right-motion-serifed
+  flat-flat-serifless-straight-i-bottom-right-serifed
+  flat-flat-serifless-straight-i-serifed
+  flat-flat-serifless-straight-i-serifless
+  flat-flat-serifless-straight-i-top-right-motion-serifed
+  flat-flat-serifless-tailed-i-bottom-right-serifed
+  flat-flat-serifless-tailed-i-serifed
+  flat-flat-serifless-tailed-i-serifless
+  flat-flat-serifless-tailed-i-top-right-motion-serifed
+  flat-toothless-corner-serifed-straight-i-bottom-right-serifed
+  flat-toothless-corner-serifed-straight-i-serifed
+  flat-toothless-corner-serifed-straight-i-serifless
+  flat-toothless-corner-serifed-straight-i-top-right-motion-serifed
+  flat-toothless-corner-serifed-tailed-i-bottom-right-serifed
+  flat-toothless-corner-serifed-tailed-i-serifed
+  flat-toothless-corner-serifed-tailed-i-serifless
+  flat-toothless-corner-serifed-tailed-i-top-right-motion-serifed
+  flat-toothless-corner-serifless-straight-i-bottom-right-serifed
+  flat-toothless-corner-serifless-straight-i-serifed
+  flat-toothless-corner-serifless-straight-i-serifless
+  flat-toothless-corner-serifless-straight-i-top-right-motion-serifed
+  flat-toothless-corner-serifless-tailed-i-bottom-right-serifed
+  flat-toothless-corner-serifless-tailed-i-serifed
+  flat-toothless-corner-serifless-tailed-i-serifless
+  flat-toothless-corner-serifless-tailed-i-top-right-motion-serifed
+  flat-toothless-rounded-serifed-straight-i-bottom-right-serifed
+  flat-toothless-rounded-serifed-straight-i-serifed
+  flat-toothless-rounded-serifed-straight-i-serifless
+  flat-toothless-rounded-serifed-straight-i-top-right-motion-serifed
+  flat-toothless-rounded-serifed-tailed-i-bottom-right-serifed
+  flat-toothless-rounded-serifed-tailed-i-serifed
+  flat-toothless-rounded-serifed-tailed-i-serifless
+  flat-toothless-rounded-serifed-tailed-i-top-right-motion-serifed
+  flat-toothless-rounded-serifless-straight-i-bottom-right-serifed
+  flat-toothless-rounded-serifless-straight-i-serifed
+  flat-toothless-rounded-serifless-straight-i-serifless
+  flat-toothless-rounded-serifless-straight-i-top-right-motion-serifed
+  flat-toothless-rounded-serifless-tailed-i-bottom-right-serifed
+  flat-toothless-rounded-serifless-tailed-i-serifed
+  flat-toothless-rounded-serifless-tailed-i-serifless
+  flat-toothless-rounded-serifless-tailed-i-top-right-motion-serifed
   open
   open-bilateral-motion-serifed
+  open-flat-bottom-serifed-straight-i-bottom-right-serifed
+  open-flat-bottom-serifed-straight-i-serifed
+  open-flat-bottom-serifed-straight-i-serifless
+  open-flat-bottom-serifed-straight-i-top-right-motion-serifed
+  open-flat-bottom-serifed-tailed-i-bottom-right-serifed
+  open-flat-bottom-serifed-tailed-i-serifed
+  open-flat-bottom-serifed-tailed-i-serifless
+  open-flat-bottom-serifed-tailed-i-top-right-motion-serifed
+  open-flat-bottom-serifless-straight-i-bottom-right-serifed
+  open-flat-bottom-serifless-straight-i-serifed
+  open-flat-bottom-serifless-straight-i-serifless
+  open-flat-bottom-serifless-straight-i-top-right-motion-serifed
+  open-flat-bottom-serifless-tailed-i-bottom-right-serifed
+  open-flat-bottom-serifless-tailed-i-serifed
+  open-flat-bottom-serifless-tailed-i-serifless
+  open-flat-bottom-serifless-tailed-i-top-right-motion-serifed
+  open-flat-serifed-straight-i-bottom-right-serifed
+  open-flat-serifed-straight-i-serifed
+  open-flat-serifed-straight-i-serifless
+  open-flat-serifed-straight-i-top-right-motion-serifed
+  open-flat-serifed-tailed-i-bottom-right-serifed
+  open-flat-serifed-tailed-i-serifed
+  open-flat-serifed-tailed-i-serifless
+  open-flat-serifed-tailed-i-top-right-motion-serifed
+  open-flat-serifless-straight-i-bottom-right-serifed
+  open-flat-serifless-straight-i-serifed
+  open-flat-serifless-straight-i-serifless
+  open-flat-serifless-straight-i-top-right-motion-serifed
+  open-flat-serifless-tailed-i-bottom-right-serifed
+  open-flat-serifless-tailed-i-serifed
+  open-flat-serifless-tailed-i-serifless
+  open-flat-serifless-tailed-i-top-right-motion-serifed
   open-tailed
   open-tailed-bilateral-motion-serifed
   open-tailed-top-right-motion-serifed
+  open-toothless-corner-serifed-straight-i-bottom-right-serifed
+  open-toothless-corner-serifed-straight-i-serifed
+  open-toothless-corner-serifed-straight-i-serifless
+  open-toothless-corner-serifed-straight-i-top-right-motion-serifed
+  open-toothless-corner-serifed-tailed-i-bottom-right-serifed
+  open-toothless-corner-serifed-tailed-i-serifed
+  open-toothless-corner-serifed-tailed-i-serifless
+  open-toothless-corner-serifed-tailed-i-top-right-motion-serifed
+  open-toothless-corner-serifless-straight-i-bottom-right-serifed
+  open-toothless-corner-serifless-straight-i-serifed
+  open-toothless-corner-serifless-straight-i-serifless
+  open-toothless-corner-serifless-straight-i-top-right-motion-serifed
+  open-toothless-corner-serifless-tailed-i-bottom-right-serifed
+  open-toothless-corner-serifless-tailed-i-serifed
+  open-toothless-corner-serifless-tailed-i-serifless
+  open-toothless-corner-serifless-tailed-i-top-right-motion-serifed
+  open-toothless-rounded-serifed-straight-i-bottom-right-serifed
+  open-toothless-rounded-serifed-straight-i-serifed
+  open-toothless-rounded-serifed-straight-i-serifless
+  open-toothless-rounded-serifed-straight-i-top-right-motion-serifed
+  open-toothless-rounded-serifed-tailed-i-bottom-right-serifed
+  open-toothless-rounded-serifed-tailed-i-serifed
+  open-toothless-rounded-serifed-tailed-i-serifless
+  open-toothless-rounded-serifed-tailed-i-top-right-motion-serifed
+  open-toothless-rounded-serifless-straight-i-bottom-right-serifed
+  open-toothless-rounded-serifless-straight-i-serifed
+  open-toothless-rounded-serifless-straight-i-serifless
+  open-toothless-rounded-serifless-straight-i-top-right-motion-serifed
+  open-toothless-rounded-serifless-tailed-i-bottom-right-serifed
+  open-toothless-rounded-serifless-tailed-i-serifed
+  open-toothless-rounded-serifless-tailed-i-serifless
+  open-toothless-rounded-serifless-tailed-i-top-right-motion-serifed
   open-top-right-motion-serifed
   round
   round-bilateral-motion-serifed
@@ -4059,6 +4614,70 @@
   round-tailed-bilateral-motion-serifed
   round-tailed-top-right-motion-serifed
   round-top-right-motion-serifed
+  rounded-flat-bottom-serifed-straight-i-bottom-right-serifed
+  rounded-flat-bottom-serifed-straight-i-serifed
+  rounded-flat-bottom-serifed-straight-i-serifless
+  rounded-flat-bottom-serifed-straight-i-top-right-motion-serifed
+  rounded-flat-bottom-serifed-tailed-i-bottom-right-serifed
+  rounded-flat-bottom-serifed-tailed-i-serifed
+  rounded-flat-bottom-serifed-tailed-i-serifless
+  rounded-flat-bottom-serifed-tailed-i-top-right-motion-serifed
+  rounded-flat-bottom-serifless-straight-i-bottom-right-serifed
+  rounded-flat-bottom-serifless-straight-i-serifed
+  rounded-flat-bottom-serifless-straight-i-serifless
+  rounded-flat-bottom-serifless-straight-i-top-right-motion-serifed
+  rounded-flat-bottom-serifless-tailed-i-bottom-right-serifed
+  rounded-flat-bottom-serifless-tailed-i-serifed
+  rounded-flat-bottom-serifless-tailed-i-serifless
+  rounded-flat-bottom-serifless-tailed-i-top-right-motion-serifed
+  rounded-flat-serifed-straight-i-bottom-right-serifed
+  rounded-flat-serifed-straight-i-serifed
+  rounded-flat-serifed-straight-i-serifless
+  rounded-flat-serifed-straight-i-top-right-motion-serifed
+  rounded-flat-serifed-tailed-i-bottom-right-serifed
+  rounded-flat-serifed-tailed-i-serifed
+  rounded-flat-serifed-tailed-i-serifless
+  rounded-flat-serifed-tailed-i-top-right-motion-serifed
+  rounded-flat-serifless-straight-i-bottom-right-serifed
+  rounded-flat-serifless-straight-i-serifed
+  rounded-flat-serifless-straight-i-serifless
+  rounded-flat-serifless-straight-i-top-right-motion-serifed
+  rounded-flat-serifless-tailed-i-bottom-right-serifed
+  rounded-flat-serifless-tailed-i-serifed
+  rounded-flat-serifless-tailed-i-serifless
+  rounded-flat-serifless-tailed-i-top-right-motion-serifed
+  rounded-toothless-corner-serifed-straight-i-bottom-right-serifed
+  rounded-toothless-corner-serifed-straight-i-serifed
+  rounded-toothless-corner-serifed-straight-i-serifless
+  rounded-toothless-corner-serifed-straight-i-top-right-motion-serifed
+  rounded-toothless-corner-serifed-tailed-i-bottom-right-serifed
+  rounded-toothless-corner-serifed-tailed-i-serifed
+  rounded-toothless-corner-serifed-tailed-i-serifless
+  rounded-toothless-corner-serifed-tailed-i-top-right-motion-serifed
+  rounded-toothless-corner-serifless-straight-i-bottom-right-serifed
+  rounded-toothless-corner-serifless-straight-i-serifed
+  rounded-toothless-corner-serifless-straight-i-serifless
+  rounded-toothless-corner-serifless-straight-i-top-right-motion-serifed
+  rounded-toothless-corner-serifless-tailed-i-bottom-right-serifed
+  rounded-toothless-corner-serifless-tailed-i-serifed
+  rounded-toothless-corner-serifless-tailed-i-serifless
+  rounded-toothless-corner-serifless-tailed-i-top-right-motion-serifed
+  rounded-toothless-rounded-serifed-straight-i-bottom-right-serifed
+  rounded-toothless-rounded-serifed-straight-i-serifed
+  rounded-toothless-rounded-serifed-straight-i-serifless
+  rounded-toothless-rounded-serifed-straight-i-top-right-motion-serifed
+  rounded-toothless-rounded-serifed-tailed-i-bottom-right-serifed
+  rounded-toothless-rounded-serifed-tailed-i-serifed
+  rounded-toothless-rounded-serifed-tailed-i-serifless
+  rounded-toothless-rounded-serifed-tailed-i-top-right-motion-serifed
+  rounded-toothless-rounded-serifless-straight-i-bottom-right-serifed
+  rounded-toothless-rounded-serifless-straight-i-serifed
+  rounded-toothless-rounded-serifless-straight-i-serifless
+  rounded-toothless-rounded-serifless-straight-i-top-right-motion-serifed
+  rounded-toothless-rounded-serifless-tailed-i-bottom-right-serifed
+  rounded-toothless-rounded-serifless-tailed-i-serifed
+  rounded-toothless-rounded-serifless-tailed-i-serifless
+  rounded-toothless-rounded-serifless-tailed-i-top-right-motion-serifed
 
 [cyrl-ze] tag=VXCX sampler="з"
   bilateral-inward-serifed
@@ -4936,6 +5555,11 @@
   symmetric-touching-top-right-outer-serifed
   symmetric-touching-tri-serifed
 
+[komi-hook] tag=VXFW sampler="ԂԃԄԅԈԉԊԋԌԍԎԏǶƕ"
+  motion-serifed
+  serifed
+  serifless
+
 [l] tag=cv39 sampler="l"
   base-serifed
   diagonal-tailed
@@ -5201,8 +5825,12 @@
   crossing
 
 [lower-beta] tag=cv87 sampler="β"
+  broken-falling
+  broken-rising
   cursive
   flat-bottom
+  flat-bottom-broken-falling
+  flat-bottom-broken-rising
   standard
 
 [lower-chi] tag=cv88 sampler="χ"
