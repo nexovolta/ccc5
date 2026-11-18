@@ -1907,6 +1907,10 @@
   straight-top-serifed
   straight-tri-serifed
 
+[capital-latin-alpha] tag=VXFU sampler="Ɑ"
+  crossing
+  single-storey
+
 [capital-latin-gamma] tag=cv40 sampler="Ɣ"
   bilateral-motion-serifed
   motion-serifed
@@ -2678,11 +2682,23 @@
 
 [cyrl-capital-en] tag=VXCB sampler="Н"
   bilateral-motion-serifed
+  bilateral-motion-serifed-diagonal-crossbar-falling
+  bilateral-motion-serifed-diagonal-crossbar-rising
   serifed
+  serifed-diagonal-crossbar-falling
+  serifed-diagonal-crossbar-rising
   serifless
+  serifless-diagonal-crossbar-falling
+  serifless-diagonal-crossbar-rising
   top-left-bottom-right-serifed
+  top-left-bottom-right-serifed-diagonal-crossbar-falling
+  top-left-bottom-right-serifed-diagonal-crossbar-rising
   top-left-serifed
+  top-left-serifed-diagonal-crossbar-falling
+  top-left-serifed-diagonal-crossbar-rising
   top-right-motion-serifed
+  top-right-motion-serifed-diagonal-crossbar-falling
+  top-right-motion-serifed-diagonal-crossbar-rising
 
 [cyrl-capital-i] tag=VXCD sampler="И"
   asymmetric-bilateral-motion-serifed
@@ -2983,6 +2999,7 @@
 [cyrl-capital-yeri] tag= sampler=""
   corner
   cursive
+  open
   round
 
 [cyrl-capital-yery] tag= sampler=""
@@ -2992,6 +3009,9 @@
   cursive
   cursive-bilateral-motion-serifed
   cursive-top-right-motion-serifed
+  open
+  open-bilateral-motion-serifed
+  open-top-right-motion-serifed
   round
   round-bilateral-motion-serifed
   round-top-right-motion-serifed
@@ -3398,16 +3418,38 @@
 
 [cyrl-en] tag=VXCC sampler="н"
   bilateral-motion-serifed
+  bilateral-motion-serifed-diagonal-crossbar-falling
+  bilateral-motion-serifed-diagonal-crossbar-rising
   serifed
+  serifed-diagonal-crossbar-falling
+  serifed-diagonal-crossbar-rising
   serifless
+  serifless-diagonal-crossbar-falling
+  serifless-diagonal-crossbar-rising
   tailed-bilateral-motion-serifed
+  tailed-bilateral-motion-serifed-diagonal-crossbar-falling
+  tailed-bilateral-motion-serifed-diagonal-crossbar-rising
   tailed-serifed
+  tailed-serifed-diagonal-crossbar-falling
+  tailed-serifed-diagonal-crossbar-rising
   tailed-serifless
+  tailed-serifless-diagonal-crossbar-falling
+  tailed-serifless-diagonal-crossbar-rising
   tailed-top-left-serifed
+  tailed-top-left-serifed-diagonal-crossbar-falling
+  tailed-top-left-serifed-diagonal-crossbar-rising
   tailed-top-right-motion-serifed
+  tailed-top-right-motion-serifed-diagonal-crossbar-falling
+  tailed-top-right-motion-serifed-diagonal-crossbar-rising
   top-left-bottom-right-serifed
+  top-left-bottom-right-serifed-diagonal-crossbar-falling
+  top-left-bottom-right-serifed-diagonal-crossbar-rising
   top-left-serifed
+  top-left-serifed-diagonal-crossbar-falling
+  top-left-serifed-diagonal-crossbar-rising
   top-right-motion-serifed
+  top-right-motion-serifed-diagonal-crossbar-falling
+  top-right-motion-serifed-diagonal-crossbar-rising
 
 [cyrl-i] tag=VXCE sampler="и"
   asymmetric-bilateral-motion-serifed
@@ -3989,6 +4031,7 @@
 [cyrl-yeri] tag=VXCU sampler="ь ъ"
   corner
   cursive
+  open
   round
 
 [cyrl-yery] tag=VXCV sampler="ы"
@@ -4004,6 +4047,12 @@
   cursive-tailed-bilateral-motion-serifed
   cursive-tailed-top-right-motion-serifed
   cursive-top-right-motion-serifed
+  open
+  open-bilateral-motion-serifed
+  open-tailed
+  open-tailed-bilateral-motion-serifed
+  open-tailed-top-right-motion-serifed
+  open-top-right-motion-serifed
   round
   round-bilateral-motion-serifed
   round-tailed
@@ -5009,6 +5058,10 @@
   top-tailed-plain-bottom
   zshaped
 
+[latin-alpha] tag=VXFV sampler="ɑ"
+  crossing
+  single-storey
+
 [latin-gamma] tag=cv41 sampler="ɣ"
   bilateral-motion-serifed
   motion-serifed
@@ -5284,8 +5337,25 @@
   serifless
 
 [lower-eth] tag=cv24 sampler="ð"
+  closed-contour
+  closed-contour-flat-bowl
+  closed-corner-hooked
+  closed-corner-hooked-flat-bowl
+  closed-flat-hooked
+  closed-flat-hooked-flat-bowl
+  closed-inward-serifed
+  closed-inward-serifed-flat-bowl
+  closed-serifed-hooked
+  closed-serifed-hooked-flat-bowl
   curly-bar
+  open-contour
+  open-contour-flat-bowl
+  steep-bar
+  steep-bar-flat-bowl
   straight-bar
+  straight-bar-flat-bowl
+  vertical-bar
+  vertical-bar-flat-bowl
 
 [lower-ezh] tag=VXFQ sampler="ʒƹƺʓꝣɮʤ𝼠"
   cursive-corner-hooked-serifless
@@ -5700,9 +5770,9 @@
   rounded-flat-hooked
   rounded-serif
 
-[lower-sigma] tag=cv67 sampler="σ"
+[lower-sigma] tag=cv67 sampler="σꝹ"
   rounded
-  vertical-bowl
+  straight-bowl
 
 [lower-tau] tag=VXBJ sampler="τ"
   diagonal-tailed
@@ -5981,8 +6051,24 @@
 
 [partial-derivative] tag=VXBO sampler="∂"
   closed-contour
+  closed-contour-flat-bowl
+  closed-corner-hooked
+  closed-corner-hooked-flat-bowl
+  closed-flat-hooked
+  closed-flat-hooked-flat-bowl
+  closed-inward-serifed
+  closed-inward-serifed-flat-bowl
+  closed-serifed-hooked
+  closed-serifed-hooked-flat-bowl
   curly-bar
+  open-contour
+  open-contour-flat-bowl
+  steep-bar
+  steep-bar-flat-bowl
   straight-bar
+  straight-bar-flat-bowl
+  vertical-bar
+  vertical-bar-flat-bowl
 
 [percent] tag=VXAP sampler="%"
   circles-continuous-slash
