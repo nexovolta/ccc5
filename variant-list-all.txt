@@ -1372,18 +1372,30 @@
   straight-tri-serifed-diagonal-bar-rising
 
 [capital-b] tag=cv13 sampler="B"
-  more-asymmetric-bilateral-serifed
-  more-asymmetric-broken-falling-bilateral-serifed
-  more-asymmetric-broken-falling-serifless
-  more-asymmetric-broken-falling-unilateral-serifed
-  more-asymmetric-broken-rising-bilateral-serifed
-  more-asymmetric-broken-rising-serifless
-  more-asymmetric-broken-rising-unilateral-serifed
-  more-asymmetric-interrupted-bilateral-serifed
-  more-asymmetric-interrupted-serifless
-  more-asymmetric-interrupted-unilateral-serifed
-  more-asymmetric-serifless
-  more-asymmetric-unilateral-serifed
+  big-bottom-bowl-bilateral-serifed
+  big-bottom-bowl-broken-falling-bilateral-serifed
+  big-bottom-bowl-broken-falling-serifless
+  big-bottom-bowl-broken-falling-unilateral-serifed
+  big-bottom-bowl-broken-rising-bilateral-serifed
+  big-bottom-bowl-broken-rising-serifless
+  big-bottom-bowl-broken-rising-unilateral-serifed
+  big-bottom-bowl-interrupted-bilateral-serifed
+  big-bottom-bowl-interrupted-serifless
+  big-bottom-bowl-interrupted-unilateral-serifed
+  big-bottom-bowl-serifless
+  big-bottom-bowl-unilateral-serifed
+  big-top-bowl-bilateral-serifed
+  big-top-bowl-broken-falling-bilateral-serifed
+  big-top-bowl-broken-falling-serifless
+  big-top-bowl-broken-falling-unilateral-serifed
+  big-top-bowl-broken-rising-bilateral-serifed
+  big-top-bowl-broken-rising-serifless
+  big-top-bowl-broken-rising-unilateral-serifed
+  big-top-bowl-interrupted-bilateral-serifed
+  big-top-bowl-interrupted-serifless
+  big-top-bowl-interrupted-unilateral-serifed
+  big-top-bowl-serifless
+  big-top-bowl-unilateral-serifed
   standard-bilateral-serifed
   standard-broken-falling-bilateral-serifed
   standard-broken-falling-serifless
@@ -4200,6 +4212,10 @@
   straight-top-right-motion-serifed
 
 [cyrl-ve] tag=VXCR sampler="в"
+  big-bottom-bowl
+  big-bottom-bowl-tall
+  big-top-bowl
+  big-top-bowl-tall
   cursive
   cursive-broken-falling
   cursive-broken-falling-tall
@@ -4868,10 +4884,11 @@
   rounded-flat-hooked
 
 [eight] tag=cv09 sampler="8"
+  big-bottom-circle
+  big-top-circle
   crossing
   crossing-asymmetric
   crossing-reverse-asymmetric
-  double-circle
 
 [ellipsis-density] tag=VXAW sampler="…"
   dense
@@ -5825,12 +5842,14 @@
   crossing
 
 [lower-beta] tag=cv87 sampler="β"
+  big-top-bowl
   broken-falling
   broken-rising
   cursive
   flat-bottom
   flat-bottom-broken-falling
   flat-bottom-broken-rising
+  small-top-bowl
   standard
 
 [lower-chi] tag=cv88 sampler="χ"
@@ -6615,10 +6634,10 @@
 
 [number-sign] tag=VXAN sampler="#"
   slanted
-  slanted-open-both
-  slanted-open-both-tall
+  slanted-open
   slanted-open-horizontal
   slanted-open-horizontal-tall
+  slanted-open-tall
   slanted-open-vertical
   slanted-open-vertical-tall
   slanted-tall
