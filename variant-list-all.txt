@@ -6869,14 +6869,24 @@
 [lower-phi] tag=VXBF sampler="φ"
   cursive
   cursive-base-serifed
+  cursive-top-base-serifed
+  cursive-top-serifed
   neo-hellenic
   neo-hellenic-base-serifed
+  neo-hellenic-top-base-serifed
+  neo-hellenic-top-serifed
   straight
   straight-base-serifed
   straight-short-neck
   straight-short-neck-base-serifed
+  straight-short-neck-top-base-serifed
+  straight-short-neck-top-serifed
   straight-shorter-neck
   straight-shorter-neck-base-serifed
+  straight-shorter-neck-top-base-serifed
+  straight-shorter-neck-top-serifed
+  straight-top-base-serifed
+  straight-top-serifed
 
 [lower-pi] tag=VXBG sampler="π"
   diagonal-tailed
@@ -6887,16 +6897,32 @@
 [lower-psi] tag=VXBH sampler="ψ"
   base-serifed
   flat-top-base-serifed
-  flat-top-serifed
+  flat-top-left-base-serifed
+  flat-top-left-serifed
   flat-top-serifless
-  serifed
+  left-base-serifed
+  left-serifed
   serifless
   short-neck-base-serifed
-  short-neck-serifed
+  short-neck-left-base-serifed
+  short-neck-left-serifed
   short-neck-serifless
+  short-neck-top-base-serifed
+  short-neck-top-left-base-serifed
+  short-neck-top-left-serifed
+  short-neck-top-serifed
   shorter-neck-base-serifed
-  shorter-neck-serifed
+  shorter-neck-left-base-serifed
+  shorter-neck-left-serifed
   shorter-neck-serifless
+  shorter-neck-top-base-serifed
+  shorter-neck-top-left-base-serifed
+  shorter-neck-top-left-serifed
+  shorter-neck-top-serifed
+  top-base-serifed
+  top-left-base-serifed
+  top-left-serifed
+  top-serifed
 
 [lower-qoppa] tag=cv59 sampler="ϙ"
   base-serifed
