@@ -2186,7 +2186,9 @@
 
 [capital-theta] tag=cv70 sampler="Θ"
   diagonal-crossbar-falling
+  diagonal-crossbar-falling-middle-serifed
   diagonal-crossbar-rising
+  diagonal-crossbar-rising-middle-serifed
   serifed
   serifless
 

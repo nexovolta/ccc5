@@ -97,7 +97,7 @@ latin-upsilon = 'serifless'
 # GREEK
 
 capital-delta = 'square-motion-serifed'
-capital-theta = 'diagonal-crossbar-falling'
+capital-theta = 'diagonal-crossbar-falling-middle-serifed'
 capital-gamma = 'diagonal-crossbar-falling-bilateral-motion-serifed'
 capital-lambda = 'square-bottom-top-serifed'
 capital-pi = 'motion-serifed'
@@ -382,7 +382,7 @@ latin-upsilon = 'serifless'
 # GREEK
 
 capital-delta = 'square-motion-serifed'
-capital-theta = 'diagonal-crossbar-rising'
+capital-theta = 'diagonal-crossbar-rising-middle-serifed'
 capital-gamma = 'diagonal-crossbar-rising-bilateral-motion-serifed'
 capital-lambda = 'square-bottom-top-serifed'
 capital-pi = 'motion-serifed'
@@ -755,7 +755,7 @@ latin-upsilon = 'serifless'
 # GREEK
 
 capital-delta = 'square-motion-serifed'
-capital-theta = 'diagonal-crossbar-falling'
+capital-theta = 'diagonal-crossbar-falling-middle-serifed'
 capital-gamma = 'diagonal-crossbar-falling-bilateral-motion-serifed'
 capital-lambda = 'square-bottom-top-serifed'
 capital-pi = 'motion-serifed'
@@ -1040,7 +1040,7 @@ latin-upsilon = 'serifless'
 # GREEK
 
 capital-delta = 'square-motion-serifed'
-capital-theta = 'diagonal-crossbar-rising'
+capital-theta = 'diagonal-crossbar-rising-middle-serifed'
 capital-gamma = 'diagonal-crossbar-rising-bilateral-motion-serifed'
 capital-lambda = 'square-bottom-top-serifed'
 capital-pi = 'motion-serifed'
