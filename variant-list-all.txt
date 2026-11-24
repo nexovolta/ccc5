@@ -189,85 +189,133 @@
 [ampersand] tag=VXAA sampler="&"
   closed
   closed-corner-hooked
+  closed-et-bottom-cut
   closed-et-flat-bottom
+  closed-et-flat-bottom-serifed
   closed-et-tailed
   closed-et-toothed
+  closed-et-toothed-tailed
   closed-et-toothless-corner
   closed-et-toothless-rounded
   closed-flat-hooked
+  et-bottom-cut
+  et-corner-hooked-bottom-cut
   et-corner-hooked-flat-bottom
+  et-corner-hooked-flat-bottom-serifed
   et-corner-hooked-tailed
   et-corner-hooked-toothed
+  et-corner-hooked-toothed-tailed
   et-corner-hooked-toothless-corner
   et-corner-hooked-toothless-rounded
   et-flat-bottom
+  et-flat-bottom-serifed
+  et-flat-hooked-bottom-cut
   et-flat-hooked-flat-bottom
+  et-flat-hooked-flat-bottom-serifed
   et-flat-hooked-tailed
   et-flat-hooked-toothed
+  et-flat-hooked-toothed-tailed
   et-flat-hooked-toothless-corner
   et-flat-hooked-toothless-rounded
+  et-inward-serifed-bottom-cut
   et-inward-serifed-flat-bottom
+  et-inward-serifed-flat-bottom-serifed
   et-inward-serifed-tailed
   et-inward-serifed-toothed
+  et-inward-serifed-toothed-tailed
   et-inward-serifed-toothless-corner
   et-inward-serifed-toothless-rounded
+  et-serifed-bottom-cut
   et-serifed-flat-bottom
+  et-serifed-flat-bottom-serifed
   et-serifed-tailed
   et-serifed-toothed
+  et-serifed-toothed-tailed
   et-serifed-toothless-corner
   et-serifed-toothless-rounded
   et-tailed
   et-toothed
+  et-toothed-tailed
   et-toothless-corner
   et-toothless-rounded
   flat-top
   flat-top-and-bottom
+  flat-top-and-bottom-bottom-cut-serifed
+  flat-top-and-bottom-bottom-cut-serifless
+  flat-top-and-bottom-flat-bottom-serifed-serifed
+  flat-top-and-bottom-flat-bottom-serifed-serifless
   flat-top-and-bottom-serifed
   flat-top-and-bottom-toothed
   flat-top-and-bottom-toothed-serifed
+  flat-top-and-bottom-toothed-tailed-serifed
+  flat-top-and-bottom-toothed-tailed-serifless
   flat-top-and-bottom-toothless-corner
   flat-top-and-bottom-toothless-corner-serifed
   flat-top-and-bottom-toothless-rounded
   flat-top-and-bottom-toothless-rounded-serifed
+  flat-top-bottom-cut-serifed
+  flat-top-bottom-cut-serifless
   flat-top-flat-bottom
   flat-top-flat-bottom-serifed
+  flat-top-flat-bottom-serifed-serifed
+  flat-top-flat-bottom-serifed-serifless
   flat-top-serifed
   flat-top-toothed
   flat-top-toothed-serifed
+  flat-top-toothed-tailed-serifed
+  flat-top-toothed-tailed-serifless
   flat-top-toothless-corner
   flat-top-toothless-corner-serifed
   flat-top-toothless-rounded
   flat-top-toothless-rounded-serifed
   lower-open
+  lower-open-bottom-cut
   lower-open-flat-bottom
+  lower-open-flat-bottom-serifed
   lower-open-toothed
+  lower-open-toothed-tailed
   lower-open-toothless-corner
   lower-open-toothless-rounded
   upper-open
   upper-open-corner-hooked
+  upper-open-et-bottom-cut
+  upper-open-et-corner-hooked-bottom-cut
   upper-open-et-corner-hooked-flat-bottom
+  upper-open-et-corner-hooked-flat-bottom-serifed
   upper-open-et-corner-hooked-tailed
   upper-open-et-corner-hooked-toothed
+  upper-open-et-corner-hooked-toothed-tailed
   upper-open-et-corner-hooked-toothless-corner
   upper-open-et-corner-hooked-toothless-rounded
   upper-open-et-flat-bottom
+  upper-open-et-flat-bottom-serifed
+  upper-open-et-flat-hooked-bottom-cut
   upper-open-et-flat-hooked-flat-bottom
+  upper-open-et-flat-hooked-flat-bottom-serifed
   upper-open-et-flat-hooked-tailed
   upper-open-et-flat-hooked-toothed
+  upper-open-et-flat-hooked-toothed-tailed
   upper-open-et-flat-hooked-toothless-corner
   upper-open-et-flat-hooked-toothless-rounded
+  upper-open-et-inward-serifed-bottom-cut
   upper-open-et-inward-serifed-flat-bottom
+  upper-open-et-inward-serifed-flat-bottom-serifed
   upper-open-et-inward-serifed-tailed
   upper-open-et-inward-serifed-toothed
+  upper-open-et-inward-serifed-toothed-tailed
   upper-open-et-inward-serifed-toothless-corner
   upper-open-et-inward-serifed-toothless-rounded
+  upper-open-et-serifed-bottom-cut
   upper-open-et-serifed-flat-bottom
+  upper-open-et-serifed-flat-bottom-serifed
   upper-open-et-serifed-tailed
   upper-open-et-serifed-toothed
+  upper-open-et-serifed-toothed-tailed
   upper-open-et-serifed-toothless-corner
   upper-open-et-serifed-toothless-rounded
   upper-open-et-tailed
   upper-open-et-toothed
+  upper-open-et-toothed-tailed
   upper-open-et-toothless-corner
   upper-open-et-toothless-rounded
   upper-open-flat-hooked
@@ -2260,7 +2308,7 @@
   straight-serifless
   straight-top-right-motion-serifed
 
-[capital-w] tag=cv77 sampler="W"
+[capital-w] tag=cv77 sampler="WꟂ"
   curly-almost-flat-top-bilateral-motion-serifed
   curly-almost-flat-top-motion-serifed
   curly-almost-flat-top-serifed
@@ -7808,7 +7856,7 @@
   straight-serifless
   straight-top-right-motion-serifed
 
-[w] tag=cv78 sampler="w"
+[w] tag=cv78 sampler="wꟃ"
   curly-almost-flat-top-bilateral-motion-serifed
   curly-almost-flat-top-motion-serifed
   curly-almost-flat-top-serifed
