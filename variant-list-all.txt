@@ -4305,386 +4305,386 @@
   earless-corner-flat-bottom-broken-falling-big-bottom-bowl-tall
   earless-corner-flat-bottom-broken-falling-big-top-bowl-short
   earless-corner-flat-bottom-broken-falling-big-top-bowl-tall
-  earless-corner-flat-bottom-broken-falling-symmetric-bowls-short
-  earless-corner-flat-bottom-broken-falling-symmetric-bowls-tall
+  earless-corner-flat-bottom-broken-falling-short
+  earless-corner-flat-bottom-broken-falling-tall
   earless-corner-flat-bottom-broken-rising-big-bottom-bowl-short
   earless-corner-flat-bottom-broken-rising-big-bottom-bowl-tall
   earless-corner-flat-bottom-broken-rising-big-top-bowl-short
   earless-corner-flat-bottom-broken-rising-big-top-bowl-tall
-  earless-corner-flat-bottom-broken-rising-symmetric-bowls-short
-  earless-corner-flat-bottom-broken-rising-symmetric-bowls-tall
+  earless-corner-flat-bottom-broken-rising-short
+  earless-corner-flat-bottom-broken-rising-tall
   earless-corner-flat-bottom-closed-big-bottom-bowl-short
   earless-corner-flat-bottom-closed-big-bottom-bowl-tall
   earless-corner-flat-bottom-closed-big-top-bowl-short
   earless-corner-flat-bottom-closed-big-top-bowl-tall
-  earless-corner-flat-bottom-closed-symmetric-bowls-short
-  earless-corner-flat-bottom-closed-symmetric-bowls-tall
+  earless-corner-flat-bottom-closed-short
+  earless-corner-flat-bottom-closed-tall
   earless-corner-flat-bottom-open-big-bottom-bowl-short
   earless-corner-flat-bottom-open-big-bottom-bowl-tall
   earless-corner-flat-bottom-open-big-top-bowl-short
   earless-corner-flat-bottom-open-big-top-bowl-tall
-  earless-corner-flat-bottom-open-symmetric-bowls-short
-  earless-corner-flat-bottom-open-symmetric-bowls-tall
+  earless-corner-flat-bottom-open-short
+  earless-corner-flat-bottom-open-tall
   earless-corner-flat-bottom-serifed-broken-falling-big-bottom-bowl-short
   earless-corner-flat-bottom-serifed-broken-falling-big-bottom-bowl-tall
   earless-corner-flat-bottom-serifed-broken-falling-big-top-bowl-short
   earless-corner-flat-bottom-serifed-broken-falling-big-top-bowl-tall
-  earless-corner-flat-bottom-serifed-broken-falling-symmetric-bowls-short
-  earless-corner-flat-bottom-serifed-broken-falling-symmetric-bowls-tall
+  earless-corner-flat-bottom-serifed-broken-falling-short
+  earless-corner-flat-bottom-serifed-broken-falling-tall
   earless-corner-flat-bottom-serifed-broken-rising-big-bottom-bowl-short
   earless-corner-flat-bottom-serifed-broken-rising-big-bottom-bowl-tall
   earless-corner-flat-bottom-serifed-broken-rising-big-top-bowl-short
   earless-corner-flat-bottom-serifed-broken-rising-big-top-bowl-tall
-  earless-corner-flat-bottom-serifed-broken-rising-symmetric-bowls-short
-  earless-corner-flat-bottom-serifed-broken-rising-symmetric-bowls-tall
+  earless-corner-flat-bottom-serifed-broken-rising-short
+  earless-corner-flat-bottom-serifed-broken-rising-tall
   earless-corner-flat-bottom-serifed-closed-big-bottom-bowl-short
   earless-corner-flat-bottom-serifed-closed-big-bottom-bowl-tall
   earless-corner-flat-bottom-serifed-closed-big-top-bowl-short
   earless-corner-flat-bottom-serifed-closed-big-top-bowl-tall
-  earless-corner-flat-bottom-serifed-closed-symmetric-bowls-short
-  earless-corner-flat-bottom-serifed-closed-symmetric-bowls-tall
+  earless-corner-flat-bottom-serifed-closed-short
+  earless-corner-flat-bottom-serifed-closed-tall
   earless-corner-flat-bottom-serifed-open-big-bottom-bowl-short
   earless-corner-flat-bottom-serifed-open-big-bottom-bowl-tall
   earless-corner-flat-bottom-serifed-open-big-top-bowl-short
   earless-corner-flat-bottom-serifed-open-big-top-bowl-tall
-  earless-corner-flat-bottom-serifed-open-symmetric-bowls-short
-  earless-corner-flat-bottom-serifed-open-symmetric-bowls-tall
+  earless-corner-flat-bottom-serifed-open-short
+  earless-corner-flat-bottom-serifed-open-tall
   earless-corner-toothless-corner-broken-falling-big-bottom-bowl-short
   earless-corner-toothless-corner-broken-falling-big-bottom-bowl-tall
   earless-corner-toothless-corner-broken-falling-big-top-bowl-short
   earless-corner-toothless-corner-broken-falling-big-top-bowl-tall
-  earless-corner-toothless-corner-broken-falling-symmetric-bowls-short
-  earless-corner-toothless-corner-broken-falling-symmetric-bowls-tall
+  earless-corner-toothless-corner-broken-falling-short
+  earless-corner-toothless-corner-broken-falling-tall
   earless-corner-toothless-corner-broken-rising-big-bottom-bowl-short
   earless-corner-toothless-corner-broken-rising-big-bottom-bowl-tall
   earless-corner-toothless-corner-broken-rising-big-top-bowl-short
   earless-corner-toothless-corner-broken-rising-big-top-bowl-tall
-  earless-corner-toothless-corner-broken-rising-symmetric-bowls-short
-  earless-corner-toothless-corner-broken-rising-symmetric-bowls-tall
+  earless-corner-toothless-corner-broken-rising-short
+  earless-corner-toothless-corner-broken-rising-tall
   earless-corner-toothless-corner-closed-big-bottom-bowl-short
   earless-corner-toothless-corner-closed-big-bottom-bowl-tall
   earless-corner-toothless-corner-closed-big-top-bowl-short
   earless-corner-toothless-corner-closed-big-top-bowl-tall
-  earless-corner-toothless-corner-closed-symmetric-bowls-short
-  earless-corner-toothless-corner-closed-symmetric-bowls-tall
+  earless-corner-toothless-corner-closed-short
+  earless-corner-toothless-corner-closed-tall
   earless-corner-toothless-corner-open-big-bottom-bowl-short
   earless-corner-toothless-corner-open-big-bottom-bowl-tall
   earless-corner-toothless-corner-open-big-top-bowl-short
   earless-corner-toothless-corner-open-big-top-bowl-tall
-  earless-corner-toothless-corner-open-symmetric-bowls-short
-  earless-corner-toothless-corner-open-symmetric-bowls-tall
+  earless-corner-toothless-corner-open-short
+  earless-corner-toothless-corner-open-tall
   earless-corner-toothless-rounded-broken-falling-big-bottom-bowl-short
   earless-corner-toothless-rounded-broken-falling-big-bottom-bowl-tall
   earless-corner-toothless-rounded-broken-falling-big-top-bowl-short
   earless-corner-toothless-rounded-broken-falling-big-top-bowl-tall
-  earless-corner-toothless-rounded-broken-falling-symmetric-bowls-short
-  earless-corner-toothless-rounded-broken-falling-symmetric-bowls-tall
+  earless-corner-toothless-rounded-broken-falling-short
+  earless-corner-toothless-rounded-broken-falling-tall
   earless-corner-toothless-rounded-broken-rising-big-bottom-bowl-short
   earless-corner-toothless-rounded-broken-rising-big-bottom-bowl-tall
   earless-corner-toothless-rounded-broken-rising-big-top-bowl-short
   earless-corner-toothless-rounded-broken-rising-big-top-bowl-tall
-  earless-corner-toothless-rounded-broken-rising-symmetric-bowls-short
-  earless-corner-toothless-rounded-broken-rising-symmetric-bowls-tall
+  earless-corner-toothless-rounded-broken-rising-short
+  earless-corner-toothless-rounded-broken-rising-tall
   earless-corner-toothless-rounded-closed-big-bottom-bowl-short
   earless-corner-toothless-rounded-closed-big-bottom-bowl-tall
   earless-corner-toothless-rounded-closed-big-top-bowl-short
   earless-corner-toothless-rounded-closed-big-top-bowl-tall
-  earless-corner-toothless-rounded-closed-symmetric-bowls-short
-  earless-corner-toothless-rounded-closed-symmetric-bowls-tall
+  earless-corner-toothless-rounded-closed-short
+  earless-corner-toothless-rounded-closed-tall
   earless-corner-toothless-rounded-open-big-bottom-bowl-short
   earless-corner-toothless-rounded-open-big-bottom-bowl-tall
   earless-corner-toothless-rounded-open-big-top-bowl-short
   earless-corner-toothless-rounded-open-big-top-bowl-tall
-  earless-corner-toothless-rounded-open-symmetric-bowls-short
-  earless-corner-toothless-rounded-open-symmetric-bowls-tall
+  earless-corner-toothless-rounded-open-short
+  earless-corner-toothless-rounded-open-tall
   earless-rounded-flat-bottom-broken-falling-big-bottom-bowl-short
   earless-rounded-flat-bottom-broken-falling-big-bottom-bowl-tall
   earless-rounded-flat-bottom-broken-falling-big-top-bowl-short
   earless-rounded-flat-bottom-broken-falling-big-top-bowl-tall
-  earless-rounded-flat-bottom-broken-falling-symmetric-bowls-short
-  earless-rounded-flat-bottom-broken-falling-symmetric-bowls-tall
+  earless-rounded-flat-bottom-broken-falling-short
+  earless-rounded-flat-bottom-broken-falling-tall
   earless-rounded-flat-bottom-broken-rising-big-bottom-bowl-short
   earless-rounded-flat-bottom-broken-rising-big-bottom-bowl-tall
   earless-rounded-flat-bottom-broken-rising-big-top-bowl-short
   earless-rounded-flat-bottom-broken-rising-big-top-bowl-tall
-  earless-rounded-flat-bottom-broken-rising-symmetric-bowls-short
-  earless-rounded-flat-bottom-broken-rising-symmetric-bowls-tall
+  earless-rounded-flat-bottom-broken-rising-short
+  earless-rounded-flat-bottom-broken-rising-tall
   earless-rounded-flat-bottom-closed-big-bottom-bowl-short
   earless-rounded-flat-bottom-closed-big-bottom-bowl-tall
   earless-rounded-flat-bottom-closed-big-top-bowl-short
   earless-rounded-flat-bottom-closed-big-top-bowl-tall
-  earless-rounded-flat-bottom-closed-symmetric-bowls-short
-  earless-rounded-flat-bottom-closed-symmetric-bowls-tall
+  earless-rounded-flat-bottom-closed-short
+  earless-rounded-flat-bottom-closed-tall
   earless-rounded-flat-bottom-open-big-bottom-bowl-short
   earless-rounded-flat-bottom-open-big-bottom-bowl-tall
   earless-rounded-flat-bottom-open-big-top-bowl-short
   earless-rounded-flat-bottom-open-big-top-bowl-tall
-  earless-rounded-flat-bottom-open-symmetric-bowls-short
-  earless-rounded-flat-bottom-open-symmetric-bowls-tall
+  earless-rounded-flat-bottom-open-short
+  earless-rounded-flat-bottom-open-tall
   earless-rounded-flat-bottom-serifed-broken-falling-big-bottom-bowl-short
   earless-rounded-flat-bottom-serifed-broken-falling-big-bottom-bowl-tall
   earless-rounded-flat-bottom-serifed-broken-falling-big-top-bowl-short
   earless-rounded-flat-bottom-serifed-broken-falling-big-top-bowl-tall
-  earless-rounded-flat-bottom-serifed-broken-falling-symmetric-bowls-short
-  earless-rounded-flat-bottom-serifed-broken-falling-symmetric-bowls-tall
+  earless-rounded-flat-bottom-serifed-broken-falling-short
+  earless-rounded-flat-bottom-serifed-broken-falling-tall
   earless-rounded-flat-bottom-serifed-broken-rising-big-bottom-bowl-short
   earless-rounded-flat-bottom-serifed-broken-rising-big-bottom-bowl-tall
   earless-rounded-flat-bottom-serifed-broken-rising-big-top-bowl-short
   earless-rounded-flat-bottom-serifed-broken-rising-big-top-bowl-tall
-  earless-rounded-flat-bottom-serifed-broken-rising-symmetric-bowls-short
-  earless-rounded-flat-bottom-serifed-broken-rising-symmetric-bowls-tall
+  earless-rounded-flat-bottom-serifed-broken-rising-short
+  earless-rounded-flat-bottom-serifed-broken-rising-tall
   earless-rounded-flat-bottom-serifed-closed-big-bottom-bowl-short
   earless-rounded-flat-bottom-serifed-closed-big-bottom-bowl-tall
   earless-rounded-flat-bottom-serifed-closed-big-top-bowl-short
   earless-rounded-flat-bottom-serifed-closed-big-top-bowl-tall
-  earless-rounded-flat-bottom-serifed-closed-symmetric-bowls-short
-  earless-rounded-flat-bottom-serifed-closed-symmetric-bowls-tall
+  earless-rounded-flat-bottom-serifed-closed-short
+  earless-rounded-flat-bottom-serifed-closed-tall
   earless-rounded-flat-bottom-serifed-open-big-bottom-bowl-short
   earless-rounded-flat-bottom-serifed-open-big-bottom-bowl-tall
   earless-rounded-flat-bottom-serifed-open-big-top-bowl-short
   earless-rounded-flat-bottom-serifed-open-big-top-bowl-tall
-  earless-rounded-flat-bottom-serifed-open-symmetric-bowls-short
-  earless-rounded-flat-bottom-serifed-open-symmetric-bowls-tall
+  earless-rounded-flat-bottom-serifed-open-short
+  earless-rounded-flat-bottom-serifed-open-tall
   earless-rounded-toothless-corner-broken-falling-big-bottom-bowl-short
   earless-rounded-toothless-corner-broken-falling-big-bottom-bowl-tall
   earless-rounded-toothless-corner-broken-falling-big-top-bowl-short
   earless-rounded-toothless-corner-broken-falling-big-top-bowl-tall
-  earless-rounded-toothless-corner-broken-falling-symmetric-bowls-short
-  earless-rounded-toothless-corner-broken-falling-symmetric-bowls-tall
+  earless-rounded-toothless-corner-broken-falling-short
+  earless-rounded-toothless-corner-broken-falling-tall
   earless-rounded-toothless-corner-broken-rising-big-bottom-bowl-short
   earless-rounded-toothless-corner-broken-rising-big-bottom-bowl-tall
   earless-rounded-toothless-corner-broken-rising-big-top-bowl-short
   earless-rounded-toothless-corner-broken-rising-big-top-bowl-tall
-  earless-rounded-toothless-corner-broken-rising-symmetric-bowls-short
-  earless-rounded-toothless-corner-broken-rising-symmetric-bowls-tall
+  earless-rounded-toothless-corner-broken-rising-short
+  earless-rounded-toothless-corner-broken-rising-tall
   earless-rounded-toothless-corner-closed-big-bottom-bowl-short
   earless-rounded-toothless-corner-closed-big-bottom-bowl-tall
   earless-rounded-toothless-corner-closed-big-top-bowl-short
   earless-rounded-toothless-corner-closed-big-top-bowl-tall
-  earless-rounded-toothless-corner-closed-symmetric-bowls-short
-  earless-rounded-toothless-corner-closed-symmetric-bowls-tall
+  earless-rounded-toothless-corner-closed-short
+  earless-rounded-toothless-corner-closed-tall
   earless-rounded-toothless-corner-open-big-bottom-bowl-short
   earless-rounded-toothless-corner-open-big-bottom-bowl-tall
   earless-rounded-toothless-corner-open-big-top-bowl-short
   earless-rounded-toothless-corner-open-big-top-bowl-tall
-  earless-rounded-toothless-corner-open-symmetric-bowls-short
-  earless-rounded-toothless-corner-open-symmetric-bowls-tall
+  earless-rounded-toothless-corner-open-short
+  earless-rounded-toothless-corner-open-tall
   earless-rounded-toothless-rounded-broken-falling-big-bottom-bowl-short
   earless-rounded-toothless-rounded-broken-falling-big-bottom-bowl-tall
   earless-rounded-toothless-rounded-broken-falling-big-top-bowl-short
   earless-rounded-toothless-rounded-broken-falling-big-top-bowl-tall
-  earless-rounded-toothless-rounded-broken-falling-symmetric-bowls-short
-  earless-rounded-toothless-rounded-broken-falling-symmetric-bowls-tall
+  earless-rounded-toothless-rounded-broken-falling-short
+  earless-rounded-toothless-rounded-broken-falling-tall
   earless-rounded-toothless-rounded-broken-rising-big-bottom-bowl-short
   earless-rounded-toothless-rounded-broken-rising-big-bottom-bowl-tall
   earless-rounded-toothless-rounded-broken-rising-big-top-bowl-short
   earless-rounded-toothless-rounded-broken-rising-big-top-bowl-tall
-  earless-rounded-toothless-rounded-broken-rising-symmetric-bowls-short
-  earless-rounded-toothless-rounded-broken-rising-symmetric-bowls-tall
+  earless-rounded-toothless-rounded-broken-rising-short
+  earless-rounded-toothless-rounded-broken-rising-tall
   earless-rounded-toothless-rounded-closed-big-bottom-bowl-short
   earless-rounded-toothless-rounded-closed-big-bottom-bowl-tall
   earless-rounded-toothless-rounded-closed-big-top-bowl-short
   earless-rounded-toothless-rounded-closed-big-top-bowl-tall
-  earless-rounded-toothless-rounded-closed-symmetric-bowls-short
-  earless-rounded-toothless-rounded-closed-symmetric-bowls-tall
+  earless-rounded-toothless-rounded-closed-short
+  earless-rounded-toothless-rounded-closed-tall
   earless-rounded-toothless-rounded-open-big-bottom-bowl-short
   earless-rounded-toothless-rounded-open-big-bottom-bowl-tall
   earless-rounded-toothless-rounded-open-big-top-bowl-short
   earless-rounded-toothless-rounded-open-big-top-bowl-tall
-  earless-rounded-toothless-rounded-open-symmetric-bowls-short
-  earless-rounded-toothless-rounded-open-symmetric-bowls-tall
+  earless-rounded-toothless-rounded-open-short
+  earless-rounded-toothless-rounded-open-tall
   flat-top-flat-bottom-broken-falling-big-bottom-bowl-short
   flat-top-flat-bottom-broken-falling-big-bottom-bowl-tall
   flat-top-flat-bottom-broken-falling-big-top-bowl-short
   flat-top-flat-bottom-broken-falling-big-top-bowl-tall
-  flat-top-flat-bottom-broken-falling-symmetric-bowls-short
-  flat-top-flat-bottom-broken-falling-symmetric-bowls-tall
+  flat-top-flat-bottom-broken-falling-short
+  flat-top-flat-bottom-broken-falling-tall
   flat-top-flat-bottom-broken-rising-big-bottom-bowl-short
   flat-top-flat-bottom-broken-rising-big-bottom-bowl-tall
   flat-top-flat-bottom-broken-rising-big-top-bowl-short
   flat-top-flat-bottom-broken-rising-big-top-bowl-tall
-  flat-top-flat-bottom-broken-rising-symmetric-bowls-short
-  flat-top-flat-bottom-broken-rising-symmetric-bowls-tall
+  flat-top-flat-bottom-broken-rising-short
+  flat-top-flat-bottom-broken-rising-tall
   flat-top-flat-bottom-closed-big-bottom-bowl-short
   flat-top-flat-bottom-closed-big-bottom-bowl-tall
   flat-top-flat-bottom-closed-big-top-bowl-short
   flat-top-flat-bottom-closed-big-top-bowl-tall
-  flat-top-flat-bottom-closed-symmetric-bowls-short
-  flat-top-flat-bottom-closed-symmetric-bowls-tall
+  flat-top-flat-bottom-closed-short
+  flat-top-flat-bottom-closed-tall
   flat-top-flat-bottom-open-big-bottom-bowl-short
   flat-top-flat-bottom-open-big-bottom-bowl-tall
   flat-top-flat-bottom-open-big-top-bowl-short
   flat-top-flat-bottom-open-big-top-bowl-tall
-  flat-top-flat-bottom-open-symmetric-bowls-short
-  flat-top-flat-bottom-open-symmetric-bowls-tall
+  flat-top-flat-bottom-open-short
+  flat-top-flat-bottom-open-tall
   flat-top-flat-bottom-serifed-broken-falling-big-bottom-bowl-short
   flat-top-flat-bottom-serifed-broken-falling-big-bottom-bowl-tall
   flat-top-flat-bottom-serifed-broken-falling-big-top-bowl-short
   flat-top-flat-bottom-serifed-broken-falling-big-top-bowl-tall
-  flat-top-flat-bottom-serifed-broken-falling-symmetric-bowls-short
-  flat-top-flat-bottom-serifed-broken-falling-symmetric-bowls-tall
+  flat-top-flat-bottom-serifed-broken-falling-short
+  flat-top-flat-bottom-serifed-broken-falling-tall
   flat-top-flat-bottom-serifed-broken-rising-big-bottom-bowl-short
   flat-top-flat-bottom-serifed-broken-rising-big-bottom-bowl-tall
   flat-top-flat-bottom-serifed-broken-rising-big-top-bowl-short
   flat-top-flat-bottom-serifed-broken-rising-big-top-bowl-tall
-  flat-top-flat-bottom-serifed-broken-rising-symmetric-bowls-short
-  flat-top-flat-bottom-serifed-broken-rising-symmetric-bowls-tall
+  flat-top-flat-bottom-serifed-broken-rising-short
+  flat-top-flat-bottom-serifed-broken-rising-tall
   flat-top-flat-bottom-serifed-closed-big-bottom-bowl-short
   flat-top-flat-bottom-serifed-closed-big-bottom-bowl-tall
   flat-top-flat-bottom-serifed-closed-big-top-bowl-short
   flat-top-flat-bottom-serifed-closed-big-top-bowl-tall
-  flat-top-flat-bottom-serifed-closed-symmetric-bowls-short
-  flat-top-flat-bottom-serifed-closed-symmetric-bowls-tall
+  flat-top-flat-bottom-serifed-closed-short
+  flat-top-flat-bottom-serifed-closed-tall
   flat-top-flat-bottom-serifed-open-big-bottom-bowl-short
   flat-top-flat-bottom-serifed-open-big-bottom-bowl-tall
   flat-top-flat-bottom-serifed-open-big-top-bowl-short
   flat-top-flat-bottom-serifed-open-big-top-bowl-tall
-  flat-top-flat-bottom-serifed-open-symmetric-bowls-short
-  flat-top-flat-bottom-serifed-open-symmetric-bowls-tall
+  flat-top-flat-bottom-serifed-open-short
+  flat-top-flat-bottom-serifed-open-tall
   flat-top-serifed-flat-bottom-broken-falling-big-bottom-bowl-short
   flat-top-serifed-flat-bottom-broken-falling-big-bottom-bowl-tall
   flat-top-serifed-flat-bottom-broken-falling-big-top-bowl-short
   flat-top-serifed-flat-bottom-broken-falling-big-top-bowl-tall
-  flat-top-serifed-flat-bottom-broken-falling-symmetric-bowls-short
-  flat-top-serifed-flat-bottom-broken-falling-symmetric-bowls-tall
+  flat-top-serifed-flat-bottom-broken-falling-short
+  flat-top-serifed-flat-bottom-broken-falling-tall
   flat-top-serifed-flat-bottom-broken-rising-big-bottom-bowl-short
   flat-top-serifed-flat-bottom-broken-rising-big-bottom-bowl-tall
   flat-top-serifed-flat-bottom-broken-rising-big-top-bowl-short
   flat-top-serifed-flat-bottom-broken-rising-big-top-bowl-tall
-  flat-top-serifed-flat-bottom-broken-rising-symmetric-bowls-short
-  flat-top-serifed-flat-bottom-broken-rising-symmetric-bowls-tall
+  flat-top-serifed-flat-bottom-broken-rising-short
+  flat-top-serifed-flat-bottom-broken-rising-tall
   flat-top-serifed-flat-bottom-closed-big-bottom-bowl-short
   flat-top-serifed-flat-bottom-closed-big-bottom-bowl-tall
   flat-top-serifed-flat-bottom-closed-big-top-bowl-short
   flat-top-serifed-flat-bottom-closed-big-top-bowl-tall
-  flat-top-serifed-flat-bottom-closed-symmetric-bowls-short
-  flat-top-serifed-flat-bottom-closed-symmetric-bowls-tall
+  flat-top-serifed-flat-bottom-closed-short
+  flat-top-serifed-flat-bottom-closed-tall
   flat-top-serifed-flat-bottom-open-big-bottom-bowl-short
   flat-top-serifed-flat-bottom-open-big-bottom-bowl-tall
   flat-top-serifed-flat-bottom-open-big-top-bowl-short
   flat-top-serifed-flat-bottom-open-big-top-bowl-tall
-  flat-top-serifed-flat-bottom-open-symmetric-bowls-short
-  flat-top-serifed-flat-bottom-open-symmetric-bowls-tall
+  flat-top-serifed-flat-bottom-open-short
+  flat-top-serifed-flat-bottom-open-tall
   flat-top-serifed-flat-bottom-serifed-broken-falling-big-bottom-bowl-short
   flat-top-serifed-flat-bottom-serifed-broken-falling-big-bottom-bowl-tall
   flat-top-serifed-flat-bottom-serifed-broken-falling-big-top-bowl-short
   flat-top-serifed-flat-bottom-serifed-broken-falling-big-top-bowl-tall
-  flat-top-serifed-flat-bottom-serifed-broken-falling-symmetric-bowls-short
-  flat-top-serifed-flat-bottom-serifed-broken-falling-symmetric-bowls-tall
+  flat-top-serifed-flat-bottom-serifed-broken-falling-short
+  flat-top-serifed-flat-bottom-serifed-broken-falling-tall
   flat-top-serifed-flat-bottom-serifed-broken-rising-big-bottom-bowl-short
   flat-top-serifed-flat-bottom-serifed-broken-rising-big-bottom-bowl-tall
   flat-top-serifed-flat-bottom-serifed-broken-rising-big-top-bowl-short
   flat-top-serifed-flat-bottom-serifed-broken-rising-big-top-bowl-tall
-  flat-top-serifed-flat-bottom-serifed-broken-rising-symmetric-bowls-short
-  flat-top-serifed-flat-bottom-serifed-broken-rising-symmetric-bowls-tall
+  flat-top-serifed-flat-bottom-serifed-broken-rising-short
+  flat-top-serifed-flat-bottom-serifed-broken-rising-tall
   flat-top-serifed-flat-bottom-serifed-closed-big-bottom-bowl-short
   flat-top-serifed-flat-bottom-serifed-closed-big-bottom-bowl-tall
   flat-top-serifed-flat-bottom-serifed-closed-big-top-bowl-short
   flat-top-serifed-flat-bottom-serifed-closed-big-top-bowl-tall
-  flat-top-serifed-flat-bottom-serifed-closed-symmetric-bowls-short
-  flat-top-serifed-flat-bottom-serifed-closed-symmetric-bowls-tall
+  flat-top-serifed-flat-bottom-serifed-closed-short
+  flat-top-serifed-flat-bottom-serifed-closed-tall
   flat-top-serifed-flat-bottom-serifed-open-big-bottom-bowl-short
   flat-top-serifed-flat-bottom-serifed-open-big-bottom-bowl-tall
   flat-top-serifed-flat-bottom-serifed-open-big-top-bowl-short
   flat-top-serifed-flat-bottom-serifed-open-big-top-bowl-tall
-  flat-top-serifed-flat-bottom-serifed-open-symmetric-bowls-short
-  flat-top-serifed-flat-bottom-serifed-open-symmetric-bowls-tall
+  flat-top-serifed-flat-bottom-serifed-open-short
+  flat-top-serifed-flat-bottom-serifed-open-tall
   flat-top-serifed-toothless-corner-broken-falling-big-bottom-bowl-short
   flat-top-serifed-toothless-corner-broken-falling-big-bottom-bowl-tall
   flat-top-serifed-toothless-corner-broken-falling-big-top-bowl-short
   flat-top-serifed-toothless-corner-broken-falling-big-top-bowl-tall
-  flat-top-serifed-toothless-corner-broken-falling-symmetric-bowls-short
-  flat-top-serifed-toothless-corner-broken-falling-symmetric-bowls-tall
+  flat-top-serifed-toothless-corner-broken-falling-short
+  flat-top-serifed-toothless-corner-broken-falling-tall
   flat-top-serifed-toothless-corner-broken-rising-big-bottom-bowl-short
   flat-top-serifed-toothless-corner-broken-rising-big-bottom-bowl-tall
   flat-top-serifed-toothless-corner-broken-rising-big-top-bowl-short
   flat-top-serifed-toothless-corner-broken-rising-big-top-bowl-tall
-  flat-top-serifed-toothless-corner-broken-rising-symmetric-bowls-short
-  flat-top-serifed-toothless-corner-broken-rising-symmetric-bowls-tall
+  flat-top-serifed-toothless-corner-broken-rising-short
+  flat-top-serifed-toothless-corner-broken-rising-tall
   flat-top-serifed-toothless-corner-closed-big-bottom-bowl-short
   flat-top-serifed-toothless-corner-closed-big-bottom-bowl-tall
   flat-top-serifed-toothless-corner-closed-big-top-bowl-short
   flat-top-serifed-toothless-corner-closed-big-top-bowl-tall
-  flat-top-serifed-toothless-corner-closed-symmetric-bowls-short
-  flat-top-serifed-toothless-corner-closed-symmetric-bowls-tall
+  flat-top-serifed-toothless-corner-closed-short
+  flat-top-serifed-toothless-corner-closed-tall
   flat-top-serifed-toothless-corner-open-big-bottom-bowl-short
   flat-top-serifed-toothless-corner-open-big-bottom-bowl-tall
   flat-top-serifed-toothless-corner-open-big-top-bowl-short
   flat-top-serifed-toothless-corner-open-big-top-bowl-tall
-  flat-top-serifed-toothless-corner-open-symmetric-bowls-short
-  flat-top-serifed-toothless-corner-open-symmetric-bowls-tall
+  flat-top-serifed-toothless-corner-open-short
+  flat-top-serifed-toothless-corner-open-tall
   flat-top-serifed-toothless-rounded-broken-falling-big-bottom-bowl-short
   flat-top-serifed-toothless-rounded-broken-falling-big-bottom-bowl-tall
   flat-top-serifed-toothless-rounded-broken-falling-big-top-bowl-short
   flat-top-serifed-toothless-rounded-broken-falling-big-top-bowl-tall
-  flat-top-serifed-toothless-rounded-broken-falling-symmetric-bowls-short
-  flat-top-serifed-toothless-rounded-broken-falling-symmetric-bowls-tall
+  flat-top-serifed-toothless-rounded-broken-falling-short
+  flat-top-serifed-toothless-rounded-broken-falling-tall
   flat-top-serifed-toothless-rounded-broken-rising-big-bottom-bowl-short
   flat-top-serifed-toothless-rounded-broken-rising-big-bottom-bowl-tall
   flat-top-serifed-toothless-rounded-broken-rising-big-top-bowl-short
   flat-top-serifed-toothless-rounded-broken-rising-big-top-bowl-tall
-  flat-top-serifed-toothless-rounded-broken-rising-symmetric-bowls-short
-  flat-top-serifed-toothless-rounded-broken-rising-symmetric-bowls-tall
+  flat-top-serifed-toothless-rounded-broken-rising-short
+  flat-top-serifed-toothless-rounded-broken-rising-tall
   flat-top-serifed-toothless-rounded-closed-big-bottom-bowl-short
   flat-top-serifed-toothless-rounded-closed-big-bottom-bowl-tall
   flat-top-serifed-toothless-rounded-closed-big-top-bowl-short
   flat-top-serifed-toothless-rounded-closed-big-top-bowl-tall
-  flat-top-serifed-toothless-rounded-closed-symmetric-bowls-short
-  flat-top-serifed-toothless-rounded-closed-symmetric-bowls-tall
+  flat-top-serifed-toothless-rounded-closed-short
+  flat-top-serifed-toothless-rounded-closed-tall
   flat-top-serifed-toothless-rounded-open-big-bottom-bowl-short
   flat-top-serifed-toothless-rounded-open-big-bottom-bowl-tall
   flat-top-serifed-toothless-rounded-open-big-top-bowl-short
   flat-top-serifed-toothless-rounded-open-big-top-bowl-tall
-  flat-top-serifed-toothless-rounded-open-symmetric-bowls-short
-  flat-top-serifed-toothless-rounded-open-symmetric-bowls-tall
+  flat-top-serifed-toothless-rounded-open-short
+  flat-top-serifed-toothless-rounded-open-tall
   flat-top-toothless-corner-broken-falling-big-bottom-bowl-short
   flat-top-toothless-corner-broken-falling-big-bottom-bowl-tall
   flat-top-toothless-corner-broken-falling-big-top-bowl-short
   flat-top-toothless-corner-broken-falling-big-top-bowl-tall
-  flat-top-toothless-corner-broken-falling-symmetric-bowls-short
-  flat-top-toothless-corner-broken-falling-symmetric-bowls-tall
+  flat-top-toothless-corner-broken-falling-short
+  flat-top-toothless-corner-broken-falling-tall
   flat-top-toothless-corner-broken-rising-big-bottom-bowl-short
   flat-top-toothless-corner-broken-rising-big-bottom-bowl-tall
   flat-top-toothless-corner-broken-rising-big-top-bowl-short
   flat-top-toothless-corner-broken-rising-big-top-bowl-tall
-  flat-top-toothless-corner-broken-rising-symmetric-bowls-short
-  flat-top-toothless-corner-broken-rising-symmetric-bowls-tall
+  flat-top-toothless-corner-broken-rising-short
+  flat-top-toothless-corner-broken-rising-tall
   flat-top-toothless-corner-closed-big-bottom-bowl-short
   flat-top-toothless-corner-closed-big-bottom-bowl-tall
   flat-top-toothless-corner-closed-big-top-bowl-short
   flat-top-toothless-corner-closed-big-top-bowl-tall
-  flat-top-toothless-corner-closed-symmetric-bowls-short
-  flat-top-toothless-corner-closed-symmetric-bowls-tall
+  flat-top-toothless-corner-closed-short
+  flat-top-toothless-corner-closed-tall
   flat-top-toothless-corner-open-big-bottom-bowl-short
   flat-top-toothless-corner-open-big-bottom-bowl-tall
   flat-top-toothless-corner-open-big-top-bowl-short
   flat-top-toothless-corner-open-big-top-bowl-tall
-  flat-top-toothless-corner-open-symmetric-bowls-short
-  flat-top-toothless-corner-open-symmetric-bowls-tall
+  flat-top-toothless-corner-open-short
+  flat-top-toothless-corner-open-tall
   flat-top-toothless-rounded-broken-falling-big-bottom-bowl-short
   flat-top-toothless-rounded-broken-falling-big-bottom-bowl-tall
   flat-top-toothless-rounded-broken-falling-big-top-bowl-short
   flat-top-toothless-rounded-broken-falling-big-top-bowl-tall
-  flat-top-toothless-rounded-broken-falling-symmetric-bowls-short
-  flat-top-toothless-rounded-broken-falling-symmetric-bowls-tall
+  flat-top-toothless-rounded-broken-falling-short
+  flat-top-toothless-rounded-broken-falling-tall
   flat-top-toothless-rounded-broken-rising-big-bottom-bowl-short
   flat-top-toothless-rounded-broken-rising-big-bottom-bowl-tall
   flat-top-toothless-rounded-broken-rising-big-top-bowl-short
   flat-top-toothless-rounded-broken-rising-big-top-bowl-tall
-  flat-top-toothless-rounded-broken-rising-symmetric-bowls-short
-  flat-top-toothless-rounded-broken-rising-symmetric-bowls-tall
+  flat-top-toothless-rounded-broken-rising-short
+  flat-top-toothless-rounded-broken-rising-tall
   flat-top-toothless-rounded-closed-big-bottom-bowl-short
   flat-top-toothless-rounded-closed-big-bottom-bowl-tall
   flat-top-toothless-rounded-closed-big-top-bowl-short
   flat-top-toothless-rounded-closed-big-top-bowl-tall
-  flat-top-toothless-rounded-closed-symmetric-bowls-short
-  flat-top-toothless-rounded-closed-symmetric-bowls-tall
+  flat-top-toothless-rounded-closed-short
+  flat-top-toothless-rounded-closed-tall
   flat-top-toothless-rounded-open-big-bottom-bowl-short
   flat-top-toothless-rounded-open-big-bottom-bowl-tall
   flat-top-toothless-rounded-open-big-top-bowl-short
   flat-top-toothless-rounded-open-big-top-bowl-tall
-  flat-top-toothless-rounded-open-symmetric-bowls-short
-  flat-top-toothless-rounded-open-symmetric-bowls-tall
+  flat-top-toothless-rounded-open-short
+  flat-top-toothless-rounded-open-tall
   rounded-top-broken-falling-serifless
   rounded-top-broken-falling-unilateral-bottom-serifed
   rounded-top-broken-rising-serifless
@@ -6308,54 +6308,54 @@
   broken-falling
   broken-rising
   cursive
+  cursive-broken-falling
   cursive-broken-falling-big-bottom-bowl
   cursive-broken-falling-big-top-bowl
-  cursive-broken-falling-symmetric-bowls
+  cursive-broken-rising
   cursive-broken-rising-big-bottom-bowl
   cursive-broken-rising-big-top-bowl
-  cursive-broken-rising-symmetric-bowls
+  cursive-closed
   cursive-closed-big-bottom-bowl
   cursive-closed-big-top-bowl
-  cursive-closed-symmetric-bowls
+  cursive-open
   cursive-open-big-bottom-bowl
   cursive-open-big-top-bowl
-  cursive-open-symmetric-bowls
+  descending-broken-falling
   descending-broken-falling-big-bottom-bowl
   descending-broken-falling-big-top-bowl
-  descending-broken-falling-symmetric-bowls
+  descending-broken-rising
   descending-broken-rising-big-bottom-bowl
   descending-broken-rising-big-top-bowl
-  descending-broken-rising-symmetric-bowls
+  descending-closed
   descending-closed-big-bottom-bowl
   descending-closed-big-top-bowl
-  descending-closed-symmetric-bowls
+  descending-motion-serifed-broken-falling
   descending-motion-serifed-broken-falling-big-bottom-bowl
   descending-motion-serifed-broken-falling-big-top-bowl
-  descending-motion-serifed-broken-falling-symmetric-bowls
+  descending-motion-serifed-broken-rising
   descending-motion-serifed-broken-rising-big-bottom-bowl
   descending-motion-serifed-broken-rising-big-top-bowl
-  descending-motion-serifed-broken-rising-symmetric-bowls
+  descending-motion-serifed-closed
   descending-motion-serifed-closed-big-bottom-bowl
   descending-motion-serifed-closed-big-top-bowl
-  descending-motion-serifed-closed-symmetric-bowls
+  descending-motion-serifed-open
   descending-motion-serifed-open-big-bottom-bowl
   descending-motion-serifed-open-big-top-bowl
-  descending-motion-serifed-open-symmetric-bowls
+  descending-open
   descending-open-big-bottom-bowl
   descending-open-big-top-bowl
-  descending-open-symmetric-bowls
+  descending-serifed-broken-falling
   descending-serifed-broken-falling-big-bottom-bowl
   descending-serifed-broken-falling-big-top-bowl
-  descending-serifed-broken-falling-symmetric-bowls
+  descending-serifed-broken-rising
   descending-serifed-broken-rising-big-bottom-bowl
   descending-serifed-broken-rising-big-top-bowl
-  descending-serifed-broken-rising-symmetric-bowls
+  descending-serifed-closed
   descending-serifed-closed-big-bottom-bowl
   descending-serifed-closed-big-top-bowl
-  descending-serifed-closed-symmetric-bowls
+  descending-serifed-open
   descending-serifed-open-big-bottom-bowl
   descending-serifed-open-big-top-bowl
-  descending-serifed-open-symmetric-bowls
   flat-bottom
   flat-bottom-broken-falling
   flat-bottom-broken-rising
