@@ -54,6 +54,46 @@
   double-storey-hook-corner-toothless-rounded-curved-bar-rising
   double-storey-hook-corner-toothless-rounded-diagonal-bar-falling
   double-storey-hook-corner-toothless-rounded-diagonal-bar-rising
+  double-storey-hook-diagonal-cut-bottom-cut-serifless
+  double-storey-hook-diagonal-cut-bottom-cut-serifless-curved-bar-falling
+  double-storey-hook-diagonal-cut-bottom-cut-serifless-curved-bar-rising
+  double-storey-hook-diagonal-cut-bottom-cut-serifless-diagonal-bar-falling
+  double-storey-hook-diagonal-cut-bottom-cut-serifless-diagonal-bar-rising
+  double-storey-hook-diagonal-cut-flat-bottom-serifed
+  double-storey-hook-diagonal-cut-flat-bottom-serifed-curved-bar-falling
+  double-storey-hook-diagonal-cut-flat-bottom-serifed-curved-bar-rising
+  double-storey-hook-diagonal-cut-flat-bottom-serifed-diagonal-bar-falling
+  double-storey-hook-diagonal-cut-flat-bottom-serifed-diagonal-bar-rising
+  double-storey-hook-diagonal-cut-flat-bottom-serifless
+  double-storey-hook-diagonal-cut-flat-bottom-serifless-curved-bar-falling
+  double-storey-hook-diagonal-cut-flat-bottom-serifless-curved-bar-rising
+  double-storey-hook-diagonal-cut-flat-bottom-serifless-diagonal-bar-falling
+  double-storey-hook-diagonal-cut-flat-bottom-serifless-diagonal-bar-rising
+  double-storey-hook-diagonal-cut-serifed
+  double-storey-hook-diagonal-cut-serifed-curved-bar-falling
+  double-storey-hook-diagonal-cut-serifed-curved-bar-rising
+  double-storey-hook-diagonal-cut-serifed-diagonal-bar-falling
+  double-storey-hook-diagonal-cut-serifed-diagonal-bar-rising
+  double-storey-hook-diagonal-cut-serifless
+  double-storey-hook-diagonal-cut-serifless-curved-bar-falling
+  double-storey-hook-diagonal-cut-serifless-curved-bar-rising
+  double-storey-hook-diagonal-cut-serifless-diagonal-bar-falling
+  double-storey-hook-diagonal-cut-serifless-diagonal-bar-rising
+  double-storey-hook-diagonal-cut-tailed
+  double-storey-hook-diagonal-cut-tailed-curved-bar-falling
+  double-storey-hook-diagonal-cut-tailed-curved-bar-rising
+  double-storey-hook-diagonal-cut-tailed-diagonal-bar-falling
+  double-storey-hook-diagonal-cut-tailed-diagonal-bar-rising
+  double-storey-hook-diagonal-cut-toothless-corner
+  double-storey-hook-diagonal-cut-toothless-corner-curved-bar-falling
+  double-storey-hook-diagonal-cut-toothless-corner-curved-bar-rising
+  double-storey-hook-diagonal-cut-toothless-corner-diagonal-bar-falling
+  double-storey-hook-diagonal-cut-toothless-corner-diagonal-bar-rising
+  double-storey-hook-diagonal-cut-toothless-rounded
+  double-storey-hook-diagonal-cut-toothless-rounded-curved-bar-falling
+  double-storey-hook-diagonal-cut-toothless-rounded-curved-bar-rising
+  double-storey-hook-diagonal-cut-toothless-rounded-diagonal-bar-falling
+  double-storey-hook-diagonal-cut-toothless-rounded-diagonal-bar-rising
   double-storey-hook-flat-bottom-cut-serifless
   double-storey-hook-flat-bottom-cut-serifless-curved-bar-falling
   double-storey-hook-flat-bottom-cut-serifless-curved-bar-rising
@@ -134,6 +174,46 @@
   double-storey-hook-inward-serifed-toothless-rounded-curved-bar-rising
   double-storey-hook-inward-serifed-toothless-rounded-diagonal-bar-falling
   double-storey-hook-inward-serifed-toothless-rounded-diagonal-bar-rising
+  double-storey-hook-vertical-cut-bottom-cut-serifless
+  double-storey-hook-vertical-cut-bottom-cut-serifless-curved-bar-falling
+  double-storey-hook-vertical-cut-bottom-cut-serifless-curved-bar-rising
+  double-storey-hook-vertical-cut-bottom-cut-serifless-diagonal-bar-falling
+  double-storey-hook-vertical-cut-bottom-cut-serifless-diagonal-bar-rising
+  double-storey-hook-vertical-cut-flat-bottom-serifed
+  double-storey-hook-vertical-cut-flat-bottom-serifed-curved-bar-falling
+  double-storey-hook-vertical-cut-flat-bottom-serifed-curved-bar-rising
+  double-storey-hook-vertical-cut-flat-bottom-serifed-diagonal-bar-falling
+  double-storey-hook-vertical-cut-flat-bottom-serifed-diagonal-bar-rising
+  double-storey-hook-vertical-cut-flat-bottom-serifless
+  double-storey-hook-vertical-cut-flat-bottom-serifless-curved-bar-falling
+  double-storey-hook-vertical-cut-flat-bottom-serifless-curved-bar-rising
+  double-storey-hook-vertical-cut-flat-bottom-serifless-diagonal-bar-falling
+  double-storey-hook-vertical-cut-flat-bottom-serifless-diagonal-bar-rising
+  double-storey-hook-vertical-cut-serifed
+  double-storey-hook-vertical-cut-serifed-curved-bar-falling
+  double-storey-hook-vertical-cut-serifed-curved-bar-rising
+  double-storey-hook-vertical-cut-serifed-diagonal-bar-falling
+  double-storey-hook-vertical-cut-serifed-diagonal-bar-rising
+  double-storey-hook-vertical-cut-serifless
+  double-storey-hook-vertical-cut-serifless-curved-bar-falling
+  double-storey-hook-vertical-cut-serifless-curved-bar-rising
+  double-storey-hook-vertical-cut-serifless-diagonal-bar-falling
+  double-storey-hook-vertical-cut-serifless-diagonal-bar-rising
+  double-storey-hook-vertical-cut-tailed
+  double-storey-hook-vertical-cut-tailed-curved-bar-falling
+  double-storey-hook-vertical-cut-tailed-curved-bar-rising
+  double-storey-hook-vertical-cut-tailed-diagonal-bar-falling
+  double-storey-hook-vertical-cut-tailed-diagonal-bar-rising
+  double-storey-hook-vertical-cut-toothless-corner
+  double-storey-hook-vertical-cut-toothless-corner-curved-bar-falling
+  double-storey-hook-vertical-cut-toothless-corner-curved-bar-rising
+  double-storey-hook-vertical-cut-toothless-corner-diagonal-bar-falling
+  double-storey-hook-vertical-cut-toothless-corner-diagonal-bar-rising
+  double-storey-hook-vertical-cut-toothless-rounded
+  double-storey-hook-vertical-cut-toothless-rounded-curved-bar-falling
+  double-storey-hook-vertical-cut-toothless-rounded-curved-bar-rising
+  double-storey-hook-vertical-cut-toothless-rounded-diagonal-bar-falling
+  double-storey-hook-vertical-cut-toothless-rounded-diagonal-bar-rising
   double-storey-serifed
   double-storey-serifed-curved-bar-falling
   double-storey-serifed-curved-bar-rising
@@ -207,6 +287,14 @@
   et-corner-hooked-toothed-tailed
   et-corner-hooked-toothless-corner
   et-corner-hooked-toothless-rounded
+  et-diagonal-cut-bottom-cut
+  et-diagonal-cut-flat-bottom
+  et-diagonal-cut-flat-bottom-serifed
+  et-diagonal-cut-tailed
+  et-diagonal-cut-toothed
+  et-diagonal-cut-toothed-tailed
+  et-diagonal-cut-toothless-corner
+  et-diagonal-cut-toothless-rounded
   et-flat-bottom
   et-flat-bottom-serifed
   et-flat-hooked-bottom-cut
@@ -238,6 +326,14 @@
   et-toothed-tailed
   et-toothless-corner
   et-toothless-rounded
+  et-vertical-cut-bottom-cut
+  et-vertical-cut-flat-bottom
+  et-vertical-cut-flat-bottom-serifed
+  et-vertical-cut-tailed
+  et-vertical-cut-toothed
+  et-vertical-cut-toothed-tailed
+  et-vertical-cut-toothless-corner
+  et-vertical-cut-toothless-rounded
   flat-top
   flat-top-bottom-cut-serifed
   flat-top-bottom-cut-serifless
@@ -278,6 +374,7 @@
   lower-open-toothless-rounded
   upper-open
   upper-open-corner-hooked
+  upper-open-diagonal-cut
   upper-open-et-bottom-cut
   upper-open-et-corner-hooked-bottom-cut
   upper-open-et-corner-hooked-flat-bottom
@@ -287,6 +384,14 @@
   upper-open-et-corner-hooked-toothed-tailed
   upper-open-et-corner-hooked-toothless-corner
   upper-open-et-corner-hooked-toothless-rounded
+  upper-open-et-diagonal-cut-bottom-cut
+  upper-open-et-diagonal-cut-flat-bottom
+  upper-open-et-diagonal-cut-flat-bottom-serifed
+  upper-open-et-diagonal-cut-tailed
+  upper-open-et-diagonal-cut-toothed
+  upper-open-et-diagonal-cut-toothed-tailed
+  upper-open-et-diagonal-cut-toothless-corner
+  upper-open-et-diagonal-cut-toothless-rounded
   upper-open-et-flat-bottom
   upper-open-et-flat-bottom-serifed
   upper-open-et-flat-hooked-bottom-cut
@@ -318,9 +423,18 @@
   upper-open-et-toothed-tailed
   upper-open-et-toothless-corner
   upper-open-et-toothless-rounded
+  upper-open-et-vertical-cut-bottom-cut
+  upper-open-et-vertical-cut-flat-bottom
+  upper-open-et-vertical-cut-flat-bottom-serifed
+  upper-open-et-vertical-cut-tailed
+  upper-open-et-vertical-cut-toothed
+  upper-open-et-vertical-cut-toothed-tailed
+  upper-open-et-vertical-cut-toothless-corner
+  upper-open-et-vertical-cut-toothless-rounded
   upper-open-flat-hooked
   upper-open-inward-serifed
   upper-open-serifed
+  upper-open-vertical-cut
 
 [apl-form] tag= sampler=""
   enable
@@ -1280,9 +1394,11 @@
 [at] tag=VXAE sampler="@"
   compact
   compact-corner-hook
+  compact-diagonal-cut
   compact-flat-hook
   compact-inward-serifed
   compact-serifed
+  compact-vertical-cut
   fourfold
   fourfold-solid-inner
   fourfold-solid-inner-tall
@@ -1341,39 +1457,65 @@
   bilateral-inward-serifed
   bilateral-serifed
   corner-hooked
+  diagonal-cut
   flat-hooked
   serifless
   top-corner-hooked-bottom-corner-hooked
+  top-corner-hooked-bottom-diagonal-cut
   top-corner-hooked-bottom-flat-hooked
   top-corner-hooked-bottom-inward-serifed
   top-corner-hooked-bottom-rounded
   top-corner-hooked-bottom-serifed
+  top-corner-hooked-bottom-vertical-cut
+  top-diagonal-cut-bottom-corner-hooked
+  top-diagonal-cut-bottom-diagonal-cut
+  top-diagonal-cut-bottom-flat-hooked
+  top-diagonal-cut-bottom-inward-serifed
+  top-diagonal-cut-bottom-rounded
+  top-diagonal-cut-bottom-serifed
+  top-diagonal-cut-bottom-vertical-cut
   top-flat-hooked-bottom-corner-hooked
+  top-flat-hooked-bottom-diagonal-cut
   top-flat-hooked-bottom-flat-hooked
   top-flat-hooked-bottom-inward-serifed
   top-flat-hooked-bottom-rounded
   top-flat-hooked-bottom-serifed
+  top-flat-hooked-bottom-vertical-cut
   top-inward-serifed-bottom-corner-hooked
+  top-inward-serifed-bottom-diagonal-cut
   top-inward-serifed-bottom-flat-hooked
   top-inward-serifed-bottom-inward-serifed
   top-inward-serifed-bottom-rounded
   top-inward-serifed-bottom-serifed
+  top-inward-serifed-bottom-vertical-cut
   top-rounded-bottom-corner-hooked
+  top-rounded-bottom-diagonal-cut
   top-rounded-bottom-flat-hooked
   top-rounded-bottom-inward-serifed
   top-rounded-bottom-rounded
   top-rounded-bottom-serifed
+  top-rounded-bottom-vertical-cut
   top-serifed-bottom-corner-hooked
+  top-serifed-bottom-diagonal-cut
   top-serifed-bottom-flat-hooked
   top-serifed-bottom-inward-serifed
   top-serifed-bottom-rounded
   top-serifed-bottom-serifed
+  top-serifed-bottom-vertical-cut
+  top-vertical-cut-bottom-corner-hooked
+  top-vertical-cut-bottom-diagonal-cut
+  top-vertical-cut-bottom-flat-hooked
+  top-vertical-cut-bottom-inward-serifed
+  top-vertical-cut-bottom-rounded
+  top-vertical-cut-bottom-serifed
+  top-vertical-cut-bottom-vertical-cut
   unilateral-inward-serifed
   unilateral-inward-serifed-corner-hooked
   unilateral-inward-serifed-flat-hooked
   unilateral-serifed
   unilateral-serifed-corner-hooked
   unilateral-serifed-flat-hooked
+  vertical-cut
 
 [capital-a] tag=cv11 sampler="A"
   curly-base-serifed
@@ -1461,39 +1603,65 @@
   bilateral-inward-serifed
   bilateral-serifed
   corner-hooked
+  diagonal-cut
   flat-hooked
   serifless
   top-corner-hooked-bottom-corner-hooked
+  top-corner-hooked-bottom-diagonal-cut
   top-corner-hooked-bottom-flat-hooked
   top-corner-hooked-bottom-inward-serifed
   top-corner-hooked-bottom-rounded
   top-corner-hooked-bottom-serifed
+  top-corner-hooked-bottom-vertical-cut
+  top-diagonal-cut-bottom-corner-hooked
+  top-diagonal-cut-bottom-diagonal-cut
+  top-diagonal-cut-bottom-flat-hooked
+  top-diagonal-cut-bottom-inward-serifed
+  top-diagonal-cut-bottom-rounded
+  top-diagonal-cut-bottom-serifed
+  top-diagonal-cut-bottom-vertical-cut
   top-flat-hooked-bottom-corner-hooked
+  top-flat-hooked-bottom-diagonal-cut
   top-flat-hooked-bottom-flat-hooked
   top-flat-hooked-bottom-inward-serifed
   top-flat-hooked-bottom-rounded
   top-flat-hooked-bottom-serifed
+  top-flat-hooked-bottom-vertical-cut
   top-inward-serifed-bottom-corner-hooked
+  top-inward-serifed-bottom-diagonal-cut
   top-inward-serifed-bottom-flat-hooked
   top-inward-serifed-bottom-inward-serifed
   top-inward-serifed-bottom-rounded
   top-inward-serifed-bottom-serifed
+  top-inward-serifed-bottom-vertical-cut
   top-rounded-bottom-corner-hooked
+  top-rounded-bottom-diagonal-cut
   top-rounded-bottom-flat-hooked
   top-rounded-bottom-inward-serifed
   top-rounded-bottom-rounded
   top-rounded-bottom-serifed
+  top-rounded-bottom-vertical-cut
   top-serifed-bottom-corner-hooked
+  top-serifed-bottom-diagonal-cut
   top-serifed-bottom-flat-hooked
   top-serifed-bottom-inward-serifed
   top-serifed-bottom-rounded
   top-serifed-bottom-serifed
+  top-serifed-bottom-vertical-cut
+  top-vertical-cut-bottom-corner-hooked
+  top-vertical-cut-bottom-diagonal-cut
+  top-vertical-cut-bottom-flat-hooked
+  top-vertical-cut-bottom-inward-serifed
+  top-vertical-cut-bottom-rounded
+  top-vertical-cut-bottom-serifed
+  top-vertical-cut-bottom-vertical-cut
   unilateral-inward-serifed
   unilateral-inward-serifed-corner-hooked
   unilateral-inward-serifed-flat-hooked
   unilateral-serifed
   unilateral-serifed-corner-hooked
   unilateral-serifed-flat-hooked
+  vertical-cut
 
 [capital-d] tag=cv17 sampler="D"
   diamond-bilateral-serifed
@@ -1550,6 +1718,8 @@
 [capital-ezh] tag=VXFP sampler="ƷƸꝢ"
   cursive-corner-hooked-serifless
   cursive-corner-hooked-top-serifed
+  cursive-diagonal-cut-serifless
+  cursive-diagonal-cut-top-serifed
   cursive-flat-hooked-serifless
   cursive-flat-hooked-top-serifed
   cursive-inward-serifed-serifless
@@ -1558,8 +1728,12 @@
   cursive-serifed-top-serifed
   cursive-serifless-serifless
   cursive-serifless-top-serifed
+  cursive-vertical-cut-serifless
+  cursive-vertical-cut-top-serifed
   straight-corner-hooked-serifless
   straight-corner-hooked-top-serifed
+  straight-diagonal-cut-serifless
+  straight-diagonal-cut-top-serifed
   straight-flat-hooked-serifless
   straight-flat-hooked-top-serifed
   straight-inward-serifed-serifless
@@ -1568,6 +1742,8 @@
   straight-serifed-top-serifed
   straight-serifless-serifless
   straight-serifless-top-serifed
+  straight-vertical-cut-serifless
+  straight-vertical-cut-top-serifed
 
 [capital-f] tag=cv25 sampler="F"
   capped
@@ -1597,6 +1773,13 @@
   flat-bottom-corner-hooked-diagonal-crossbar-rising-capped
   flat-bottom-corner-hooked-hooked
   flat-bottom-corner-hooked-hookless
+  flat-bottom-diagonal-cut-capped
+  flat-bottom-diagonal-cut-diagonal-crossbar-falling
+  flat-bottom-diagonal-cut-diagonal-crossbar-falling-capped
+  flat-bottom-diagonal-cut-diagonal-crossbar-rising
+  flat-bottom-diagonal-cut-diagonal-crossbar-rising-capped
+  flat-bottom-diagonal-cut-hooked
+  flat-bottom-diagonal-cut-hookless
   flat-bottom-flat-hooked-capped
   flat-bottom-flat-hooked-diagonal-crossbar-falling
   flat-bottom-flat-hooked-diagonal-crossbar-falling-capped
@@ -1625,6 +1808,13 @@
   flat-bottom-serifless-diagonal-crossbar-rising-capped
   flat-bottom-serifless-hooked
   flat-bottom-serifless-hookless
+  flat-bottom-vertical-cut-capped
+  flat-bottom-vertical-cut-diagonal-crossbar-falling
+  flat-bottom-vertical-cut-diagonal-crossbar-falling-capped
+  flat-bottom-vertical-cut-diagonal-crossbar-rising
+  flat-bottom-vertical-cut-diagonal-crossbar-rising-capped
+  flat-bottom-vertical-cut-hooked
+  flat-bottom-vertical-cut-hookless
   toothed-corner-hooked-capped
   toothed-corner-hooked-diagonal-crossbar-falling
   toothed-corner-hooked-diagonal-crossbar-falling-capped
@@ -1632,6 +1822,13 @@
   toothed-corner-hooked-diagonal-crossbar-rising-capped
   toothed-corner-hooked-hooked
   toothed-corner-hooked-hookless
+  toothed-diagonal-cut-capped
+  toothed-diagonal-cut-diagonal-crossbar-falling
+  toothed-diagonal-cut-diagonal-crossbar-falling-capped
+  toothed-diagonal-cut-diagonal-crossbar-rising
+  toothed-diagonal-cut-diagonal-crossbar-rising-capped
+  toothed-diagonal-cut-hooked
+  toothed-diagonal-cut-hookless
   toothed-flat-hooked-capped
   toothed-flat-hooked-diagonal-crossbar-falling
   toothed-flat-hooked-diagonal-crossbar-falling-capped
@@ -1660,6 +1857,13 @@
   toothed-serifless-diagonal-crossbar-rising-capped
   toothed-serifless-hooked
   toothed-serifless-hookless
+  toothed-vertical-cut-capped
+  toothed-vertical-cut-diagonal-crossbar-falling
+  toothed-vertical-cut-diagonal-crossbar-falling-capped
+  toothed-vertical-cut-diagonal-crossbar-rising
+  toothed-vertical-cut-diagonal-crossbar-rising-capped
+  toothed-vertical-cut-hooked
+  toothed-vertical-cut-hookless
   toothless-corner-corner-hooked-capped
   toothless-corner-corner-hooked-diagonal-crossbar-falling
   toothless-corner-corner-hooked-diagonal-crossbar-falling-capped
@@ -1667,6 +1871,13 @@
   toothless-corner-corner-hooked-diagonal-crossbar-rising-capped
   toothless-corner-corner-hooked-hooked
   toothless-corner-corner-hooked-hookless
+  toothless-corner-diagonal-cut-capped
+  toothless-corner-diagonal-cut-diagonal-crossbar-falling
+  toothless-corner-diagonal-cut-diagonal-crossbar-falling-capped
+  toothless-corner-diagonal-cut-diagonal-crossbar-rising
+  toothless-corner-diagonal-cut-diagonal-crossbar-rising-capped
+  toothless-corner-diagonal-cut-hooked
+  toothless-corner-diagonal-cut-hookless
   toothless-corner-flat-hooked-capped
   toothless-corner-flat-hooked-diagonal-crossbar-falling
   toothless-corner-flat-hooked-diagonal-crossbar-falling-capped
@@ -1695,6 +1906,13 @@
   toothless-corner-serifless-diagonal-crossbar-rising-capped
   toothless-corner-serifless-hooked
   toothless-corner-serifless-hookless
+  toothless-corner-vertical-cut-capped
+  toothless-corner-vertical-cut-diagonal-crossbar-falling
+  toothless-corner-vertical-cut-diagonal-crossbar-falling-capped
+  toothless-corner-vertical-cut-diagonal-crossbar-rising
+  toothless-corner-vertical-cut-diagonal-crossbar-rising-capped
+  toothless-corner-vertical-cut-hooked
+  toothless-corner-vertical-cut-hookless
   toothless-rounded-corner-hooked-capped
   toothless-rounded-corner-hooked-diagonal-crossbar-falling
   toothless-rounded-corner-hooked-diagonal-crossbar-falling-capped
@@ -1702,6 +1920,13 @@
   toothless-rounded-corner-hooked-diagonal-crossbar-rising-capped
   toothless-rounded-corner-hooked-hooked
   toothless-rounded-corner-hooked-hookless
+  toothless-rounded-diagonal-cut-capped
+  toothless-rounded-diagonal-cut-diagonal-crossbar-falling
+  toothless-rounded-diagonal-cut-diagonal-crossbar-falling-capped
+  toothless-rounded-diagonal-cut-diagonal-crossbar-rising
+  toothless-rounded-diagonal-cut-diagonal-crossbar-rising-capped
+  toothless-rounded-diagonal-cut-hooked
+  toothless-rounded-diagonal-cut-hookless
   toothless-rounded-flat-hooked-capped
   toothless-rounded-flat-hooked-diagonal-crossbar-falling
   toothless-rounded-flat-hooked-diagonal-crossbar-falling-capped
@@ -1730,6 +1955,13 @@
   toothless-rounded-serifless-diagonal-crossbar-rising-capped
   toothless-rounded-serifless-hooked
   toothless-rounded-serifless-hookless
+  toothless-rounded-vertical-cut-capped
+  toothless-rounded-vertical-cut-diagonal-crossbar-falling
+  toothless-rounded-vertical-cut-diagonal-crossbar-falling-capped
+  toothless-rounded-vertical-cut-diagonal-crossbar-rising
+  toothless-rounded-vertical-cut-diagonal-crossbar-rising-capped
+  toothless-rounded-vertical-cut-hooked
+  toothless-rounded-vertical-cut-hookless
 
 [capital-gamma] tag=cv93 sampler="Γ"
   bilateral-motion-serifed
@@ -1803,6 +2035,16 @@
   descending-corner-hooked-short-topbar
   descending-corner-hooked-symmetric-medium-serif
   descending-corner-hooked-symmetric-serif
+  descending-diagonal-cut-asymmetric-full-topbar
+  descending-diagonal-cut-asymmetric-long-serif
+  descending-diagonal-cut-asymmetric-serif
+  descending-diagonal-cut-full-topbar
+  descending-diagonal-cut-long-topbar
+  descending-diagonal-cut-medium-topbar
+  descending-diagonal-cut-serifless
+  descending-diagonal-cut-short-topbar
+  descending-diagonal-cut-symmetric-medium-serif
+  descending-diagonal-cut-symmetric-serif
   descending-flat-hooked-asymmetric-full-topbar
   descending-flat-hooked-asymmetric-long-serif
   descending-flat-hooked-asymmetric-serif
@@ -1820,6 +2062,26 @@
   descending-short-topbar
   descending-symmetric-medium-serif
   descending-symmetric-serif
+  descending-vertical-cut-asymmetric-full-topbar
+  descending-vertical-cut-asymmetric-long-serif
+  descending-vertical-cut-asymmetric-serif
+  descending-vertical-cut-full-topbar
+  descending-vertical-cut-long-topbar
+  descending-vertical-cut-medium-topbar
+  descending-vertical-cut-serifless
+  descending-vertical-cut-short-topbar
+  descending-vertical-cut-symmetric-medium-serif
+  descending-vertical-cut-symmetric-serif
+  diagonal-cut-asymmetric-full-topbar
+  diagonal-cut-asymmetric-long-serif
+  diagonal-cut-asymmetric-serif
+  diagonal-cut-full-topbar
+  diagonal-cut-long-topbar
+  diagonal-cut-medium-topbar
+  diagonal-cut-serifless
+  diagonal-cut-short-topbar
+  diagonal-cut-symmetric-medium-serif
+  diagonal-cut-symmetric-serif
   flat-hooked-asymmetric-full-topbar
   flat-hooked-asymmetric-long-serif
   flat-hooked-asymmetric-serif
@@ -1837,6 +2099,16 @@
   short-topbar
   symmetric-medium-serif
   symmetric-serif
+  vertical-cut-asymmetric-full-topbar
+  vertical-cut-asymmetric-long-serif
+  vertical-cut-asymmetric-serif
+  vertical-cut-full-topbar
+  vertical-cut-long-topbar
+  vertical-cut-medium-topbar
+  vertical-cut-serifless
+  vertical-cut-short-topbar
+  vertical-cut-symmetric-medium-serif
+  vertical-cut-symmetric-serif
 
 [capital-k] tag=cv36 sampler="K"
   curly-bilateral-top-serifed
@@ -2171,30 +2443,54 @@
   flat-hooked
   serifless
   top-corner-hooked-bottom-corner-hooked
+  top-corner-hooked-bottom-diagonal-cut
   top-corner-hooked-bottom-flat-hooked
   top-corner-hooked-bottom-inward-serifed
   top-corner-hooked-bottom-rounded
   top-corner-hooked-bottom-serifed
+  top-corner-hooked-bottom-vertical-cut
+  top-diagonal-cut-bottom-corner-hooked
+  top-diagonal-cut-bottom-diagonal-cut
+  top-diagonal-cut-bottom-flat-hooked
+  top-diagonal-cut-bottom-inward-serifed
+  top-diagonal-cut-bottom-rounded
+  top-diagonal-cut-bottom-serifed
+  top-diagonal-cut-bottom-vertical-cut
   top-flat-hooked-bottom-corner-hooked
+  top-flat-hooked-bottom-diagonal-cut
   top-flat-hooked-bottom-flat-hooked
   top-flat-hooked-bottom-inward-serifed
   top-flat-hooked-bottom-rounded
   top-flat-hooked-bottom-serifed
+  top-flat-hooked-bottom-vertical-cut
   top-inward-serifed-bottom-corner-hooked
+  top-inward-serifed-bottom-diagonal-cut
   top-inward-serifed-bottom-flat-hooked
   top-inward-serifed-bottom-inward-serifed
   top-inward-serifed-bottom-rounded
   top-inward-serifed-bottom-serifed
+  top-inward-serifed-bottom-vertical-cut
   top-rounded-bottom-corner-hooked
+  top-rounded-bottom-diagonal-cut
   top-rounded-bottom-flat-hooked
   top-rounded-bottom-inward-serifed
   top-rounded-bottom-rounded
   top-rounded-bottom-serifed
+  top-rounded-bottom-vertical-cut
   top-serifed-bottom-corner-hooked
+  top-serifed-bottom-diagonal-cut
   top-serifed-bottom-flat-hooked
   top-serifed-bottom-inward-serifed
   top-serifed-bottom-rounded
   top-serifed-bottom-serifed
+  top-serifed-bottom-vertical-cut
+  top-vertical-cut-bottom-corner-hooked
+  top-vertical-cut-bottom-diagonal-cut
+  top-vertical-cut-bottom-flat-hooked
+  top-vertical-cut-bottom-inward-serifed
+  top-vertical-cut-bottom-rounded
+  top-vertical-cut-bottom-serifed
+  top-vertical-cut-bottom-vertical-cut
   unilateral-inward-serifed
   unilateral-inward-serifed-corner-hooked
   unilateral-inward-serifed-flat-hooked
@@ -2205,20 +2501,28 @@
 [capital-schwa] tag=cv64 sampler="Ə"
   diagonal-crossbar-falling
   diagonal-crossbar-falling-corner-hooked
+  diagonal-crossbar-falling-diagonal-cut
   diagonal-crossbar-falling-flat-hooked
   diagonal-crossbar-falling-serif
+  diagonal-crossbar-falling-vertical-cut
   diagonal-crossbar-rising
   diagonal-crossbar-rising-corner-hooked
+  diagonal-crossbar-rising-diagonal-cut
   diagonal-crossbar-rising-flat-hooked
   diagonal-crossbar-rising-serif
+  diagonal-crossbar-rising-vertical-cut
   flat-crossbar
   flat-crossbar-corner-hooked
+  flat-crossbar-diagonal-cut
   flat-crossbar-flat-hooked
   flat-crossbar-serif
+  flat-crossbar-vertical-cut
   rounded
   rounded-corner-hooked
+  rounded-diagonal-cut
   rounded-flat-hooked
   rounded-serif
+  rounded-vertical-cut
 
 [capital-sigma] tag=cv66 sampler="Σ"
   bottom-serifed
@@ -2648,10 +2952,13 @@
   diagonal-crossbar-falling-bilateral-mid-serifed
   diagonal-crossbar-falling-bilateral-serifed
   diagonal-crossbar-falling-corner-hooked
+  diagonal-crossbar-falling-diagonal-cut
   diagonal-crossbar-falling-flat-hooked
   diagonal-crossbar-falling-middle-serifed
   diagonal-crossbar-falling-top-corner-hooked-bottom-corner-hooked
   diagonal-crossbar-falling-top-corner-hooked-bottom-corner-hooked-middle-serifed
+  diagonal-crossbar-falling-top-corner-hooked-bottom-diagonal-cut
+  diagonal-crossbar-falling-top-corner-hooked-bottom-diagonal-cut-middle-serifed
   diagonal-crossbar-falling-top-corner-hooked-bottom-flat-hooked
   diagonal-crossbar-falling-top-corner-hooked-bottom-flat-hooked-middle-serifed
   diagonal-crossbar-falling-top-corner-hooked-bottom-inward-serifed
@@ -2660,8 +2967,26 @@
   diagonal-crossbar-falling-top-corner-hooked-bottom-rounded-middle-serifed
   diagonal-crossbar-falling-top-corner-hooked-bottom-serifed
   diagonal-crossbar-falling-top-corner-hooked-bottom-serifed-middle-serifed
+  diagonal-crossbar-falling-top-corner-hooked-bottom-vertical-cut
+  diagonal-crossbar-falling-top-corner-hooked-bottom-vertical-cut-middle-serifed
+  diagonal-crossbar-falling-top-diagonal-cut-bottom-corner-hooked
+  diagonal-crossbar-falling-top-diagonal-cut-bottom-corner-hooked-middle-serifed
+  diagonal-crossbar-falling-top-diagonal-cut-bottom-diagonal-cut
+  diagonal-crossbar-falling-top-diagonal-cut-bottom-diagonal-cut-middle-serifed
+  diagonal-crossbar-falling-top-diagonal-cut-bottom-flat-hooked
+  diagonal-crossbar-falling-top-diagonal-cut-bottom-flat-hooked-middle-serifed
+  diagonal-crossbar-falling-top-diagonal-cut-bottom-inward-serifed
+  diagonal-crossbar-falling-top-diagonal-cut-bottom-inward-serifed-middle-serifed
+  diagonal-crossbar-falling-top-diagonal-cut-bottom-rounded
+  diagonal-crossbar-falling-top-diagonal-cut-bottom-rounded-middle-serifed
+  diagonal-crossbar-falling-top-diagonal-cut-bottom-serifed
+  diagonal-crossbar-falling-top-diagonal-cut-bottom-serifed-middle-serifed
+  diagonal-crossbar-falling-top-diagonal-cut-bottom-vertical-cut
+  diagonal-crossbar-falling-top-diagonal-cut-bottom-vertical-cut-middle-serifed
   diagonal-crossbar-falling-top-flat-hooked-bottom-corner-hooked
   diagonal-crossbar-falling-top-flat-hooked-bottom-corner-hooked-middle-serifed
+  diagonal-crossbar-falling-top-flat-hooked-bottom-diagonal-cut
+  diagonal-crossbar-falling-top-flat-hooked-bottom-diagonal-cut-middle-serifed
   diagonal-crossbar-falling-top-flat-hooked-bottom-flat-hooked
   diagonal-crossbar-falling-top-flat-hooked-bottom-flat-hooked-middle-serifed
   diagonal-crossbar-falling-top-flat-hooked-bottom-inward-serifed
@@ -2670,8 +2995,12 @@
   diagonal-crossbar-falling-top-flat-hooked-bottom-rounded-middle-serifed
   diagonal-crossbar-falling-top-flat-hooked-bottom-serifed
   diagonal-crossbar-falling-top-flat-hooked-bottom-serifed-middle-serifed
+  diagonal-crossbar-falling-top-flat-hooked-bottom-vertical-cut
+  diagonal-crossbar-falling-top-flat-hooked-bottom-vertical-cut-middle-serifed
   diagonal-crossbar-falling-top-inward-serifed-bottom-corner-hooked
   diagonal-crossbar-falling-top-inward-serifed-bottom-corner-hooked-middle-serifed
+  diagonal-crossbar-falling-top-inward-serifed-bottom-diagonal-cut
+  diagonal-crossbar-falling-top-inward-serifed-bottom-diagonal-cut-middle-serifed
   diagonal-crossbar-falling-top-inward-serifed-bottom-flat-hooked
   diagonal-crossbar-falling-top-inward-serifed-bottom-flat-hooked-middle-serifed
   diagonal-crossbar-falling-top-inward-serifed-bottom-inward-serifed
@@ -2680,8 +3009,12 @@
   diagonal-crossbar-falling-top-inward-serifed-bottom-rounded-middle-serifed
   diagonal-crossbar-falling-top-inward-serifed-bottom-serifed
   diagonal-crossbar-falling-top-inward-serifed-bottom-serifed-middle-serifed
+  diagonal-crossbar-falling-top-inward-serifed-bottom-vertical-cut
+  diagonal-crossbar-falling-top-inward-serifed-bottom-vertical-cut-middle-serifed
   diagonal-crossbar-falling-top-rounded-bottom-corner-hooked
   diagonal-crossbar-falling-top-rounded-bottom-corner-hooked-middle-serifed
+  diagonal-crossbar-falling-top-rounded-bottom-diagonal-cut
+  diagonal-crossbar-falling-top-rounded-bottom-diagonal-cut-middle-serifed
   diagonal-crossbar-falling-top-rounded-bottom-flat-hooked
   diagonal-crossbar-falling-top-rounded-bottom-flat-hooked-middle-serifed
   diagonal-crossbar-falling-top-rounded-bottom-inward-serifed
@@ -2690,8 +3023,12 @@
   diagonal-crossbar-falling-top-rounded-bottom-rounded-middle-serifed
   diagonal-crossbar-falling-top-rounded-bottom-serifed
   diagonal-crossbar-falling-top-rounded-bottom-serifed-middle-serifed
+  diagonal-crossbar-falling-top-rounded-bottom-vertical-cut
+  diagonal-crossbar-falling-top-rounded-bottom-vertical-cut-middle-serifed
   diagonal-crossbar-falling-top-serifed-bottom-corner-hooked
   diagonal-crossbar-falling-top-serifed-bottom-corner-hooked-middle-serifed
+  diagonal-crossbar-falling-top-serifed-bottom-diagonal-cut
+  diagonal-crossbar-falling-top-serifed-bottom-diagonal-cut-middle-serifed
   diagonal-crossbar-falling-top-serifed-bottom-flat-hooked
   diagonal-crossbar-falling-top-serifed-bottom-flat-hooked-middle-serifed
   diagonal-crossbar-falling-top-serifed-bottom-inward-serifed
@@ -2700,6 +3037,22 @@
   diagonal-crossbar-falling-top-serifed-bottom-rounded-middle-serifed
   diagonal-crossbar-falling-top-serifed-bottom-serifed
   diagonal-crossbar-falling-top-serifed-bottom-serifed-middle-serifed
+  diagonal-crossbar-falling-top-serifed-bottom-vertical-cut
+  diagonal-crossbar-falling-top-serifed-bottom-vertical-cut-middle-serifed
+  diagonal-crossbar-falling-top-vertical-cut-bottom-corner-hooked
+  diagonal-crossbar-falling-top-vertical-cut-bottom-corner-hooked-middle-serifed
+  diagonal-crossbar-falling-top-vertical-cut-bottom-diagonal-cut
+  diagonal-crossbar-falling-top-vertical-cut-bottom-diagonal-cut-middle-serifed
+  diagonal-crossbar-falling-top-vertical-cut-bottom-flat-hooked
+  diagonal-crossbar-falling-top-vertical-cut-bottom-flat-hooked-middle-serifed
+  diagonal-crossbar-falling-top-vertical-cut-bottom-inward-serifed
+  diagonal-crossbar-falling-top-vertical-cut-bottom-inward-serifed-middle-serifed
+  diagonal-crossbar-falling-top-vertical-cut-bottom-rounded
+  diagonal-crossbar-falling-top-vertical-cut-bottom-rounded-middle-serifed
+  diagonal-crossbar-falling-top-vertical-cut-bottom-serifed
+  diagonal-crossbar-falling-top-vertical-cut-bottom-serifed-middle-serifed
+  diagonal-crossbar-falling-top-vertical-cut-bottom-vertical-cut
+  diagonal-crossbar-falling-top-vertical-cut-bottom-vertical-cut-middle-serifed
   diagonal-crossbar-falling-unilateral-bottom-inward-mid-serifed
   diagonal-crossbar-falling-unilateral-bottom-inward-serifed
   diagonal-crossbar-falling-unilateral-bottom-mid-serifed
@@ -2712,16 +3065,20 @@
   diagonal-crossbar-falling-unilateral-serifed
   diagonal-crossbar-falling-unilateral-serifed-corner-hooked
   diagonal-crossbar-falling-unilateral-serifed-flat-hooked
+  diagonal-crossbar-falling-vertical-cut
   diagonal-crossbar-rising
   diagonal-crossbar-rising-bilateral-inward-mid-serifed
   diagonal-crossbar-rising-bilateral-inward-serifed
   diagonal-crossbar-rising-bilateral-mid-serifed
   diagonal-crossbar-rising-bilateral-serifed
   diagonal-crossbar-rising-corner-hooked
+  diagonal-crossbar-rising-diagonal-cut
   diagonal-crossbar-rising-flat-hooked
   diagonal-crossbar-rising-middle-serifed
   diagonal-crossbar-rising-top-corner-hooked-bottom-corner-hooked
   diagonal-crossbar-rising-top-corner-hooked-bottom-corner-hooked-middle-serifed
+  diagonal-crossbar-rising-top-corner-hooked-bottom-diagonal-cut
+  diagonal-crossbar-rising-top-corner-hooked-bottom-diagonal-cut-middle-serifed
   diagonal-crossbar-rising-top-corner-hooked-bottom-flat-hooked
   diagonal-crossbar-rising-top-corner-hooked-bottom-flat-hooked-middle-serifed
   diagonal-crossbar-rising-top-corner-hooked-bottom-inward-serifed
@@ -2730,8 +3087,26 @@
   diagonal-crossbar-rising-top-corner-hooked-bottom-rounded-middle-serifed
   diagonal-crossbar-rising-top-corner-hooked-bottom-serifed
   diagonal-crossbar-rising-top-corner-hooked-bottom-serifed-middle-serifed
+  diagonal-crossbar-rising-top-corner-hooked-bottom-vertical-cut
+  diagonal-crossbar-rising-top-corner-hooked-bottom-vertical-cut-middle-serifed
+  diagonal-crossbar-rising-top-diagonal-cut-bottom-corner-hooked
+  diagonal-crossbar-rising-top-diagonal-cut-bottom-corner-hooked-middle-serifed
+  diagonal-crossbar-rising-top-diagonal-cut-bottom-diagonal-cut
+  diagonal-crossbar-rising-top-diagonal-cut-bottom-diagonal-cut-middle-serifed
+  diagonal-crossbar-rising-top-diagonal-cut-bottom-flat-hooked
+  diagonal-crossbar-rising-top-diagonal-cut-bottom-flat-hooked-middle-serifed
+  diagonal-crossbar-rising-top-diagonal-cut-bottom-inward-serifed
+  diagonal-crossbar-rising-top-diagonal-cut-bottom-inward-serifed-middle-serifed
+  diagonal-crossbar-rising-top-diagonal-cut-bottom-rounded
+  diagonal-crossbar-rising-top-diagonal-cut-bottom-rounded-middle-serifed
+  diagonal-crossbar-rising-top-diagonal-cut-bottom-serifed
+  diagonal-crossbar-rising-top-diagonal-cut-bottom-serifed-middle-serifed
+  diagonal-crossbar-rising-top-diagonal-cut-bottom-vertical-cut
+  diagonal-crossbar-rising-top-diagonal-cut-bottom-vertical-cut-middle-serifed
   diagonal-crossbar-rising-top-flat-hooked-bottom-corner-hooked
   diagonal-crossbar-rising-top-flat-hooked-bottom-corner-hooked-middle-serifed
+  diagonal-crossbar-rising-top-flat-hooked-bottom-diagonal-cut
+  diagonal-crossbar-rising-top-flat-hooked-bottom-diagonal-cut-middle-serifed
   diagonal-crossbar-rising-top-flat-hooked-bottom-flat-hooked
   diagonal-crossbar-rising-top-flat-hooked-bottom-flat-hooked-middle-serifed
   diagonal-crossbar-rising-top-flat-hooked-bottom-inward-serifed
@@ -2740,8 +3115,12 @@
   diagonal-crossbar-rising-top-flat-hooked-bottom-rounded-middle-serifed
   diagonal-crossbar-rising-top-flat-hooked-bottom-serifed
   diagonal-crossbar-rising-top-flat-hooked-bottom-serifed-middle-serifed
+  diagonal-crossbar-rising-top-flat-hooked-bottom-vertical-cut
+  diagonal-crossbar-rising-top-flat-hooked-bottom-vertical-cut-middle-serifed
   diagonal-crossbar-rising-top-inward-serifed-bottom-corner-hooked
   diagonal-crossbar-rising-top-inward-serifed-bottom-corner-hooked-middle-serifed
+  diagonal-crossbar-rising-top-inward-serifed-bottom-diagonal-cut
+  diagonal-crossbar-rising-top-inward-serifed-bottom-diagonal-cut-middle-serifed
   diagonal-crossbar-rising-top-inward-serifed-bottom-flat-hooked
   diagonal-crossbar-rising-top-inward-serifed-bottom-flat-hooked-middle-serifed
   diagonal-crossbar-rising-top-inward-serifed-bottom-inward-serifed
@@ -2750,8 +3129,12 @@
   diagonal-crossbar-rising-top-inward-serifed-bottom-rounded-middle-serifed
   diagonal-crossbar-rising-top-inward-serifed-bottom-serifed
   diagonal-crossbar-rising-top-inward-serifed-bottom-serifed-middle-serifed
+  diagonal-crossbar-rising-top-inward-serifed-bottom-vertical-cut
+  diagonal-crossbar-rising-top-inward-serifed-bottom-vertical-cut-middle-serifed
   diagonal-crossbar-rising-top-rounded-bottom-corner-hooked
   diagonal-crossbar-rising-top-rounded-bottom-corner-hooked-middle-serifed
+  diagonal-crossbar-rising-top-rounded-bottom-diagonal-cut
+  diagonal-crossbar-rising-top-rounded-bottom-diagonal-cut-middle-serifed
   diagonal-crossbar-rising-top-rounded-bottom-flat-hooked
   diagonal-crossbar-rising-top-rounded-bottom-flat-hooked-middle-serifed
   diagonal-crossbar-rising-top-rounded-bottom-inward-serifed
@@ -2760,8 +3143,12 @@
   diagonal-crossbar-rising-top-rounded-bottom-rounded-middle-serifed
   diagonal-crossbar-rising-top-rounded-bottom-serifed
   diagonal-crossbar-rising-top-rounded-bottom-serifed-middle-serifed
+  diagonal-crossbar-rising-top-rounded-bottom-vertical-cut
+  diagonal-crossbar-rising-top-rounded-bottom-vertical-cut-middle-serifed
   diagonal-crossbar-rising-top-serifed-bottom-corner-hooked
   diagonal-crossbar-rising-top-serifed-bottom-corner-hooked-middle-serifed
+  diagonal-crossbar-rising-top-serifed-bottom-diagonal-cut
+  diagonal-crossbar-rising-top-serifed-bottom-diagonal-cut-middle-serifed
   diagonal-crossbar-rising-top-serifed-bottom-flat-hooked
   diagonal-crossbar-rising-top-serifed-bottom-flat-hooked-middle-serifed
   diagonal-crossbar-rising-top-serifed-bottom-inward-serifed
@@ -2770,6 +3157,22 @@
   diagonal-crossbar-rising-top-serifed-bottom-rounded-middle-serifed
   diagonal-crossbar-rising-top-serifed-bottom-serifed
   diagonal-crossbar-rising-top-serifed-bottom-serifed-middle-serifed
+  diagonal-crossbar-rising-top-serifed-bottom-vertical-cut
+  diagonal-crossbar-rising-top-serifed-bottom-vertical-cut-middle-serifed
+  diagonal-crossbar-rising-top-vertical-cut-bottom-corner-hooked
+  diagonal-crossbar-rising-top-vertical-cut-bottom-corner-hooked-middle-serifed
+  diagonal-crossbar-rising-top-vertical-cut-bottom-diagonal-cut
+  diagonal-crossbar-rising-top-vertical-cut-bottom-diagonal-cut-middle-serifed
+  diagonal-crossbar-rising-top-vertical-cut-bottom-flat-hooked
+  diagonal-crossbar-rising-top-vertical-cut-bottom-flat-hooked-middle-serifed
+  diagonal-crossbar-rising-top-vertical-cut-bottom-inward-serifed
+  diagonal-crossbar-rising-top-vertical-cut-bottom-inward-serifed-middle-serifed
+  diagonal-crossbar-rising-top-vertical-cut-bottom-rounded
+  diagonal-crossbar-rising-top-vertical-cut-bottom-rounded-middle-serifed
+  diagonal-crossbar-rising-top-vertical-cut-bottom-serifed
+  diagonal-crossbar-rising-top-vertical-cut-bottom-serifed-middle-serifed
+  diagonal-crossbar-rising-top-vertical-cut-bottom-vertical-cut
+  diagonal-crossbar-rising-top-vertical-cut-bottom-vertical-cut-middle-serifed
   diagonal-crossbar-rising-unilateral-bottom-inward-mid-serifed
   diagonal-crossbar-rising-unilateral-bottom-inward-serifed
   diagonal-crossbar-rising-unilateral-bottom-mid-serifed
@@ -2782,11 +3185,15 @@
   diagonal-crossbar-rising-unilateral-serifed
   diagonal-crossbar-rising-unilateral-serifed-corner-hooked
   diagonal-crossbar-rising-unilateral-serifed-flat-hooked
+  diagonal-crossbar-rising-vertical-cut
+  diagonal-cut
   flat-hooked
   middle-serifed
   serifless
   top-corner-hooked-bottom-corner-hooked
   top-corner-hooked-bottom-corner-hooked-middle-serifed
+  top-corner-hooked-bottom-diagonal-cut
+  top-corner-hooked-bottom-diagonal-cut-middle-serifed
   top-corner-hooked-bottom-flat-hooked
   top-corner-hooked-bottom-flat-hooked-middle-serifed
   top-corner-hooked-bottom-inward-serifed
@@ -2795,8 +3202,26 @@
   top-corner-hooked-bottom-rounded-middle-serifed
   top-corner-hooked-bottom-serifed
   top-corner-hooked-bottom-serifed-middle-serifed
+  top-corner-hooked-bottom-vertical-cut
+  top-corner-hooked-bottom-vertical-cut-middle-serifed
+  top-diagonal-cut-bottom-corner-hooked
+  top-diagonal-cut-bottom-corner-hooked-middle-serifed
+  top-diagonal-cut-bottom-diagonal-cut
+  top-diagonal-cut-bottom-diagonal-cut-middle-serifed
+  top-diagonal-cut-bottom-flat-hooked
+  top-diagonal-cut-bottom-flat-hooked-middle-serifed
+  top-diagonal-cut-bottom-inward-serifed
+  top-diagonal-cut-bottom-inward-serifed-middle-serifed
+  top-diagonal-cut-bottom-rounded
+  top-diagonal-cut-bottom-rounded-middle-serifed
+  top-diagonal-cut-bottom-serifed
+  top-diagonal-cut-bottom-serifed-middle-serifed
+  top-diagonal-cut-bottom-vertical-cut
+  top-diagonal-cut-bottom-vertical-cut-middle-serifed
   top-flat-hooked-bottom-corner-hooked
   top-flat-hooked-bottom-corner-hooked-middle-serifed
+  top-flat-hooked-bottom-diagonal-cut
+  top-flat-hooked-bottom-diagonal-cut-middle-serifed
   top-flat-hooked-bottom-flat-hooked
   top-flat-hooked-bottom-flat-hooked-middle-serifed
   top-flat-hooked-bottom-inward-serifed
@@ -2805,8 +3230,12 @@
   top-flat-hooked-bottom-rounded-middle-serifed
   top-flat-hooked-bottom-serifed
   top-flat-hooked-bottom-serifed-middle-serifed
+  top-flat-hooked-bottom-vertical-cut
+  top-flat-hooked-bottom-vertical-cut-middle-serifed
   top-inward-serifed-bottom-corner-hooked
   top-inward-serifed-bottom-corner-hooked-middle-serifed
+  top-inward-serifed-bottom-diagonal-cut
+  top-inward-serifed-bottom-diagonal-cut-middle-serifed
   top-inward-serifed-bottom-flat-hooked
   top-inward-serifed-bottom-flat-hooked-middle-serifed
   top-inward-serifed-bottom-inward-serifed
@@ -2815,8 +3244,12 @@
   top-inward-serifed-bottom-rounded-middle-serifed
   top-inward-serifed-bottom-serifed
   top-inward-serifed-bottom-serifed-middle-serifed
+  top-inward-serifed-bottom-vertical-cut
+  top-inward-serifed-bottom-vertical-cut-middle-serifed
   top-rounded-bottom-corner-hooked
   top-rounded-bottom-corner-hooked-middle-serifed
+  top-rounded-bottom-diagonal-cut
+  top-rounded-bottom-diagonal-cut-middle-serifed
   top-rounded-bottom-flat-hooked
   top-rounded-bottom-flat-hooked-middle-serifed
   top-rounded-bottom-inward-serifed
@@ -2825,8 +3258,12 @@
   top-rounded-bottom-rounded-middle-serifed
   top-rounded-bottom-serifed
   top-rounded-bottom-serifed-middle-serifed
+  top-rounded-bottom-vertical-cut
+  top-rounded-bottom-vertical-cut-middle-serifed
   top-serifed-bottom-corner-hooked
   top-serifed-bottom-corner-hooked-middle-serifed
+  top-serifed-bottom-diagonal-cut
+  top-serifed-bottom-diagonal-cut-middle-serifed
   top-serifed-bottom-flat-hooked
   top-serifed-bottom-flat-hooked-middle-serifed
   top-serifed-bottom-inward-serifed
@@ -2835,6 +3272,22 @@
   top-serifed-bottom-rounded-middle-serifed
   top-serifed-bottom-serifed
   top-serifed-bottom-serifed-middle-serifed
+  top-serifed-bottom-vertical-cut
+  top-serifed-bottom-vertical-cut-middle-serifed
+  top-vertical-cut-bottom-corner-hooked
+  top-vertical-cut-bottom-corner-hooked-middle-serifed
+  top-vertical-cut-bottom-diagonal-cut
+  top-vertical-cut-bottom-diagonal-cut-middle-serifed
+  top-vertical-cut-bottom-flat-hooked
+  top-vertical-cut-bottom-flat-hooked-middle-serifed
+  top-vertical-cut-bottom-inward-serifed
+  top-vertical-cut-bottom-inward-serifed-middle-serifed
+  top-vertical-cut-bottom-rounded
+  top-vertical-cut-bottom-rounded-middle-serifed
+  top-vertical-cut-bottom-serifed
+  top-vertical-cut-bottom-serifed-middle-serifed
+  top-vertical-cut-bottom-vertical-cut
+  top-vertical-cut-bottom-vertical-cut-middle-serifed
   unilateral-bottom-inward-mid-serifed
   unilateral-bottom-inward-serifed
   unilateral-bottom-mid-serifed
@@ -2847,6 +3300,7 @@
   unilateral-serifed
   unilateral-serifed-corner-hooked
   unilateral-serifed-flat-hooked
+  vertical-cut
 
 [cyrl-capital-el] tag=VXBY sampler="Л"
   curly-motion-serifed
@@ -3019,6 +3473,8 @@
   base-serifed
   corner-hooked-base-serifed
   corner-hooked-serifless
+  diagonal-cut-base-serifed
+  diagonal-cut-serifless
   flat-hooked-base-serifed
   flat-hooked-serifless
   inward-serifed-base-serifed
@@ -3026,6 +3482,8 @@
   serifed-base-serifed
   serifed-serifless
   serifless
+  vertical-cut-base-serifed
+  vertical-cut-serifless
 
 [cyrl-capital-pe] tag=VXCI sampler="П"
   motion-serifed
@@ -3405,30 +3863,54 @@
   flat-hooked
   serifless
   top-corner-hooked-bottom-corner-hooked
+  top-corner-hooked-bottom-diagonal-cut
   top-corner-hooked-bottom-flat-hooked
   top-corner-hooked-bottom-inward-serifed
   top-corner-hooked-bottom-rounded
   top-corner-hooked-bottom-serifed
+  top-corner-hooked-bottom-vertical-cut
+  top-diagonal-cut-bottom-corner-hooked
+  top-diagonal-cut-bottom-diagonal-cut
+  top-diagonal-cut-bottom-flat-hooked
+  top-diagonal-cut-bottom-inward-serifed
+  top-diagonal-cut-bottom-rounded
+  top-diagonal-cut-bottom-serifed
+  top-diagonal-cut-bottom-vertical-cut
   top-flat-hooked-bottom-corner-hooked
+  top-flat-hooked-bottom-diagonal-cut
   top-flat-hooked-bottom-flat-hooked
   top-flat-hooked-bottom-inward-serifed
   top-flat-hooked-bottom-rounded
   top-flat-hooked-bottom-serifed
+  top-flat-hooked-bottom-vertical-cut
   top-inward-serifed-bottom-corner-hooked
+  top-inward-serifed-bottom-diagonal-cut
   top-inward-serifed-bottom-flat-hooked
   top-inward-serifed-bottom-inward-serifed
   top-inward-serifed-bottom-rounded
   top-inward-serifed-bottom-serifed
+  top-inward-serifed-bottom-vertical-cut
   top-rounded-bottom-corner-hooked
+  top-rounded-bottom-diagonal-cut
   top-rounded-bottom-flat-hooked
   top-rounded-bottom-inward-serifed
   top-rounded-bottom-rounded
   top-rounded-bottom-serifed
+  top-rounded-bottom-vertical-cut
   top-serifed-bottom-corner-hooked
+  top-serifed-bottom-diagonal-cut
   top-serifed-bottom-flat-hooked
   top-serifed-bottom-inward-serifed
   top-serifed-bottom-rounded
   top-serifed-bottom-serifed
+  top-serifed-bottom-vertical-cut
+  top-vertical-cut-bottom-corner-hooked
+  top-vertical-cut-bottom-diagonal-cut
+  top-vertical-cut-bottom-flat-hooked
+  top-vertical-cut-bottom-inward-serifed
+  top-vertical-cut-bottom-rounded
+  top-vertical-cut-bottom-serifed
+  top-vertical-cut-bottom-vertical-cut
   unilateral-bottom-inward-serifed
   unilateral-bottom-inward-serifed-corner-hooked
   unilateral-bottom-inward-serifed-flat-hooked
@@ -3555,33 +4037,58 @@
   diagonal-crossbar-falling-bilateral-mid-serifed
   diagonal-crossbar-falling-bilateral-serifed
   diagonal-crossbar-falling-corner-hooked
+  diagonal-crossbar-falling-diagonal-cut
   diagonal-crossbar-falling-flat-hooked
   diagonal-crossbar-falling-middle-serifed
   diagonal-crossbar-falling-top-corner-hooked-bottom-corner-hooked
+  diagonal-crossbar-falling-top-corner-hooked-bottom-diagonal-cut
   diagonal-crossbar-falling-top-corner-hooked-bottom-flat-hooked
   diagonal-crossbar-falling-top-corner-hooked-bottom-inward-serifed
   diagonal-crossbar-falling-top-corner-hooked-bottom-rounded
   diagonal-crossbar-falling-top-corner-hooked-bottom-serifed
+  diagonal-crossbar-falling-top-corner-hooked-bottom-vertical-cut
+  diagonal-crossbar-falling-top-diagonal-cut-bottom-corner-hooked
+  diagonal-crossbar-falling-top-diagonal-cut-bottom-diagonal-cut
+  diagonal-crossbar-falling-top-diagonal-cut-bottom-flat-hooked
+  diagonal-crossbar-falling-top-diagonal-cut-bottom-inward-serifed
+  diagonal-crossbar-falling-top-diagonal-cut-bottom-rounded
+  diagonal-crossbar-falling-top-diagonal-cut-bottom-serifed
+  diagonal-crossbar-falling-top-diagonal-cut-bottom-vertical-cut
   diagonal-crossbar-falling-top-flat-hooked-bottom-corner-hooked
+  diagonal-crossbar-falling-top-flat-hooked-bottom-diagonal-cut
   diagonal-crossbar-falling-top-flat-hooked-bottom-flat-hooked
   diagonal-crossbar-falling-top-flat-hooked-bottom-inward-serifed
   diagonal-crossbar-falling-top-flat-hooked-bottom-rounded
   diagonal-crossbar-falling-top-flat-hooked-bottom-serifed
+  diagonal-crossbar-falling-top-flat-hooked-bottom-vertical-cut
   diagonal-crossbar-falling-top-inward-serifed-bottom-corner-hooked
+  diagonal-crossbar-falling-top-inward-serifed-bottom-diagonal-cut
   diagonal-crossbar-falling-top-inward-serifed-bottom-flat-hooked
   diagonal-crossbar-falling-top-inward-serifed-bottom-inward-serifed
   diagonal-crossbar-falling-top-inward-serifed-bottom-rounded
   diagonal-crossbar-falling-top-inward-serifed-bottom-serifed
+  diagonal-crossbar-falling-top-inward-serifed-bottom-vertical-cut
   diagonal-crossbar-falling-top-rounded-bottom-corner-hooked
+  diagonal-crossbar-falling-top-rounded-bottom-diagonal-cut
   diagonal-crossbar-falling-top-rounded-bottom-flat-hooked
   diagonal-crossbar-falling-top-rounded-bottom-inward-serifed
   diagonal-crossbar-falling-top-rounded-bottom-rounded
   diagonal-crossbar-falling-top-rounded-bottom-serifed
+  diagonal-crossbar-falling-top-rounded-bottom-vertical-cut
   diagonal-crossbar-falling-top-serifed-bottom-corner-hooked
+  diagonal-crossbar-falling-top-serifed-bottom-diagonal-cut
   diagonal-crossbar-falling-top-serifed-bottom-flat-hooked
   diagonal-crossbar-falling-top-serifed-bottom-inward-serifed
   diagonal-crossbar-falling-top-serifed-bottom-rounded
   diagonal-crossbar-falling-top-serifed-bottom-serifed
+  diagonal-crossbar-falling-top-serifed-bottom-vertical-cut
+  diagonal-crossbar-falling-top-vertical-cut-bottom-corner-hooked
+  diagonal-crossbar-falling-top-vertical-cut-bottom-diagonal-cut
+  diagonal-crossbar-falling-top-vertical-cut-bottom-flat-hooked
+  diagonal-crossbar-falling-top-vertical-cut-bottom-inward-serifed
+  diagonal-crossbar-falling-top-vertical-cut-bottom-rounded
+  diagonal-crossbar-falling-top-vertical-cut-bottom-serifed
+  diagonal-crossbar-falling-top-vertical-cut-bottom-vertical-cut
   diagonal-crossbar-falling-unilateral-bottom-inward-mid-serifed
   diagonal-crossbar-falling-unilateral-bottom-inward-serifed
   diagonal-crossbar-falling-unilateral-bottom-mid-serifed
@@ -3594,39 +4101,65 @@
   diagonal-crossbar-falling-unilateral-serifed
   diagonal-crossbar-falling-unilateral-serifed-corner-hooked
   diagonal-crossbar-falling-unilateral-serifed-flat-hooked
+  diagonal-crossbar-falling-vertical-cut
   diagonal-crossbar-rising
   diagonal-crossbar-rising-bilateral-inward-mid-serifed
   diagonal-crossbar-rising-bilateral-inward-serifed
   diagonal-crossbar-rising-bilateral-mid-serifed
   diagonal-crossbar-rising-bilateral-serifed
   diagonal-crossbar-rising-corner-hooked
+  diagonal-crossbar-rising-diagonal-cut
   diagonal-crossbar-rising-flat-hooked
   diagonal-crossbar-rising-middle-serifed
   diagonal-crossbar-rising-top-corner-hooked-bottom-corner-hooked
+  diagonal-crossbar-rising-top-corner-hooked-bottom-diagonal-cut
   diagonal-crossbar-rising-top-corner-hooked-bottom-flat-hooked
   diagonal-crossbar-rising-top-corner-hooked-bottom-inward-serifed
   diagonal-crossbar-rising-top-corner-hooked-bottom-rounded
   diagonal-crossbar-rising-top-corner-hooked-bottom-serifed
+  diagonal-crossbar-rising-top-corner-hooked-bottom-vertical-cut
+  diagonal-crossbar-rising-top-diagonal-cut-bottom-corner-hooked
+  diagonal-crossbar-rising-top-diagonal-cut-bottom-diagonal-cut
+  diagonal-crossbar-rising-top-diagonal-cut-bottom-flat-hooked
+  diagonal-crossbar-rising-top-diagonal-cut-bottom-inward-serifed
+  diagonal-crossbar-rising-top-diagonal-cut-bottom-rounded
+  diagonal-crossbar-rising-top-diagonal-cut-bottom-serifed
+  diagonal-crossbar-rising-top-diagonal-cut-bottom-vertical-cut
   diagonal-crossbar-rising-top-flat-hooked-bottom-corner-hooked
+  diagonal-crossbar-rising-top-flat-hooked-bottom-diagonal-cut
   diagonal-crossbar-rising-top-flat-hooked-bottom-flat-hooked
   diagonal-crossbar-rising-top-flat-hooked-bottom-inward-serifed
   diagonal-crossbar-rising-top-flat-hooked-bottom-rounded
   diagonal-crossbar-rising-top-flat-hooked-bottom-serifed
+  diagonal-crossbar-rising-top-flat-hooked-bottom-vertical-cut
   diagonal-crossbar-rising-top-inward-serifed-bottom-corner-hooked
+  diagonal-crossbar-rising-top-inward-serifed-bottom-diagonal-cut
   diagonal-crossbar-rising-top-inward-serifed-bottom-flat-hooked
   diagonal-crossbar-rising-top-inward-serifed-bottom-inward-serifed
   diagonal-crossbar-rising-top-inward-serifed-bottom-rounded
   diagonal-crossbar-rising-top-inward-serifed-bottom-serifed
+  diagonal-crossbar-rising-top-inward-serifed-bottom-vertical-cut
   diagonal-crossbar-rising-top-rounded-bottom-corner-hooked
+  diagonal-crossbar-rising-top-rounded-bottom-diagonal-cut
   diagonal-crossbar-rising-top-rounded-bottom-flat-hooked
   diagonal-crossbar-rising-top-rounded-bottom-inward-serifed
   diagonal-crossbar-rising-top-rounded-bottom-rounded
   diagonal-crossbar-rising-top-rounded-bottom-serifed
+  diagonal-crossbar-rising-top-rounded-bottom-vertical-cut
   diagonal-crossbar-rising-top-serifed-bottom-corner-hooked
+  diagonal-crossbar-rising-top-serifed-bottom-diagonal-cut
   diagonal-crossbar-rising-top-serifed-bottom-flat-hooked
   diagonal-crossbar-rising-top-serifed-bottom-inward-serifed
   diagonal-crossbar-rising-top-serifed-bottom-rounded
   diagonal-crossbar-rising-top-serifed-bottom-serifed
+  diagonal-crossbar-rising-top-serifed-bottom-vertical-cut
+  diagonal-crossbar-rising-top-vertical-cut-bottom-corner-hooked
+  diagonal-crossbar-rising-top-vertical-cut-bottom-diagonal-cut
+  diagonal-crossbar-rising-top-vertical-cut-bottom-flat-hooked
+  diagonal-crossbar-rising-top-vertical-cut-bottom-inward-serifed
+  diagonal-crossbar-rising-top-vertical-cut-bottom-rounded
+  diagonal-crossbar-rising-top-vertical-cut-bottom-serifed
+  diagonal-crossbar-rising-top-vertical-cut-bottom-vertical-cut
   diagonal-crossbar-rising-unilateral-bottom-inward-mid-serifed
   diagonal-crossbar-rising-unilateral-bottom-inward-serifed
   diagonal-crossbar-rising-unilateral-bottom-mid-serifed
@@ -3639,34 +4172,60 @@
   diagonal-crossbar-rising-unilateral-serifed
   diagonal-crossbar-rising-unilateral-serifed-corner-hooked
   diagonal-crossbar-rising-unilateral-serifed-flat-hooked
+  diagonal-crossbar-rising-vertical-cut
+  diagonal-cut
   flat-hooked
   middle-serifed
   serifless
   top-corner-hooked-bottom-corner-hooked
+  top-corner-hooked-bottom-diagonal-cut
   top-corner-hooked-bottom-flat-hooked
   top-corner-hooked-bottom-inward-serifed
   top-corner-hooked-bottom-rounded
   top-corner-hooked-bottom-serifed
+  top-corner-hooked-bottom-vertical-cut
+  top-diagonal-cut-bottom-corner-hooked
+  top-diagonal-cut-bottom-diagonal-cut
+  top-diagonal-cut-bottom-flat-hooked
+  top-diagonal-cut-bottom-inward-serifed
+  top-diagonal-cut-bottom-rounded
+  top-diagonal-cut-bottom-serifed
+  top-diagonal-cut-bottom-vertical-cut
   top-flat-hooked-bottom-corner-hooked
+  top-flat-hooked-bottom-diagonal-cut
   top-flat-hooked-bottom-flat-hooked
   top-flat-hooked-bottom-inward-serifed
   top-flat-hooked-bottom-rounded
   top-flat-hooked-bottom-serifed
+  top-flat-hooked-bottom-vertical-cut
   top-inward-serifed-bottom-corner-hooked
+  top-inward-serifed-bottom-diagonal-cut
   top-inward-serifed-bottom-flat-hooked
   top-inward-serifed-bottom-inward-serifed
   top-inward-serifed-bottom-rounded
   top-inward-serifed-bottom-serifed
+  top-inward-serifed-bottom-vertical-cut
   top-rounded-bottom-corner-hooked
+  top-rounded-bottom-diagonal-cut
   top-rounded-bottom-flat-hooked
   top-rounded-bottom-inward-serifed
   top-rounded-bottom-rounded
   top-rounded-bottom-serifed
+  top-rounded-bottom-vertical-cut
   top-serifed-bottom-corner-hooked
+  top-serifed-bottom-diagonal-cut
   top-serifed-bottom-flat-hooked
   top-serifed-bottom-inward-serifed
   top-serifed-bottom-rounded
   top-serifed-bottom-serifed
+  top-serifed-bottom-vertical-cut
+  top-vertical-cut-bottom-corner-hooked
+  top-vertical-cut-bottom-diagonal-cut
+  top-vertical-cut-bottom-flat-hooked
+  top-vertical-cut-bottom-inward-serifed
+  top-vertical-cut-bottom-rounded
+  top-vertical-cut-bottom-serifed
+  top-vertical-cut-bottom-vertical-cut
   unilateral-bottom-inward-mid-serifed
   unilateral-bottom-inward-serifed
   unilateral-bottom-mid-serifed
@@ -3679,6 +4238,7 @@
   unilateral-serifed
   unilateral-serifed-corner-hooked
   unilateral-serifed-flat-hooked
+  vertical-cut
 
 [cyrl-ef] tag=VXBX sampler="ф"
   cursive
@@ -3691,21 +4251,201 @@
   split-flat-diagonal-tailed-cursive
   split-flat-serifed
   split-flat-serifless
+  split-flat-top-diagonal-cut-bottom-diagonal-cut
+  split-flat-top-diagonal-cut-bottom-diagonal-tailed
+  split-flat-top-diagonal-cut-bottom-flat-hooked
+  split-flat-top-diagonal-cut-bottom-rounded-tailed
+  split-flat-top-diagonal-cut-bottom-straight
+  split-flat-top-diagonal-cut-bottom-vertical-cut
+  split-flat-top-diagonal-tailed-bottom-diagonal-cut
+  split-flat-top-diagonal-tailed-bottom-diagonal-tailed
+  split-flat-top-diagonal-tailed-bottom-flat-hooked
+  split-flat-top-diagonal-tailed-bottom-rounded-tailed
+  split-flat-top-diagonal-tailed-bottom-straight
+  split-flat-top-diagonal-tailed-bottom-vertical-cut
+  split-flat-top-flat-hooked-bottom-diagonal-cut
+  split-flat-top-flat-hooked-bottom-diagonal-tailed
+  split-flat-top-flat-hooked-bottom-flat-hooked
+  split-flat-top-flat-hooked-bottom-rounded-tailed
+  split-flat-top-flat-hooked-bottom-straight
+  split-flat-top-flat-hooked-bottom-vertical-cut
+  split-flat-top-rounded-tailed-bottom-diagonal-cut
+  split-flat-top-rounded-tailed-bottom-diagonal-tailed
+  split-flat-top-rounded-tailed-bottom-flat-hooked
+  split-flat-top-rounded-tailed-bottom-rounded-tailed
+  split-flat-top-rounded-tailed-bottom-straight
+  split-flat-top-rounded-tailed-bottom-vertical-cut
   split-flat-top-serifed
+  split-flat-top-straight-bottom-diagonal-cut
+  split-flat-top-straight-bottom-diagonal-tailed
+  split-flat-top-straight-bottom-flat-hooked
+  split-flat-top-straight-bottom-rounded-tailed
+  split-flat-top-straight-bottom-straight
+  split-flat-top-straight-bottom-vertical-cut
+  split-flat-top-vertical-cut-bottom-diagonal-cut
+  split-flat-top-vertical-cut-bottom-diagonal-tailed
+  split-flat-top-vertical-cut-bottom-flat-hooked
+  split-flat-top-vertical-cut-bottom-rounded-tailed
+  split-flat-top-vertical-cut-bottom-straight
+  split-flat-top-vertical-cut-bottom-vertical-cut
   split-left-flat-bottom-cursive
   split-left-flat-bottom-diagonal-tailed-cursive
   split-left-flat-bottom-serifed
   split-left-flat-bottom-serifless
+  split-left-flat-bottom-top-diagonal-cut-bottom-diagonal-cut
+  split-left-flat-bottom-top-diagonal-cut-bottom-diagonal-tailed
+  split-left-flat-bottom-top-diagonal-cut-bottom-flat-hooked
+  split-left-flat-bottom-top-diagonal-cut-bottom-rounded-tailed
+  split-left-flat-bottom-top-diagonal-cut-bottom-straight
+  split-left-flat-bottom-top-diagonal-cut-bottom-vertical-cut
+  split-left-flat-bottom-top-diagonal-tailed-bottom-diagonal-cut
+  split-left-flat-bottom-top-diagonal-tailed-bottom-diagonal-tailed
+  split-left-flat-bottom-top-diagonal-tailed-bottom-flat-hooked
+  split-left-flat-bottom-top-diagonal-tailed-bottom-rounded-tailed
+  split-left-flat-bottom-top-diagonal-tailed-bottom-straight
+  split-left-flat-bottom-top-diagonal-tailed-bottom-vertical-cut
+  split-left-flat-bottom-top-flat-hooked-bottom-diagonal-cut
+  split-left-flat-bottom-top-flat-hooked-bottom-diagonal-tailed
+  split-left-flat-bottom-top-flat-hooked-bottom-flat-hooked
+  split-left-flat-bottom-top-flat-hooked-bottom-rounded-tailed
+  split-left-flat-bottom-top-flat-hooked-bottom-straight
+  split-left-flat-bottom-top-flat-hooked-bottom-vertical-cut
+  split-left-flat-bottom-top-rounded-tailed-bottom-diagonal-cut
+  split-left-flat-bottom-top-rounded-tailed-bottom-diagonal-tailed
+  split-left-flat-bottom-top-rounded-tailed-bottom-flat-hooked
+  split-left-flat-bottom-top-rounded-tailed-bottom-rounded-tailed
+  split-left-flat-bottom-top-rounded-tailed-bottom-straight
+  split-left-flat-bottom-top-rounded-tailed-bottom-vertical-cut
   split-left-flat-bottom-top-serifed
+  split-left-flat-bottom-top-straight-bottom-diagonal-cut
+  split-left-flat-bottom-top-straight-bottom-diagonal-tailed
+  split-left-flat-bottom-top-straight-bottom-flat-hooked
+  split-left-flat-bottom-top-straight-bottom-rounded-tailed
+  split-left-flat-bottom-top-straight-bottom-straight
+  split-left-flat-bottom-top-straight-bottom-vertical-cut
+  split-left-flat-bottom-top-vertical-cut-bottom-diagonal-cut
+  split-left-flat-bottom-top-vertical-cut-bottom-diagonal-tailed
+  split-left-flat-bottom-top-vertical-cut-bottom-flat-hooked
+  split-left-flat-bottom-top-vertical-cut-bottom-rounded-tailed
+  split-left-flat-bottom-top-vertical-cut-bottom-straight
+  split-left-flat-bottom-top-vertical-cut-bottom-vertical-cut
   split-left-flat-top-cursive
   split-left-flat-top-diagonal-tailed-cursive
   split-left-flat-top-serifed
   split-left-flat-top-serifless
+  split-left-flat-top-top-diagonal-cut-bottom-diagonal-cut
+  split-left-flat-top-top-diagonal-cut-bottom-diagonal-tailed
+  split-left-flat-top-top-diagonal-cut-bottom-flat-hooked
+  split-left-flat-top-top-diagonal-cut-bottom-rounded-tailed
+  split-left-flat-top-top-diagonal-cut-bottom-straight
+  split-left-flat-top-top-diagonal-cut-bottom-vertical-cut
+  split-left-flat-top-top-diagonal-tailed-bottom-diagonal-cut
+  split-left-flat-top-top-diagonal-tailed-bottom-diagonal-tailed
+  split-left-flat-top-top-diagonal-tailed-bottom-flat-hooked
+  split-left-flat-top-top-diagonal-tailed-bottom-rounded-tailed
+  split-left-flat-top-top-diagonal-tailed-bottom-straight
+  split-left-flat-top-top-diagonal-tailed-bottom-vertical-cut
+  split-left-flat-top-top-flat-hooked-bottom-diagonal-cut
+  split-left-flat-top-top-flat-hooked-bottom-diagonal-tailed
+  split-left-flat-top-top-flat-hooked-bottom-flat-hooked
+  split-left-flat-top-top-flat-hooked-bottom-rounded-tailed
+  split-left-flat-top-top-flat-hooked-bottom-straight
+  split-left-flat-top-top-flat-hooked-bottom-vertical-cut
+  split-left-flat-top-top-rounded-tailed-bottom-diagonal-cut
+  split-left-flat-top-top-rounded-tailed-bottom-diagonal-tailed
+  split-left-flat-top-top-rounded-tailed-bottom-flat-hooked
+  split-left-flat-top-top-rounded-tailed-bottom-rounded-tailed
+  split-left-flat-top-top-rounded-tailed-bottom-straight
+  split-left-flat-top-top-rounded-tailed-bottom-vertical-cut
   split-left-flat-top-top-serifed
+  split-left-flat-top-top-straight-bottom-diagonal-cut
+  split-left-flat-top-top-straight-bottom-diagonal-tailed
+  split-left-flat-top-top-straight-bottom-flat-hooked
+  split-left-flat-top-top-straight-bottom-rounded-tailed
+  split-left-flat-top-top-straight-bottom-straight
+  split-left-flat-top-top-straight-bottom-vertical-cut
+  split-left-flat-top-top-vertical-cut-bottom-diagonal-cut
+  split-left-flat-top-top-vertical-cut-bottom-diagonal-tailed
+  split-left-flat-top-top-vertical-cut-bottom-flat-hooked
+  split-left-flat-top-top-vertical-cut-bottom-rounded-tailed
+  split-left-flat-top-top-vertical-cut-bottom-straight
+  split-left-flat-top-top-vertical-cut-bottom-vertical-cut
   split-serifed
   split-serifless
+  split-top-diagonal-cut-bottom-diagonal-cut
+  split-top-diagonal-cut-bottom-diagonal-tailed
+  split-top-diagonal-cut-bottom-flat-hooked
+  split-top-diagonal-cut-bottom-rounded-tailed
+  split-top-diagonal-cut-bottom-straight
+  split-top-diagonal-cut-bottom-vertical-cut
+  split-top-diagonal-tailed-bottom-diagonal-cut
+  split-top-diagonal-tailed-bottom-diagonal-tailed
+  split-top-diagonal-tailed-bottom-flat-hooked
+  split-top-diagonal-tailed-bottom-rounded-tailed
+  split-top-diagonal-tailed-bottom-straight
+  split-top-diagonal-tailed-bottom-vertical-cut
+  split-top-flat-hooked-bottom-diagonal-cut
+  split-top-flat-hooked-bottom-diagonal-tailed
+  split-top-flat-hooked-bottom-flat-hooked
+  split-top-flat-hooked-bottom-rounded-tailed
+  split-top-flat-hooked-bottom-straight
+  split-top-flat-hooked-bottom-vertical-cut
+  split-top-rounded-tailed-bottom-diagonal-cut
+  split-top-rounded-tailed-bottom-diagonal-tailed
+  split-top-rounded-tailed-bottom-flat-hooked
+  split-top-rounded-tailed-bottom-rounded-tailed
+  split-top-rounded-tailed-bottom-straight
+  split-top-rounded-tailed-bottom-vertical-cut
   split-top-serifed
+  split-top-straight-bottom-diagonal-cut
+  split-top-straight-bottom-diagonal-tailed
+  split-top-straight-bottom-flat-hooked
+  split-top-straight-bottom-rounded-tailed
+  split-top-straight-bottom-straight
+  split-top-straight-bottom-vertical-cut
+  split-top-vertical-cut-bottom-diagonal-cut
+  split-top-vertical-cut-bottom-diagonal-tailed
+  split-top-vertical-cut-bottom-flat-hooked
+  split-top-vertical-cut-bottom-rounded-tailed
+  split-top-vertical-cut-bottom-straight
+  split-top-vertical-cut-bottom-vertical-cut
+  top-diagonal-cut-bottom-diagonal-cut
+  top-diagonal-cut-bottom-diagonal-tailed
+  top-diagonal-cut-bottom-flat-hooked
+  top-diagonal-cut-bottom-rounded-tailed
+  top-diagonal-cut-bottom-straight
+  top-diagonal-cut-bottom-vertical-cut
+  top-diagonal-tailed-bottom-diagonal-cut
+  top-diagonal-tailed-bottom-diagonal-tailed
+  top-diagonal-tailed-bottom-flat-hooked
+  top-diagonal-tailed-bottom-rounded-tailed
+  top-diagonal-tailed-bottom-straight
+  top-diagonal-tailed-bottom-vertical-cut
+  top-flat-hooked-bottom-diagonal-cut
+  top-flat-hooked-bottom-diagonal-tailed
+  top-flat-hooked-bottom-flat-hooked
+  top-flat-hooked-bottom-rounded-tailed
+  top-flat-hooked-bottom-straight
+  top-flat-hooked-bottom-vertical-cut
+  top-rounded-tailed-bottom-diagonal-cut
+  top-rounded-tailed-bottom-diagonal-tailed
+  top-rounded-tailed-bottom-flat-hooked
+  top-rounded-tailed-bottom-rounded-tailed
+  top-rounded-tailed-bottom-straight
+  top-rounded-tailed-bottom-vertical-cut
   top-serifed
+  top-straight-bottom-diagonal-cut
+  top-straight-bottom-diagonal-tailed
+  top-straight-bottom-flat-hooked
+  top-straight-bottom-rounded-tailed
+  top-straight-bottom-straight
+  top-straight-bottom-vertical-cut
+  top-vertical-cut-bottom-diagonal-cut
+  top-vertical-cut-bottom-diagonal-tailed
+  top-vertical-cut-bottom-flat-hooked
+  top-vertical-cut-bottom-rounded-tailed
+  top-vertical-cut-bottom-straight
+  top-vertical-cut-bottom-vertical-cut
 
 [cyrl-el] tag=VXBZ sampler="л"
   curly-motion-serifed
@@ -4005,6 +4745,8 @@
   base-serifed
   corner-hooked-base-serifed
   corner-hooked-serifless
+  diagonal-cut-base-serifed
+  diagonal-cut-serifless
   flat-hooked-base-serifed
   flat-hooked-serifless
   inward-serifed-base-serifed
@@ -4012,6 +4754,8 @@
   serifed-base-serifed
   serifed-serifless
   serifless
+  vertical-cut-base-serifed
+  vertical-cut-serifless
 
 [cyrl-pe] tag=VXCJ sampler="п"
   cursive-earless-corner-straight-motion-serifed
@@ -5216,30 +5960,54 @@
   tall-flat-hooked
   tall-serifless
   tall-top-corner-hooked-bottom-corner-hooked
+  tall-top-corner-hooked-bottom-diagonal-cut
   tall-top-corner-hooked-bottom-flat-hooked
   tall-top-corner-hooked-bottom-inward-serifed
   tall-top-corner-hooked-bottom-rounded
   tall-top-corner-hooked-bottom-serifed
+  tall-top-corner-hooked-bottom-vertical-cut
+  tall-top-diagonal-cut-bottom-corner-hooked
+  tall-top-diagonal-cut-bottom-diagonal-cut
+  tall-top-diagonal-cut-bottom-flat-hooked
+  tall-top-diagonal-cut-bottom-inward-serifed
+  tall-top-diagonal-cut-bottom-rounded
+  tall-top-diagonal-cut-bottom-serifed
+  tall-top-diagonal-cut-bottom-vertical-cut
   tall-top-flat-hooked-bottom-corner-hooked
+  tall-top-flat-hooked-bottom-diagonal-cut
   tall-top-flat-hooked-bottom-flat-hooked
   tall-top-flat-hooked-bottom-inward-serifed
   tall-top-flat-hooked-bottom-rounded
   tall-top-flat-hooked-bottom-serifed
+  tall-top-flat-hooked-bottom-vertical-cut
   tall-top-inward-serifed-bottom-corner-hooked
+  tall-top-inward-serifed-bottom-diagonal-cut
   tall-top-inward-serifed-bottom-flat-hooked
   tall-top-inward-serifed-bottom-inward-serifed
   tall-top-inward-serifed-bottom-rounded
   tall-top-inward-serifed-bottom-serifed
+  tall-top-inward-serifed-bottom-vertical-cut
   tall-top-rounded-bottom-corner-hooked
+  tall-top-rounded-bottom-diagonal-cut
   tall-top-rounded-bottom-flat-hooked
   tall-top-rounded-bottom-inward-serifed
   tall-top-rounded-bottom-rounded
   tall-top-rounded-bottom-serifed
+  tall-top-rounded-bottom-vertical-cut
   tall-top-serifed-bottom-corner-hooked
+  tall-top-serifed-bottom-diagonal-cut
   tall-top-serifed-bottom-flat-hooked
   tall-top-serifed-bottom-inward-serifed
   tall-top-serifed-bottom-rounded
   tall-top-serifed-bottom-serifed
+  tall-top-serifed-bottom-vertical-cut
+  tall-top-vertical-cut-bottom-corner-hooked
+  tall-top-vertical-cut-bottom-diagonal-cut
+  tall-top-vertical-cut-bottom-flat-hooked
+  tall-top-vertical-cut-bottom-inward-serifed
+  tall-top-vertical-cut-bottom-rounded
+  tall-top-vertical-cut-bottom-serifed
+  tall-top-vertical-cut-bottom-vertical-cut
   tall-unilateral-bottom-inward-serifed
   tall-unilateral-bottom-inward-serifed-corner-hooked
   tall-unilateral-bottom-inward-serifed-flat-hooked
@@ -5253,30 +6021,54 @@
   tall-unilateral-serifed-corner-hooked
   tall-unilateral-serifed-flat-hooked
   top-corner-hooked-bottom-corner-hooked
+  top-corner-hooked-bottom-diagonal-cut
   top-corner-hooked-bottom-flat-hooked
   top-corner-hooked-bottom-inward-serifed
   top-corner-hooked-bottom-rounded
   top-corner-hooked-bottom-serifed
+  top-corner-hooked-bottom-vertical-cut
+  top-diagonal-cut-bottom-corner-hooked
+  top-diagonal-cut-bottom-diagonal-cut
+  top-diagonal-cut-bottom-flat-hooked
+  top-diagonal-cut-bottom-inward-serifed
+  top-diagonal-cut-bottom-rounded
+  top-diagonal-cut-bottom-serifed
+  top-diagonal-cut-bottom-vertical-cut
   top-flat-hooked-bottom-corner-hooked
+  top-flat-hooked-bottom-diagonal-cut
   top-flat-hooked-bottom-flat-hooked
   top-flat-hooked-bottom-inward-serifed
   top-flat-hooked-bottom-rounded
   top-flat-hooked-bottom-serifed
+  top-flat-hooked-bottom-vertical-cut
   top-inward-serifed-bottom-corner-hooked
+  top-inward-serifed-bottom-diagonal-cut
   top-inward-serifed-bottom-flat-hooked
   top-inward-serifed-bottom-inward-serifed
   top-inward-serifed-bottom-rounded
   top-inward-serifed-bottom-serifed
+  top-inward-serifed-bottom-vertical-cut
   top-rounded-bottom-corner-hooked
+  top-rounded-bottom-diagonal-cut
   top-rounded-bottom-flat-hooked
   top-rounded-bottom-inward-serifed
   top-rounded-bottom-rounded
   top-rounded-bottom-serifed
+  top-rounded-bottom-vertical-cut
   top-serifed-bottom-corner-hooked
+  top-serifed-bottom-diagonal-cut
   top-serifed-bottom-flat-hooked
   top-serifed-bottom-inward-serifed
   top-serifed-bottom-rounded
   top-serifed-bottom-serifed
+  top-serifed-bottom-vertical-cut
+  top-vertical-cut-bottom-corner-hooked
+  top-vertical-cut-bottom-diagonal-cut
+  top-vertical-cut-bottom-flat-hooked
+  top-vertical-cut-bottom-inward-serifed
+  top-vertical-cut-bottom-rounded
+  top-vertical-cut-bottom-serifed
+  top-vertical-cut-bottom-vertical-cut
   unilateral-bottom-inward-serifed
   unilateral-bottom-inward-serifed-corner-hooked
   unilateral-bottom-inward-serifed-flat-hooked
@@ -5381,16 +6173,24 @@
 [e] tag=cv21 sampler="e"
   diagonal-crossbar-falling
   diagonal-crossbar-falling-corner-hooked
+  diagonal-crossbar-falling-diagonal-cut
   diagonal-crossbar-falling-flat-hooked
+  diagonal-crossbar-falling-vertical-cut
   diagonal-crossbar-rising
   diagonal-crossbar-rising-corner-hooked
+  diagonal-crossbar-rising-diagonal-cut
   diagonal-crossbar-rising-flat-hooked
+  diagonal-crossbar-rising-vertical-cut
   flat-crossbar
   flat-crossbar-corner-hooked
+  flat-crossbar-diagonal-cut
   flat-crossbar-flat-hooked
+  flat-crossbar-vertical-cut
   rounded
   rounded-corner-hooked
+  rounded-diagonal-cut
   rounded-flat-hooked
+  rounded-vertical-cut
 
 [eight] tag=cv09 sampler="8"
   big-bottom-circle
@@ -5404,6 +6204,30 @@
   normal
 
 [f] tag=cv26 sampler="f"
+  bottom-diagonal-cut
+  bottom-diagonal-cut-asymmetric
+  bottom-diagonal-cut-asymmetric-crossbar-at-half-ascender-height
+  bottom-diagonal-cut-asymmetric-crossbar-at-x-height
+  bottom-diagonal-cut-crossbar-at-half-ascender-height
+  bottom-diagonal-cut-crossbar-at-x-height
+  bottom-vertical-cut
+  bottom-vertical-cut-asymmetric
+  bottom-vertical-cut-asymmetric-crossbar-at-half-ascender-height
+  bottom-vertical-cut-asymmetric-crossbar-at-x-height
+  bottom-vertical-cut-crossbar-at-half-ascender-height
+  bottom-vertical-cut-crossbar-at-x-height
+  corner-hooked-bottom-diagonal-cut
+  corner-hooked-bottom-diagonal-cut-asymmetric
+  corner-hooked-bottom-diagonal-cut-asymmetric-crossbar-at-half-ascender-height
+  corner-hooked-bottom-diagonal-cut-asymmetric-crossbar-at-x-height
+  corner-hooked-bottom-diagonal-cut-crossbar-at-half-ascender-height
+  corner-hooked-bottom-diagonal-cut-crossbar-at-x-height
+  corner-hooked-bottom-vertical-cut
+  corner-hooked-bottom-vertical-cut-asymmetric
+  corner-hooked-bottom-vertical-cut-asymmetric-crossbar-at-half-ascender-height
+  corner-hooked-bottom-vertical-cut-asymmetric-crossbar-at-x-height
+  corner-hooked-bottom-vertical-cut-crossbar-at-half-ascender-height
+  corner-hooked-bottom-vertical-cut-crossbar-at-x-height
   corner-hooked-diagonal-tailed
   corner-hooked-diagonal-tailed-asymmetric
   corner-hooked-diagonal-tailed-asymmetric-crossbar-at-half-ascender-height
@@ -5434,6 +6258,48 @@
   corner-hooked-tailed-asymmetric-crossbar-at-x-height
   corner-hooked-tailed-crossbar-at-half-ascender-height
   corner-hooked-tailed-crossbar-at-x-height
+  diagonal-cut-bottom-diagonal-cut
+  diagonal-cut-bottom-diagonal-cut-asymmetric
+  diagonal-cut-bottom-diagonal-cut-asymmetric-crossbar-at-half-ascender-height
+  diagonal-cut-bottom-diagonal-cut-asymmetric-crossbar-at-x-height
+  diagonal-cut-bottom-diagonal-cut-crossbar-at-half-ascender-height
+  diagonal-cut-bottom-diagonal-cut-crossbar-at-x-height
+  diagonal-cut-bottom-vertical-cut
+  diagonal-cut-bottom-vertical-cut-asymmetric
+  diagonal-cut-bottom-vertical-cut-asymmetric-crossbar-at-half-ascender-height
+  diagonal-cut-bottom-vertical-cut-asymmetric-crossbar-at-x-height
+  diagonal-cut-bottom-vertical-cut-crossbar-at-half-ascender-height
+  diagonal-cut-bottom-vertical-cut-crossbar-at-x-height
+  diagonal-cut-diagonal-tailed
+  diagonal-cut-diagonal-tailed-asymmetric
+  diagonal-cut-diagonal-tailed-asymmetric-crossbar-at-half-ascender-height
+  diagonal-cut-diagonal-tailed-asymmetric-crossbar-at-x-height
+  diagonal-cut-diagonal-tailed-crossbar-at-half-ascender-height
+  diagonal-cut-diagonal-tailed-crossbar-at-x-height
+  diagonal-cut-extended
+  diagonal-cut-extended-asymmetric
+  diagonal-cut-extended-asymmetric-crossbar-at-half-ascender-height
+  diagonal-cut-extended-asymmetric-crossbar-at-x-height
+  diagonal-cut-extended-crossbar-at-half-ascender-height
+  diagonal-cut-extended-crossbar-at-x-height
+  diagonal-cut-serifed
+  diagonal-cut-serifed-asymmetric
+  diagonal-cut-serifed-asymmetric-crossbar-at-half-ascender-height
+  diagonal-cut-serifed-asymmetric-crossbar-at-x-height
+  diagonal-cut-serifed-crossbar-at-half-ascender-height
+  diagonal-cut-serifed-crossbar-at-x-height
+  diagonal-cut-serifless
+  diagonal-cut-serifless-asymmetric
+  diagonal-cut-serifless-asymmetric-crossbar-at-half-ascender-height
+  diagonal-cut-serifless-asymmetric-crossbar-at-x-height
+  diagonal-cut-serifless-crossbar-at-half-ascender-height
+  diagonal-cut-serifless-crossbar-at-x-height
+  diagonal-cut-tailed
+  diagonal-cut-tailed-asymmetric
+  diagonal-cut-tailed-asymmetric-crossbar-at-half-ascender-height
+  diagonal-cut-tailed-asymmetric-crossbar-at-x-height
+  diagonal-cut-tailed-crossbar-at-half-ascender-height
+  diagonal-cut-tailed-crossbar-at-x-height
   diagonal-tailed
   diagonal-tailed-asymmetric
   diagonal-tailed-asymmetric-crossbar-at-half-ascender-height
@@ -5446,6 +6312,18 @@
   extended-asymmetric-crossbar-at-x-height
   extended-crossbar-at-half-ascender-height
   extended-crossbar-at-x-height
+  flat-hooked-bottom-diagonal-cut
+  flat-hooked-bottom-diagonal-cut-asymmetric
+  flat-hooked-bottom-diagonal-cut-asymmetric-crossbar-at-half-ascender-height
+  flat-hooked-bottom-diagonal-cut-asymmetric-crossbar-at-x-height
+  flat-hooked-bottom-diagonal-cut-crossbar-at-half-ascender-height
+  flat-hooked-bottom-diagonal-cut-crossbar-at-x-height
+  flat-hooked-bottom-vertical-cut
+  flat-hooked-bottom-vertical-cut-asymmetric
+  flat-hooked-bottom-vertical-cut-asymmetric-crossbar-at-half-ascender-height
+  flat-hooked-bottom-vertical-cut-asymmetric-crossbar-at-x-height
+  flat-hooked-bottom-vertical-cut-crossbar-at-half-ascender-height
+  flat-hooked-bottom-vertical-cut-crossbar-at-x-height
   flat-hooked-diagonal-tailed
   flat-hooked-diagonal-tailed-asymmetric
   flat-hooked-diagonal-tailed-asymmetric-crossbar-at-half-ascender-height
@@ -5476,6 +6354,18 @@
   flat-hooked-tailed-asymmetric-crossbar-at-x-height
   flat-hooked-tailed-crossbar-at-half-ascender-height
   flat-hooked-tailed-crossbar-at-x-height
+  narrow-bottom-diagonal-cut
+  narrow-bottom-diagonal-cut-asymmetric
+  narrow-bottom-diagonal-cut-asymmetric-crossbar-at-half-ascender-height
+  narrow-bottom-diagonal-cut-asymmetric-crossbar-at-x-height
+  narrow-bottom-diagonal-cut-crossbar-at-half-ascender-height
+  narrow-bottom-diagonal-cut-crossbar-at-x-height
+  narrow-bottom-vertical-cut
+  narrow-bottom-vertical-cut-asymmetric
+  narrow-bottom-vertical-cut-asymmetric-crossbar-at-half-ascender-height
+  narrow-bottom-vertical-cut-asymmetric-crossbar-at-x-height
+  narrow-bottom-vertical-cut-crossbar-at-half-ascender-height
+  narrow-bottom-vertical-cut-crossbar-at-x-height
   narrow-diagonal-tailed
   narrow-diagonal-tailed-asymmetric
   narrow-diagonal-tailed-asymmetric-crossbar-at-half-ascender-height
@@ -5524,6 +6414,48 @@
   tailed-asymmetric-crossbar-at-x-height
   tailed-crossbar-at-half-ascender-height
   tailed-crossbar-at-x-height
+  vertical-cut-bottom-diagonal-cut
+  vertical-cut-bottom-diagonal-cut-asymmetric
+  vertical-cut-bottom-diagonal-cut-asymmetric-crossbar-at-half-ascender-height
+  vertical-cut-bottom-diagonal-cut-asymmetric-crossbar-at-x-height
+  vertical-cut-bottom-diagonal-cut-crossbar-at-half-ascender-height
+  vertical-cut-bottom-diagonal-cut-crossbar-at-x-height
+  vertical-cut-bottom-vertical-cut
+  vertical-cut-bottom-vertical-cut-asymmetric
+  vertical-cut-bottom-vertical-cut-asymmetric-crossbar-at-half-ascender-height
+  vertical-cut-bottom-vertical-cut-asymmetric-crossbar-at-x-height
+  vertical-cut-bottom-vertical-cut-crossbar-at-half-ascender-height
+  vertical-cut-bottom-vertical-cut-crossbar-at-x-height
+  vertical-cut-diagonal-tailed
+  vertical-cut-diagonal-tailed-asymmetric
+  vertical-cut-diagonal-tailed-asymmetric-crossbar-at-half-ascender-height
+  vertical-cut-diagonal-tailed-asymmetric-crossbar-at-x-height
+  vertical-cut-diagonal-tailed-crossbar-at-half-ascender-height
+  vertical-cut-diagonal-tailed-crossbar-at-x-height
+  vertical-cut-extended
+  vertical-cut-extended-asymmetric
+  vertical-cut-extended-asymmetric-crossbar-at-half-ascender-height
+  vertical-cut-extended-asymmetric-crossbar-at-x-height
+  vertical-cut-extended-crossbar-at-half-ascender-height
+  vertical-cut-extended-crossbar-at-x-height
+  vertical-cut-serifed
+  vertical-cut-serifed-asymmetric
+  vertical-cut-serifed-asymmetric-crossbar-at-half-ascender-height
+  vertical-cut-serifed-asymmetric-crossbar-at-x-height
+  vertical-cut-serifed-crossbar-at-half-ascender-height
+  vertical-cut-serifed-crossbar-at-x-height
+  vertical-cut-serifless
+  vertical-cut-serifless-asymmetric
+  vertical-cut-serifless-asymmetric-crossbar-at-half-ascender-height
+  vertical-cut-serifless-asymmetric-crossbar-at-x-height
+  vertical-cut-serifless-crossbar-at-half-ascender-height
+  vertical-cut-serifless-crossbar-at-x-height
+  vertical-cut-tailed
+  vertical-cut-tailed-asymmetric
+  vertical-cut-tailed-asymmetric-crossbar-at-half-ascender-height
+  vertical-cut-tailed-asymmetric-crossbar-at-x-height
+  vertical-cut-tailed-crossbar-at-half-ascender-height
+  vertical-cut-tailed-crossbar-at-x-height
 
 [five] tag=cv06 sampler="5"
   more-oblique-arched-broken-serifed
@@ -5534,14 +6466,26 @@
   more-oblique-corner-hooked-broken-serifless
   more-oblique-corner-hooked-serifed
   more-oblique-corner-hooked-serifless
+  more-oblique-diagonal-cut-broken-serifed
+  more-oblique-diagonal-cut-broken-serifless
+  more-oblique-diagonal-cut-serifed
+  more-oblique-diagonal-cut-serifless
   more-oblique-flat-broken-serifed
   more-oblique-flat-broken-serifless
+  more-oblique-flat-diagonal-cut-broken-serifed
+  more-oblique-flat-diagonal-cut-broken-serifless
+  more-oblique-flat-diagonal-cut-serifed
+  more-oblique-flat-diagonal-cut-serifless
   more-oblique-flat-hooked-broken-serifed
   more-oblique-flat-hooked-broken-serifless
   more-oblique-flat-hooked-serifed
   more-oblique-flat-hooked-serifless
   more-oblique-flat-serifed
   more-oblique-flat-serifless
+  more-oblique-flat-vertical-cut-broken-serifed
+  more-oblique-flat-vertical-cut-broken-serifless
+  more-oblique-flat-vertical-cut-serifed
+  more-oblique-flat-vertical-cut-serifless
   more-oblique-inward-serifed-broken-serifed
   more-oblique-inward-serifed-broken-serifless
   more-oblique-inward-serifed-serifed
@@ -5550,6 +6494,10 @@
   more-oblique-serifed-hooked-broken-serifless
   more-oblique-serifed-hooked-serifed
   more-oblique-serifed-hooked-serifless
+  more-oblique-vertical-cut-broken-serifed
+  more-oblique-vertical-cut-broken-serifless
+  more-oblique-vertical-cut-serifed
+  more-oblique-vertical-cut-serifless
   oblique-arched-broken-serifed
   oblique-arched-broken-serifless
   oblique-arched-serifed
@@ -5558,14 +6506,26 @@
   oblique-corner-hooked-broken-serifless
   oblique-corner-hooked-serifed
   oblique-corner-hooked-serifless
+  oblique-diagonal-cut-broken-serifed
+  oblique-diagonal-cut-broken-serifless
+  oblique-diagonal-cut-serifed
+  oblique-diagonal-cut-serifless
   oblique-flat-broken-serifed
   oblique-flat-broken-serifless
+  oblique-flat-diagonal-cut-broken-serifed
+  oblique-flat-diagonal-cut-broken-serifless
+  oblique-flat-diagonal-cut-serifed
+  oblique-flat-diagonal-cut-serifless
   oblique-flat-hooked-broken-serifed
   oblique-flat-hooked-broken-serifless
   oblique-flat-hooked-serifed
   oblique-flat-hooked-serifless
   oblique-flat-serifed
   oblique-flat-serifless
+  oblique-flat-vertical-cut-broken-serifed
+  oblique-flat-vertical-cut-broken-serifless
+  oblique-flat-vertical-cut-serifed
+  oblique-flat-vertical-cut-serifless
   oblique-inward-serifed-broken-serifed
   oblique-inward-serifed-broken-serifless
   oblique-inward-serifed-serifed
@@ -5574,6 +6534,10 @@
   oblique-serifed-hooked-broken-serifless
   oblique-serifed-hooked-serifed
   oblique-serifed-hooked-serifless
+  oblique-vertical-cut-broken-serifed
+  oblique-vertical-cut-broken-serifless
+  oblique-vertical-cut-serifed
+  oblique-vertical-cut-serifless
   upright-arched-broken-serifed
   upright-arched-broken-serifless
   upright-arched-serifed
@@ -5582,14 +6546,26 @@
   upright-corner-hooked-broken-serifless
   upright-corner-hooked-serifed
   upright-corner-hooked-serifless
+  upright-diagonal-cut-broken-serifed
+  upright-diagonal-cut-broken-serifless
+  upright-diagonal-cut-serifed
+  upright-diagonal-cut-serifless
   upright-flat-broken-serifed
   upright-flat-broken-serifless
+  upright-flat-diagonal-cut-broken-serifed
+  upright-flat-diagonal-cut-broken-serifless
+  upright-flat-diagonal-cut-serifed
+  upright-flat-diagonal-cut-serifless
   upright-flat-hooked-broken-serifed
   upright-flat-hooked-broken-serifless
   upright-flat-hooked-serifed
   upright-flat-hooked-serifless
   upright-flat-serifed
   upright-flat-serifless
+  upright-flat-vertical-cut-broken-serifed
+  upright-flat-vertical-cut-broken-serifless
+  upright-flat-vertical-cut-serifed
+  upright-flat-vertical-cut-serifless
   upright-inward-serifed-broken-serifed
   upright-inward-serifed-broken-serifless
   upright-inward-serifed-serifed
@@ -5598,6 +6574,10 @@
   upright-serifed-hooked-broken-serifless
   upright-serifed-hooked-serifed
   upright-serifed-hooked-serifless
+  upright-vertical-cut-broken-serifed
+  upright-vertical-cut-broken-serifless
+  upright-vertical-cut-serifed
+  upright-vertical-cut-serifless
 
 [four] tag=cv05 sampler="4"
   closed-non-crossing-serifed
@@ -5648,6 +6628,12 @@
   double-storey-disjoint-corner-hooked-flat-bowl
   double-storey-disjoint-corner-hooked-flat-bowl-serifed
   double-storey-disjoint-corner-hooked-top-cut
+  double-storey-disjoint-diagonal-cut
+  double-storey-disjoint-diagonal-cut-earless-corner
+  double-storey-disjoint-diagonal-cut-earless-rounded
+  double-storey-disjoint-diagonal-cut-flat-bowl
+  double-storey-disjoint-diagonal-cut-flat-bowl-serifed
+  double-storey-disjoint-diagonal-cut-top-cut
   double-storey-disjoint-earless-corner
   double-storey-disjoint-earless-rounded
   double-storey-disjoint-flat-bowl
@@ -5659,6 +6645,12 @@
   double-storey-disjoint-flat-hooked-flat-bowl-serifed
   double-storey-disjoint-flat-hooked-top-cut
   double-storey-disjoint-top-cut
+  double-storey-disjoint-vertical-cut
+  double-storey-disjoint-vertical-cut-earless-corner
+  double-storey-disjoint-vertical-cut-earless-rounded
+  double-storey-disjoint-vertical-cut-flat-bowl
+  double-storey-disjoint-vertical-cut-flat-bowl-serifed
+  double-storey-disjoint-vertical-cut-top-cut
   double-storey-earless-corner
   double-storey-earless-rounded
   double-storey-flat-bowl
@@ -5670,6 +6662,12 @@
   double-storey-open-corner-hooked-flat-bowl
   double-storey-open-corner-hooked-flat-bowl-serifed
   double-storey-open-corner-hooked-top-cut
+  double-storey-open-diagonal-cut
+  double-storey-open-diagonal-cut-earless-corner
+  double-storey-open-diagonal-cut-earless-rounded
+  double-storey-open-diagonal-cut-flat-bowl
+  double-storey-open-diagonal-cut-flat-bowl-serifed
+  double-storey-open-diagonal-cut-top-cut
   double-storey-open-earless-corner
   double-storey-open-earless-rounded
   double-storey-open-flat-bowl
@@ -5681,6 +6679,12 @@
   double-storey-open-flat-hooked-flat-bowl-serifed
   double-storey-open-flat-hooked-top-cut
   double-storey-open-top-cut
+  double-storey-open-vertical-cut
+  double-storey-open-vertical-cut-earless-corner
+  double-storey-open-vertical-cut-earless-rounded
+  double-storey-open-vertical-cut-flat-bowl
+  double-storey-open-vertical-cut-flat-bowl-serifed
+  double-storey-open-vertical-cut-top-cut
   double-storey-top-cut
   single-storey-corner-hooked-earless-corner
   single-storey-corner-hooked-earless-rounded
@@ -5696,6 +6700,20 @@
   single-storey-corner-hooked-serifed
   single-storey-corner-hooked-serifless
   single-storey-corner-hooked-top-cut
+  single-storey-diagonal-cut-earless-corner
+  single-storey-diagonal-cut-earless-rounded
+  single-storey-diagonal-cut-flat-bowl-earless-corner
+  single-storey-diagonal-cut-flat-bowl-earless-rounded
+  single-storey-diagonal-cut-flat-bowl-flat-top-serifed
+  single-storey-diagonal-cut-flat-bowl-flat-top-serifless
+  single-storey-diagonal-cut-flat-bowl-serifed
+  single-storey-diagonal-cut-flat-bowl-serifless
+  single-storey-diagonal-cut-flat-bowl-top-cut
+  single-storey-diagonal-cut-flat-top-serifed
+  single-storey-diagonal-cut-flat-top-serifless
+  single-storey-diagonal-cut-serifed
+  single-storey-diagonal-cut-serifless
+  single-storey-diagonal-cut-top-cut
   single-storey-earless-corner
   single-storey-earless-rounded
   single-storey-flat-bowl-earless-corner
@@ -5724,14 +6742,36 @@
   single-storey-serifed
   single-storey-serifless
   single-storey-top-cut
+  single-storey-vertical-cut-earless-corner
+  single-storey-vertical-cut-earless-rounded
+  single-storey-vertical-cut-flat-bowl-earless-corner
+  single-storey-vertical-cut-flat-bowl-earless-rounded
+  single-storey-vertical-cut-flat-bowl-flat-top-serifed
+  single-storey-vertical-cut-flat-bowl-flat-top-serifless
+  single-storey-vertical-cut-flat-bowl-serifed
+  single-storey-vertical-cut-flat-bowl-serifless
+  single-storey-vertical-cut-flat-bowl-top-cut
+  single-storey-vertical-cut-flat-top-serifed
+  single-storey-vertical-cut-flat-top-serifless
+  single-storey-vertical-cut-serifed
+  single-storey-vertical-cut-serifless
+  single-storey-vertical-cut-top-cut
 
 [glottal-stop] tag=cv29 sampler="ʔ"
   corner
   corner-corner-hooked
+  corner-diagonal-cut
   corner-flat-hooked
+  corner-inward-serifed
+  corner-serifed-hooked
+  corner-vertical-cut
   smooth
   smooth-corner-hooked
+  smooth-diagonal-cut
   smooth-flat-hooked
+  smooth-inward-serifed
+  smooth-serifed-hooked
+  smooth-vertical-cut
 
 [guillemet] tag=VXAL sampler="« »"
   curly
@@ -5767,6 +6807,7 @@
   flat-tailed
   hooky
   hooky-bottom
+  plain-top-bottom-diagonal-cut
   plain-top-bottom-left-serifed
   reverse-hooky
   semi-tailed
@@ -5779,6 +6820,7 @@
   sshaped
   tailed
   tailed-serifed
+  top-center-serifed-bottom-diagonal-cut
   top-center-serifed-bottom-diagonal-tailed
   top-center-serifed-bottom-flat-tailed
   top-center-serifed-bottom-left-serifed
@@ -5786,6 +6828,7 @@
   top-center-serifed-bottom-semi-tailed
   top-center-serifed-bottom-tailed
   top-center-serifed-plain-bottom
+  top-center-short-serifed-bottom-diagonal-cut
   top-center-short-serifed-bottom-diagonal-tailed
   top-center-short-serifed-bottom-flat-tailed
   top-center-short-serifed-bottom-left-serifed
@@ -5793,7 +6836,17 @@
   top-center-short-serifed-bottom-semi-tailed
   top-center-short-serifed-bottom-tailed
   top-center-short-serifed-plain-bottom
+  top-diagonal-cut-base-serifed
+  top-diagonal-cut-bottom-diagonal-cut
+  top-diagonal-cut-bottom-diagonal-tailed
+  top-diagonal-cut-bottom-flat-tailed
+  top-diagonal-cut-bottom-left-serifed
+  top-diagonal-cut-bottom-right-serifed
+  top-diagonal-cut-bottom-semi-tailed
+  top-diagonal-cut-bottom-tailed
+  top-diagonal-cut-plain-bottom
   top-diagonal-tailed-base-serifed
+  top-diagonal-tailed-bottom-diagonal-cut
   top-diagonal-tailed-bottom-flat-tailed
   top-diagonal-tailed-bottom-left-serifed
   top-diagonal-tailed-bottom-right-serifed
@@ -5801,12 +6854,14 @@
   top-diagonal-tailed-bottom-tailed
   top-diagonal-tailed-plain-bottom
   top-flat-tailed-base-serifed
+  top-flat-tailed-bottom-diagonal-cut
   top-flat-tailed-bottom-diagonal-tailed
   top-flat-tailed-bottom-left-serifed
   top-flat-tailed-bottom-right-serifed
   top-flat-tailed-bottom-semi-tailed
   top-flat-tailed-bottom-tailed
   top-flat-tailed-plain-bottom
+  top-left-long-serifed-bottom-diagonal-cut
   top-left-long-serifed-bottom-diagonal-tailed
   top-left-long-serifed-bottom-flat-tailed
   top-left-long-serifed-bottom-left-serifed
@@ -5814,6 +6869,7 @@
   top-left-long-serifed-bottom-semi-tailed
   top-left-long-serifed-bottom-tailed
   top-left-long-serifed-plain-bottom
+  top-left-long-short-serifed-bottom-diagonal-cut
   top-left-long-short-serifed-bottom-diagonal-tailed
   top-left-long-short-serifed-bottom-flat-tailed
   top-left-long-short-serifed-bottom-left-serifed
@@ -5822,8 +6878,10 @@
   top-left-long-short-serifed-bottom-tailed
   top-left-long-short-serifed-plain-bottom
   top-left-serifed-base-serifed
+  top-left-serifed-bottom-diagonal-cut
   top-left-serifed-bottom-left-serifed
   top-left-short-serifed-base-serifed
+  top-left-short-serifed-bottom-diagonal-cut
   top-left-short-serifed-bottom-diagonal-tailed
   top-left-short-serifed-bottom-flat-tailed
   top-left-short-serifed-bottom-left-serifed
@@ -5833,6 +6891,7 @@
   top-left-short-serifed-plain-bottom
   top-right-base-serifed
   top-right-base-serifed-asymmetric
+  top-right-long-serifed-bottom-diagonal-cut
   top-right-long-serifed-bottom-diagonal-tailed
   top-right-long-serifed-bottom-flat-tailed
   top-right-long-serifed-bottom-left-serifed
@@ -5840,6 +6899,7 @@
   top-right-long-serifed-bottom-semi-tailed
   top-right-long-serifed-bottom-tailed
   top-right-long-serifed-plain-bottom
+  top-right-long-short-serifed-bottom-diagonal-cut
   top-right-long-short-serifed-bottom-diagonal-tailed
   top-right-long-short-serifed-bottom-flat-tailed
   top-right-long-short-serifed-bottom-left-serifed
@@ -5848,12 +6908,14 @@
   top-right-long-short-serifed-bottom-tailed
   top-right-long-short-serifed-plain-bottom
   top-right-serifed
+  top-right-serifed-bottom-diagonal-cut
   top-right-serifed-bottom-diagonal-tailed
   top-right-serifed-bottom-flat-tailed
   top-right-serifed-bottom-right-serifed
   top-right-serifed-bottom-semi-tailed
   top-right-serifed-bottom-tailed
   top-right-short-serifed-base-serifed
+  top-right-short-serifed-bottom-diagonal-cut
   top-right-short-serifed-bottom-diagonal-tailed
   top-right-short-serifed-bottom-flat-tailed
   top-right-short-serifed-bottom-left-serifed
@@ -5862,6 +6924,7 @@
   top-right-short-serifed-bottom-tailed
   top-right-short-serifed-plain-bottom
   top-semi-tailed-base-serifed
+  top-semi-tailed-bottom-diagonal-cut
   top-semi-tailed-bottom-diagonal-tailed
   top-semi-tailed-bottom-flat-tailed
   top-semi-tailed-bottom-left-serifed
@@ -5869,6 +6932,7 @@
   top-semi-tailed-bottom-tailed
   top-semi-tailed-plain-bottom
   top-tailed-base-serifed
+  top-tailed-bottom-diagonal-cut
   top-tailed-bottom-diagonal-tailed
   top-tailed-bottom-flat-tailed
   top-tailed-bottom-left-serifed
@@ -5917,6 +6981,8 @@
   narrow-top-flat-tailed
   narrow-top-semi-tailed
   narrow-top-tailed
+  plain-top-diagonal-cut
+  plain-top-vertical-cut
   reverse-hooky
   serifed
   serifless
@@ -5928,22 +6994,50 @@
   straight-top-flat-tailed
   straight-top-semi-tailed
   straight-top-tailed
+  top-center-serifed-diagonal-cut
+  top-center-serifed-vertical-cut
+  top-center-short-serifed-diagonal-cut
+  top-center-short-serifed-vertical-cut
+  top-diagonal-cut-bent-hook
+  top-diagonal-cut-corner-hook
+  top-diagonal-cut-diagonal-cut
+  top-diagonal-cut-diagonal-tail
+  top-diagonal-cut-flat-hook
+  top-diagonal-cut-narrow-hook
+  top-diagonal-cut-straight-bottom
+  top-diagonal-cut-vertical-cut
   top-diagonal-tailed
+  top-diagonal-tailed-diagonal-cut
+  top-diagonal-tailed-vertical-cut
   top-flat-tailed
+  top-flat-tailed-diagonal-cut
+  top-flat-tailed-vertical-cut
+  top-left-serifed-diagonal-cut
+  top-left-serifed-vertical-cut
   top-left-short-serifed-bent-hook
   top-left-short-serifed-corner-hook
+  top-left-short-serifed-diagonal-cut
   top-left-short-serifed-diagonal-tail
   top-left-short-serifed-flat-hook
   top-left-short-serifed-narrow-hook
   top-left-short-serifed-straight-bottom
+  top-left-short-serifed-vertical-cut
+  top-right-serifed-diagonal-cut
+  top-right-serifed-vertical-cut
   top-right-short-serifed-bent-hook
   top-right-short-serifed-corner-hook
+  top-right-short-serifed-diagonal-cut
   top-right-short-serifed-diagonal-tail
   top-right-short-serifed-flat-hook
   top-right-short-serifed-narrow-hook
   top-right-short-serifed-straight-bottom
+  top-right-short-serifed-vertical-cut
   top-semi-tailed
+  top-semi-tailed-diagonal-cut
+  top-semi-tailed-vertical-cut
   top-tailed
+  top-tailed-diagonal-cut
+  top-tailed-vertical-cut
 
 [k] tag=cv37 sampler="k"
   curly-bilateral-serifed
@@ -6096,6 +7190,7 @@
   flat-tailed
   hooky
   hooky-bottom
+  plain-top-bottom-diagonal-cut
   plain-top-bottom-left-serifed
   reverse-hooky
   semi-tailed
@@ -6109,6 +7204,7 @@
   tailed
   tailed-serifed
   top-center-serifed-base-serifed
+  top-center-serifed-bottom-diagonal-cut
   top-center-serifed-bottom-diagonal-tailed
   top-center-serifed-bottom-flat-tailed
   top-center-serifed-bottom-left-serifed
@@ -6117,6 +7213,7 @@
   top-center-serifed-bottom-tailed
   top-center-serifed-plain-bottom
   top-center-short-serifed-base-serifed
+  top-center-short-serifed-bottom-diagonal-cut
   top-center-short-serifed-bottom-diagonal-tailed
   top-center-short-serifed-bottom-flat-tailed
   top-center-short-serifed-bottom-left-serifed
@@ -6124,7 +7221,17 @@
   top-center-short-serifed-bottom-semi-tailed
   top-center-short-serifed-bottom-tailed
   top-center-short-serifed-plain-bottom
+  top-diagonal-cut-base-serifed
+  top-diagonal-cut-bottom-diagonal-cut
+  top-diagonal-cut-bottom-diagonal-tailed
+  top-diagonal-cut-bottom-flat-tailed
+  top-diagonal-cut-bottom-left-serifed
+  top-diagonal-cut-bottom-right-serifed
+  top-diagonal-cut-bottom-semi-tailed
+  top-diagonal-cut-bottom-tailed
+  top-diagonal-cut-plain-bottom
   top-diagonal-tailed-base-serifed
+  top-diagonal-tailed-bottom-diagonal-cut
   top-diagonal-tailed-bottom-flat-tailed
   top-diagonal-tailed-bottom-left-serifed
   top-diagonal-tailed-bottom-right-serifed
@@ -6132,12 +7239,14 @@
   top-diagonal-tailed-bottom-tailed
   top-diagonal-tailed-plain-bottom
   top-flat-tailed-base-serifed
+  top-flat-tailed-bottom-diagonal-cut
   top-flat-tailed-bottom-diagonal-tailed
   top-flat-tailed-bottom-left-serifed
   top-flat-tailed-bottom-right-serifed
   top-flat-tailed-bottom-semi-tailed
   top-flat-tailed-bottom-tailed
   top-flat-tailed-plain-bottom
+  top-left-long-serifed-bottom-diagonal-cut
   top-left-long-serifed-bottom-diagonal-tailed
   top-left-long-serifed-bottom-flat-tailed
   top-left-long-serifed-bottom-left-serifed
@@ -6145,6 +7254,7 @@
   top-left-long-serifed-bottom-semi-tailed
   top-left-long-serifed-bottom-tailed
   top-left-long-serifed-plain-bottom
+  top-left-long-short-serifed-bottom-diagonal-cut
   top-left-long-short-serifed-bottom-diagonal-tailed
   top-left-long-short-serifed-bottom-flat-tailed
   top-left-long-short-serifed-bottom-left-serifed
@@ -6153,8 +7263,10 @@
   top-left-long-short-serifed-bottom-tailed
   top-left-long-short-serifed-plain-bottom
   top-left-serifed-base-serifed
+  top-left-serifed-bottom-diagonal-cut
   top-left-serifed-bottom-left-serifed
   top-left-short-serifed-base-serifed
+  top-left-short-serifed-bottom-diagonal-cut
   top-left-short-serifed-bottom-diagonal-tailed
   top-left-short-serifed-bottom-flat-tailed
   top-left-short-serifed-bottom-left-serifed
@@ -6164,6 +7276,7 @@
   top-left-short-serifed-plain-bottom
   top-right-base-serifed
   top-right-base-serifed-asymmetric
+  top-right-long-serifed-bottom-diagonal-cut
   top-right-long-serifed-bottom-diagonal-tailed
   top-right-long-serifed-bottom-flat-tailed
   top-right-long-serifed-bottom-left-serifed
@@ -6171,6 +7284,7 @@
   top-right-long-serifed-bottom-semi-tailed
   top-right-long-serifed-bottom-tailed
   top-right-long-serifed-plain-bottom
+  top-right-long-short-serifed-bottom-diagonal-cut
   top-right-long-short-serifed-bottom-diagonal-tailed
   top-right-long-short-serifed-bottom-flat-tailed
   top-right-long-short-serifed-bottom-left-serifed
@@ -6179,12 +7293,14 @@
   top-right-long-short-serifed-bottom-tailed
   top-right-long-short-serifed-plain-bottom
   top-right-serifed
+  top-right-serifed-bottom-diagonal-cut
   top-right-serifed-bottom-diagonal-tailed
   top-right-serifed-bottom-flat-tailed
   top-right-serifed-bottom-right-serifed
   top-right-serifed-bottom-semi-tailed
   top-right-serifed-bottom-tailed
   top-right-short-serifed-base-serifed
+  top-right-short-serifed-bottom-diagonal-cut
   top-right-short-serifed-bottom-diagonal-tailed
   top-right-short-serifed-bottom-flat-tailed
   top-right-short-serifed-bottom-left-serifed
@@ -6193,6 +7309,7 @@
   top-right-short-serifed-bottom-tailed
   top-right-short-serifed-plain-bottom
   top-semi-tailed-base-serifed
+  top-semi-tailed-bottom-diagonal-cut
   top-semi-tailed-bottom-diagonal-tailed
   top-semi-tailed-bottom-flat-tailed
   top-semi-tailed-bottom-left-serifed
@@ -6200,6 +7317,7 @@
   top-semi-tailed-bottom-tailed
   top-semi-tailed-plain-bottom
   top-tailed-base-serifed
+  top-tailed-bottom-diagonal-cut
   top-tailed-bottom-diagonal-tailed
   top-tailed-bottom-flat-tailed
   top-tailed-bottom-left-serifed
@@ -6300,6 +7418,26 @@
   corner-hooked-tailed-middle-serifed
   corner-hooked-tailed-middle-serifed-half-ascender
   corner-hooked-tailed-middle-serifed-xh
+  diagonal-cut-bottom-serifed
+  diagonal-cut-descending
+  diagonal-cut-descending-middle-serifed
+  diagonal-cut-descending-middle-serifed-half-ascender
+  diagonal-cut-descending-middle-serifed-xh
+  diagonal-cut-diagonal-tailed
+  diagonal-cut-diagonal-tailed-middle-serifed
+  diagonal-cut-diagonal-tailed-middle-serifed-half-ascender
+  diagonal-cut-diagonal-tailed-middle-serifed-xh
+  diagonal-cut-double-serifed
+  diagonal-cut-double-serifed-half-ascender
+  diagonal-cut-double-serifed-xh
+  diagonal-cut-middle-serifed
+  diagonal-cut-middle-serifed-half-ascender
+  diagonal-cut-middle-serifed-xh
+  diagonal-cut-serifless
+  diagonal-cut-tailed
+  diagonal-cut-tailed-middle-serifed
+  diagonal-cut-tailed-middle-serifed-half-ascender
+  diagonal-cut-tailed-middle-serifed-xh
   flat-hooked-bottom-serifed
   flat-hooked-descending
   flat-hooked-descending-middle-serifed
@@ -6320,6 +7458,26 @@
   flat-hooked-tailed-middle-serifed
   flat-hooked-tailed-middle-serifed-half-ascender
   flat-hooked-tailed-middle-serifed-xh
+  vertical-cut-bottom-serifed
+  vertical-cut-descending
+  vertical-cut-descending-middle-serifed
+  vertical-cut-descending-middle-serifed-half-ascender
+  vertical-cut-descending-middle-serifed-xh
+  vertical-cut-diagonal-tailed
+  vertical-cut-diagonal-tailed-middle-serifed
+  vertical-cut-diagonal-tailed-middle-serifed-half-ascender
+  vertical-cut-diagonal-tailed-middle-serifed-xh
+  vertical-cut-double-serifed
+  vertical-cut-double-serifed-half-ascender
+  vertical-cut-double-serifed-xh
+  vertical-cut-middle-serifed
+  vertical-cut-middle-serifed-half-ascender
+  vertical-cut-middle-serifed-xh
+  vertical-cut-serifless
+  vertical-cut-tailed
+  vertical-cut-tailed-middle-serifed
+  vertical-cut-tailed-middle-serifed-half-ascender
+  vertical-cut-tailed-middle-serifed-xh
 
 [lower-alpha] tag=cv86 sampler="α"
   barred
@@ -6455,6 +7613,19 @@
   flat-tailed
   sshaped
   tailed
+  top-compact-bottom-diagonal-cut
+  top-corner-hooked-bottom-diagonal-cut
+  top-diagonal-cut-bottom-compact
+  top-diagonal-cut-bottom-corner-hooked
+  top-diagonal-cut-bottom-diagonal-cut
+  top-diagonal-cut-bottom-diagonal-tailed
+  top-diagonal-cut-bottom-flat-tailed
+  top-diagonal-cut-bottom-sshaped
+  top-diagonal-cut-bottom-tailed
+  top-diagonal-tailed-bottom-diagonal-cut
+  top-flat-tailed-bottom-diagonal-cut
+  top-sshaped-bottom-diagonal-cut
+  top-tailed-bottom-diagonal-cut
 
 [lower-eszet] tag=cv23 sampler="ß"
   longs-s-lig-bottom-serifed
@@ -6510,6 +7681,16 @@
   traditional-corner-hooked-tailed-serifless
   traditional-descending-middle-serifed
   traditional-descending-serifless
+  traditional-diagonal-cut-bottom-serifed
+  traditional-diagonal-cut-descending-middle-serifed
+  traditional-diagonal-cut-descending-serifless
+  traditional-diagonal-cut-diagonal-tailed-middle-serifed
+  traditional-diagonal-cut-diagonal-tailed-serifless
+  traditional-diagonal-cut-dual-serifed
+  traditional-diagonal-cut-middle-serifed
+  traditional-diagonal-cut-serifless
+  traditional-diagonal-cut-tailed-middle-serifed
+  traditional-diagonal-cut-tailed-serifless
   traditional-diagonal-tailed-middle-serifed
   traditional-diagonal-tailed-serifless
   traditional-dual-serifed
@@ -6527,6 +7708,16 @@
   traditional-serifless
   traditional-tailed-middle-serifed
   traditional-tailed-serifless
+  traditional-vertical-cut-bottom-serifed
+  traditional-vertical-cut-descending-middle-serifed
+  traditional-vertical-cut-descending-serifless
+  traditional-vertical-cut-diagonal-tailed-middle-serifed
+  traditional-vertical-cut-diagonal-tailed-serifless
+  traditional-vertical-cut-dual-serifed
+  traditional-vertical-cut-middle-serifed
+  traditional-vertical-cut-serifless
+  traditional-vertical-cut-tailed-middle-serifed
+  traditional-vertical-cut-tailed-serifless
 
 [lower-eta] tag=cv91 sampler="η"
   earless-corner-serifed
@@ -6545,12 +7736,16 @@
   closed-contour-flat-bowl
   closed-corner-hooked
   closed-corner-hooked-flat-bowl
+  closed-diagonal-cut
+  closed-diagonal-cut-flat-bowl
   closed-flat-hooked
   closed-flat-hooked-flat-bowl
   closed-inward-serifed
   closed-inward-serifed-flat-bowl
   closed-serifed-hooked
   closed-serifed-hooked-flat-bowl
+  closed-vertical-cut
+  closed-vertical-cut-flat-bowl
   curly-bar
   open-contour
   open-contour-flat-bowl
@@ -6564,6 +7759,8 @@
 [lower-ezh] tag=VXFQ sampler="ʒƹƺʓꝣɮʤ𝼠"
   cursive-corner-hooked-serifless
   cursive-corner-hooked-top-serifed
+  cursive-diagonal-cut-serifless
+  cursive-diagonal-cut-top-serifed
   cursive-flat-hooked-serifless
   cursive-flat-hooked-top-serifed
   cursive-inward-serifed-serifless
@@ -6572,8 +7769,12 @@
   cursive-serifed-top-serifed
   cursive-serifless-serifless
   cursive-serifless-top-serifed
+  cursive-vertical-cut-serifless
+  cursive-vertical-cut-top-serifed
   straight-corner-hooked-serifless
   straight-corner-hooked-top-serifed
+  straight-diagonal-cut-serifless
+  straight-diagonal-cut-top-serifed
   straight-flat-hooked-serifless
   straight-flat-hooked-top-serifed
   straight-inward-serifed-serifless
@@ -6582,6 +7783,8 @@
   straight-serifed-top-serifed
   straight-serifless-serifless
   straight-serifless-top-serifed
+  straight-vertical-cut-serifless
+  straight-vertical-cut-top-serifed
 
 [lower-final-sigma] tag=cv92 sampler="ςϛ"
   corner-hooked-curly-tail
@@ -6590,6 +7793,11 @@
   corner-hooked-straight-tail
   corner-hooked-straight-tail-sharp-corner
   curly-tail
+  diagonal-cut-curly-tail
+  diagonal-cut-diagonal-tail
+  diagonal-cut-diagonal-tail-sharp-corner
+  diagonal-cut-straight-tail
+  diagonal-cut-straight-tail-sharp-corner
   diagonal-tail
   diagonal-tail-sharp-corner
   flat-hooked-curly-tail
@@ -6599,6 +7807,11 @@
   flat-hooked-straight-tail-sharp-corner
   straight-tail
   straight-tail-sharp-corner
+  vertical-cut-curly-tail
+  vertical-cut-diagonal-tail
+  vertical-cut-diagonal-tail-sharp-corner
+  vertical-cut-straight-tail
+  vertical-cut-straight-tail-sharp-corner
 
 [lower-gamma] tag=cv94 sampler="γ"
   casual
@@ -6608,7 +7821,7 @@
   straight
   straight-serifed
 
-[lower-iota] tag=cv95 sampler="?"
+[lower-iota] tag=cv95 sampler="ι"
   base-serifed
   center-serifed
   center-short-serifed
@@ -6985,20 +8198,28 @@
 [lower-schwa] tag=cv65 sampler="ə"
   diagonal-crossbar-falling
   diagonal-crossbar-falling-corner-hooked
+  diagonal-crossbar-falling-diagonal-cut
   diagonal-crossbar-falling-flat-hooked
   diagonal-crossbar-falling-serif
+  diagonal-crossbar-falling-vertical-cut
   diagonal-crossbar-rising
   diagonal-crossbar-rising-corner-hooked
+  diagonal-crossbar-rising-diagonal-cut
   diagonal-crossbar-rising-flat-hooked
   diagonal-crossbar-rising-serif
+  diagonal-crossbar-rising-vertical-cut
   flat-crossbar
   flat-crossbar-corner-hooked
+  flat-crossbar-diagonal-cut
   flat-crossbar-flat-hooked
   flat-crossbar-serif
+  flat-crossbar-vertical-cut
   rounded
   rounded-corner-hooked
+  rounded-diagonal-cut
   rounded-flat-hooked
   rounded-serif
+  rounded-vertical-cut
 
 [lower-sigma] tag=cv67 sampler="σꝹ"
   rounded
@@ -7200,12 +8421,16 @@
   closed-contour-flat-bowl
   closed-corner-hooked
   closed-corner-hooked-flat-bowl
+  closed-diagonal-cut
+  closed-diagonal-cut-flat-bowl
   closed-flat-hooked
   closed-flat-hooked-flat-bowl
   closed-inward-serifed
   closed-inward-serifed-flat-bowl
   closed-serifed-hooked
   closed-serifed-hooked-flat-bowl
+  closed-vertical-cut
+  closed-vertical-cut-flat-bowl
   open-contour
   open-contour-flat-bowl
   steep-bar
@@ -7284,12 +8509,16 @@
   closed-contour-flat-bowl
   closed-corner-hooked
   closed-corner-hooked-flat-bowl
+  closed-diagonal-cut
+  closed-diagonal-cut-flat-bowl
   closed-flat-hooked
   closed-flat-hooked-flat-bowl
   closed-inward-serifed
   closed-inward-serifed-flat-bowl
   closed-serifed-hooked
   closed-serifed-hooked-flat-bowl
+  closed-vertical-cut
+  closed-vertical-cut-flat-bowl
   curly-bar
   open-contour
   open-contour-flat-bowl
@@ -7311,12 +8540,14 @@
 
 [pilcrow] tag=VXAQ sampler="¶"
   corner-hooked
+  diagonal-cut
   flat-hooked
   high
   inward-serifed
   low
   serifed
   serifless
+  vertical-cut
 
 [punctuation-comma] tag= sampler=",;"
   bottom-cut
@@ -7415,10 +8646,18 @@
 [question] tag=VXAR sampler="?"
   corner
   corner-corner-hooked
+  corner-diagonal-cut
   corner-flat-hooked
+  corner-inward-serifed
+  corner-serifed-hooked
+  corner-vertical-cut
   smooth
   smooth-corner-hooked
+  smooth-diagonal-cut
   smooth-flat-hooked
+  smooth-inward-serifed
+  smooth-serifed-hooked
+  smooth-vertical-cut
 
 [r] tag=cv61 sampler="r"
   base-serifed
@@ -7436,20 +8675,39 @@
   corner-hooked-top-cut-serifed
   corner-hooked-top-cut-serifless
   corner-hooked-top-serifed
+  diagonal-cut-base-serifed
+  diagonal-cut-serifed
+  diagonal-cut-serifless
+  diagonal-cut-top-cut-base-serifed
+  diagonal-cut-top-cut-serifed
+  diagonal-cut-top-cut-serifless
+  diagonal-cut-top-serifed
   diagonal-tailed-base-serifed
   diagonal-tailed-compact-base-serifed
   diagonal-tailed-compact-serifless
   diagonal-tailed-corner-hooked-base-serifed
   diagonal-tailed-corner-hooked-serifless
+  diagonal-tailed-diagonal-cut-base-serifed
+  diagonal-tailed-diagonal-cut-serifless
   diagonal-tailed-hookless-base-serifed
   diagonal-tailed-hookless-serifless
   diagonal-tailed-narrow-hook-base-serifed
   diagonal-tailed-narrow-hook-serifless
   diagonal-tailed-serifless
+  diagonal-tailed-vertical-cut-base-serifed
+  diagonal-tailed-vertical-cut-serifless
+  earless-corner-diagonal-cut-serifed
+  earless-corner-diagonal-cut-serifless
   earless-corner-serifed
   earless-corner-serifless
+  earless-corner-vertical-cut-serifed
+  earless-corner-vertical-cut-serifless
+  earless-rounded-diagonal-cut-serifed
+  earless-rounded-diagonal-cut-serifless
   earless-rounded-serifed
   earless-rounded-serifless
+  earless-rounded-vertical-cut-serifed
+  earless-rounded-vertical-cut-serifless
   flat-tailed-base-serifed
   flat-tailed-compact-base-serifed
   flat-tailed-compact-serifed
@@ -7465,6 +8723,13 @@
   flat-tailed-corner-hooked-top-cut-serifed
   flat-tailed-corner-hooked-top-cut-serifless
   flat-tailed-corner-hooked-top-serifed
+  flat-tailed-diagonal-cut-base-serifed
+  flat-tailed-diagonal-cut-serifed
+  flat-tailed-diagonal-cut-serifless
+  flat-tailed-diagonal-cut-top-cut-base-serifed
+  flat-tailed-diagonal-cut-top-cut-serifed
+  flat-tailed-diagonal-cut-top-cut-serifless
+  flat-tailed-diagonal-cut-top-serifed
   flat-tailed-hookless-base-serifed
   flat-tailed-hookless-serifed
   flat-tailed-hookless-serifless
@@ -7485,13 +8750,34 @@
   flat-tailed-top-cut-serifed
   flat-tailed-top-cut-serifless
   flat-tailed-top-serifed
+  flat-tailed-vertical-cut-base-serifed
+  flat-tailed-vertical-cut-serifed
+  flat-tailed-vertical-cut-serifless
+  flat-tailed-vertical-cut-top-cut-base-serifed
+  flat-tailed-vertical-cut-top-cut-serifed
+  flat-tailed-vertical-cut-top-cut-serifless
+  flat-tailed-vertical-cut-top-serifed
   flat-top-base-serifed
+  flat-top-diagonal-cut-base-serifed
+  flat-top-diagonal-cut-serifed
+  flat-top-diagonal-cut-serifless
+  flat-top-diagonal-cut-top-cut-base-serifed
+  flat-top-diagonal-cut-top-cut-serifed
+  flat-top-diagonal-cut-top-cut-serifless
+  flat-top-diagonal-cut-top-serifed
   flat-top-serifed
   flat-top-serifless
   flat-top-top-cut-base-serifed
   flat-top-top-cut-serifed
   flat-top-top-cut-serifless
   flat-top-top-serifed
+  flat-top-vertical-cut-base-serifed
+  flat-top-vertical-cut-serifed
+  flat-top-vertical-cut-serifless
+  flat-top-vertical-cut-top-cut-base-serifed
+  flat-top-vertical-cut-top-cut-serifed
+  flat-top-vertical-cut-top-cut-serifless
+  flat-top-vertical-cut-top-serifed
   hookless-base-serifed
   hookless-serifed
   hookless-serifless
@@ -7511,11 +8797,15 @@
   semi-tailed-compact-serifless
   semi-tailed-corner-hooked-base-serifed
   semi-tailed-corner-hooked-serifless
+  semi-tailed-diagonal-cut-base-serifed
+  semi-tailed-diagonal-cut-serifless
   semi-tailed-hookless-base-serifed
   semi-tailed-hookless-serifless
   semi-tailed-narrow-hook-base-serifed
   semi-tailed-narrow-hook-serifless
   semi-tailed-serifless
+  semi-tailed-vertical-cut-base-serifed
+  semi-tailed-vertical-cut-serifless
   serifed
   serifless
   tailed-base-serifed
@@ -7523,15 +8813,26 @@
   tailed-compact-serifless
   tailed-corner-hooked-base-serifed
   tailed-corner-hooked-serifless
+  tailed-diagonal-cut-base-serifed
+  tailed-diagonal-cut-serifless
   tailed-hookless-base-serifed
   tailed-hookless-serifless
   tailed-narrow-hook-base-serifed
   tailed-narrow-hook-serifless
   tailed-serifless
+  tailed-vertical-cut-base-serifed
+  tailed-vertical-cut-serifless
   top-cut-base-serifed
   top-cut-serifed
   top-cut-serifless
   top-serifed
+  vertical-cut-base-serifed
+  vertical-cut-serifed
+  vertical-cut-serifless
+  vertical-cut-top-cut-base-serifed
+  vertical-cut-top-cut-serifed
+  vertical-cut-top-cut-serifless
+  vertical-cut-top-serifed
 
 [s] tag=cv63 sampler="s"
   bilateral-inward-serifed
@@ -7540,30 +8841,54 @@
   flat-hooked
   serifless
   top-corner-hooked-bottom-corner-hooked
+  top-corner-hooked-bottom-diagonal-cut
   top-corner-hooked-bottom-flat-hooked
   top-corner-hooked-bottom-inward-serifed
   top-corner-hooked-bottom-rounded
   top-corner-hooked-bottom-serifed
+  top-corner-hooked-bottom-vertical-cut
+  top-diagonal-cut-bottom-corner-hooked
+  top-diagonal-cut-bottom-diagonal-cut
+  top-diagonal-cut-bottom-flat-hooked
+  top-diagonal-cut-bottom-inward-serifed
+  top-diagonal-cut-bottom-rounded
+  top-diagonal-cut-bottom-serifed
+  top-diagonal-cut-bottom-vertical-cut
   top-flat-hooked-bottom-corner-hooked
+  top-flat-hooked-bottom-diagonal-cut
   top-flat-hooked-bottom-flat-hooked
   top-flat-hooked-bottom-inward-serifed
   top-flat-hooked-bottom-rounded
   top-flat-hooked-bottom-serifed
+  top-flat-hooked-bottom-vertical-cut
   top-inward-serifed-bottom-corner-hooked
+  top-inward-serifed-bottom-diagonal-cut
   top-inward-serifed-bottom-flat-hooked
   top-inward-serifed-bottom-inward-serifed
   top-inward-serifed-bottom-rounded
   top-inward-serifed-bottom-serifed
+  top-inward-serifed-bottom-vertical-cut
   top-rounded-bottom-corner-hooked
+  top-rounded-bottom-diagonal-cut
   top-rounded-bottom-flat-hooked
   top-rounded-bottom-inward-serifed
   top-rounded-bottom-rounded
   top-rounded-bottom-serifed
+  top-rounded-bottom-vertical-cut
   top-serifed-bottom-corner-hooked
+  top-serifed-bottom-diagonal-cut
   top-serifed-bottom-flat-hooked
   top-serifed-bottom-inward-serifed
   top-serifed-bottom-rounded
   top-serifed-bottom-serifed
+  top-serifed-bottom-vertical-cut
+  top-vertical-cut-bottom-corner-hooked
+  top-vertical-cut-bottom-diagonal-cut
+  top-vertical-cut-bottom-flat-hooked
+  top-vertical-cut-bottom-inward-serifed
+  top-vertical-cut-bottom-rounded
+  top-vertical-cut-bottom-serifed
+  top-vertical-cut-bottom-vertical-cut
   unilateral-inward-serifed
   unilateral-inward-serifed-corner-hooked
   unilateral-inward-serifed-flat-hooked
@@ -7573,30 +8898,54 @@
 
 [section] tag=VXAS sampler="§"
   corner-hooked
+  diagonal-cut
   flat-hooked
   inward-serifed
   serifed
   serifless
+  top-corner-hooked-bottom-diagonal-cut
   top-corner-hooked-bottom-flat-hooked
   top-corner-hooked-bottom-inward-serifed
   top-corner-hooked-bottom-rounded
   top-corner-hooked-bottom-serifed
+  top-corner-hooked-bottom-vertical-cut
+  top-diagonal-cut-bottom-corner-hooked
+  top-diagonal-cut-bottom-flat-hooked
+  top-diagonal-cut-bottom-inward-serifed
+  top-diagonal-cut-bottom-rounded
+  top-diagonal-cut-bottom-serifed
+  top-diagonal-cut-bottom-vertical-cut
   top-flat-hooked-bottom-corner-hooked
+  top-flat-hooked-bottom-diagonal-cut
   top-flat-hooked-bottom-inward-serifed
   top-flat-hooked-bottom-rounded
   top-flat-hooked-bottom-serifed
+  top-flat-hooked-bottom-vertical-cut
   top-inward-serifed-bottom-corner-hooked
+  top-inward-serifed-bottom-diagonal-cut
   top-inward-serifed-bottom-flat-hooked
   top-inward-serifed-bottom-rounded
   top-inward-serifed-bottom-serifed
+  top-inward-serifed-bottom-vertical-cut
   top-rounded-bottom-corner-hooked
+  top-rounded-bottom-diagonal-cut
   top-rounded-bottom-flat-hooked
   top-rounded-bottom-inward-serifed
   top-rounded-bottom-serifed
+  top-rounded-bottom-vertical-cut
   top-serifed-bottom-corner-hooked
+  top-serifed-bottom-diagonal-cut
   top-serifed-bottom-flat-hooked
   top-serifed-bottom-inward-serifed
   top-serifed-bottom-rounded
+  top-serifed-bottom-vertical-cut
+  top-vertical-cut-bottom-corner-hooked
+  top-vertical-cut-bottom-diagonal-cut
+  top-vertical-cut-bottom-flat-hooked
+  top-vertical-cut-bottom-inward-serifed
+  top-vertical-cut-bottom-rounded
+  top-vertical-cut-bottom-serifed
+  vertical-cut
 
 [seven] tag=cv08 sampler="7"
   bend-base-serifed
@@ -7653,12 +9002,16 @@
   closed-contour-flat-bowl
   closed-corner-hooked
   closed-corner-hooked-flat-bowl
+  closed-diagonal-cut
+  closed-diagonal-cut-flat-bowl
   closed-flat-hooked
   closed-flat-hooked-flat-bowl
   closed-inward-serifed
   closed-inward-serifed-flat-bowl
   closed-serifed-hooked
   closed-serifed-hooked-flat-bowl
+  closed-vertical-cut
+  closed-vertical-cut-flat-bowl
   open-contour
   open-contour-flat-bowl
   steep-bar
@@ -7671,14 +9024,18 @@
 [sterling] tag=VXAT sampler="£"
   serifed
   serifed-corner-hooked
+  serifed-diagonal-cut
   serifed-flat-hooked
   serifed-inward-serifed
   serifed-serifed
+  serifed-vertical-cut
   serifless
   serifless-corner-hooked
+  serifless-diagonal-cut
   serifless-flat-hooked
   serifless-inward-serifed
   serifless-serifed
+  serifless-vertical-cut
 
 [t] tag=cv69 sampler="t"
   bent-hook
@@ -7693,6 +9050,12 @@
   corner-hooked-asymmetric-shorter-neck
   corner-hooked-short-neck
   corner-hooked-shorter-neck
+  diagonal-cut
+  diagonal-cut-asymmetric
+  diagonal-cut-asymmetric-short-neck
+  diagonal-cut-asymmetric-shorter-neck
+  diagonal-cut-short-neck
+  diagonal-cut-shorter-neck
   diagonal-tailed
   diagonal-tailed-asymmetric
   diagonal-tailed-asymmetric-short-neck
@@ -7717,49 +9080,87 @@
   narrow-bent-hook-asymmetric-shorter-neck
   narrow-bent-hook-short-neck
   narrow-bent-hook-shorter-neck
+  vertical-cut
+  vertical-cut-asymmetric
+  vertical-cut-asymmetric-short-neck
+  vertical-cut-asymmetric-shorter-neck
+  vertical-cut-short-neck
+  vertical-cut-shorter-neck
 
 [three] tag=cv04 sampler="3"
   corner-hooked
+  diagonal-cut
   flat-hooked
   flat-top
   flat-top-broken
   flat-top-broken-corner-hooked
+  flat-top-broken-diagonal-cut
   flat-top-broken-flat-hooked
   flat-top-broken-serifed
   flat-top-broken-serifed-corner-hooked
+  flat-top-broken-serifed-diagonal-cut
   flat-top-broken-serifed-flat-hooked
   flat-top-broken-serifed-hooked
   flat-top-broken-serifed-serifed-hooked
+  flat-top-broken-serifed-vertical-cut
+  flat-top-broken-vertical-cut
   flat-top-corner-hooked
+  flat-top-diagonal-cut
   flat-top-flat-hooked
   flat-top-serifed
   flat-top-serifed-corner-hooked
+  flat-top-serifed-diagonal-cut
   flat-top-serifed-flat-hooked
   flat-top-serifed-hooked
   flat-top-serifed-serifed-hooked
+  flat-top-serifed-vertical-cut
+  flat-top-vertical-cut
   inward-serifed
   rounded
   serifed-hooked
+  top-corner-hooked-bottom-diagonal-cut
   top-corner-hooked-bottom-flat-hooked
   top-corner-hooked-bottom-inward-serifed
   top-corner-hooked-bottom-rounded
   top-corner-hooked-bottom-serifed-hooked
+  top-corner-hooked-bottom-vertical-cut
+  top-diagonal-cut-bottom-corner-hooked
+  top-diagonal-cut-bottom-flat-hooked
+  top-diagonal-cut-bottom-inward-serifed
+  top-diagonal-cut-bottom-rounded
+  top-diagonal-cut-bottom-serifed-hooked
+  top-diagonal-cut-bottom-vertical-cut
   top-flat-hooked-bottom-corner-hooked
+  top-flat-hooked-bottom-diagonal-cut
   top-flat-hooked-bottom-inward-serifed
   top-flat-hooked-bottom-rounded
   top-flat-hooked-bottom-serifed-hooked
+  top-flat-hooked-bottom-vertical-cut
   top-inward-serifed-bottom-corner-hooked
+  top-inward-serifed-bottom-diagonal-cut
   top-inward-serifed-bottom-flat-hooked
   top-inward-serifed-bottom-rounded
   top-inward-serifed-bottom-serifed-hooked
+  top-inward-serifed-bottom-vertical-cut
   top-rounded-bottom-corner-hooked
+  top-rounded-bottom-diagonal-cut
   top-rounded-bottom-flat-hooked
   top-rounded-bottom-inward-serifed
   top-rounded-bottom-serifed-hooked
+  top-rounded-bottom-vertical-cut
   top-serifed-hooked-bottom-corner-hooked
+  top-serifed-hooked-bottom-diagonal-cut
   top-serifed-hooked-bottom-flat-hooked
   top-serifed-hooked-bottom-inward-serifed
   top-serifed-hooked-bottom-rounded
+  top-serifed-hooked-bottom-vertical-cut
+  top-vertical-cut-bottom-corner-hooked
+  top-vertical-cut-bottom-diagonal-cut
+  top-vertical-cut-bottom-flat-hooked
+  top-vertical-cut-bottom-inward-serifed
+  top-vertical-cut-bottom-rounded
+  top-vertical-cut-bottom-serifed-hooked
+  vertical-cut
 
 [tilde] tag=VXAU sampler="~"
   compact
@@ -7790,6 +9191,8 @@
 [two] tag=cv03 sampler="2"
   curly-neck-corner-hooked-serifed
   curly-neck-corner-hooked-serifless
+  curly-neck-diagonal-cut-serifed
+  curly-neck-diagonal-cut-serifless
   curly-neck-flat-hooked-serifed
   curly-neck-flat-hooked-serifless
   curly-neck-inward-serifed-serifed
@@ -7798,8 +9201,12 @@
   curly-neck-serifed-hooked-serifed
   curly-neck-serifed-hooked-serifless
   curly-neck-serifless
+  curly-neck-vertical-cut-serifed
+  curly-neck-vertical-cut-serifless
   straight-neck-corner-hooked-serifed
   straight-neck-corner-hooked-serifless
+  straight-neck-diagonal-cut-serifed
+  straight-neck-diagonal-cut-serifless
   straight-neck-flat-hooked-serifed
   straight-neck-flat-hooked-serifless
   straight-neck-inward-serifed-serifed
@@ -7808,6 +9215,8 @@
   straight-neck-serifed-hooked-serifed
   straight-neck-serifed-hooked-serifless
   straight-neck-serifless
+  straight-neck-vertical-cut-serifed
+  straight-neck-vertical-cut-serifless
 
 [u] tag=cv74 sampler="u"
   flat-bottom-bottom-cut-motion-serifed
@@ -8054,6 +9463,11 @@
   cursive-corner-hooked-serifed
   cursive-corner-hooked-serifless
   cursive-corner-hooked-top-right-motion-serifed
+  cursive-diagonal-cut-bilateral-motion-serifed
+  cursive-diagonal-cut-motion-serifed
+  cursive-diagonal-cut-serifed
+  cursive-diagonal-cut-serifless
+  cursive-diagonal-cut-top-right-motion-serifed
   cursive-flat-hooked-bilateral-motion-serifed
   cursive-flat-hooked-motion-serifed
   cursive-flat-hooked-serifed
@@ -8065,6 +9479,11 @@
   cursive-flat-hump-corner-hooked-serifed
   cursive-flat-hump-corner-hooked-serifless
   cursive-flat-hump-corner-hooked-top-right-motion-serifed
+  cursive-flat-hump-diagonal-cut-bilateral-motion-serifed
+  cursive-flat-hump-diagonal-cut-motion-serifed
+  cursive-flat-hump-diagonal-cut-serifed
+  cursive-flat-hump-diagonal-cut-serifless
+  cursive-flat-hump-diagonal-cut-top-right-motion-serifed
   cursive-flat-hump-flat-hooked-bilateral-motion-serifed
   cursive-flat-hump-flat-hooked-motion-serifed
   cursive-flat-hump-flat-hooked-serifed
@@ -8074,10 +9493,20 @@
   cursive-flat-hump-serifed
   cursive-flat-hump-serifless
   cursive-flat-hump-top-right-motion-serifed
+  cursive-flat-hump-vertical-cut-bilateral-motion-serifed
+  cursive-flat-hump-vertical-cut-motion-serifed
+  cursive-flat-hump-vertical-cut-serifed
+  cursive-flat-hump-vertical-cut-serifless
+  cursive-flat-hump-vertical-cut-top-right-motion-serifed
   cursive-motion-serifed
   cursive-serifed
   cursive-serifless
   cursive-top-right-motion-serifed
+  cursive-vertical-cut-bilateral-motion-serifed
+  cursive-vertical-cut-motion-serifed
+  cursive-vertical-cut-serifed
+  cursive-vertical-cut-serifless
+  cursive-vertical-cut-top-right-motion-serifed
   square-top-bilateral-motion-serifed
   square-top-motion-serifed
   square-top-serifed
