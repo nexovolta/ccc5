@@ -239,22 +239,22 @@
   et-toothless-corner
   et-toothless-rounded
   flat-top
-  flat-top-and-bottom
-  flat-top-and-bottom-bottom-cut-serifed
-  flat-top-and-bottom-bottom-cut-serifless
-  flat-top-and-bottom-flat-bottom-serifed-serifed
-  flat-top-and-bottom-flat-bottom-serifed-serifless
-  flat-top-and-bottom-serifed
-  flat-top-and-bottom-toothed
-  flat-top-and-bottom-toothed-serifed
-  flat-top-and-bottom-toothed-tailed-serifed
-  flat-top-and-bottom-toothed-tailed-serifless
-  flat-top-and-bottom-toothless-corner
-  flat-top-and-bottom-toothless-corner-serifed
-  flat-top-and-bottom-toothless-rounded
-  flat-top-and-bottom-toothless-rounded-serifed
   flat-top-bottom-cut-serifed
   flat-top-bottom-cut-serifless
+  flat-top-et
+  flat-top-et-bottom-cut-serifed
+  flat-top-et-bottom-cut-serifless
+  flat-top-et-flat-bottom-serifed-serifed
+  flat-top-et-flat-bottom-serifed-serifless
+  flat-top-et-serifed
+  flat-top-et-toothed
+  flat-top-et-toothed-serifed
+  flat-top-et-toothed-tailed-serifed
+  flat-top-et-toothed-tailed-serifless
+  flat-top-et-toothless-corner
+  flat-top-et-toothless-corner-serifed
+  flat-top-et-toothless-rounded
+  flat-top-et-toothless-rounded-serifed
   flat-top-flat-bottom
   flat-top-flat-bottom-serifed
   flat-top-flat-bottom-serifed-serifed
