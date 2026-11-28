@@ -3528,6 +3528,11 @@
   cursive-corner-hooked-serifed
   cursive-corner-hooked-serifless
   cursive-corner-hooked-top-right-motion-serifed
+  cursive-diagonal-cut-bilateral-motion-serifed
+  cursive-diagonal-cut-motion-serifed
+  cursive-diagonal-cut-serifed
+  cursive-diagonal-cut-serifless
+  cursive-diagonal-cut-top-right-motion-serifed
   cursive-flat-hooked-bilateral-motion-serifed
   cursive-flat-hooked-motion-serifed
   cursive-flat-hooked-serifed
@@ -3539,6 +3544,11 @@
   cursive-flat-hump-corner-hooked-serifed
   cursive-flat-hump-corner-hooked-serifless
   cursive-flat-hump-corner-hooked-top-right-motion-serifed
+  cursive-flat-hump-diagonal-cut-bilateral-motion-serifed
+  cursive-flat-hump-diagonal-cut-motion-serifed
+  cursive-flat-hump-diagonal-cut-serifed
+  cursive-flat-hump-diagonal-cut-serifless
+  cursive-flat-hump-diagonal-cut-top-right-motion-serifed
   cursive-flat-hump-flat-hooked-bilateral-motion-serifed
   cursive-flat-hump-flat-hooked-motion-serifed
   cursive-flat-hump-flat-hooked-serifed
@@ -3548,10 +3558,20 @@
   cursive-flat-hump-serifed
   cursive-flat-hump-serifless
   cursive-flat-hump-top-right-motion-serifed
+  cursive-flat-hump-vertical-cut-bilateral-motion-serifed
+  cursive-flat-hump-vertical-cut-motion-serifed
+  cursive-flat-hump-vertical-cut-serifed
+  cursive-flat-hump-vertical-cut-serifless
+  cursive-flat-hump-vertical-cut-top-right-motion-serifed
   cursive-motion-serifed
   cursive-serifed
   cursive-serifless
   cursive-top-right-motion-serifed
+  cursive-vertical-cut-bilateral-motion-serifed
+  cursive-vertical-cut-motion-serifed
+  cursive-vertical-cut-serifed
+  cursive-vertical-cut-serifless
+  cursive-vertical-cut-top-right-motion-serifed
   square-top-bilateral-motion-serifed
   square-top-motion-serifed
   square-top-serifed
@@ -5006,6 +5026,11 @@
   cursive-corner-hooked-serifed
   cursive-corner-hooked-serifless
   cursive-corner-hooked-top-right-motion-serifed
+  cursive-diagonal-cut-bilateral-motion-serifed
+  cursive-diagonal-cut-motion-serifed
+  cursive-diagonal-cut-serifed
+  cursive-diagonal-cut-serifless
+  cursive-diagonal-cut-top-right-motion-serifed
   cursive-flat-hooked-bilateral-motion-serifed
   cursive-flat-hooked-motion-serifed
   cursive-flat-hooked-serifed
@@ -5017,6 +5042,11 @@
   cursive-flat-hump-corner-hooked-serifed
   cursive-flat-hump-corner-hooked-serifless
   cursive-flat-hump-corner-hooked-top-right-motion-serifed
+  cursive-flat-hump-diagonal-cut-bilateral-motion-serifed
+  cursive-flat-hump-diagonal-cut-motion-serifed
+  cursive-flat-hump-diagonal-cut-serifed
+  cursive-flat-hump-diagonal-cut-serifless
+  cursive-flat-hump-diagonal-cut-top-right-motion-serifed
   cursive-flat-hump-flat-hooked-bilateral-motion-serifed
   cursive-flat-hump-flat-hooked-motion-serifed
   cursive-flat-hump-flat-hooked-serifed
@@ -5026,10 +5056,20 @@
   cursive-flat-hump-serifed
   cursive-flat-hump-serifless
   cursive-flat-hump-top-right-motion-serifed
+  cursive-flat-hump-vertical-cut-bilateral-motion-serifed
+  cursive-flat-hump-vertical-cut-motion-serifed
+  cursive-flat-hump-vertical-cut-serifed
+  cursive-flat-hump-vertical-cut-serifless
+  cursive-flat-hump-vertical-cut-top-right-motion-serifed
   cursive-motion-serifed
   cursive-serifed
   cursive-serifless
   cursive-top-right-motion-serifed
+  cursive-vertical-cut-bilateral-motion-serifed
+  cursive-vertical-cut-motion-serifed
+  cursive-vertical-cut-serifed
+  cursive-vertical-cut-serifless
+  cursive-vertical-cut-top-right-motion-serifed
   square-top-bilateral-motion-serifed
   square-top-motion-serifed
   square-top-serifed
@@ -8073,17 +8113,97 @@
 
 [lower-lambda] tag=cv98 sampler="λ"
   curly
+  curly-bilateral-motion-serifed
+  curly-motion-serifed
+  curly-serifed
+  curly-serifless
   curly-tailed-turn
+  curly-top-right-motion-serifed
   curly-turn
+  curly-turn-bilateral-motion-serifed
+  curly-turn-motion-serifed
+  curly-turn-serifed
+  curly-turn-serifless
+  curly-turn-top-right-motion-serifed
   cursive
+  cursive-bilateral-motion-serifed
   cursive-corner-hooked
+  cursive-corner-hooked-bilateral-motion-serifed
+  cursive-corner-hooked-motion-serifed
+  cursive-corner-hooked-serifed
+  cursive-corner-hooked-serifless
+  cursive-corner-hooked-top-right-motion-serifed
+  cursive-diagonal-cut-bilateral-motion-serifed
+  cursive-diagonal-cut-motion-serifed
+  cursive-diagonal-cut-serifed
+  cursive-diagonal-cut-serifless
+  cursive-diagonal-cut-top-right-motion-serifed
   cursive-flat-hooked
+  cursive-flat-hooked-bilateral-motion-serifed
+  cursive-flat-hooked-motion-serifed
+  cursive-flat-hooked-serifed
+  cursive-flat-hooked-serifless
+  cursive-flat-hooked-top-right-motion-serifed
   cursive-flat-hump
+  cursive-flat-hump-bilateral-motion-serifed
   cursive-flat-hump-corner-hooked
+  cursive-flat-hump-corner-hooked-bilateral-motion-serifed
+  cursive-flat-hump-corner-hooked-motion-serifed
+  cursive-flat-hump-corner-hooked-serifed
+  cursive-flat-hump-corner-hooked-serifless
+  cursive-flat-hump-corner-hooked-top-right-motion-serifed
+  cursive-flat-hump-diagonal-cut-bilateral-motion-serifed
+  cursive-flat-hump-diagonal-cut-motion-serifed
+  cursive-flat-hump-diagonal-cut-serifed
+  cursive-flat-hump-diagonal-cut-serifless
+  cursive-flat-hump-diagonal-cut-top-right-motion-serifed
   cursive-flat-hump-flat-hooked
+  cursive-flat-hump-flat-hooked-bilateral-motion-serifed
+  cursive-flat-hump-flat-hooked-motion-serifed
+  cursive-flat-hump-flat-hooked-serifed
+  cursive-flat-hump-flat-hooked-serifless
+  cursive-flat-hump-flat-hooked-top-right-motion-serifed
+  cursive-flat-hump-motion-serifed
+  cursive-flat-hump-serifed
+  cursive-flat-hump-serifless
+  cursive-flat-hump-top-right-motion-serifed
+  cursive-flat-hump-vertical-cut-bilateral-motion-serifed
+  cursive-flat-hump-vertical-cut-motion-serifed
+  cursive-flat-hump-vertical-cut-serifed
+  cursive-flat-hump-vertical-cut-serifless
+  cursive-flat-hump-vertical-cut-top-right-motion-serifed
+  cursive-motion-serifed
+  cursive-serifed
+  cursive-serifless
+  cursive-top-right-motion-serifed
+  cursive-vertical-cut-bilateral-motion-serifed
+  cursive-vertical-cut-motion-serifed
+  cursive-vertical-cut-serifed
+  cursive-vertical-cut-serifless
+  cursive-vertical-cut-top-right-motion-serifed
   square-bottom
+  square-top-bilateral-motion-serifed
+  square-top-motion-serifed
+  square-top-serifed
+  square-top-serifless
+  square-top-top-right-motion-serifed
+  square-top-turn-bilateral-motion-serifed
+  square-top-turn-motion-serifed
+  square-top-turn-serifed
+  square-top-turn-serifless
+  square-top-turn-top-right-motion-serifed
   straight
+  straight-bilateral-motion-serifed
+  straight-motion-serifed
+  straight-serifed
+  straight-serifless
+  straight-top-right-motion-serifed
   straight-turn
+  straight-turn-bilateral-motion-serifed
+  straight-turn-motion-serifed
+  straight-turn-serifed
+  straight-turn-serifless
+  straight-turn-top-right-motion-serifed
   tailed-turn
 
 [lower-mu] tag=cv99 sampler="μ"
@@ -8300,6 +8420,16 @@
   earless-corner-double-arch-short-leg-tailed-serifless
   earless-corner-double-arch-tailed-serifed
   earless-corner-double-arch-tailed-serifless
+  earless-corner-single-arch-bottom-right-serifed
+  earless-corner-single-arch-serifed
+  earless-corner-single-arch-serifless
+  earless-corner-single-arch-short-leg-bottom-right-serifed
+  earless-corner-single-arch-short-leg-serifed
+  earless-corner-single-arch-short-leg-serifless
+  earless-corner-single-arch-short-leg-tailed-serifed
+  earless-corner-single-arch-short-leg-tailed-serifless
+  earless-corner-single-arch-tailed-serifed
+  earless-corner-single-arch-tailed-serifless
   earless-rounded-double-arch-bottom-right-serifed
   earless-rounded-double-arch-serifed
   earless-rounded-double-arch-serifless
@@ -8320,16 +8450,6 @@
   earless-rounded-single-arch-short-leg-tailed-serifless
   earless-rounded-single-arch-tailed-serifed
   earless-rounded-single-arch-tailed-serifless
-  earless-single-arch-bottom-right-serifed
-  earless-single-arch-serifed
-  earless-single-arch-serifless
-  earless-single-arch-short-leg-bottom-right-serifed
-  earless-single-arch-short-leg-serifed
-  earless-single-arch-short-leg-serifless
-  earless-single-arch-short-leg-tailed-serifed
-  earless-single-arch-short-leg-tailed-serifless
-  earless-single-arch-tailed-serifed
-  earless-single-arch-tailed-serifless
   flat-top-serifed
   flat-top-serifless
   flat-top-short-leg-serifed
@@ -8357,6 +8477,24 @@
   short-leg-tailed-top-left-serifed
   short-leg-top-left-and-bottom-right-serifed
   short-leg-top-left-serifed
+  single-arch-serifed
+  single-arch-serifless
+  single-arch-short-leg-serifed
+  single-arch-short-leg-serifless
+  single-arch-short-leg-tailed-serifed
+  single-arch-short-leg-tailed-serifless
+  single-arch-short-leg-tailed-top-left-serifed
+  single-arch-short-leg-top-left-and-bottom-right-serifed
+  single-arch-short-leg-top-left-serifed
+  single-arch-tailed-serifed
+  single-arch-tailed-serifless
+  single-arch-tailed-top-left-serifed
+  single-arch-top-cut-serifless
+  single-arch-top-cut-short-leg-serifless
+  single-arch-top-cut-short-leg-tailed-serifless
+  single-arch-top-cut-tailed-serifless
+  single-arch-top-left-and-bottom-right-serifed
+  single-arch-top-left-serifed
   tailed-serifed
   tailed-serifless
   tailed-top-left-serifed
