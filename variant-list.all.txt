@@ -4074,16 +4074,55 @@
   cursive-connected-top-right-serifed
   rounded
   rounded-bottom
+  rounded-bottom-bottom-left-and-bottom-right-serifed
+  rounded-bottom-bottom-left-serifed
+  rounded-bottom-bottom-right-serifed
+  rounded-bottom-full-serifed
+  rounded-bottom-left-and-bottom-right-serifed
+  rounded-bottom-left-serifed
+  rounded-bottom-right-serifed
   rounded-bottom-serifless
+  rounded-bottom-top-left-and-bottom-left-and-bottom-right-serifed
+  rounded-bottom-top-left-and-bottom-left-serifed
+  rounded-bottom-top-left-and-bottom-right-serifed
+  rounded-bottom-top-left-and-top-right-and-bottom-left-serifed
+  rounded-bottom-top-left-and-top-right-and-bottom-right-serifed
   rounded-bottom-top-left-and-top-right-serifed
   rounded-bottom-top-left-serifed
+  rounded-bottom-top-right-and-bottom-left-and-bottom-right-serifed
+  rounded-bottom-top-right-and-bottom-left-serifed
+  rounded-bottom-top-right-and-bottom-right-serifed
   rounded-bottom-top-right-serifed
+  rounded-full-serifed
   rounded-serifless
   rounded-top
   rounded-top-bottom-left-and-bottom-right-serifed
   rounded-top-bottom-left-serifed
   rounded-top-bottom-right-serifed
+  rounded-top-full-serifed
+  rounded-top-left-and-bottom-left-and-bottom-right-serifed
+  rounded-top-left-and-bottom-left-serifed
+  rounded-top-left-and-bottom-right-serifed
+  rounded-top-left-and-top-right-and-bottom-left-serifed
+  rounded-top-left-and-top-right-and-bottom-right-serifed
+  rounded-top-left-and-top-right-serifed
+  rounded-top-left-serifed
+  rounded-top-right-and-bottom-left-and-bottom-right-serifed
+  rounded-top-right-and-bottom-left-serifed
+  rounded-top-right-and-bottom-right-serifed
+  rounded-top-right-serifed
   rounded-top-serifless
+  rounded-top-top-left-and-bottom-left-and-bottom-right-serifed
+  rounded-top-top-left-and-bottom-left-serifed
+  rounded-top-top-left-and-bottom-right-serifed
+  rounded-top-top-left-and-top-right-and-bottom-left-serifed
+  rounded-top-top-left-and-top-right-and-bottom-right-serifed
+  rounded-top-top-left-and-top-right-serifed
+  rounded-top-top-left-serifed
+  rounded-top-top-right-and-bottom-left-and-bottom-right-serifed
+  rounded-top-top-right-and-bottom-left-serifed
+  rounded-top-top-right-and-bottom-right-serifed
+  rounded-top-top-right-serifed
   straight
   straight-bottom-left-and-bottom-right-serifed
   straight-bottom-left-serifed
@@ -5212,6 +5251,24 @@
   cursive-short-leg-tailed-top-left-serifed
   cursive-short-leg-top-left-and-bottom-right-serifed
   cursive-short-leg-top-left-serifed
+  cursive-single-arch-serifed
+  cursive-single-arch-serifless
+  cursive-single-arch-short-leg-serifed
+  cursive-single-arch-short-leg-serifless
+  cursive-single-arch-short-leg-tailed-serifed
+  cursive-single-arch-short-leg-tailed-serifless
+  cursive-single-arch-short-leg-tailed-top-left-serifed
+  cursive-single-arch-short-leg-top-left-and-bottom-right-serifed
+  cursive-single-arch-short-leg-top-left-serifed
+  cursive-single-arch-tailed-serifed
+  cursive-single-arch-tailed-serifless
+  cursive-single-arch-tailed-top-left-serifed
+  cursive-single-arch-top-cut-serifless
+  cursive-single-arch-top-cut-short-leg-serifless
+  cursive-single-arch-top-cut-short-leg-tailed-serifless
+  cursive-single-arch-top-cut-tailed-serifless
+  cursive-single-arch-top-left-and-bottom-right-serifed
+  cursive-single-arch-top-left-serifed
   cursive-tailed-serifed
   cursive-tailed-serifless
   cursive-tailed-top-left-serifed
@@ -6414,16 +6471,55 @@
   cursive-serifless
   rounded
   rounded-bottom
+  rounded-bottom-bottom-left-and-bottom-right-serifed
+  rounded-bottom-bottom-left-serifed
+  rounded-bottom-bottom-right-serifed
+  rounded-bottom-full-serifed
+  rounded-bottom-left-and-bottom-right-serifed
+  rounded-bottom-left-serifed
+  rounded-bottom-right-serifed
   rounded-bottom-serifless
+  rounded-bottom-top-left-and-bottom-left-and-bottom-right-serifed
+  rounded-bottom-top-left-and-bottom-left-serifed
+  rounded-bottom-top-left-and-bottom-right-serifed
+  rounded-bottom-top-left-and-top-right-and-bottom-left-serifed
+  rounded-bottom-top-left-and-top-right-and-bottom-right-serifed
   rounded-bottom-top-left-and-top-right-serifed
   rounded-bottom-top-left-serifed
+  rounded-bottom-top-right-and-bottom-left-and-bottom-right-serifed
+  rounded-bottom-top-right-and-bottom-left-serifed
+  rounded-bottom-top-right-and-bottom-right-serifed
   rounded-bottom-top-right-serifed
+  rounded-full-serifed
   rounded-serifless
   rounded-top
   rounded-top-bottom-left-and-bottom-right-serifed
   rounded-top-bottom-left-serifed
   rounded-top-bottom-right-serifed
+  rounded-top-full-serifed
+  rounded-top-left-and-bottom-left-and-bottom-right-serifed
+  rounded-top-left-and-bottom-left-serifed
+  rounded-top-left-and-bottom-right-serifed
+  rounded-top-left-and-top-right-and-bottom-left-serifed
+  rounded-top-left-and-top-right-and-bottom-right-serifed
+  rounded-top-left-and-top-right-serifed
+  rounded-top-left-serifed
+  rounded-top-right-and-bottom-left-and-bottom-right-serifed
+  rounded-top-right-and-bottom-left-serifed
+  rounded-top-right-and-bottom-right-serifed
+  rounded-top-right-serifed
   rounded-top-serifless
+  rounded-top-top-left-and-bottom-left-and-bottom-right-serifed
+  rounded-top-top-left-and-bottom-left-serifed
+  rounded-top-top-left-and-bottom-right-serifed
+  rounded-top-top-left-and-top-right-and-bottom-left-serifed
+  rounded-top-top-left-and-top-right-and-bottom-right-serifed
+  rounded-top-top-left-and-top-right-serifed
+  rounded-top-top-left-serifed
+  rounded-top-top-right-and-bottom-left-and-bottom-right-serifed
+  rounded-top-top-right-and-bottom-left-serifed
+  rounded-top-top-right-and-bottom-right-serifed
+  rounded-top-top-right-serifed
   straight
   straight-bottom-left-and-bottom-right-serifed
   straight-bottom-left-serifed
@@ -7528,6 +7624,10 @@
   rounded-full-serifed
   rounded-serifed
   rounded-serifless
+  rounded-top-bilateral-serifed
+  rounded-top-bilateral-top-serifed
+  rounded-top-bottom-right-serifed
+  rounded-top-full-serifed
   rounded-top-left-and-bottom-right-serifed
   rounded-top-left-and-top-right-inner-and-bottom-right-serifed
   rounded-top-left-and-top-right-inner-serifed
@@ -7539,6 +7639,20 @@
   rounded-top-right-middle-and-bottom-right-serifed
   rounded-top-right-middle-serifed
   rounded-top-right-outer-serifed
+  rounded-top-serifed
+  rounded-top-serifless
+  rounded-top-top-left-and-bottom-right-serifed
+  rounded-top-top-left-and-top-right-inner-and-bottom-right-serifed
+  rounded-top-top-left-and-top-right-inner-serifed
+  rounded-top-top-left-and-top-right-middle-and-bottom-right-serifed
+  rounded-top-top-left-and-top-right-middle-serifed
+  rounded-top-top-left-serifed
+  rounded-top-top-right-inner-and-bottom-right-serifed
+  rounded-top-top-right-inner-serifed
+  rounded-top-top-right-middle-and-bottom-right-serifed
+  rounded-top-top-right-middle-serifed
+  rounded-top-top-right-outer-serifed
+  rounded-top-tri-serifed
   rounded-tri-serifed
   straight-bilateral-serifed
   straight-bilateral-top-serifed
@@ -8420,13 +8534,35 @@
   inverse-connected-tri-serifed
   rounded-bilateral-serifed
   rounded-bilateral-top-serifed
+  rounded-bottom-bilateral-serifed
+  rounded-bottom-bilateral-top-serifed
+  rounded-bottom-bottom-right-serifed
+  rounded-bottom-full-serifed
   rounded-bottom-right-serifed
+  rounded-bottom-serifed
+  rounded-bottom-serifless
+  rounded-bottom-top-left-and-bottom-right-serifed
+  rounded-bottom-top-left-and-top-right-inner-and-bottom-right-serifed
+  rounded-bottom-top-left-and-top-right-inner-serifed
+  rounded-bottom-top-left-and-top-right-middle-and-bottom-right-serifed
+  rounded-bottom-top-left-and-top-right-middle-serifed
+  rounded-bottom-top-left-serifed
+  rounded-bottom-top-right-inner-and-bottom-right-serifed
+  rounded-bottom-top-right-inner-serifed
+  rounded-bottom-top-right-middle-and-bottom-right-serifed
+  rounded-bottom-top-right-middle-serifed
+  rounded-bottom-top-right-outer-serifed
+  rounded-bottom-tri-serifed
   rounded-connected-serifed
   rounded-connected-serifless
   rounded-connected-top-left-serifed
   rounded-full-serifed
   rounded-serifed
   rounded-serifless
+  rounded-top-bilateral-serifed
+  rounded-top-bilateral-top-serifed
+  rounded-top-bottom-right-serifed
+  rounded-top-full-serifed
   rounded-top-left-and-bottom-right-serifed
   rounded-top-left-and-top-right-inner-and-bottom-right-serifed
   rounded-top-left-and-top-right-inner-serifed
@@ -8438,6 +8574,20 @@
   rounded-top-right-middle-and-bottom-right-serifed
   rounded-top-right-middle-serifed
   rounded-top-right-outer-serifed
+  rounded-top-serifed
+  rounded-top-serifless
+  rounded-top-top-left-and-bottom-right-serifed
+  rounded-top-top-left-and-top-right-inner-and-bottom-right-serifed
+  rounded-top-top-left-and-top-right-inner-serifed
+  rounded-top-top-left-and-top-right-middle-and-bottom-right-serifed
+  rounded-top-top-left-and-top-right-middle-serifed
+  rounded-top-top-left-serifed
+  rounded-top-top-right-inner-and-bottom-right-serifed
+  rounded-top-top-right-inner-serifed
+  rounded-top-top-right-middle-and-bottom-right-serifed
+  rounded-top-top-right-middle-serifed
+  rounded-top-top-right-outer-serifed
+  rounded-top-tri-serifed
   rounded-tri-serifed
   straight-bilateral-serifed
   straight-bilateral-top-serifed
